@@ -1,5 +1,5 @@
 <h1 align="center">InterviewGuide</h1>
-计算机校招、社招面试常见八股文整理，也是《**逆袭进大厂**》唯一仓库，目前已收录 C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis等面试资料，未来打算继续收录Java、Python、Go等面试常见问题，坚持维护下去。
+计算机校招、社招面试常见八股文整理，也是**《逆袭进大厂》**的唯一仓库，目前已收录 C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis等面试资料，未来打算继续收录Java、Python、Go等面试常见问题，坚持维护下去。
 
 <b><details><summary>⭐️关于</summary></b>
 
@@ -11,7 +11,11 @@
 
 转载请注明出处，不得用于商业目的。
 
+</details>
 
+--------
+
+</details>
 
 <b><summary> :orange_book: PDF下载地址</summary></b>
 
