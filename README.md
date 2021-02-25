@@ -9,7 +9,7 @@
 
 
 
-<b><details><summary>:orange_book: PDF下载地址与此仓库事宜</summary></b>
+<b><details><summary>:orange_book: PDF下载地址与仓库事宜</summary></b>
 
  :book:PDF下载方式： 请移步本人公众号『[拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)』下回复关键字『**逆袭进大厂**』即可下载最新PDF版本，不断更新迭代最新版本~
 
@@ -39,13 +39,13 @@
 
 * :fearful: Redis
 
-* 
+*  :dog: 未完待续.....
 
   
 
 <a id="cpp"></a>
 
-###  C/C++
+##  C/C++
 
 #### 1、在main执行之前和之后执行的代码可能是什么？
 
