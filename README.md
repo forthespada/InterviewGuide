@@ -1,6 +1,7 @@
 <h1 align="center">InterviewGuide</h1>
 
 
+
 计算机校招、社招面试常见八股文整理，也是**《逆袭进大厂》**的唯一仓库，目前已收录 **C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis**等面试资料，未来打算继续收录**Java、Python、Go**等面试常见问题，坚持将此仓库维护下去。
 
 <b><details><summary>⭐️关于</summary></b>
@@ -17,11 +18,9 @@
 
 --------
 
-</details>
+</details><summary> :orange_book: PDF下载地址</summary>
 
-<b><summary> :orange_book: PDF下载地址</summary></b>
-
-请移步本人公众号『[拓跋阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.2.7/202102/csbooks-专用公众号.png)』下回复关键字『**逆袭进大厂**』即可下载最新PDF版本，不断更新迭代最新版本~
+请移步本人公众号『[拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)』下回复关键字『**逆袭进大厂**』即可下载最新PDF版本，不断更新迭代最新版本~
 
 </details>
 
