@@ -11,9 +11,9 @@
 
 转载请注明出处，不得用于商业目的。
 
-</details>
 
-#### <b><details><summary>PDF下载地址</summary></b>
+
+<b><summary> :orange_book: PDF下载地址</summary></b>
 
 请移步本人公众号『[拓跋阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.2.7/202102/csbooks-专用公众号.png)』下回复关键字『**逆袭进大厂**』即可下载最新PDF版本，不断更新迭代最新版本~
 
