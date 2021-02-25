@@ -1,5 +1,4 @@
 <h1 align="center">InterviewGuide</h1>
-
 <div align="left">
 <p>计算机校招、社招面试常见八股文整理，也是<strong>《逆袭进大厂》</strong>的唯一仓库.目前已收录 <strong>C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis</strong>等面试资料，未来打算继续收录<strong>Java、Python、Go</strong>等面试常见问题，坚持将此仓库维护下去。</p>
     </div> 
@@ -10,12 +9,13 @@
 
 
 
+<b><details><summary>:orange_book: 关于与PDF下载地址</summary></b>
 
-<b><details><summary>⭐️关于</summary></b>
+ :book:PDF下载方式： 请移步本人公众号『[拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)』下回复关键字『**逆袭进大厂**』即可下载最新PDF版本，不断更新迭代最新版本~
 
 🙏 本仓库脱胎于阿秀 **2021** 年秋招时期总结的面试笔记，作者也是凭借这份笔记成功体验到一份 **offer 收割机**的快乐，阿秀秋招总结可看[秋招总结文章](https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q)，现将个人笔记整理开源出来，造福每位像我这样的渣渣~
 
-由于本人水平有限，仓库内容如有错误，欢迎提交 **issue**，虚心接受每一位好心人的批评意见。
+由于本人水平有限，仓库内容如有错误，欢迎提交 **issue**，虚心接受每一位好心人的建议与意见。
 
 另仓库中的全部知识点有来自本人学习总结、读书笔记、经典书籍、网络博文等，如有遗漏与侵权，请 **issue** 提出。
 
@@ -23,13 +23,7 @@
 
 </details>
 
---------
 
-</details><summary> :orange_book: PDF下载地址</summary>
-
-请移步本人公众号『[拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)』下回复关键字『**逆袭进大厂**』即可下载最新PDF版本，不断更新迭代最新版本~
-
-</details>
 
 ## 📚 目录
 
