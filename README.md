@@ -35,7 +35,7 @@
 * :fearful: Redis
 * :sweat: 常见智力题
 * :grin: 常见非技术性问题(比如你最大的缺点是什么)
-*  :dog: 未完待续.....
+* :dog: 未完待续.....
 
   
 
@@ -903,7 +903,7 @@ C只在局部上下文中表现出类型安全，比如试图从一种结构体�
 
 - printf格式输出
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1563707616406.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1563707616406.png)
 
 上述代码中，使用%d控制整型数字的输出，没有问题，但是改成%f时，明显输出错误，再改成%s时，运行直接报segmentation fault错误
 
@@ -927,7 +927,7 @@ malloc是C中进行内存分配的函数，它的返回类型是void\*即空类�
 
   例1：使用void\*进行类型转换
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1563708254043.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1563708254043.png)
 
 ​	例2：不同类型指针之间转换
 
@@ -1242,9 +1242,9 @@ int main()
 
 虚表指针：在含有虚函数的类实例化对象时，对象地址的前四个字节存储的指向虚表的指针
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/微信截图_20210201114227.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/微信截图_20210201114227.png)
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/微信截图_20210201114257.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/微信截图_20210201114257.png)
 
 
 
@@ -1593,7 +1593,7 @@ decltype(auto) j = f;//j的类型是const int* 并且指向的是e
 
 派生类可以继承基类中除了构造/析构、赋值运算符重载函数之外的成员，但是这些成员的访问属性在派生过程中也是可以调整的，三种派生方式的访问权限如下表所示：注意外部访问并不是真正的外部访问，而是在通过派生类的对象对基类成员的访问。
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1564132255040.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1564132255040.png)
 
 派生类对基类成员的访问形象有如下两种：
 
@@ -1610,13 +1610,13 @@ decltype(auto) j = f;//j的类型是const int* 并且指向的是e
 
 保护继承的特点是基类的所有公有成员和保护成员都成为派生类的保护成员，并且只能被它的派生类成员函数或友元函数访问，基类的私有成员仍然是私有的，访问规则如下表
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1564132983494.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1564132983494.png)
 
 **private继承**
 
 私有继承的特点是基类的所有公有成员和保护成员都成为派生类的私有成员，并不被它的派生类的子类所访问，基类的成员只能由自己派生类访问，无法再往下继承，访问规则如下表
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1564132983494.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1564132983494.png)
 
 #### 43、如何用代码判断大小端存储
 
@@ -1632,11 +1632,11 @@ decltype(auto) j = f;//j的类型是const int* 并且指向的是e
 
 小端模式中的存储方式为：
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1564134200013.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1564134200013.png)
 
 大端模式中的存储方式为：
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1564134220855.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1564134220855.png)
 
 了解了大小端存储的方式，如何在代码中进行判断呢？下面介绍两种判断方式：
 
@@ -1718,6 +1718,7 @@ volatile char* vpch;
 ```C++
 char* const pchc;
 char* volatile pchv;
+
 
 
 ```
@@ -1805,6 +1806,7 @@ int main()
 }
 
 
+
 ```
 
 情况1比较好理解
@@ -1826,6 +1828,7 @@ int main()
 ```C++
 void* operator new(std::size_t) throw(std::bad_alloc);
 void operator delete(void *) throw();
+
 
 
 ```
@@ -1852,6 +1855,7 @@ int main()
 //执行结果：bad allocation
 
 
+
 ```
 
 （2）**nothrow new**
@@ -1861,6 +1865,7 @@ nothrow new在空间分配失败的情况下是不抛出异常，而是返回NUL
 ```C++
 void * operator new(std::size_t,const std::nothrow_t&) throw();
 void operator delete(void*) throw();
+
 
 
 ```
@@ -1885,6 +1890,7 @@ int main()
 //运行结果：alloc failed
 
 
+
 ```
 
 （3）**placement new**
@@ -1894,6 +1900,7 @@ int main()
 ```C++
 void* operator new(size_t,void*);
 void operator delete(void*,void*);
+
 
 
 ```
@@ -1940,6 +1947,7 @@ int main()
 //ADT destruct
 
 
+
 ```
 
 > 《【C++】几种类型的new介绍》：https://www.jianshu.com/p/9b57e769c3cb
@@ -1956,6 +1964,7 @@ NULL来自C语言，一般由宏定义实现，而 nullptr 则是C++11的新增�
 #else
 #define NULL ((void *)0)
 #endif
+
 
 
 ```
@@ -1983,6 +1992,7 @@ int main()
 //输出结果：int
 
 
+
 ```
 
 那么**在传入NULL参数时，会把NULL当做整数0来看，如果我们想调用参数是指针的函数，该怎么办呢?。nullptr在C++11被引入用于解决这一问题，nullptr可以明确区分整型和指针类型，能够根据环境自动转换成相应的指针类型，但不会被转换为任何整型，所以不会造成参数传递错误。**
@@ -1997,6 +2007,7 @@ public:
 private:
     void operator&() const;
 } nullptr = {};
+
 
 
 ```
@@ -2044,7 +2055,7 @@ int main()
 
 C++中的内存分区，分别是堆、栈、自由存储区、全局/静态存储区、常量存储区和代码区。如下图所示
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1564479734552.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1564479734552.png)
 
 　　
 
@@ -2128,7 +2139,7 @@ int fun() throw(int,double,A,B,C){...};
 
 C++ 标准库中有一些类代表异常，这些类都是从 exception 类派生而来的，如下图所示
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1-1P912101914246.jpg)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1-1P912101914246.jpg)
 
 - bad_typeid：使用typeid运算符，如果其操作数是一个多态类的指针，而该指针的值为 NULL，则会拋出此异常，例如：
 
@@ -2154,6 +2165,7 @@ int main() {
     return 0;
 }
 //运行结果：bject is NULL
+
 
 
 ```
@@ -2344,6 +2356,7 @@ GC2.9的alloc的一个比较好的分配器的实现规则
 
 00401052  mov     dword ptr [ebp-8],eax
 
+
 ~~~
 
 
@@ -2443,6 +2456,7 @@ void* malloc(unsigned int num_size);
 
 int *p = malloc(20*sizeof(int));申请20个int类型的空间；
 
+
 ~~~
 
 
@@ -2454,6 +2468,7 @@ void* calloc(size_t n,size_t size);
 
 int *p = calloc(20, sizeof(int));
 
+
 ~~~
 
 省去了人为空间计算；malloc申请的空间的值是随机初始化的，calloc申请的空间的值是初始化为0的；
@@ -2462,6 +2477,7 @@ int *p = calloc(20, sizeof(int));
 
 ~~~cpp
 void realloc(void *p, size_t new_size);
+
 
 ~~~
 
@@ -2685,6 +2701,7 @@ int main()
 //age大小：4
 
 
+
 ```
 
 从代码运行结果来看，对象的大小和对象中数据成员的大小是一致的，也就是说，成员函数不占用对象的内存。这是因为所有的函数都是存放在代码区的，不管是全局函数，还是成员函数。要是成员函数占用类的对象空间，那么将是多么可怕的事情：定义一次类对象就有成员函数占用一段空间。 我们再来补充一下静态成员函数的存放问题：**静态成员函数与一般成员函数的唯一区别就是没有this指针**，因此不能访问非静态数据成员，就像我前面提到的，**所有函数都存放在代码区，静态函数也不例外。所有有人一看到 static 这个单词就主观的认为是存放在全局数据区，那是不对的。**
@@ -2743,6 +2760,7 @@ int main()
 //A(int 1)
 //默认构造函数A()
 //A(int 2)
+
 
 
 ```
@@ -2942,6 +2960,7 @@ int main()
 //Base::Fuction
 
 
+
 ```
 
 语句1讲道理应该体现多态性，执行类A中的构造和析构函数，从实验结果来看，语句1并没有体现，执行流程是先构造基类，所以先调用基类的构造函数，构造完成再执行A自己的构造函数，析构时也是调用基类的析构函数，也就是说构造和析构中调用虚函数并不能达到目的，应该避免
@@ -3038,6 +3057,7 @@ private:
 
 
 
+
 ```
 
 > 《智能指针的原理及实现》：https://blog.csdn.net/lizhentao0707/article/details/81156384
@@ -3076,6 +3096,7 @@ int main()
 //Hello World
 
 
+
 ```
 
 如果没有加语句1，语句2会报错，表示找不到参数为空的构造函数，将其设置为default可以解决这个问题
@@ -3103,6 +3124,7 @@ int main()
    cout << "Hello World" <<endl;
    return 0;
 }
+
 
 
 ```
@@ -3246,6 +3268,7 @@ int main()
 //s4指针为nullptr
 
 
+
 ```
 
 从输出结果可以看出，在进行下行转换时，dynamic_cast安全的，如果下行转换不安全的话其会返回空指针，这样在进行操作的时候可以预先判断。而使用static_cast下行转换存在不安全的情况也可以转换成功，但是直接使用转换后的对象进行操作容易造成错误。
@@ -3282,6 +3305,7 @@ int main(int argc, char* argv[])
 //2
 //1
 //var1=1,var2=2
+
 
 
 ```
@@ -3357,6 +3381,7 @@ public:
 };
 
 
+
 ```
 
 其中，**func**的原型在编译器看来应该是：
@@ -3370,6 +3395,7 @@ A a;
 a.func(10);
 //此处，编译器将会编译成：
 A::func(&a,10);
+
 
 
 ```
@@ -3464,6 +3490,7 @@ int main()
 //我是赋值操作符
 
 
+
 ```
 
 #### 93、拷贝构造函数和赋值运算符重载的区别？
@@ -3480,7 +3507,7 @@ int main()
       Student s1 = s;    // 调用拷贝构造函数
       Student s2;
       s2 = s;    // 赋值运算符操作
-  
+      
 
 注：类中有指针变量时要重写析构函数、拷贝构造函数和赋值运算符
 
@@ -3579,6 +3606,7 @@ int main()
 //sp2.use_count:2
 
 
+
 ```
 
 从上面shared_ptr的实现中我们知道了只有当引用计数减减之后等于0，析构时才会释放对象，而上述情况造成了一个僵局，那就是析构对象时先析构sp2,可是由于sp2的空间sp1还在使用中，所以sp2.use_count减减之后为1，不释放，sp1也是相同的道理，由于sp1的空间sp2还在使用中，所以sp1.use_count减减之后为1，也不释放。sp1等着sp2先释放，sp2等着sp1先释放,二者互不相让，导致最终都没能释放，内存泄漏。
@@ -3613,9 +3641,9 @@ int main()
 
 上述代码所体现的关系是，B和C虚拟继承A，D又公有继承B和C，这种方式是一种**菱形继承或者钻石继承**，可以用如下图来表示
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1565960190086.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1565960190086.png)
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1565961214248.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1565961214248.png)
 
 **虚拟继承的情况下，无论基类被继承多少次，只会存在一个实体。**虚拟继承基类的子类中，子类会增加某种形式的指针，或者指向虚基类子对象，或者指向一个相关的表格；表格中存放的不是虚基类子对象的地址，就是其偏移量，此类指针被称为bptr，如上图所示。如果既存在vptr又存在bptr，某些编译器会将其优化，合并为一个指针
 
@@ -3675,7 +3703,7 @@ void test02()
 
 S结构体中各个数据成员的内存空间划分如下所示，需要注意内存对齐
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1566055549125.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1566055549125.png)
 
 #### 99、静态类型和动态类型，静态绑定和动态绑定的介绍
 
@@ -5113,7 +5141,7 @@ char* strncpy(char* strDest, const char* strSrc, int pos)
 
 一致性哈希将整个哈希值空间组**织成一个虚拟的圆环**，假设哈希函数的值空间为0~2^32-1，整个哈希空间环如下左图所示
 
-![1566573802731](G:/学习/公众号/拓跋阿秀/03 - 文章/1 - 公众号全部文章/20210215-《逆袭进大厂》第四弹之C++重头戏STL30问30答/1566573802731.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102//1566573802731.png)
 
 一致性hash的基本思想就是使用相同的hash算法将数据和结点都映射到图中的环形哈希空间中，上右图显示了4个数据object1-object4在环上的分布图
 
@@ -5123,13 +5151,13 @@ char* strncpy(char* strDest, const char* strSrc, int pos)
 
 现在有一批的数据object1-object4需要存在服务器上，则可以使用相同的哈希算法对数据进行哈希，其结果必然也在环上，可以沿着顺时针方向寻找，找到一个结点（服务器）则将数据存在这个结点上，这样数据和结点就产生了一对一的关联，如下图所示：
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1566573868429.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1566573868429.png)
 
 **移除结点**
 
 如果一台服务器出现问题，如上图中的nodeB，则受影响的是其逆时针方向至下一个结点之间的数据，只需将这些数据映射到它顺时针方向的第一个结点上即可，下左图
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1566573901641.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1566573901641.png)
 
 **添加结点**
 
@@ -5139,7 +5167,7 @@ char* strncpy(char* strDest, const char* strSrc, int pos)
 
 假设仅有2台服务器：nodeA和nodeC，nodeA映射了1条数据，nodeC映射了3条，这样数据分布是不平衡的。引入虚拟结点，假设结点复制个数为2，则nodeA变成：nodeA1和nodeA2，nodeC变成：nodeC1和nodeC2，映射情况变成如下：
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1566573927297.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1566573927297.png)
 
 这样数据分布就均衡多了，平衡性有了很大的提高
 
@@ -5437,7 +5465,7 @@ gcc -o hello hello.c
 
 这个过程大致如下：
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/微信截图_20210201114531.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/微信截图_20210201114531.png)
 
 - 预处理阶段：处理以 # 开头的预处理命令；
 - 编译阶段：翻译成汇编文件；
@@ -5451,7 +5479,7 @@ gcc -o hello hello.c
 - 符号解析：每个符号对应于一个函数、一个全局变量或一个静态变量，符号解析的目的是将每个符号引用与一个符号定义关联起来。
 - 重定位：链接器通过把每个符号定义与一个内存位置关联起来，然后修改所有对这些符号的引用，使得它们指向这个内存位置。
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/微信截图_20210201114618.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/微信截图_20210201114618.png)
 
 ##### 目标文件
 
@@ -5471,7 +5499,7 @@ gcc -o hello hello.c
 - 在给定的文件系统中一个库只有一个文件，所有引用该库的可执行目标文件都共享这个文件，它不会被复制到引用它的可执行文件中；
 - 在内存中，一个共享库的 .text 节（已编译程序的机器代码）的一个副本可以被不同的正在运行的进程共享。
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/微信截图_20210201115700.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/微信截图_20210201115700.png)
 
 **源代码－－>预处理－－>编译－－>优化－－>汇编－－>链接-->可执行文件**
 
@@ -5539,6 +5567,7 @@ C++11正是通过引入右值引用来优化性能，具体来说是通过移动
 const int& a = 10;
 
 
+
 ```
 
 右值：表示无法获取地址的对象，有常量值、函数返回值、lambda表达式等。无法获取地址，但不表示其不可改变，当定义了右值的右值引用时就可以更改右值。
@@ -5601,7 +5630,7 @@ int main() {
 
 STL中的hashtable使用的是**开链法**解决hash冲突问题，如下图所示。
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1566639786045.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1566639786045.png)
 
 hashtable中的bucket所维护的list既不是list也不是slist，而是其自己定义的由hashtable_node数据结构组成的linked-list，而bucket聚合体本身使用vector进行存储。hashtable的迭代器只提供前进操作，不提供后退操作
 
@@ -5637,6 +5666,7 @@ __type_traits<T>::has_trivial_destructor
 __type_traits<T>::is_POD_type
 
 
+
 ```
 
 由于编译器只针对class object形式的参数进行参数推到，因此上式的返回结果不应该是个bool值，实际上使用的是一种空的结构体：
@@ -5644,6 +5674,7 @@ __type_traits<T>::is_POD_type
 ```C++
 struct __true_type{};
 struct __false_type{};
+
 
 
 ```
@@ -5694,13 +5725,13 @@ template<> struct __type_traits<Shape>{
 
 3、如果自定义了处理函数就进行处理，完事再继续分配试试
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/微信截图_20210201115745.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/微信截图_20210201115745.png)
 
 
 
 ##### 二级配置器
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102//微信截图_20210201115831.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102//微信截图_20210201115831.png)
 
 
 
@@ -5809,6 +5840,7 @@ vector(Vec).swap(Vec);
  vector().swap(Vec);
  清空Vec的内存；
 
+
 ~~~
 
 
@@ -5881,6 +5913,7 @@ mapStudent.insert(make_pair(1, "student_one"));
 4)  用数组方式插入数据
 
 mapStudent[1] = "student_one"; 
+
 
 ~~~
 
@@ -6045,6 +6078,7 @@ vector是一种序列式容器，其数据安排以及操作方式与array非常
 const size_type len  = old_size + max(old_size, n);
 
 
+
 ```
 
  Vector扩容倍数与平台有关，在Win +  VS 下是 1.5倍，在 Linux + GCC 下是 2 倍 
@@ -6100,7 +6134,7 @@ list是双向链表，而slist（single linked list）是单向链表，它们�
 
 slist的单向迭代器如下图所示：
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1566227016872.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1566227016872.png)
 
 slist默认采用alloc空间配置器配置节点的空间，其数据结构主要代码如下
 
@@ -6126,6 +6160,7 @@ public:
     void pop_front(){}//从头部取走元素
     ...
 }
+
 
 
 ```
@@ -6177,6 +6212,7 @@ int main()
 }
 
 
+
 ```
 
 需要注意的是C++标准委员会没有采用slist的名称，forward_list在C++ 11中出现，它与slist的区别是没有size()方法。
@@ -6219,7 +6255,7 @@ list的空间管理默认采用alloc作为空间配置器，为了方便的以�
 
 vector是单向开口（尾部）的连续线性空间，deque则是一种双向开口的连续线性空间，虽然vector也可以在头尾进行元素操作，但是其头部操作的效率十分低下（主要是涉及到整体的移动）
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1565876257552.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1565876257552.png)
 
 deque和vector的最大差异一个是deque运行在常数时间内对头端进行元素操作，二是deque没有容量的概念，它是动态地以分段连续空间组合而成，可以随时增加一段新的空间并链接起来
 
@@ -6247,7 +6283,7 @@ public:
 
 ```
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1565876324016.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1565876324016.png)
 
 deque内部有一个指针指向map，map是一小块连续空间，其中的每个元素称为一个节点，node，每个node都是一个指针，指向另一段较大的连续空间，称为缓冲区，这里就是deque中实际存放数据的区域，默认大小512bytes。整体结构如上图所示。
 
@@ -6269,7 +6305,7 @@ struct __deque_iterator
 
 从deque的迭代器数据结构可以看出，为了保持与容器联结，迭代器主要包含上述4个元素
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1565877658970.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1565877658970.png)
 
 deque迭代器的“++”、“--”操作是远比vector迭代器繁琐，其主要工作在于缓冲区边界，如何从当前缓冲区跳到另一个缓冲区，当然deque内部在插入元素时，如果map中node数量全部使用完，且node指向的缓冲区也没有多余的空间，这时会配置新的map（2倍于当前+2的数量）来容纳更多的node，也就是可以指向更多的缓冲区。在deque删除元素时，也提供了元素的析构和空闲缓冲区空间的释放等机制。
 
@@ -6283,7 +6319,7 @@ deque迭代器的“++”、“--”操作是远比vector迭代器繁琐，其�
 
 stack（栈）是一种先进后出（First In Last Out）的数据结构，只有一个入口和出口，那就是栈顶，除了获取栈顶元素外，没有其他方法可以获取到内部的其他元素，其结构图如下：
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1565957994483.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1565957994483.png)
 
 stack这种单向开口的数据结构很容易由**双向开口的deque和list**形成，只需要根据stack的性质对应移除某些接口即可实现，stack的源码如下：
 
@@ -6314,7 +6350,7 @@ stack除了默认使用deque作为其底层容器之外，也可以使用双向�
 
 queue（队列）是一种先进先出（First In First Out）的数据结构，只有一个入口和一个出口，分别位于最底端和最顶端，出口元素外，没有其他方法可以获取到内部的其他元素，其结构图如下：
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1565958318457.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1565958318457.png)
 
 类似的，queue这种“先进先出”的数据结构很容易由双向开口的deque和list形成，只需要根据queue的性质对应移除某些接口即可实现，queue的源码如下：
 
@@ -6349,7 +6385,7 @@ heap（堆）并不是STL的容器组件，是priority queue（优先队列）�
 
 binary heap本质是一种complete binary tree（完全二叉树），整棵binary tree除了最底层的叶节点之外，都是填满的，但是叶节点从左到右不会出现空隙，如下图所示就是一颗完全二叉树
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1566039990260.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1566039990260.png)
 
 完全二叉树内没有任何节点漏洞，是非常紧凑的，这样的一个好处是可以使用array来存储所有的节点，因为当其中某个节点位于$i$处，其左节点必定位于$2i$处，右节点位于$2i+1$处，父节点位于$i/2$（向下取整）处。这种以array表示tree的方式称为隐式表述法。
 
@@ -6361,7 +6397,7 @@ binary heap本质是一种complete binary tree（完全二叉树），整棵bina
 
 由于完全二叉树的性质，新插入的元素一定是位于树的最底层作为叶子节点，并填补由左至右的第一个空格。事实上，在刚执行插入操作时，新元素位于底层vector的end()处，之后是一个称为percolate up（上溯）的过程，举个例子如下图：
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1566040870063.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1566040870063.png)
 
 新元素50在插入堆中后，先放在vector的end()存着，之后执行上溯过程，调整其根结点的位置，以便满足max heap的性质，如果了解大根堆的话，这个原理跟大根堆的调整过程是一样的。
 
@@ -6369,7 +6405,7 @@ binary heap本质是一种complete binary tree（完全二叉树），整棵bina
 
 heap的pop操作实际弹出的是根节点吗，但在heap内部执行pop_heap时，只是将其移动到vector的最后位置，然后再为这个被挤走的元素找到一个合适的安放位置，使整颗树满足完全二叉树的条件。这个被挤掉的元素首先会与根结点的两个子节点比较，并与较大的子节点更换位置，如此一直往下，直到这个被挤掉的元素大于左右两个子节点，或者下放到叶节点为止，这个过程称为percolate down（下溯）。举个例子：
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102//1566041421056.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102//1566041421056.png)
 
 根节点68被pop之后，移到了vector的最底部，将24挤出，24被迫从根节点开始与其子节点进行比较，直到找到合适的位置安身，需要注意的是pop之后元素并没有被移走，如果要将其移走，可以使用pop_back()。
 
@@ -6430,7 +6466,7 @@ int main()
 
 priority_queue，优先队列，是一个拥有权值观念的queue，它跟queue一样是顶部入口，底部出口，在插入元素时，元素并非按照插入次序排列，它会自动根据权值（通常是元素的实值）排列，权值最高，排在最前面，如下图所示。
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1566126001158.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1566126001158.png)
 
 默认情况下，priority_queue使用一个max-heap完成，底层容器使用的是一般为vector为底层容器，堆heap为处理规则来管理底层容器实现 。priority_queue的这种实现机制导致其不被归为容器，而是一种容器配接器。关键的源码如下：
 
@@ -6457,6 +6493,7 @@ public:
         c.pop_back();
     }
 };
+
 
 
 ```
@@ -6487,6 +6524,7 @@ int main()
 	}
 	return 0;
 }
+
 
 
 ```
@@ -6570,7 +6608,7 @@ map的特性是所有元素会根据键值进行自动排序。map中所有的�
 
 标准STL map的底层机制是RB-tree（红黑树），另一种以hash table为底层机制实现的称为hash_map。map的架构如下图所示
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.4/202102/1566380621064.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1566380621064.png)
 
 map的在构造时缺省采用递增排序key，也使用alloc配置器配置空间大小，需要注意的是在插入元素时，调用的是红黑树中的insert_unique()方法，而非insert_euqal()（multimap使用）
 
@@ -6616,6 +6654,7 @@ int main()
 }
 
 
+
 ```
 
 需要注意的是subscript（下标）操作既可以作为左值运用（修改内容）也可以作为右值运用（获取实值）。例如：
@@ -6623,6 +6662,7 @@ int main()
 ```C++
 maps["abc"] = 1; //左值运用
 int num = masp["abd"]; //右值运用
+
 
 
 ```
@@ -6638,12 +6678,14 @@ T& operator[](const key_type& k)
 ...
 
 
+
 ```
 
 代码运行过程是：首先根据键值和实值做出一个元素，这个元素的实值未知，因此产生一个与实值型别相同的临时对象替代：
 
 ```C++
 value_type(k, T());
+
 
 
 ```
@@ -6654,6 +6696,7 @@ value_type(k, T());
 pair<iterator,bool> insert(value_type(k, T()));
 
 
+
 ```
 
 pair第一个元素是迭代器，指向当前插入的新元素，如果插入成功返回true，此时对应左值运用，根据键值插入实值。插入失败（重复插入）返回false，此时返回的是已经存在的元素，则可以取到它的实值
@@ -6662,6 +6705,7 @@ pair第一个元素是迭代器，指向当前插入的新元素，如果插入�
 (insert(value_type(k, T()))).first; //迭代器
 *((insert(value_type(k, T()))).first); //解引用
 (*((insert(value_type(k, T()))).first)).second; //取出实值
+
 
 
 ```
@@ -6883,6 +6927,7 @@ unordered_map是C++ 11新添加的容器，底层机制是哈希表，通过hash
          void *    stackaddr;    // 线程栈的位置
          size_t stacksize;    // 线程栈大小
      }pthread_arrt_t;
+     
      ```
 
    - 相关接口：
@@ -6992,7 +7037,7 @@ unordered_map是C++ 11新添加的容器，底层机制是哈希表，通过hash
 - 因为进程切换都要保存进程的信息并且载入新进程的信息，如果时间片太小，会导致进程切换得太频繁，在进程切换上就会花过多时间。
 - 而如果时间片过长，那么实时性就不能得到保证。
 
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/QQ截图20210226224728.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/QQ截图20210226224728.png)
 
 5、**优先级调度**  
 
@@ -7010,7 +7055,7 @@ unordered_map是C++ 11新添加的容器，底层机制是哈希表，通过hash
 
 可以将这种调度算法看成是时间片轮转调度算法和优先级调度算法的结合。
 
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/QQ截图20210226224803.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/QQ截图20210226224803.png)
 
 #### 7、Linux下进程间通信方式？
 
@@ -7072,14 +7117,14 @@ unordered_map是C++ 11新添加的容器，底层机制是哈希表，通过hash
 算法思想：每次都从低地址开始查找，找到第–个能满足大小的空闲分区。
 
 如何实现：空闲分区以地址递增的次序排列。每次分配内存时顺序查找空闲分区链( 或空闲分[表)，找到大小能满足要求的第-一个空闲分区。
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/20190606084716395.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/20190606084716395.png)
 
 ##### 2、最佳适应算法
 
 算法思想:由于动态分区分配是一种连续分配方式，为各进程分配的空间必须是连续的一整片区域。因此为了保证当“大进程”到来时能有连续的大片空间，可以尽可能多地留下大片的空闲区,即，优先使用更小的空闲区。
 
 如何实现:空闲分区按容量递增次序链接。每次分配内存时顺序查找空闲分区链(或空闲分区表)，找到大小能满足要求的第-一个空闲分区。
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/QQ截图20210226211116.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/QQ截图20210226211116.png)
 
 ##### 3、最坏适应算法
 
@@ -7088,14 +7133,14 @@ unordered_map是C++ 11新添加的容器，底层机制是哈希表，通过hash
 算法思想:为了解决最佳适应算法的问题—即留下太多难以利用的小碎片，可以在每次分配时优先使用最大的连续空闲区，这样分配后剩余的空闲区就不会太小，更方便使用。
 
 如何实现:空闲分区按容量递减次序链接。每次分配内存时顺序查找空闲分区链(或空闲分区表)，找到大小能满足要求的第-一个空闲分区。
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/QQ截图20210226211213.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/QQ截图20210226211213.png)
 
 ##### 4、邻近适应算法
 
 算法思想：首次适应算法每次都从链头开始查找的。这可能会导致低地址部分出现很多小的空闲分区，而每次分配查找时，都要经过这些分区，因此也增加了查找的开销。如果每次都从上次查找结束的位置开始检索，就能解决上述问题。
 
 如何实现：空闲分区以地址递增的顺序排列(可排成-一个循环链表)。每次分配内存时从上次查找结束的位置开始查找空闲分区链(或空闲分区表)，找到大小能满足要求的第一个空闲分区。
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/QQ截图20210226211244.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/QQ截图20210226211244.png)
 
 ##### 5、总结
 
@@ -7124,7 +7169,7 @@ unordered_map是C++ 11新添加的容器，底层机制是哈希表，通过hash
 
 #### 13、进程状态的切换你知道多少？
 
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/QQ截图20210226220417.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/QQ截图20210226220417.png)
 
 - 就绪状态（ready）：等待被调度
 - 运行状态（running）
@@ -7205,9 +7250,9 @@ unordered_map是C++ 11新添加的容器，底层机制是哈希表，通过hash
 注意:页面大小是2的整数幂
 设页面大小为L，逻辑地址A到物理地址E的变换过程如下:
 
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/20190606085408697.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/20190606085408697.png)
 
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/QQ截图20210226211529.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/QQ截图20210226211529.png)
 例:若页面大小L为1K字节，页号2对应的内存块号b=8，将逻辑地址A=2500转换为物理地址E。
 等价描述：某系统按字节寻址，逻辑地址结构中，页内偏移量占10位(说明一个页面的大小为2^10B = 1KB)，页号2对应的内存块号 b=8，将逻辑地址A=2500转换为物理地址E。
 
@@ -7234,6 +7279,7 @@ unordered_map是C++ 11新添加的容器，底层机制是哈希表，通过hash
 // entry section
 // critical section;
 // exit section
+
 ```
 
 ##### 2. 同步与互斥
@@ -7266,6 +7312,7 @@ void P2() {
     // 临界区
     up(&mutex);
 }
+
 ```
 
 <font size=3>   **使用信号量实现生产者-消费者问题**   </font> </br>
@@ -7310,6 +7357,7 @@ void consumer() {
         up(&empty);
     }
 }
+
 ```
 
 ##### 4. 管程
@@ -7333,6 +7381,7 @@ monitor ProducerConsumer
         // ...
     end;
 end monitor;
+
 ```
 
 管程有一个重要特性：在一个时刻只能有一个进程使用管程。进程在无法继续执行的时候不能一直占用管程，否则其它进程永远不能使用管程。
@@ -7399,7 +7448,7 @@ end;
 
 **进程通信方法**
 
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/QQ截图20210227000719.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/QQ截图20210227000719.png)
 
 | 名称及方式                                                   |
 | ------------------------------------------------------------ |
@@ -7414,7 +7463,7 @@ end;
 
 **线程通信方法**
 
-![](G:\学习\公众号\拓跋阿秀\03 - 文章\0 - 逆袭进大厂系列/img/1567935620496.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/1567935620496.png)
 
 | 名称及含义                                                   |
 | ------------------------------------------------------------ |
@@ -7586,11 +7635,11 @@ ipcs命令用于报告共享内存、信号量和消息队列信息。
 
 例如有一台计算机可以产生 16 位地址，那么一个程序的地址空间范围是 0\~64K。该计算机只有 32KB 的物理内存，虚拟内存技术允许该计算机运行一个 64K 大小的程序。
 
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/QQ截图20210226235441.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/QQ截图20210226235441.png)
 
 #### 21、说一下你理解中的内存？他有什么作用呢？
 
-![](G:/学习/公众号/拓跋阿秀/03 - 文章/0 - 逆袭进大厂系列/img/20190606083123966.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.3.7/202102/20190606083123966.png)
 
 
 
@@ -7672,6 +7721,7 @@ void check(i) {
         up(&s[i]);
     }
 }
+
 ```
 
 #### 23、操作系统经典问题之读者-写者问题
@@ -7707,6 +7757,7 @@ void writer() {
         up(&data_mutex);
     }
 }
+
 ```
 
 
@@ -8033,6 +8084,7 @@ linux下非编译器决定栈大小，而是由操作系统环境决定，默认
 ```shell
 $ ulimit -a            # 显示当前栈的大小 （ulimit为系统命令，非编译器命令）       
 $ ulimit -s 32768      # 设置当前栈的大小为32M
+
 ```
 
 **Windows**
@@ -8209,6 +8261,7 @@ CPU1    CPU2
  i=1     i=1
  i+1     i+1
  i=2     i=2
+
 ~~~
 
 原因可能是多个处理器同时从各自的缓存中读取变量i，分别进行加1操作，然后分别写入系统内存中。那么，想要保证读改写共享变量的操作是原子的，就必须保证CPU1读改写共享变量的时候，CPU2不能操作缓存了该共享变量内存地址的缓存。
@@ -8423,6 +8476,7 @@ int main() {
 	readTd.join();
 	return 0;
 }
+
 ```
 
 语句1和语句2表示线程A先锁资源1，再锁资源2，语句3和语句4表示线程B先锁资源2再锁资源1，具备死锁产生的条件。
