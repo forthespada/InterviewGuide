@@ -1,5 +1,3 @@
-[TOC]
-
 
 
 <h1 align="center">InterviewGuide</h1>
