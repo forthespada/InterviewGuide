@@ -45,10 +45,9 @@
 
 ## :orange_book: PDF下载方式
 
-请扫描下方本人公众号『拓跋阿秀』后，回复关键字 **PDF**，即可下载最新 PDF 版本面试指南。
+请扫描下方本人公众号『[拓跋阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png)』后，回复关键字『**PDF**』，即可下载**最新 PDF 版本面试指南**。
 
-<div align=center><figure class="one">
-    <img src="./picture/公众号：拓跋阿秀.png" alt="个人公众号" style="right;zoom: 28%;" /                                                                                   </figure></div>
+如果你对本仓库有什么意见或者建议，也欢迎添加个人微信『**[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)**』，直接来找我聊天哈哈，期待你的到来。
 
 ## :moneybag: 赞赏
 
