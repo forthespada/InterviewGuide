@@ -1835,8 +1835,6 @@ volatile 指针和 const 修饰词类似，const 有常量指针和指针常量�
 ```C++
 const char* cpch;
 volatile char* vpch;
-
-
 ```
 
 指针自身的值——一个代表地址的整数变量，是 const 或 volatile 的：
@@ -1844,9 +1842,6 @@ volatile char* vpch;
 ```C++
 char* const pchc;
 char* volatile pchv;
-
-
-
 ```
 
  注意：
@@ -2623,8 +2618,6 @@ new 和delete会自动进行类型检查和大小，malloc/free不能执行构�
 void* malloc(unsigned int num_size);
 
 int *p = malloc(20*sizeof(int));申请20个int类型的空间；
-
-
 ~~~
 
 
@@ -2635,8 +2628,6 @@ int *p = malloc(20*sizeof(int));申请20个int类型的空间；
 void* calloc(size_t n,size_t size);
 
 int *p = calloc(20, sizeof(int));
-
-
 ~~~
 
 省去了人为空间计算；malloc申请的空间的值是随机初始化的，calloc申请的空间的值是初始化为0的；
@@ -2645,8 +2636,6 @@ int *p = calloc(20, sizeof(int));
 
 ~~~cpp
 void realloc(void *p, size_t new_size);
-
-
 ~~~
 
 给动态分配的空间分配额外的空间，用于扩充容量。
@@ -4739,7 +4728,6 @@ static全局变量与普通的全局变量的区别是static全局变量只初�
  \#else 
  程序段2 
  \#endif
-
 ~~~
 
 
@@ -4751,7 +4739,6 @@ static全局变量与普通的全局变量的区别是static全局变量只初�
  \#ifdef 
  程序段1 
  \#denif
-
 ~~~
 
 
@@ -7045,9 +7032,6 @@ T& operator[](const key_type& k)
 	return (*((insert(value_type(k, T()))).first)).second;
 }
 ...
-
-
-
 ```
 
 代码运行过程是：首先根据键值和实值做出一个元素，这个元素的实值未知，因此产生一个与实值型别相同的临时对象替代：
@@ -7055,17 +7039,12 @@ T& operator[](const key_type& k)
 ```C++
 value_type(k, T());
 
-
-
 ```
 
 再将这个对象插入到map中，并返回一个pair：
 
 ```C++
 pair<iterator,bool> insert(value_type(k, T()));
-
-
-
 ```
 
 pair第一个元素是迭代器，指向当前插入的新元素，如果插入成功返回true，此时对应左值运用，根据键值插入实值。插入失败（重复插入）返回false，此时返回的是已经存在的元素，则可以取到它的实值
@@ -7074,9 +7053,6 @@ pair第一个元素是迭代器，指向当前插入的新元素，如果插入�
 (insert(value_type(k, T()))).first; //迭代器
 *((insert(value_type(k, T()))).first); //解引用
 (*((insert(value_type(k, T()))).first)).second; //取出实值
-
-
-
 ```
 
 由于这个实值是以引用方式传递，因此作为左值或者右值都可以
