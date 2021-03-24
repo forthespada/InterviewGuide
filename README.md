@@ -47,7 +47,10 @@
 
 请扫描下方本人公众号『拓跋阿秀』后，回复关键字 **PDF**，即可下载最新 PDF 版本面试指南。
 
-<img src="./picture/公众号：拓跋阿秀.png" width = "300" align=center style="zoom:50%;" />
+<div align=center><figure class="one">
+    <img src="./picture/公众号：拓跋阿秀.png" alt="个人公众号" style="right;zoom: 40%;" /                                                                                   </figure></div>
+
+
 
 ## :moneybag: 赞赏
 
@@ -56,6 +59,6 @@
 <div align=right>
     <p>一个好的项目离不开每一位小伙伴的支持，如果InterviewGuide有帮助到你，请阿秀喝杯奶茶吧！谢谢！</p>
 <figure class="half">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" alt="谢谢老铁" style="right;zoom: 46%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png" alt="谢谢老铁" style="right;zoom: 45%;" />
+    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" alt="谢谢赞赏" style="right;zoom: 46%;" />
+                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png" alt="谢谢赞赏" style="right;zoom: 45%;" />
                                                                                                                          </figure></div>
