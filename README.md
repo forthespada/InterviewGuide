@@ -47,7 +47,7 @@
 
 请扫描下方本人公众号『拓跋阿秀』后，回复关键字**PDF**，即可下载最新 PDF 版本面试指南。
 
-<img src="./公众号：拓跋阿秀.png" style="zoom:50%;" />
+<img src="./picture/公众号：拓跋阿秀.png" style="zoom:50%;" />
 
 ## :moneybag: 赞赏
 
