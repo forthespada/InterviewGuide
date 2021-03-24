@@ -9,9 +9,11 @@
 
 
 
-<b><details><summary>:orange_book: PDF下载地址与仓库事宜</summary></b>
+## :orange_book: PDF下载地址
 
- :book:PDF下载方式： 请移步本人公众号『[拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)』下回复关键字『**PDF**』即可下载最新PDF版本，不断更新迭代中~
+请移步本人公众号『[拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)』下回复关键字『**PDF**』即可下载最新PDF版本，不断更新迭代中~
+
+<b><details><summary> :book:仓库事宜</summary></b>
 
 🙏 本仓库脱胎于阿秀 **2021** 年秋招时期总结的面试笔记，我自己也是凭借这份笔记成功体验到一份 **offer 收割机** 的快乐，阿秀秋招总结可看[秋招总结文章](https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q)，现将个人笔记整理开源出来，造福每位像我这样的渣渣~
 
@@ -25,23 +27,23 @@
 
 
 
-# 📚 目录
+## 📚 目录
 
-- 前期准备
-  - [求求你了，不要乱写简历了](前期准备/求求你了，不要乱写简历了.md)
-  - [了解校招](前期准备/了解校招.md)
-  - [C++岗位](前期准备/C++岗位)
+- 面试准备
+  - [求求你了，不要乱写简历了](面试准备/求求你了，不要乱写简历了.md)
+  - [了解校招](面试准备/了解校招.md)
+  - [C++岗位](面试准备/C++岗位)
 - 知识储备
   - :anguished:[C/C++](知识储备/C&C++.md)
   - :scream:[数据结构与算法](知识储备/数据结构与算法.md)
-  - :disappointed_relieved:[操作系统](知识储备/操作系统)
+  - :disappointed_relieved:[操作系统](知识储备/操作系统.md)
   - :sob:[计算机网络](知识储备/计算机网络.md) 
   - :pensive:[MySQL](知识储备/MySQL.md)
   - :tired_face:[Redis](#知识储备/Redis.md)
-  - :sweat:[常见智力题、情景题](知识储备/常见智力题&情景题)
-  - :grin:[常见非技术性问题(比如你最大的缺点是什么)](#知识储备/常见非技术性问题.md)
+  - :sweat:[常见智力题、情景题](知识储备/常见智力题&情景题.md)
+  - :grin:[常见非技术性问题(比如你最大的缺点是什么)](知识储备/常见非技术性问题.md)
   - :dog:未完待续.....
-- [优质面经](#其余文档/优质面经.md)
+- [优质面经](其余文档/优质面经.md)
 - :moneybag: [赞赏](#money)
 
 
