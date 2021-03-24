@@ -38,7 +38,7 @@
   - :sweat:[常见智力题、情景题](知识储备/常见智力题&情景题.md)
   - :grin:[常见非技术性问题(比如你最大的缺点是什么)](知识储备/常见非技术性问题.md)
   - :dog:未完待续.....
-- [优质面经](优质面经/优质面经.md)
+- [优质面经](优质面经/README.md)
 - :moneybag: [赞赏](#money)
 
 <a id="download"></a>
@@ -47,7 +47,7 @@
 
 请扫描下方本人公众号『拓跋阿秀』后，回复关键字**PDF**，即可下载最新 PDF 版本面试指南。
 
-<img src="F:\Postgraduate\C++\学习\公众号\拓跋阿秀\06 - github仓库\InterviewGuide\公众号：拓跋阿秀.png" style="zoom:50%;" />
+<img src="./公众号：拓跋阿秀.png" style="zoom:50%;" />
 
 ## :moneybag: 赞赏
 
