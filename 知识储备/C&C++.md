@@ -420,11 +420,11 @@ int *p = (int*)malloc(2 * sizeof(double));//编译无错误
 
 #### 15、常量指针和指针常量区别？
 
-- 常量指针是一个指针，读成常量的指针，指向一个只读变量。如int const *p或const int *p。
+- 指针常量是一个指针，读成常量的指针，指向一个只读变量。如int const *p或const int *p。
 
-- 指针常量是一个不能给改变指向的指针。指针是个常量，不能中途改变指向，如int *const p。
+- 常量指针是一个不能给改变指向的指针。指针是个常量，不能中途改变指向，如int *const p。
 
-  
+  >update1:https://www.nowcoder.com/discuss/597948   ，网友“ 牛客191489444号 ”指出笔误，感谢！
 
 #### 16、a和&a有什么区别？
 
