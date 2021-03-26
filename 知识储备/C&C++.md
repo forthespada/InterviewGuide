@@ -6181,13 +6181,13 @@ vector(Vec).swap(Vec);
 
 #### 192、容器内部删除一个元素
 
-1)  顺序容器
+1)  顺序容器（序列式容器，比如vector、deque）
 
 erase迭代器不仅使所指向被删除的迭代器失效，而且使被删元素之后的所有迭代器失效(list除外)，所以不能使用erase(it++)的方式，但是erase的返回值是下一个有效迭代器；
 
 It = c.erase(it);
 
-2)  关联容器
+2)  关联容器(关联式容器，比如map、set、multimap、multiset等)
 
 erase迭代器只是被删除元素的迭代器失效，但是返回值是void，所以要采用erase(it++)的方式删除迭代器；
 
