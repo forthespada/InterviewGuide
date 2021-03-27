@@ -47,14 +47,14 @@
 
 请扫描下方本人公众号『[拓跋阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png)』后，回复关键字『**PDF**』，即可下载**最新 PDF 版本面试指南**。
 
-如果你对本仓库有什么意见或者建议，也欢迎添加个人微信『**[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)**』，直接来找我聊天哈哈，期待你的到来。
+也欢迎添加个人微信『**[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)**』，直接来找我交流。拥抱**IT**时代，享受技术带给我们的全新生活，期待你的到来。
 
 ## :moneybag: 赞赏
 
 <a id="money"></a>
 
 <div align=right>
-    <p>一个好的项目离不开每一位小伙伴的支持，如果 InterviewGuide 有帮助到你拿到不错的offer，请阿秀喝杯奶茶吧！谢谢！</p>
+    <p>一个好的项目离不开每一位小伙伴的支持.</p><p>如果<strong>InterviewGuide</strong>有帮助到你拿到不错的offer，请阿秀喝杯奶茶吧！谢谢！</p>
 <figure class="half">
     <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" alt="谢谢赞赏" style="right;zoom: 26%;" />
                                                                                                                         <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png" alt="谢谢赞赏" style="right;zoom: 25%;" />
