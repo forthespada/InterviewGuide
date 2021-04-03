@@ -91,10 +91,9 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.7/202104/字节内推二维码.jpg" style="zoom:30%;" /></div>
 **投递进度自主查询链接：  https://job.bytedance.com/society/position/application （电脑打开）**
 
-**微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅！)，个人微信二维码：
+**微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅哈)，个人微信二维码：
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png" alt="微信号" style="zoom:50%;" /></div>
-
 #### 2、携程
 
 携程招聘开始了，有想去携程工作的小伙伴欢迎使用内推码投递简历哦。
@@ -104,7 +103,7 @@
 
 投递官网地址：http://campus.ctrip.com/#/ 
 
-**微信咨询**：Coder_XZ (加人请备注“**携程内推**”，否则不予通过，见谅！)
+**微信咨询**：Coder_XZ (加人请备注“**携程内推**”，否则不予通过哈，见谅！)
 
 #### 3、其余公司
 
