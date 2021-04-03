@@ -61,13 +61,13 @@
 <a name="公众号"></a>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
-也欢迎添加个人微信『**[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)**』，直接来找我交流。拥抱**IT**时代，享受技术带给我们的全新生活，期待你的到来。
+也欢迎添加个人微信『[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)』，拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
 
 <a id="work"></a>
 
 ## :airplane: 内推信息
 
-**为什么要尽可能找内推呢？**其实主要有以下四个原因：
+**为什么要尽可能找内推呢**？我觉得主要有以下四个原因：
 
 1、内推简历处理速度更快，不管你是简历合格被发起面试或者笔试，还是不合格被 pass 的速度都要快一些，所以能节约等待时间。
 
@@ -94,7 +94,6 @@
 **微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅！)，个人微信二维码：
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png" alt="微信号" style="zoom:50%;" /></div>
-
 
 #### 2、携程
 
