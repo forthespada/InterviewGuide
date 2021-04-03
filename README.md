@@ -61,7 +61,7 @@
 <a name="公众号"></a>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
-也欢迎添加个人微信[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)，拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
+也欢迎添加个人微信【[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)】，拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
 
 <a id="work"></a>
 
@@ -83,15 +83,14 @@
 
 大量招聘岗位，欢迎投递~
 
-
-内推链接：https://job.toutiao.com/campus/m/position?external_referral_code=AMKWET6
+**内推链接**：https://job.toutiao.com/campus/m/position?external_referral_code=AMKWET6 电脑打开）
 
 扫码投递：
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.7/202104/字节内推二维码.jpg" style="zoom:30%;" /></div>
-**投递进度自主查询链接**：  https://job.bytedance.com/society/position/application （电脑打开）
+**进度自主查询链接**：  https://job.bytedance.com/society/position/application （电脑打开）
 
-**微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅哈)，个人微信二维码：
+**微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅哈)，或扫描个人微信二维码：
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png" alt="微信号" style="zoom:50%;" /></div>
 #### 2、携程
