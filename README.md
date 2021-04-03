@@ -79,7 +79,7 @@
 
 #### 1、字节跳动
 
-字节跳动大量招募新同学！本次招聘包含 **暑期实习**和 **全职补录**两类岗位，职位类别涵盖研发、产品、运营、设计、市场、 销售、职能/支持、教研教学、 游戏策划等多个方向。
+字节跳动大量招募新同学！本次招聘包含 **暑期实习**和 **全职补录** 两类岗位，职位类别涵盖研发、产品、运营、设计、市场、 销售、职能/支持、教研教学、 游戏策划等多个方向。
 
 大量招聘岗位，欢迎投递~
 
@@ -89,7 +89,7 @@
 扫码投递：
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.7/202104/字节内推二维码.jpg" style="zoom:30%;" /></div>
-**投递进度自主查询链接：  [https://job.bytedance.com/society/position/application](https://job.bytedance.com/society/position/application) （电脑打开）**
+**投递进度自主查询链接：  https://job.bytedance.com/society/position/application （电脑打开）**
 
 **微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅！)，个人微信二维码：
 
