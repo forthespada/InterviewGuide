@@ -89,7 +89,7 @@
 扫码投递：
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.7/202104/字节内推二维码.jpg" style="zoom:30%;" /></div>
-**投递进度自主查询链接：**  [https://job.bytedance.com/society/position/application](https://job.bytedance.com/society/position/application) **（电脑打开）**
+**投递进度自主查询链接：  [https://job.bytedance.com/society/position/application](https://job.bytedance.com/society/position/application) （电脑打开）**
 
 **微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅！)，个人微信二维码：
 
