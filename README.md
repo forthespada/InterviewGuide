@@ -61,7 +61,7 @@
 <a name="公众号"></a>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
-也欢迎添加个人微信『[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)』，拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
+也欢迎添加个人微信[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)，拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
 
 <a id="work"></a>
 
@@ -89,7 +89,7 @@
 扫码投递：
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.7/202104/字节内推二维码.jpg" style="zoom:30%;" /></div>
-**投递进度自主查询链接：  https://job.bytedance.com/society/position/application （电脑打开）**
+**投递进度自主查询链接**：  https://job.bytedance.com/society/position/application （电脑打开）
 
 **微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅哈)，个人微信二维码：
 
@@ -101,7 +101,7 @@
 
 携程双休不加班，每天八小时工作制，性价比极高！
 
-投递官网地址：http://campus.ctrip.com/#/ 
+**投递官网地址**：http://campus.ctrip.com/#/   （电脑打开）
 
 **微信咨询**：Coder_XZ (加人请备注“**携程内推**”，否则不予通过哈，见谅！)
 
