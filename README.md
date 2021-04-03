@@ -61,7 +61,7 @@
 <a name="公众号"></a>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
-也欢迎添加个人微信【[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)】，拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
+也欢迎添加个人微信【[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)】 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
 
 <a id="work"></a>
 
