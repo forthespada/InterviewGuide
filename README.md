@@ -60,8 +60,7 @@
 
 <a name="公众号"></a>
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" />
-
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
 也欢迎添加个人微信『**[aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png)**』，直接来找我交流。拥抱**IT**时代，享受技术带给我们的全新生活，期待你的到来。
 
 <a id="work"></a>
@@ -89,17 +88,15 @@
 
 扫码投递：
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.7/202104/字节内推二维码.jpg" style="zoom:30%;" />
-
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.7/202104/字节内推二维码.jpg" style="zoom:30%;" /></div>
 **投递进度自主查询链接：**  [https://job.bytedance.com/society/position/application](https://job.bytedance.com/society/position/application) **（电脑打开）**
 
 **微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅！)，个人微信二维码：
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png" alt="微信号" style="zoom:50%;" />
-
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png" alt="微信号" style="zoom:50%;" /></div>
 #### 2、携程
 
-携程招聘开始了，有想去携程工作的小伙伴欢迎使用内推码投递简历哦~ 
+携程招聘开始了，有想去携程工作的小伙伴欢迎使用内推码投递简历哦。
 内推可以优先筛选简历，可以更快速被HR看到！ 个人携程内推码【 **NTJi8576**】，也欢迎大家联系我跟进面试进度！ 
 
 携程双休不加班，每天八小时工作制，性价比极高！
