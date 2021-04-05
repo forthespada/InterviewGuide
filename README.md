@@ -8,7 +8,7 @@
     </div> 
 
 <p align="center">
-    <a href="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
+    <a href="#个人微信"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
 <a href="#公众号"><img src="https://img.shields.io/badge/公众号-拓跋阿秀-green.svg" alt="公众号"></a>
   <a href="https://www.zhihu.com/people/tuo-ba-a-xiu"><img src="https://img.shields.io/badge/知乎-拓跋阿秀-informational.svg" alt="知乎"></a>
    <a href="https://blog.csdn.net/songhao19?spm=1000.2115.3001.5343&type=blog"><img src="https://img.shields.io/badge/CSDN-拓跋阿秀-important.svg" alt="CSDN"></a>
@@ -62,8 +62,7 @@
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
 
-
-也欢迎添加个人微信【[aXiu_go](#联系方式)】 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
+也欢迎添加个人微信【[aXiu_go](#个人微信)】 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
 
 <a id="work"></a>
 
@@ -94,10 +93,9 @@
 
 **微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅哈)
 
-<a name="联系方式">个人微信二维码</a>
+<a name="个人微信">阿秀微信二维码</a>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png" alt="微信号" style="zoom:50%;" /></div>
-
 
 #### 2、携程
 
