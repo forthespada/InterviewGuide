@@ -1,11 +1,15 @@
-
-
-<h1 align="center">InterviewGuide</h1>
-<div align="left">
+<p align="center">
+<a href="https://github.com/forthespada/InterviewGuider" target="_blank">
+	<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.8/202104/LOGO.png" width="300"/>
+</a>
+    <div align="left">
     <p>优质计算机校招、社招面试常见面试题整理，也是<strong>《面试指南》</strong>的唯一仓库，它还有一个名字叫做<strong>《逆袭进大厂》</strong>。
     </br>
     <br>目前已收录 <strong>C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis </strong>等面试资料，未来打算继续收录<strong>Java、Python、Go</strong>等面试常见问题，坚持将此仓库维护下去。</p>
     </div> 
+
+
+
 
 <p align="center">
     <a href="#个人微信"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
@@ -61,7 +65,6 @@
 <a name="公众号"></a>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
-
 也欢迎添加个人微信【[aXiu_go](#个人微信)】 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
 
 <a id="work"></a>
@@ -96,7 +99,6 @@
 <a name="个人微信">阿秀微信二维码</a>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png" alt="微信号" style="zoom:50%;" /></div>
-
 #### 2、携程
 
 携程招聘开始了，有想去携程工作的小伙伴欢迎使用内推码投递简历哦。
