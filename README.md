@@ -98,7 +98,7 @@
 <a name="个人微信">阿秀微信二维码</a>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png" alt="微信号" style="zoom:50%;" /></div>
-#### 2、携程
+#### 2、 携程
 
 携程招聘开始了，有想去携程工作的小伙伴欢迎使用内推码投递简历哦。
 内推可以优先筛选简历，可以更快速被HR看到！ 个人携程内推码【 **NTJi8576**】，也欢迎大家联系我跟进面试进度！ 
