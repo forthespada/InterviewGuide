@@ -1366,11 +1366,11 @@ int main()
 
 虚表指针：在含有虚函数的类实例化对象时，对象地址的前四个字节存储的指向虚表的指针
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102/微信截图_20210201114227.png)
-
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102/微信截图_20210201114257.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@2.6/202104/C++-36-1.png)
 
 
+
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@2.6/202104/C++-36-2.png)
 
 **上图中展示了虚表和虚表指针在基类对象和派生类对象中的模型，下面阐述实现多态的过程：**
 
@@ -2188,6 +2188,8 @@ int main()
 
 C++中的内存分区，分别是堆、栈、自由存储区、全局/静态存储区、常量存储区和代码区。如下图所示
 
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@2.6/202104/C++-48-1.png)
+
 ![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102/1564479734552.png)
 
 　　
@@ -2274,7 +2276,7 @@ int fun() throw(int,double,A,B,C){...};
 
 C++ 标准库中有一些类代表异常，这些类都是从 exception 类派生而来的，如下图所示
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102/1-1P912101914246.jpg)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@2.6/202104/C++-49-1.png)
 
 - bad_typeid：使用typeid运算符，如果其操作数是一个多态类的指针，而该指针的值为 NULL，则会拋出此异常，例如：
 
@@ -3847,7 +3849,7 @@ int main()
 
 ![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102/1565960190086.png)
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102/1565961214248.png)
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@2.6/202104/C++-97-2.png)
 
 **虚拟继承的情况下，无论基类被继承多少次，只会存在一个实体。**虚拟继承基类的子类中，子类会增加某种形式的指针，或者指向虚基类子对象，或者指向一个相关的表格；表格中存放的不是虚基类子对象的地址，就是其偏移量，此类指针被称为bptr，如上图所示。如果既存在vptr又存在bptr，某些编译器会将其优化，合并为一个指针
 
@@ -6065,15 +6067,11 @@ template<> struct __type_traits<Shape>{
 
 3、如果自定义了处理函数就进行处理，完事再继续分配试试
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102/微信截图_20210201115745.png)
-
-
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@2.6/202104/c++-189-1.png)
 
 ##### 二级配置器
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102//微信截图_20210201115831.png)
-
-
+![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@2.6/202104/C++-189-2.png)
 
 1、维护16条链表，分别是0-15号链表，最小8字节，以8字节逐渐递增，最大128字节，你传入一个字节参数，表示你需要多大的内存，会自动帮你校对到第几号链表（如需要13bytes空间，我们会给它分配16bytes大小），在找到第n个链表后查看链表是否为空，如果不为空直接从对应的free_list中拔出，将已经拨出的指针向后移动一位。
 
