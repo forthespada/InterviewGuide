@@ -63,7 +63,7 @@ Server层按顺序执行sql的步骤为：
 
 #### 6、说一说Drop、Delete与Truncate的共同点和区别
 
-###### 第一种回答
+###### **第一种回答**
 
 Drop、Delete、Truncate都表示删除，但是三者有一些差别：
 **Delete**用来删除表的全部或者一部分数据行，执行delete之后，用户需要提交(commmit)或者回滚(rollback)来执行删除或者撤销删除，会触发这个表上所有的delete触发器。
@@ -74,7 +74,7 @@ Drop、Delete、Truncate都表示删除，但是三者有一些差别：
 
 
 
-###### 第二种回答
+###### **第二种回答**
 
 - Drop直接删掉表;
 - Truncate删除表中数据，再插入时自增长id又从1开始 ;
@@ -554,8 +554,6 @@ select * from news where id / 100 = 1
 select * from news where id = 1 * 100
 ```
 
-
-
 **2）尽量避免使用 != 或 not in或 <> 等否定操作符**
 应该尽量避免在 where 子句中使用 != 或 not in 或 <> 操作符，因为这几个操作符都会导致索引失效而进行全表扫描。尽量避免使用 or 来连接条件
 应该尽量避免在 where 子句中使用 or 来连接条件，因为这会导致索引失效而进行全表扫描。
@@ -878,30 +876,30 @@ OK，就会出现数据不一致的情形，A账户减去50元，而B账户增�
 
 
 
-#### 参考
+#### 参考文献
 
-https://blog.csdn.net/BEYOA/article/details/115829327
-
-https://segmentfault.com/a/119000003984710
-
-https://blog.csdn.net/FL63Zv96950w/article/details/11577443
-
-https://segmentfault.com/a/1190000039848
-
-https://blog.csdn.net/wypblog/article/details/1158432
-
-https://segmentfault.com/q/101000003971
-
-https://blog.csdn.net/wei6569/article/details/11585679
-
-https://blog.csdn.net/dog250/article/details/115783
-
-https://segmentfault.com/q/101000421003971
-
-https://blog.csdn.net/prograer_editor/article/details/11572561
-
-https://segmentfault.com/q/10100004134471
-
-https://csdnnews.blog.csdn.net/article/details/11574389
-
-https://segmentfault.com/q/101000714155354
+>https://blog.csdn.net/BEYOA/article/details/115829327
+>
+>https://segmentfault.com/a/119000003984710
+>
+>https://blog.csdn.net/FL63Zv96950w/article/details/11577443
+>
+>https://segmentfault.com/a/1190000039848
+>
+>https://blog.csdn.net/wypblog/article/details/1158432
+>
+>https://segmentfault.com/q/101000003971
+>
+>https://blog.csdn.net/wei6569/article/details/11585679
+>
+>https://blog.csdn.net/dog250/article/details/115783
+>
+>https://segmentfault.com/q/101000421003971
+>
+>https://blog.csdn.net/prograer_editor/article/details/11572561
+>
+>https://segmentfault.com/q/10100004134471
+>
+>https://csdnnews.blog.csdn.net/article/details/11574389
+>
+>https://segmentfault.com/q/101000714155354

@@ -116,14 +116,12 @@ std::cout << alignof(Info2) << std::endl;  // 4
   #endif
   
   /**
-  * 
   * 0 1   3     6   8 9            15
   * +-+---+-----+---+-+-------------+
   * | |   |     |   | |             |
   * |a| b |  c  | d |e|     pad     |
   * | |   |     |   | |             |
   * +-+---+-----+---+-+-------------+
-  *
   */
   struct Info {
     uint16_t a : 1;
@@ -144,7 +142,7 @@ std::cout << alignof(Info2) << std::endl;  // 4
   std::cout << sizeof(Info) << std::endl;   // 2
   std::cout << alignof(Info) << std::endl;  // 1
   ```
-
+  
   这种处理方式是`alignas`处理不了的。
 
 > update1:https://github.com/forthespada/InterviewGuide/issues/2 ,由`stanleyguo0207`提出 - 2021.03.22
@@ -185,7 +183,6 @@ int main(void)
 //运行结果为：
 //0x22ff44 1
 //指针p为NULL
-
 
 
 void testPTR(int* p) {
@@ -257,8 +254,6 @@ void main()
 
 堆就象是自己动手做喜欢吃的菜肴，比较麻烦，但是比较符合自己的口味，而且自由度大。
 
-> 《C++中堆（heap）和栈(stack)的区别》：https://blog.csdn.net/qq_34175893/article/details/83502412
-
 
 
 #### 5、区别以下指针类型？
@@ -295,8 +290,6 @@ int (*p)(int)
 虚函数表vtable在Linux/Unix中存放在可执行文件的只读数据段中(rodata)，这与微软的编译器将虚函数表存放在常量段存在一些差别
 
 由于虚表指针vptr跟虚函数密不可分，对于有虚函数或者继承于拥有虚函数的基类，对该类进行实例化时，在构造函数执行时会对虚表指针进行初始化，并且存在对象内存布局的最前面。
-
-> 《虚函数表存放在哪里》：https://blog.csdn.net/u013270326/article/details/82830656
 
 一般分为五个区域：栈区、堆区、函数区（存放函数体等二进制代码）、全局静态区、常量区
 
@@ -341,13 +334,6 @@ int *p = (int*)malloc(2 * sizeof(double));//编译无错误
 - malloc仅仅分配内存空间，free仅仅回收空间，不具备调用构造函数和析构函数功能，用malloc分配空间存储类的对象存在风险；new和delete除了分配回收功能外，还会调用构造函数和析构函数。
 
 - malloc和free返回的是void类型指针（必须进行类型转换），new和delete返回的是具体类型指针。
-
-
-
-#### 9.1、delete和delete[]区别？(补充)
-
-- delete只会调用一次析构函数。
-- delete[]会调用数组中每个元素的析构函数。
 
 
 
@@ -474,7 +460,6 @@ int (*p)[10] = &a;
     ```cpp
     int main(void) { 
       int * p = nullptr;
-    
       int* p2 = new int;
       
       p = p2;
@@ -483,13 +468,13 @@ int (*p)[10] = &a;
     }
     ```
 
-    此时 p和p2就是悬空指针，指向的内存已经被释放。继续使用这两个指针，行为不可预料。需要设置为`p=p2=nullptr`。此时再使用，编译器会直接保错。
-
-    避免野指针比较简单，但悬空指针比较麻烦。c++引入了智能指针，C++智能指针的本质就是避免悬空指针的产生。
-
+此时 p和p2就是悬空指针，指向的内存已经被释放。继续使用这两个指针，行为不可预料。需要设置为`p=p2=nullptr`。此时再使用，编译器会直接保错。
+    
+避免野指针比较简单，但悬空指针比较麻烦。c++引入了智能指针，C++智能指针的本质就是避免悬空指针的产生。
     
 
-产生原因及解决办法：
+
+**产生原因及解决办法：**
 
 野指针：指针变量未及时初始化 => 定义指针变量及时初始化，要么置空。
 
@@ -534,8 +519,6 @@ unordered_(hash) 迭代器意义不大, rehash之后, 迭代器应该也是全�
 - 在C++中，除了值和指针之外，新增了引用。引用型变量是其他变量的一个别名，我们可以认为他们只是名字不相同，其他都是相同的。
 - C++相对与C增加了一些关键字，如：bool、using、dynamic_cast、namespace等等
 
-> 《[C语言与C++有什么区别？](https://www.cnblogs.com/ITziyuan/p/9487760.html)》https://www.cnblogs.com/ITziyuan/p/9487760.html
-
 
 
 #### 21、C++与Java的区别
@@ -559,8 +542,6 @@ unordered_(hash) 迭代器意义不大, rehash之后, 迭代器应该也是全�
 - Java在Web 应用上具有C++ 无可比拟的优势，具有丰富多样的框架
 - 对于底层程序的编程以及控制方面的编程，C++很灵活，因为有句柄的存在
 
-> 《C++和java的区别和联系》：https://www.cnblogs.com/tanrong/p/8503202.html
->
 > update1:微信好友“宇少”进行“多继承”->"抽象类"的勘误
 
 
@@ -589,8 +570,6 @@ unordered_(hash) 迭代器意义不大, rehash之后, 迭代器应该也是全�
 - C++中，struct增加了访问权限，且可以和类一样有成员函数，成员默认访问说明符为public（为了与C兼容）
 
 - struct作为类的一种特例是用来自定义数据结构的。一个结构标记声明后，在C中必须在结构标记前加上struct，才能做结构类型名（除：typedef struct class{};）;C++中结构体标记（结构体名）可以直接作为结构体类型名使用，此外结构体struct在C++中被当作类的一种特例
-
-> 《struct结构在C和C++中的区别》：https://blog.csdn.net/mm_hh/article/details/70456240
 
 
 
@@ -676,10 +655,6 @@ const int& b5 = a;		   //用于声明引用变量，都是底层const
 - 执行对象拷贝时有限制，常量的底层const不能赋值给非常量的底层const
 - 使用命名的强制类型转换函数const_cast时，只能改变运算对象的底层const
 
-> 《C++ 顶层const与底层const总结》：https://www.jianshu.com/p/fbbcf11100f6
->
-> 《C++的顶层const和底层const浅析》：https://blog.csdn.net/qq_37059483/article/details/78811231
-
 
 
 ```
@@ -726,8 +701,6 @@ class B : public A
     virtual void foo(); // OK
     void foo() override; //OK
 }
-
-
 ```
 
 如果不使用override，当你手一抖，将**foo()**写成了**f00()**会怎么样呢？结果是编译器并不会报错，因为它并不知道你的目的是重写虚函数，而是把它当成了新的函数。如果这个虚函数很重要的话，那就会对整个程序不利。所以，override的作用就出来了，它指定了子类的这个虚函数是重写的父类的，如果你名字不小心打错了的话，编译器是不会编译通过的：
@@ -769,11 +742,7 @@ class B final : A // 指明B是不可以被继承的
 class C : B // Error: B is final
 {
 };
-
-
 ```
-
-> 《C++:override和final》：https://www.cnblogs.com/whlook/p/6501918.html
 
 
 
@@ -786,15 +755,11 @@ string str1("I am a string");//语句1 直接初始化
 string str2(str1);//语句2 直接初始化，str1是已经存在的对象，直接调用构造函数对str2进行初始化
 string str3 = "I am a string";//语句3 拷贝初始化，先为字符串”I am a string“创建临时对象，再把临时对象作为参数，使用拷贝构造函数构造str3
 string str4 = str1;//语句4 拷贝初始化，这里相当于隐式调用拷贝构造函数，而不是调用赋值运算符函数
-
-
 ```
 
 - **为了提高效率，允许编译器跳过创建临时对象这一步，**直接调用构造函数构造要创建的对象，这样就完全等价于**直接初始化了**（语句1和语句3等价），但是需要辨别两种情况。
   - 当拷贝构造函数为private时：语句3和语句4在编译时会报错
   - 使用explicit修饰构造函数时：如果构造函数存在隐式转换，编译时会报错
-
-> C++的直接初始化与复制初始化的区别：https://blog.csdn.net/qq936836/article/details/83450218
 
 
 
@@ -855,13 +820,7 @@ extern "C"{
     result_t operate_on_handle(my_handle_t handle);
     void close_handle(my_handle_t handle);
 }
-
-
 ```
-
-- 参考的blog中有一篇google code上的文章，专门写extern "C"的，有兴趣的读者不妨去看看
-
-> 《extern "C"的功能和用法研究》：https://blog.csdn.net/sss_369/article/details/84060561
 
 综上，总结出使用方法**，在C语言的头文件中，对其外部函数只能指定为extern类型，C语言中不支持extern "C"声明，在.c文件中包含了extern "C"时会出现编译语法错误。**所以使用extern "C"全部都放在于cpp程序相关文件或其头文件中。
 
@@ -882,8 +841,6 @@ int add(){
 extern "C" {
     #include "xx.h"
 }
-
-
 ```
 
 （2）C调用C++函数
@@ -894,8 +851,7 @@ extern "C"{
     int add();
 }
 //xx.cpp
-int add(){
-    
+int add(){    
 }
 //xx.c
 extern int add();
@@ -931,8 +887,6 @@ int compare(const char* const &v1,const char* const &v2)
 {
     return strcmp(p1,p2);
 }
-
-
 ```
 
 **本质**
@@ -955,8 +909,6 @@ class hash<sales_data>
 	//里面所有T都换成特例化类型版本sales_data
 	//按照最佳匹配原则，若T != sales_data，就用普通类模板，否则，就使用含有特定功能的特例化版本。
 };
-
-
 ```
 
 **类模板的部分特例化**
@@ -987,11 +939,7 @@ Foo<int> fi;//使用特例化
 fs.Bar();//使用的是普通模板，即Foo<string>::Bar()
 fi.Bar();//特例化版本，执行Foo<int>::Bar()
 //Foo<string>::Bar()和Foo<int>::Bar()功能不同
-
-
 ```
-
-> 《类和函数模板特例化》：https://blog.csdn.net/wang664626482/article/details/52372789
 
 
 
@@ -1074,9 +1022,6 @@ int main()
 	cout<<pc1->i<<endl;// 输出：1717986918
 	return 0;
 }
-
-
-
 ```
 
 上面两个例子之所以引起类型不安全的问题，是因为程序员使用不得当。第一个例子用到了空类型指针void\*，第二个例子则是在两个类型指针之间进行强制转换。因此，想保证程序的类型安全性，应尽量避免使用空类型指针void\*，尽量不对两种类型指针做强制转换。
@@ -1128,8 +1073,6 @@ int main()
 //Parent construct function
 //Son construct function
 //Parent destructor function
-
-
 ```
 
 将基类的析构函数声明为虚函数：
@@ -1170,8 +1113,6 @@ int main()
 //Son construct function
 //Son destructor function
 //Parent destructor function
-
-
 ```
 
 但存在一种特例，在`CRTP`模板中，不应该将析构函数声明为虚函数，理论上所有的父类函数都不应
@@ -1239,8 +1180,6 @@ public:
     //重写,一般加override可以确保是重写父类的函数
     virtual int fun(int a) override{}
 }
-
-
 ```
 
 重载与重写的区别：
@@ -1277,8 +1216,6 @@ int main(){
     b.A::fun(2); //调用A中fun函数
     return 0;
 }
-
-
 ```
 
 - **两个函数参数不同，无论基类函数是不是虚函数，都会被隐藏。和重载的区别在于两个函数不在同一个类中。举个例子：**
@@ -1305,8 +1242,6 @@ int main(){
     b.A::fun(2); //调用A中fun函数
     return 0;
 }
-
-
 ```
 
 
@@ -1354,8 +1289,6 @@ int main()
 // 运行结果
 // Son1::func()
 // Base::func()
-
-
 ```
 
 例子中，Base为基类，其中的函数为虚函数。子类1继承并重写了基类的函数，子类2继承基类但没有重写基类的函数，从结果分析子类体现了多态性，那么为什么会出现多态性，其底层的原理是什么？这里需要引出虚表和虚基表指针的概念。
@@ -1381,8 +1314,6 @@ int main()
 **（4）**当派生类对基类的虚函数没有重写时，派生类的虚表指针指向的是基类的虚表；当派生类对基类的虚函数重写时，派生类的虚表指针指向的是自身的虚表；当派生类中有自己的虚函数时，在自己的虚表中将此虚函数地址添加在后面
 
 这样指向派生类的基类指针在运行时，就可以根据派生类对虚函数重写情况动态的进行调用，从而实现多态性。
-
-> 《C++实现多态的原理》：https://blog.csdn.net/qq_37954088/article/details/79947898
 
 
 
@@ -1442,15 +1373,11 @@ int main(){
 //s2 age:18, num:1001
 //s3 age:10, num:1002
 //s2 age:10, num:1002
-
-
 ```
 
 - 默认构造函数和初始化构造函数在定义类的对象，完成对象的初始化工作
 - 复制构造函数用于复制本类的对象
 - 转换构造函数用于将其他类型的变量，隐式转换为本类对象
-
-> 《浅谈C++中的几种构造函数》：https://blog.csdn.net/zxc024000/article/details/51153743
 
 
 
@@ -1515,13 +1442,9 @@ int main()
 //copy Student
 //~Student 0x7fffebca9fb0
 //~Student 0x7fffebca9fc0
-
-
 ```
 
 从执行结果可以看出，浅拷贝在对象的拷贝创建时存在风险，即被拷贝的对象析构释放资源之后，拷贝对象析构时会再次释放一个已经释放的资源，深拷贝的结果是两个对象之间没有任何关系，各自成员地址不同。
-
-> 《C++面试题之浅拷贝和深拷贝的区别》：https://blog.csdn.net/caoshangpa/article/details/79226270
 
 
 
@@ -1532,23 +1455,12 @@ int main()
 - 宏定义时要注意书写（参数要括起来）否则容易出现歧义，内联函数不会产生歧义
 - 内联函数有类型检测、语法判断等功能，而宏没有
 
-
-
 >感谢网友“bygaoyuan ”重新整理， https://github.com/forthespada/InterviewGuide/issues/3 
 
-#### 39.1、内联函数适用场景
+**内联函数适用场景:**
 
 - 使用宏定义的地方都可以使用 inline 函数。
 - 作为类成员接口函数来读写类的私有成员或者保护成员，会提高效率。
-
-
-
-#### 39.2、为什么不能把所有的函数写成内联函数
-
-内联函数以代码复杂为代价，它以省去函数调用的开销来提高执行效率。所以一方面如果内联函数体内代码执行时间相比函数调用开销较大，则没有太大的意义；另一方面每一处内联函数的调用都要复制代码，消耗更多的内存空间，因此以下情况不宜使用内联函数：
-
-- 函数体内的代码比较长，将导致内存消耗代价
-- 函数体内有循环，函数执行时间要比函数调用开销大
 
 
 
@@ -1587,8 +1499,6 @@ int main()
 //inline construct()
 //inline virtual function
 //inline destruct()
-
-
 ```
 
 **构造函数和析构函数声明为内联函数是没有意义的**
@@ -1602,8 +1512,6 @@ int main()
 上述观点看似正确，其实不然，如果虚函数在编译器就能够决定将要调用哪个函数时，就能够内联，那么什么情况下编译器可以确定要调用哪个函数呢，答案是当用对象调用虚函数（此时不具有多态性）时，就内联展开
 
 **综上，当是指向派生类的指针（多态性）调用声明为inline的虚函数时，不会内联展开；当是对象本身调用虚函数时，会内联展开，当然前提依然是函数并不复杂的情况下**
-
-> 《构造函数、析构函数、虚函数可否内联，有何意义》：https://www.cnblogs.com/helloweworld/archive/2013/06/14/3136705.html
 
 
 
@@ -1632,8 +1540,6 @@ int& y = x;
 auto z = y; //z是int型不是int& 型
 auto& p1 = y; //p1是int&型
 auto p2 = &x; //p2是指针类型int*
-
-
 ```
 
 **（2）decltype**
@@ -1671,8 +1577,6 @@ decltype(*p) c = j; // c是int&类型, c和j绑定在一起
 //4. 如果一个表达式的类型不是引用, 但是我们需要推断出引用, 那么可以加上一对括号, 就变成了引用类型了
 int i = 3;
 decltype((i)) j = i; // 此时j的类型是int&类型, j和i绑定在了一起
-
-
 ```
 
 **（3）decltype(auto)**
@@ -1686,10 +1590,6 @@ decltype(auto) j = f;//j的类型是const int* 并且指向的是e
 
 
 ```
-
-> 《auto和decltype的用法总结》：https://www.cnblogs.com/XiangfeiAi/p/4451904.html
->
-> 《C++11新特性中auto 和 decltype 区别和联系》：https://www.jb51.net/article/103666.htm
 
 
 
@@ -1769,8 +1669,6 @@ int main()
     else if(c == 0x34)
         cout << "little endian" << endl;
 }
-
-
 ```
 
 方式二：巧用union联合体
@@ -1794,11 +1692,7 @@ int main()
     else if (value.ch == 0x34)
         cout << "little endian"<<endl;
 }
-
-
 ```
-
-> 《写程序判断系统是大端序还是小端序》：https://www.cnblogs.com/zhoudayang/p/5985563.html
 
 
 
@@ -1917,9 +1811,6 @@ int main()
 	a4 = getClassA2(a1);//发生NRV优化，且引用返回自身，不会调用
     return 0;
 }
-
-
-
 ```
 
 情况1比较好理解
@@ -1928,8 +1819,6 @@ int main()
 
 情况3在执行return时，理论的执行过程是：产生临时对象，调用拷贝构造函数把返回对象拷贝给临时对象，函数执行完先析构局部变量，再析构临时对象，  依然会调用拷贝构造函数
 
-> 《C++拷贝构造函数详解》：https://www.cnblogs.com/alantu2018/p/8459250.html
->
 > update1:https://github.com/forthespada/InterviewGuide/issues/2 提出，感谢！- 2021.03.22
 
 
@@ -1945,9 +1834,6 @@ int main()
 ```C++
 void* operator new(std::size_t) throw(std::bad_alloc);
 void operator delete(void *) throw();
-
-
-
 ```
 
 因此**plain new**在空间分配失败的情况下，抛出异常**std::bad_alloc**而不是返回NULL，因此通过判断返回值是否为NULL是徒劳的，举个例子：
@@ -1970,9 +1856,6 @@ int main()
 	return 0;
 }
 //执行结果：bad allocation
-
-
-
 ```
 
 （2）**nothrow new**
@@ -1982,9 +1865,6 @@ nothrow new在空间分配失败的情况下是不抛出异常，而是返回NUL
 ```C++
 void * operator new(std::size_t,const std::nothrow_t&) throw();
 void operator delete(void*) throw();
-
-
-
 ```
 
 举个例子：
@@ -2005,9 +1885,6 @@ int main()
 	return 0;
 }
 //运行结果：alloc failed
-
-
-
 ```
 
 （3）**placement new**
@@ -2017,9 +1894,6 @@ int main()
 ```C++
 void* operator new(size_t,void*);
 void operator delete(void*,void*);
-
-
-
 ```
 
 使用placement new需要注意两点：
@@ -2062,12 +1936,7 @@ int main()
 //输出结果：
 //ADT construct i=10j=100
 //ADT destruct
-
-
-
 ```
-
-> 《【C++】几种类型的new介绍》：https://www.jianshu.com/p/9b57e769c3cb
 
 
 
@@ -2083,9 +1952,6 @@ NULL来自C语言，一般由宏定义实现，而 nullptr 则是C++11的新增�
 #else
 #define NULL ((void *)0)
 #endif
-
-
-
 ```
 
 
@@ -2109,9 +1975,6 @@ int main()
 	return 0;
 }
 //输出结果：int
-
-
-
 ```
 
 那么**在传入NULL参数时，会把NULL当做整数0来看，如果我们想调用参数是指针的函数，该怎么办呢?。nullptr在C++11被引入用于解决这一问题，nullptr可以明确区分整型和指针类型，能够根据环境自动转换成相应的指针类型，但不会被转换为任何整型，所以不会造成参数传递错误。**
@@ -2126,9 +1989,6 @@ public:
 private:
     void operator&() const;
 } nullptr = {};
-
-
-
 ```
 
 
@@ -2162,13 +2022,9 @@ int main()
 //语句1：char* p
 //语句2:报错，有多个匹配
 //3：int p
-
-
 ```
 
 在这种情况下存在对不同指针类型的函数重载，此时如果传入nullptr指针则仍然存在无法区分应实际调用哪个函数，这种情况下必须显示的指明参数类型。
-
-> 《NULL和nullptr区别》：https://blog.csdn.net/qq_39380590/article/details/82563571
 
 
 
@@ -2177,10 +2033,6 @@ int main()
 C++中的内存分区，分别是堆、栈、自由存储区、全局/静态存储区、常量存储区和代码区。如下图所示
 
 ![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@2.6/202104/C++-48-1.png)
-
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102/1564479734552.png)
-
-　　
 
 **栈**：在执行函数时，函数内局部变量的存储单元都可以在栈上创建，函数执行结束时这些存储单元自动被释放。栈内存分配运算内置于处理器的指令集中，效率很高，但是分配的内存容量有限
 
@@ -2193,8 +2045,6 @@ C++中的内存分区，分别是堆、栈、自由存储区、全局/静态存�
 **常量存储区**：这是一块比较特殊的存储区，这里面存放的是常量，不允许修改
 
 **代码区**：存放函数体的二进制代码
-
-> 《C/C++内存管理详解》：https://chenqx.github.io/2014/09/25/Cpp-Memory-Management/
 
 
 
@@ -2242,8 +2092,6 @@ int main()
 //before dividing.
 //catch (...)
 //finished
-
-
 ```
 
 代码中，对两个数进行除法计算，其中除数为0。可以看到以上三个关键字，程序的执行流程是先执行try包裹的语句块，如果执行过程中没有异常发生，则不会进入任何catch包裹的语句块，如果发生异常，则使用throw进行异常抛出，再由catch进行捕获，throw可以抛出各种数据类型的信息，代码中使用的是数字，也可以自定义异常class。**catch根据throw抛出的数据类型进行精确捕获（不会出现类型转换），如果匹配不到就直接报错，可以使用catch(...)的方式捕获任何异常（不推荐）。**当然，如果catch了异常，当前函数如果不进行处理，或者已经处理了想通知上一层的调用者，可以在catch里面再throw异常。
@@ -2254,8 +2102,6 @@ int main()
 
 ```C++
 int fun() throw(int,double,A,B,C){...};
-
-
 ```
 
 这种写法表名函数可能会抛出int,double型或者A、B、C三种类型的异常，如果throw中为空，表明不会抛出任何异常，如果没有throw则可能抛出任何异常
@@ -2290,16 +2136,11 @@ int main() {
     return 0;
 }
 //运行结果：bject is NULL
-
-
-
 ```
 
 - bad_cast：在用 dynamic_cast 进行从多态基类对象（或引用）到派生类的引用的强制类型转换时，如果转换是不安全的，则会拋出此异常
 - bad_alloc：在用 new 运算符进行动态内存分配时，如果没有足够的内存，则会引发此异常
 - out_of_range:用 vector 或 string的at 成员函数根据下标访问元素时，如果下标越界，则会拋出此异常
-
-> 《C++异常处理（try catch throw）完全攻略》：http://c.biancheng.net/view/422.html
 
 
 
@@ -2441,10 +2282,6 @@ public、protected、private
 
 #### 57、什么是内存池，如何实现
 
->https://www.bilibili.com/video/BV1Kb411B7N8?p=25 C++内存管理：P23-26
->
->https://www.bilibili.com/video/BV1db411q7B8?p=12 C++STL P11
-
 内存池（Memory Pool） 是一种**内存分配**方式。通常我们习惯直接使用new、malloc 等申请内存，这样做的缺点在于：由于所申请内存块的大小不定，当频繁使用时会造成大量的内存碎片并进而降低性能。内存池则是在真正使用内存之前，先申请分配一定数量的、大小相等(一般情况下)的内存块留作备用。当有新的内存需求时，就从内存池中分出一部分内存块， 若内存块不够再继续申请新的内存。这样做的一个显著优点是尽量避免了内存碎片，使得内存分配效率得到提升。
 
 这里简单描述一下《STL源码剖析》中的内存池实现机制：
@@ -2457,8 +2294,6 @@ allocate包装malloc,deallocate包装free
 2. 客户端之后有有内存需求，想申请（20\*64bytes）的空间，这时内存池只有（20*32bytes），就先将（10\*64bytes)个区块返回，1个区块交出，另外9个处于维护状态，此时内存池空空如也
 3. 接下来如果客户端还有内存需求，就必须再调用malloc()配置空间，此时新申请的区块数量会增加一个随着配置次数越来越大的附加量，同样一半提供程序使用，另一半留给内存池。申请内存的时候用永远是先看内存池有无剩余，有的话就用上，然后挂在0-15号某一条链表上，要不然就重新申请。
 4. 如果整个堆的空间都不够了，就会在原先已经分配区块中寻找能满足当前需求的区块数量，能满足就返回，不能满足就向客户端报bad_alloc异常
-
-> 《STL源码解析》侯捷 P68
 
 allocator就是用来分配内存的，最重要的两个函数是allocate和deallocate，就是用来申请内存和回收内存的，外部（一般指容器）调用的时候只需要知道这些就够了。内部实现，目前的所有编译器都是直接调用的::operator new()和::operator delete()，说白了就是和直接使用new运算符的效果是一样的，所以老师说它们都没做任何特殊处理。 
 
@@ -2494,11 +2329,7 @@ GC2.9的alloc的一个比较好的分配器的实现规则
 0040104F   lea     eax,[ebp-4]
 
 00401052  mov     dword ptr [ebp-8],eax
-
-
 ~~~
-
-
 
 x的地址为ebp-4，b的地址为ebp-8，因为栈内的变量内存是从高往低进行分配的，所以b的地址比x的低。
 
@@ -2611,8 +2442,6 @@ void* malloc(unsigned int num_size);
 
 int *p = malloc(20*sizeof(int));申请20个int类型的空间；
 ~~~
-
-
 
 2)   calloc函数
 
@@ -2758,8 +2587,6 @@ int main()
 //push_back:
 //I have been constructed
 //I am being moved.
-
-
 ```
 
 
@@ -2775,8 +2602,6 @@ int main()
 > 首先利用value_type()获取所指对象的型别，再利用\__type_traits<T>判断该型别的析构函数是否trivial，若是(\_\_true_type)，则什么也不做，若为(\_\_false_type)，则去调用destory()函数
 
 也就是说，在实际的应用当中，STL库提供了相关的判断方法**__type_traits**，感兴趣的读者可以自行查阅使用方式。除了trivial destructor，还有trivial construct、trivial copy construct等，如果能够对是否trivial进行区分，可以采用内存处理函数memcpy()、malloc()等更加高效的完成相关操作，提升效率。
-
-> 《C++中的 trivial destructor》：https://blog.csdn.net/wudishine/article/details/12307611
 
 
 
@@ -2813,8 +2638,6 @@ int main()
 多态性是允许你将父对象设置成为和一个或更多的他的子对象相等的技术，赋值之后，父对象就可以根据当前赋值给它的子对象的特性以不同的方式运作。**简单一句话：允许将子类类型的指针赋值给父类类型的指针**
 
 实现多态有二种方式：覆盖（override），重载（overload）。覆盖：是指子类重新定义父类的虚函数的做法。重载：是指允许存在多个同名函数，而这些函数的参数表不同（或许参数个数不同，或许参数类型不同，或许两者都不同）。例如：基类是一个抽象对象——人，那教师、运动员也是人，而使用这个抽象对象既可以表示教师、也可以表示运动员。
-
-> 《C++封装继承多态总结》：https://blog.csdn.net/IOT_SHUN/article/details/79674293
 
 
 
@@ -2858,14 +2681,9 @@ int main()
 //age地址：0x7fffec0f15a8
 //对象大小：4
 //age大小：4
-
-
-
 ```
 
 从代码运行结果来看，对象的大小和对象中数据成员的大小是一致的，也就是说，成员函数不占用对象的内存。这是因为所有的函数都是存放在代码区的，不管是全局函数，还是成员函数。要是成员函数占用类的对象空间，那么将是多么可怕的事情：定义一次类对象就有成员函数占用一段空间。 我们再来补充一下静态成员函数的存放问题：**静态成员函数与一般成员函数的唯一区别就是没有this指针**，因此不能访问非静态数据成员，就像我前面提到的，**所有函数都存放在代码区，静态函数也不例外。所有有人一看到 static 这个单词就主观的认为是存放在全局数据区，那是不对的。**
-
-> 《C++类对象成员变量和函数内存分配的问题》：https://blog.csdn.net/z2664836046/article/details/78967313
 
 
 
@@ -2921,14 +2739,9 @@ int main()
 //A(int 1)
 //默认构造函数A()
 //A(int 2)
-
-
-
 ```
 
 从代码运行结果可以看出，在构造函数体内部初始化的对象b多了一次构造函数的调用过程，而对象a则没有。由于对象成员变量的初始化动作发生在进入构造函数之前，对于内置类型没什么影响，但**如果有些成员是类**，那么在进入构造函数之前，会先调用一次默认构造函数，进入构造函数后所做的事其实是一次赋值操作(对象已存在)，所以**如果是在构造函数体内进行赋值的话，等于是一次默认构造加一次赋值，而初始化列表只做一次赋值操作。**
-
-> 《为什么用成员初始化列表会快一些？》：https://blog.csdn.net/JackZhang_123/article/details/82590368
 
 
 
@@ -3054,8 +2867,6 @@ VPTR的状态是由被最后调用的构造函数确定的。这就是为什么�
 
 （4）析构函数一般都要声明为虚函数，这个应该是老生常谈了，这里不再赘述
 
-> 《为什么C++不能有虚构造函数，却可以有虚析构函数》：https://dwz.cn/lnfW9H6m
-
 
 
 #### 82、类什么时候会析构？
@@ -3135,14 +2946,9 @@ int main()
 //Base::Fuction
 //A::Function
 //Base::Fuction
-
-
-
 ```
 
 语句1讲道理应该体现多态性，执行类A中的构造和析构函数，从实验结果来看，语句1并没有体现，执行流程是先构造基类，所以先调用基类的构造函数，构造完成再执行A自己的构造函数，析构时也是调用基类的析构函数，也就是说构造和析构中调用虚函数并不能达到目的，应该避免
-
-> 《构造函数或者析构函数中调用虚函数会怎么样？》：https://dwz.cn/TaJTJONX
 
 
 
@@ -3175,8 +2981,6 @@ weak_ptr：弱引用。 引用计数有一个问题就是互相引用形成环�
 **(4) auto_ptr** 
 
  主要是为了解决“有异常抛出时发生内存泄漏”的问题 。因为发生异常而无法正常释放内存。
-
-
 
 auto_ptr有拷贝语义，拷贝后源对象变得无效，这可能引发很严重的问题；而unique_ptr则无拷贝语义，但提供了移动语义，这样的错误不再可能发生，因为很明显必须使用std::move()进行转移。
 
@@ -3233,13 +3037,7 @@ private:
 	T* _ptr;
 	int* _pcount;//指向引用计数的指针
 };
-
-
-
-
 ```
-
-> 《智能指针的原理及实现》：https://blog.csdn.net/lizhentao0707/article/details/81156384
 
 
 
@@ -3275,9 +3073,6 @@ int main()
 }
 //运行结果
 //Hello World
-
-
-
 ```
 
 如果没有加语句1，语句2会报错，表示找不到参数为空的构造函数，将其设置为default可以解决这个问题
@@ -3305,9 +3100,6 @@ int main()
    cout << "Hello World" <<endl;
    return 0;
 }
-
-
-
 ```
 
 在执行语句1时，会提示new方法已经被删除，如果将new设置为私有方法，则会报惨不忍睹的错误，因此使用delete关键字可以更加人性化的删除一些默认方法
@@ -3315,8 +3107,6 @@ int main()
 **0**
 
 将虚函数定义为纯虚函数（纯虚函数无需定义，= 0只能出现在类内部虚函数的声明语句处；当然，也可以为纯虚函数提供定义，不过函数体必须定义在类的外部）
-
-> 《C++构造函数的default和delete》：https://blog.csdn.net/u010591680/article/details/71101737
 
 
 
@@ -3447,9 +3237,6 @@ int main()
 //dynamic_cast输出：
 //2
 //s4指针为nullptr
-
-
-
 ```
 
 从输出结果可以看出，在进行下行转换时，dynamic_cast安全的，如果下行转换不安全的话其会返回空指针，这样在进行操作的时候可以预先判断。而使用static_cast下行转换存在不安全的情况也可以转换成功，但是直接使用转换后的对象进行操作容易造成错误。
@@ -3486,9 +3273,6 @@ int main(int argc, char* argv[])
 //2
 //1
 //var1=1,var2=2
-
-
-
 ```
 
 当函数从入口函数main函数开始执行时，编译器会将我们操作系统的运行状态，main函数的返回地址、main的参数、mian函数中的变量、进行依次压栈；
@@ -3498,10 +3282,6 @@ int main(int argc, char* argv[])
 当func()调用f()的时候，编译器此时会将func()函数的运行状态进行压栈，再将的返回地址、f()函数的参数从右到左、f()定义变量依次压栈
 
 从代码的输出结果可以看出，函数f(var1)、f(var2)依次入栈，而后先执行f(var2)，再执行f(var1)，最后打印整个字符串，将栈中的变量依次弹出，最后主函数返回。
-
-> 《C/C++函数调用过程分析》：https://www.cnblogs.com/biyeymyhjob/archive/2012/07/20/2601204.html
->
-> 《C/C++函数调用的压栈模型》：https://blog.csdn.net/m0_37717595/article/details/80368411
 
 
 
@@ -3526,10 +3306,6 @@ C语言里规定：16bit程序中，返回值保存在ax寄存器中，32bit程�
 由此可见，函数调用结束后，返回值被临时存储到寄存器中，并没有放到堆或栈中，也就是说与内存没有关系了。当退出函数的时候，临时变量可能被销毁，但是返回值却被放到寄存器中与临时变量的生命周期没有关系
 
 如果我们需要返回值，一般使用赋值语句就可以了
-
-> 《【C++】临时变量不能作为函数的返回值？》：https://www.wandouip.com/t5i204349/
-
-（栈上的内存分配、拷贝过程）
 
 
 
@@ -3562,9 +3338,6 @@ class A{
 public:
 	int func(int p){}
 };
-
-
-
 ```
 
 其中，**func**的原型在编译器看来应该是：
@@ -3578,9 +3351,6 @@ A a;
 a.func(10);
 //此处，编译器将会编译成：
 A::func(&a,10);
-
-
-
 ```
 
 看起来和静态函数没差别，对吗？不过，区别还是有的。编译器通常会对this指针做一些优化，因此，this指针的传递效率比较高，例如VC通常是通过ecx（计数寄存器）传递this参数的。
@@ -3620,8 +3390,6 @@ this是类的指针，如果换成结构体，那this就是结构的指针了。
 ##### F.每个类编译后，是否创建一个类中函数表保存函数指针，以便用来调用函数？
 
 普通的类函数（不论是成员函数，还是静态函数）都不会创建一个函数表来保存函数指针。只有虚函数才会被放到函数表中。但是，即使是虚函数，如果编译期就能明确知道调用的是哪个函数，编译器就不会通过函数表中的指针来间接调用，而是会直接调用该函数。正是由于this指针的存在，用来指向不同的对象，从而确保不同对象之间调用相同的函数可以互不干扰
-
-> 《C++中this指针的用法详解》http://blog.chinaunix.net/uid-21411227-id-1826942.html
 
 
 
@@ -3675,9 +3443,6 @@ int main()
 //我是构造函数
 //我是拷贝构造函数
 //我是赋值操作符
-
-
-
 ```
 
 
@@ -3796,16 +3561,11 @@ int main()
 //sp2.use_count:1
 //sp1.use_count:2
 //sp2.use_count:2
-
-
-
 ```
 
 从上面shared_ptr的实现中我们知道了只有当引用计数减减之后等于0，析构时才会释放对象，而上述情况造成了一个僵局，那就是析构对象时先析构sp2,可是由于sp2的空间sp1还在使用中，所以sp2.use_count减减之后为1，不释放，sp1也是相同的道理，由于sp1的空间sp2还在使用中，所以sp1.use_count减减之后为1，也不释放。sp1等着sp2先释放，sp2等着sp1先释放,二者互不相让，导致最终都没能释放，内存泄漏。
 
 在实际编程过程中，应该尽量避免出现智能指针之前相互指向的情况，如果不可避免，可以使用使用弱指针——weak_ptr，它不增加引用计数，只要出了作用域就会自动析构。
-
-> 《C++ 智能指针（及循环引用问题）》：https://blog.csdn.net/m0_37968340/article/details/76737395
 
 
 
@@ -3829,8 +3589,6 @@ int main()
     cout << "sizeof(C)：" << sizeof C <<endl; // 4，一个bptr指针，省去占位,不需要对齐
     cout << "sizeof(D)：" << sizeof D <<endl; // 8，两个bptr，省去占位,不需要对齐
 }
-
-
 ```
 
 上述代码所体现的关系是，B和C虚拟继承A，D又公有继承B和C，这种方式是一种**菱形继承或者钻石继承**，可以用如下图来表示
@@ -3893,8 +3651,6 @@ void test02()
 	cout << offsetof(S, z) << endl; // 8
 	cout << offsetof(S, a) << endl; // 12
     ｝
-
-
 ```
 
 S结构体中各个数据成员的内存空间划分如下所示，需要注意内存对齐
@@ -3945,8 +3701,6 @@ int main()
 	pnull->func();   //C::func() 不用奇怪为什么空指针也可以调用函数，因为这在编译期就确定了，和指针空不空没关系；
 	return 0;
 }
-
-
 ```
 
 如果将A类中的virtual注释去掉，则运行结果是：
@@ -3955,8 +3709,6 @@ int main()
 pa->func();      //B::func() 因为有了virtual虚函数特性，pa的动态类型指向B*，因此先在B中查找，找到后直接调用；
 pc->func();      //C::func() pc的动、静态类型都是C*，因此也是先在C中查找；
 pnull->func();   //空指针异常，因为是func是virtual函数，因此对func的调用只能等到运行期才能确定，然后才发现pnull是空指针；
-
-
 ```
 
 在上面的例子中，
@@ -4017,11 +3769,7 @@ int main()
 	test2();
 	return 0;
 }
-
-
 ```
-
-> 《C++中的静态绑定和动态绑定》：https://www.cnblogs.com/lizhenghn/p/3657717.html
 
 
 
@@ -4081,8 +3829,6 @@ int main()
 	b.fun(); //son :: fun()
 	return 0;
 }
-
-
 ```
 
 **需要说明的是虚函数才具有动态绑定**，上面代码中，Son类中还有一个非虚函数func()，这在b对象中是无法调用的，如果使用基类指针来指向子类也是一样的。
@@ -4096,8 +3842,6 @@ int main()
 使用方式不同：通过声明后全局变量在程序的各个部分都可以用到；局部变量分配在堆栈区，只能在局部使用。 
 
 操作系统和编译器通过内存分配的位置可以区分两者，全局变量分配在全局数据段并且在程序开始运行的时候被加载。局部变量则分配在堆栈里面 。
-
-> 《C++经典面试题》：https://www.cnblogs.com/yjd_hycf_space/p/7495640.html
 
 
 
@@ -4123,8 +3867,6 @@ int main()
 	printf("%d\n", c); // -24
 	return 0;
 }
-
-
 ```
 
 首先变量a和b都是以16进制的形式初始化，将它们转成10进制分别是1280（5\*16\^2=1280）和1312（5\*16\^2+2*16=1312)， 那么它们的差值为32，也就是说a和b所指向的地址之间间隔32个位，但是考虑到是int类型占4位，所以c的值为32/4=8
@@ -4254,7 +3996,7 @@ a自增16进制0x20之后，其实际地址变为1280 + 2\*16\*4 = 1408，（因
 
 抽象类是不能定义对象的。一个纯虚函数不需要（但是可以）被定义。
 
-一、纯虚函数定义
+**一、纯虚函数定义**
  纯虚函数是一种特殊的虚函数，它的一般格式如下：
 
 ~~~cpp
@@ -4265,18 +4007,16 @@ class <类名>
  　}; 
 ~~~
 
-
-
  　　在许多情况下，在基类中不能对虚函数给出有意义的实现，而把它声明为纯虚函数，它的实现留给该基类的派生类去做。这就是纯虚函数的作用。
  　纯虚函数可以让类先具有一个操作名称，而没有操作内容，让派生类在继承时再去具体地给出定义。凡是含有纯虚函数的类叫做抽象类。这种类不能声明对象，只是作为基类为派生类服务。除非在派生类中完全实现基类中所有的的纯虚函数，否则，派生类也变成了抽象类，不能实例化对象。
 
- 二、纯虚函数引入原因
+ **二、纯虚函数引入原因**
   1、为了方便使用多态特性，我们常常需要在基类中定义虚拟函数。
   2、在很多情况下，基类本身生成对象是不合情理的。例如，动物作为一个基类可以派生出老虎、孔 雀等子类，但动物本身生成对象明显不合常理。
  　为了解决上述问题，引入了纯虚函数的概念，将函数定义为纯虚函数（方法：virtual ReturnType Function()= 0;）。若要使派生类为非抽象类，则编译器要求在派生类中，必须对纯虚函数予以重载以实现多态性。同时含有纯虚函数的类称为抽象类，它不能生成对象。这样就很好地解决了上述两个问题。
  例如，绘画程序中，shape作为一个基类可以派生出圆形、矩形、正方形、梯形等， 如果我要求面积总和的话，那么会可以使用一个 shape * 的数组，只要依次调用派生类的area()函数了。如果不用接口就没法定义成数组，因为既可以是circle ,也可以是square ,而且以后还可能加上rectangle，等等.
 
-三、相似概念
+**三、相似概念**
  1、多态性
 
 指相同对象收到不同消息或不同对象收到相同消息时产生不同的实现动作。C++支持两种多态性：编译时多态性，运行时多态性。
@@ -4303,7 +4043,7 @@ class <类名>
 
 #### 112、知道C++中的组合吗？它与继承相比有什么优缺点吗？
 
-一：继承
+**一：继承**
 
 继承是Is a 的关系，比如说Student继承Person,则说明Student is a Person。继承的优点是子类可以重写父类的方法来方便地实现对父类的扩展。
 
@@ -4315,7 +4055,7 @@ class <类名>
 
 ③：如果对父类的方法做了修改的话（比如增加了一个参数），则子类的方法必须做出相应的修改。所以说子类与父类是一种高耦合，违背了面向对象思想。
 
-二：组合
+**二：组合**
 
 组合也就是设计类的时候把要组合的类的对象加入到该类中作为自己的成员变量。
 
@@ -4333,13 +4073,13 @@ class <类名>
 
 #### 113、函数指针？
 
-1)  什么是函数指针?
+**1)  什么是函数指针?**
 
 函数指针指向的是特殊的数据类型，函数的类型是由其返回的数据类型和其参数列表共同决定的，而函数的名称则不是其类型的一部分。
 
 一个具体函数的名字，如果后面不跟调用符号(即括号)，则该名字就是该函数的指针(注意：大部分情况下，可以这么认为，但这种说法并不很严格)。
 
-2)  函数指针的声明方法
+**2)  函数指针的声明方法**
 
 int (*pf)(const int&, const int&); (1)
 
@@ -4349,13 +4089,15 @@ int *pf(const int&, const int&); (2)
 
 而这声明了一个函数pf，其返回类型为int *， 带有两个const int&参数。
 
-3)  为什么有函数指针
+**3)  为什么有函数指针**
 
 函数与数据项相似，函数也有地址。我们希望在同一个函数中通过使用相同的形参在不同的时间使用产生不同的效果。
 
-4)  一个函数名就是一个指针，它指向函数的代码。一个函数地址是该函数的进入点，也就是调用函数的地址。函数的调用可以通过函数名，也可以通过指向函数的指针来调用。函数指针还允许将函数作为变元传递给其他函数；
+**4)  一个函数名就是一个指针，它指向函数的代码。**
 
-5)  两种方法赋值：
+一个函数地址是该函数的进入点，也就是调用函数的地址。函数的调用可以通过函数名，也可以通过指向函数的指针来调用。函数指针还允许将函数作为变元传递给其他函数；
+
+**5)  两种方法赋值：**
 
 指针名 = 函数名；  指针名 = &函数名
 
@@ -4363,21 +4105,21 @@ int *pf(const int&, const int&); (2)
 
 #### 114、 内存泄漏的后果？如何监测？解决方法？
 
-1)  内存泄漏
+**1)  内存泄漏**
 
 内存泄漏是指由于疏忽或错误造成了程序未能释放掉不再使用的内存的情况。内存泄漏并非指内存在物理上消失，而是应用程序分配某段内存后，由于设计错误，失去了对该段内存的控制；
 
-2)  后果
+**2)  后果**
 
 只发生一次小的内存泄漏可能不被注意，但泄漏大量内存的程序将会出现各种证照：性能下降到内存逐渐用完，导致另一个程序失败；
 
-3)  如何排除
+**3)  如何排除**
 
 使用工具软件BoundsChecker，BoundsChecker是一个运行时错误检测工具，它主要定位程序运行时期发生的各种错误；
 
 调试运行DEBUG版程序，运用以下技术：CRT(C run-time libraries)、运行时函数调用堆栈、内存泄漏时提示的内存分配序号(集成开发环境OUTPUT窗口)，综合分析内存泄漏的原因，排除内存泄漏。
 
-4)  解决方法
+**4)  解决方法**
 
 智能指针。
 
@@ -4472,10 +4214,21 @@ struct foo {
 
 #### 119、 函数调用过程栈的变化，返回值和参数变量哪个先入栈？
 
- 1、调用者函数把被调函数所需要的参数按照与被调函数的形参顺序相反的顺序压入栈中,即:从右向左依次把被调函数所需要的参数压入栈;
- 2、调用者函数使用call指令调用被调函数,并把call指令的下一条指令的地址当成返回地址压入栈中(这个压栈操作隐含在call指令中);
- 3、在被调函数中,被调函数会先保存调用者函数的栈底地址(push ebp),然后再保存调用者函数的栈顶地址,即:当前被调函数的栈底地址(mov ebp,esp);
- 4、在被调函数中,从ebp的位置处开始存放被调函数中的局部变量和临时变量,并且这些变量的地址按照定义时的顺序依次减小,即:这些变量的地址是按照栈的延伸方向排列的,先定义的变量先入栈,后定义的变量后入栈;
+ 1、调用者函数把被调函数所需要的参数按照与被调函数的形参顺序相反的顺序压入栈中,即:从右向左依次把被调    
+
+​       函数所需要的参数压入栈;
+
+ 2、调用者函数使用call指令调用被调函数,并把call指令的下一条指令的地址当成返回地址压入栈中(这个压栈操作
+
+​       隐含在call指令中);
+
+ 3、在被调函数中,被调函数会先保存调用者函数的栈底地址(push ebp),然后再保存调用者函数的栈顶地址,即:当前
+
+​      被调函数的栈底地址(mov ebp,esp);
+
+ 4、在被调函数中,从ebp的位置处开始存放被调函数中的局部变量和临时变量,并且这些变量的地址按照定义时的
+
+​      顺序依次减小,即:这些变量的地址是按照栈的延伸方向排列的,先定义的变量先入栈,后定义的变量后入栈;
 
 
 
@@ -4567,7 +4320,9 @@ printf的第一个被找到的参数就是那个字符指针，就是被双引�
 
 #### 124、模板类和模板函数的区别是什么？
 
-函数模板的实例化是由编译程序在处理函数调用时自动完成的，而类模板的实例化必须由程序员在程序中显式地指定。即函数模板允许隐式调用和显式调用而类模板只能显示调用。在使用时类模板必须加<T>，而函数模板不必
+函数模板的实例化是由编译程序在处理函数调用时自动完成的，而类模板的实例化必须由程序员在程序中显式地指
+
+定。即函数模板允许隐式调用和显式调用而类模板只能显示调用。在使用时类模板必须加<T>，而函数模板不必
 
 
 
@@ -4614,7 +4369,6 @@ cout是有缓冲输出:
 ~~~cpp
  cout < < "abc " < <endl;
  或cout < < "abc\n ";cout < <flush; 这两个才是一样的.
-
 ~~~
 
 
@@ -4653,10 +4407,10 @@ cout是有缓冲输出:
 
 #### 130、定义和声明的区别
 
-如果是指变量的声明和定义
+ **如果是指变量的声明和定义：**
  从编译原理上来说，声明是仅仅告诉编译器，有个某类型的变量会被使用，但是编译器并不会为它分配任何内存。而定义就是分配了内存。
 
-如果是指函数的声明和定义
+**如果是指函数的声明和定义：**
  声明：一般在头文件里，对编译器说：这里我有一个函数叫function() 让编译器知道这个函数的存在。
  定义：一般在源文件里，具体就是函数的实现过程 写明函数体。
 
@@ -4722,8 +4476,6 @@ static全局变量与普通的全局变量的区别是static全局变量只初�
  \#endif
 ~~~
 
-
-
 它的作用是：当标识符已经被定义过(一般是用#define命令定义)，则对程序段1进行编译，否则编译程序段2。 
  其中#else部分也可以没有，即： 
 
@@ -4732,8 +4484,6 @@ static全局变量与普通的全局变量的区别是static全局变量只初�
  程序段1 
  \#denif
 ~~~
-
-
 
 3)  在一个大的软件工程里面，可能会有多个文件同时包含一个头文件，当这些文件编译链接成一个可执行文件上时，就会出现大量“重定义”错误。
 
@@ -4756,8 +4506,6 @@ static全局变量与普通的全局变量的区别是static全局变量只初�
 
 
 #### 135、 虚函数的内存结构，那菱形继承的虚函数内存结构呢
-
-参考：https://blog.csdn.net/haoel/article/details/1948051/
 
  菱形继承的定义是：两个子类继承同一父类，而又有子类同时继承这两个子类。例如a,b两个类同时继承c，但是又有一个d类同时继承a,b类。
 
@@ -4789,11 +4537,9 @@ int& operator++()
 {
 
   *this += 1;
-
   return *this;
 
 } 
-
 ~~~
 
 2)  前置不会产生临时对象，后置必须产生临时对象，临时对象会导致效率降低
@@ -4804,15 +4550,12 @@ int& operator++()
 int operator++(int)                 
 
 {
-
 int temp = *this;                   
 
    ++*this;                       
 
    return temp;                  
-
 } 
-
 ~~~
 
  
@@ -4844,7 +4587,6 @@ try
  catch（…）//捕获所有类型的异常 
  { 
  } 
-
  ~~~
 
 
@@ -4890,7 +4632,6 @@ x = x^y;// 只能对int,char..
  y = x^y;
  x = x^y;
  x ^= y ^= x;
-
 ~~~
 
 
@@ -4988,7 +4729,6 @@ e)  const char* 转char*
 f)  char* 转const char*，直接赋值即可 
  char* pc = “abc”; 
  const char* cpc = pc;
-
 ~~~
 
 
@@ -4998,17 +4738,15 @@ f)  char* 转const char*，直接赋值即可
 1) 拷贝构造函数的作用就是用来复制对象的，在使用这个对象的实例来初始化这个对象的一个新的实例。
 2) 参数传递过程到底发生了什么？
   将地址传递和值传递统一起来，归根结底还是传递的是"值"(地址也是值，只不过通过它可以找到另一个值)！
- i)值传递:
+ a 值传递:
   对于内置数据类型的传递时，直接赋值拷贝给形参(注意形参是函数内局部变量)；
   对于类类型的传递时，需要首先调用该类的拷贝构造函数来初始化形参(局部对象)；
 
 如void foo(class_type obj_local){}, 如果调用foo(obj); 首先class_type obj_local(obj) ,这样就定义了局部变量obj_local供函数内部使用
 
-ii)引用传递:
+b 引用传递:
    无论对内置类型还是类类型，传递引用或指针最终都是传递的地址值！而地址总是指针类型(属于简单类型), 显然参数传递时，按简单类型的赋值拷贝，而不会有拷贝构造函数的调用(对于类类型).
  上述1) 2)回答了为什么拷贝构造函数使用值传递会产生无限递归调用，内存溢出。
-
-
 
 拷贝构造函数用来初始化一个非引用类类型对象，如果用传值的方式进行传参数，那么构造实参需要调用拷贝构造函数，而拷贝构造函数需要传递实参，所以会一直递归。
 
@@ -5085,9 +4823,9 @@ ii)引用传递:
 
 2)  对象的动态类型：目前所指对象的类型。是在运行期决定的。对象的动态类型可以更改，但是静态类型无法更改。
 
-3)  静态绑定：绑定的是对象的静态类型，某特性（比如函数依赖于对象的静态类型，发生在编译期。
+3)  静态绑定：绑定的是对象的静态类型，某特性（比如函数依赖于对象的静态类型，发生在编译期。)
 
-4)  动态绑定：绑定的是对象的动态类型，某特性（比如函数依赖于对象的动态类型，发生在运行期。
+4)  动态绑定：绑定的是对象的动态类型，某特性（比如函数依赖于对象的动态类型，发生在运行期。)
 
 
 
@@ -5175,7 +4913,6 @@ Example6 (Example6&& x) : ptr(x.ptr)
     return *this;
 
 }
-
 ~~~
 
 
@@ -5387,7 +5124,6 @@ void main()
   cout<<"Max = "<<Max(5.5,'a')<<endl; 
 
 } 
-
 ~~~
 
 
@@ -5405,7 +5141,6 @@ void main()
 ~~~cpp
 char* strcpy(char* strDest, const char* strSrc)
 char* strncpy(char* strDest, const char* strSrc, int pos)
-
 ~~~
 
 2)  strcpy函数: 如果参数 dest 所指的内存空间不够大，可能会造成缓冲溢出(buffer Overflow)的错误情况，在编写程序时请特别留意，或者用strncpy()来取代。 
@@ -5487,8 +5222,6 @@ char* strncpy(char* strDest, const char* strSrc, int pos)
 
 这样数据分布就均衡多了，平衡性有了很大的提高
 
-> 《程序员求职宝典》王道论坛
-
 
 
 #### 179、什么是纯虚函数，与虚函数的区别
@@ -5540,8 +5273,6 @@ int main()
 	b->fun2(); //子类实现的纯虚函数
 	return 0;
 }
-
-
 ```
 
 
@@ -5619,8 +5350,6 @@ int main()
 
 性能损耗：因为把链接推迟到了程序运行时，所以每次执行程序都需要进行链接，所以性能会有一定损
 失。
-
-> 《操作系统（三）》：https://www.nowcoder.com/tutorial/93/675fd4af3ab34b2db0ae650855aa52d5
 
 
 
@@ -5751,7 +5480,6 @@ void Test()
   p2->_fun();   //调用子类的同名函数
 
 }
-
 ~~~
 
 
@@ -5777,8 +5505,6 @@ int main()
     printf("hello, world\n");
     return 0;
 }
-
-
 ```
 
 在 Unix 系统上，由编译器把源文件转换为目标文件。
@@ -5867,8 +5593,6 @@ gcc -o hello hello.c
 
 如果进线程无法取得锁，进线程不会立刻放弃CPU时间片，而是一直循环尝试获取锁，直到获取为止。如果别的线程长时期占有锁那么自旋就是在浪费CPU做无用功，但是自旋锁一般应用于加锁时间很短的场景，这个时候效率比较高。
 
-> 《互斥锁、读写锁、自旋锁、条件变量的特点总结》：https://blog.csdn.net/RUN32875094/article/details/80169978
-
 
 
 #### 186、说一下C++左值引用和右值引用
@@ -5891,9 +5615,6 @@ C++11正是通过引入右值引用来优化性能，具体来说是通过移动
 
 ```C++
 const int& a = 10;
-
-
-
 ```
 
 右值：表示无法获取地址的对象，有常量值、函数返回值、lambda表达式等。无法获取地址，但不表示其不可改变，当定义了右值的右值引用时就可以更改右值。
@@ -5944,13 +5665,7 @@ int main() {
 	fun(a); //此时fun函数的参数t是左值
 	return 0;
 }
-
-
 ```
-
-> 《c++右值引用以及使用》：https://www.cnblogs.com/likaiming/p/9045642.html
->
-> 《从4行代码看右值引用》：https://www.cnblogs.com/likaiming/p/9029908.html
 
 
 
@@ -5963,8 +5678,6 @@ STL中的hashtable使用的是**开链法**解决hash冲突问题，如下图所
 hashtable中的bucket所维护的list既不是list也不是slist，而是其自己定义的由hashtable_node数据结构组成的linked-list，而bucket聚合体本身使用vector进行存储。hashtable的迭代器只提供前进操作，不提供后退操作
 
 在hashtable设计bucket的数量上，其内置了28个质数[53, 97, 193,...,429496729]，在创建hashtable时，会根据存入的元素个数选择大于等于元素个数的质数作为hashtable的容量（vector的长度），其中每个bucket所维护的linked-list长度也等于hashtable的容量。如果插入hashtable的元素个数超过了bucket的容量，就要进行重建table操作，即找出下一个质数，创建新的buckets vector，重新计算元素在新hashtable的位置。
-
-> 《STL源码解析》侯捷
 
 
 
@@ -5992,9 +5705,6 @@ __type_traits<T>::has_trivial_copy_constructor
 __type_traits<T>::has_trivial_assignment_operator
 __type_traits<T>::has_trivial_destructor
 __type_traits<T>::is_POD_type
-
-
-
 ```
 
 由于编译器只针对class object形式的参数进行参数推到，因此上式的返回结果不应该是个bool值，实际上使用的是一种空的结构体：
@@ -6002,9 +5712,6 @@ __type_traits<T>::is_POD_type
 ```C++
 struct __true_type{};
 struct __false_type{};
-
-
-
 ```
 
 这两个结构体没有任何成员，不会带来其他的负担，又能满足需求，可谓一举两得
@@ -6019,11 +5726,7 @@ template<> struct __type_traits<Shape>{
 	typedef __false_type has_trivial_destructor;
 	typedef __false_type is_POD_type;
 };
-
-
 ```
-
-> 《STL源码解析》侯捷 P103-P110
 
 
 
@@ -6410,9 +6113,6 @@ vector是一种序列式容器，其数据安排以及操作方式与array非常
 
 ```C++
 const size_type len  = old_size + max(old_size, n);
-
-
-
 ```
 
  Vector扩容倍数与平台有关，在Win +  VS 下是 1.5倍，在 Linux + GCC 下是 2 倍 
@@ -6445,18 +6145,13 @@ int main()
 	res.push_back(2);
 	res.push_back(3);
     cout << res.capacity() <<endl;//6
-    
-    
+     
 }
-
-
 ```
 
 运行上述代码，一开始配置了一块长度为2的空间，接下来插入一个数据，长度变为原来的两倍，为4，此时已占用的长度为3，再继续两个数据，此时长度变为8，可以清晰的看到空间的变化过程
 
 需要注意的是，频繁对vector调用push_back()对性能是有影响的，这是因为每插入一个元素，如果空间够用的话还能直接插入，若空间不够用，则需要重新配置空间，移动数据，释放原空间等操作，对程序性能会造成一定的影响
-
-> 《STL源码剖析》 侯捷 P115-128
 
 
 
@@ -6494,9 +6189,6 @@ public:
     void pop_front(){}//从头部取走元素
     ...
 }
-
-
-
 ```
 
 举个例子：
@@ -6544,14 +6236,9 @@ int main()
 	cout << endl;	
 	return 0;
 }
-
-
-
 ```
 
 需要注意的是C++标准委员会没有采用slist的名称，forward_list在C++ 11中出现，它与slist的区别是没有size()方法。
-
-> 《STL源码剖析》 侯捷
 
 
 
@@ -6569,8 +6256,6 @@ struct __list_node{
     void_pointer next;
     T data;
 }
-
-
 ```
 
 从源码可看出list显然是一个双向链表。list与vector的另一个区别是，在插入和接合操作之后，都不会造成原迭代器失效，而vector可能因为空间重新配置导致迭代器失效。
@@ -6580,8 +6265,6 @@ struct __list_node{
 list的空间管理默认采用alloc作为空间配置器，为了方便的以节点大小为配置单位，还定义一个list_node_allocator函数可一次性配置多个节点空间
 
 由于list的双向特性，其支持在头部（front)和尾部（back)两个方向进行push和pop操作，当然还支持erase，splice，sort，merge，reverse，sort等操作，这里不再详细阐述。
-
-> 《STL源码剖析》 侯捷 P128-142
 
 
 
@@ -6613,8 +6296,6 @@ public:
     itertator end();
     ...
 }
-
-
 ```
 
 ![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102/1565876324016.png)
@@ -6633,8 +6314,6 @@ struct __deque_iterator
     map_pointer node;//指向map中的node
     ...
 }
-
-
 ```
 
 从deque的迭代器数据结构可以看出，为了保持与容器联结，迭代器主要包含上述4个元素
@@ -6642,8 +6321,6 @@ struct __deque_iterator
 ![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.2/202102/1565877658970.png)
 
 deque迭代器的“++”、“--”操作是远比vector迭代器繁琐，其主要工作在于缓冲区边界，如何从当前缓冲区跳到另一个缓冲区，当然deque内部在插入元素时，如果map中node数量全部使用完，且node指向的缓冲区也没有多余的空间，这时会配置新的map（2倍于当前+2的数量）来容纳更多的node，也就是可以指向更多的缓冲区。在deque删除元素时，也提供了元素的析构和空闲缓冲区空间的释放等机制。
-
-> 《STL源码剖析》 侯捷 P143-164
 
 
 
@@ -6672,8 +6349,6 @@ public:
     void push(const value_type& x){c.push_back(x);}
     void pop(){c.pop_back();}
 };
-
-
 ```
 
 从stack的数据结构可以看出，其所有操作都是围绕Sequence完成，而Sequence默认是deque数据结构。stack这种“修改某种接口，形成另一种风貌”的行为，成为adapter(配接器)。常将其归类为container adapter而非container
@@ -6703,15 +6378,11 @@ public:
     void push(const value_type& x){c.push_back(x);}
     void pop(){c.pop_front();}
 };
-
-
 ```
 
 从queue的数据结构可以看出，其所有操作都也都是是围绕Sequence完成，Sequence默认也是deque数据结构。queue也是一类container adapter。
 
 同样，queue也可以使用list作为底层容器，不具有遍历功能，没有迭代器。
-
-> 《STL源码剖析》 侯捷 
 
 
 
@@ -6792,11 +6463,7 @@ int main()
 	}
 	return 0;
 }
-
-
 ```
-
-> 《STL源码剖析》 侯捷 
 
 
 
@@ -6831,9 +6498,6 @@ public:
         c.pop_back();
     }
 };
-
-
-
 ```
 
 priority_queue的所有元素，进出都有一定的规则，只有queue顶端的元素（权值最高者），才有机会被外界取用，它没有遍历功能，也不提供迭代器
@@ -6862,12 +6526,7 @@ int main()
 	}
 	return 0;
 }
-
-
-
 ```
-
-> 《STL源码剖析》 侯捷 
 
 
 
@@ -6931,14 +6590,9 @@ int main()
 		cout << "1 not found" << endl; // 1 not found
 	return 0;
 }
-
-
-
 ```
 
-关联式容器尽量使用其自身提供的find()函数查找指定的元素，效率更高，因为STL提供的find()函数是一种顺序搜索算法。
-
-> 《STL源码剖析》 侯捷 
+关联式容器尽量使用其自身提供的find()函数查找指定的元素，效率更高，因为STL提供的find()函数是一种顺序搜索算法。 
 
 
 
@@ -6994,9 +6648,6 @@ int main()
 	
 	return 0;
 }
-
-
-
 ```
 
 需要注意的是subscript（下标）操作既可以作为左值运用（修改内容）也可以作为右值运用（获取实值）。例如：
@@ -7004,9 +6655,6 @@ int main()
 ```C++
 maps["abc"] = 1; //左值运用
 int num = masp["abd"]; //右值运用
-
-
-
 ```
 
 无论如何，subscript操作符都会先根据键值找出实值，源码如下：
@@ -7024,7 +6672,6 @@ T& operator[](const key_type& k)
 
 ```C++
 value_type(k, T());
-
 ```
 
 再将这个对象插入到map中，并返回一个pair：
@@ -7042,8 +6689,6 @@ pair第一个元素是迭代器，指向当前插入的新元素，如果插入�
 ```
 
 由于这个实值是以引用方式传递，因此作为左值或者右值都可以
-
-> 《STL源码剖析》 侯捷 
 
 
 
@@ -7124,4 +6769,120 @@ unordered_map是C++ 11新添加的容器，底层机制是哈希表，通过hash
 **公共溢出区**
 
 一旦hash函数计算的结果相同，就放入公共溢出区
+
+
+
+#### 218、delete和delete[]区别？(补充)
+
+- delete只会调用一次析构函数。
+
+- delete[]会调用数组中每个元素的析构函数。
+
+  
+
+#### 219、为什么不能把所有的函数写成内联函数?
+
+内联函数以代码复杂为代价，它以省去函数调用的开销来提高执行效率。所以一方面如果内联函数体内代码执行时间相比函数调用开销较大，则没有太大的意义；另一方面每一处内联函数的调用都要复制代码，消耗更多的内存空间，因此以下情况不宜使用内联函数：
+
+- 函数体内的代码比较长，将导致内存消耗代价
+
+- 函数体内有循环，函数执行时间要比函数调用开销大
+
+  
+
+#### 参考文献
+
+>《C++中堆（heap）和栈(stack)的区别》：https://blog.csdn.net/qq_34175893/article/details/83502412
+>
+>《虚函数表存放在哪里》：https://blog.csdn.net/u013270326/article/details/82830656
+>
+>《[C语言与C++有什么区别？](https://www.cnblogs.com/ITziyuan/p/9487760.html)》https://www.cnblogs.com/ITziyuan/p/9487760.html
+>
+>《C++和java的区别和联系》：https://www.cnblogs.com/tanrong/p/8503202.html
+>
+>《struct结构在C和C++中的区别》：https://blog.csdn.net/mm_hh/article/details/70456240
+>
+>《C++ 顶层const与底层const总结》：https://www.jianshu.com/p/fbbcf11100f6
+>
+>《C++的顶层const和底层const浅析》：https://blog.csdn.net/qq_37059483/article/details/78811231
+>
+>《C++:override和final》：https://www.cnblogs.com/whlook/p/6501918.html
+>
+>C++的直接初始化与复制初始化的区别：https://blog.csdn.net/qq936836/article/details/83450218
+>
+>《extern "C"的功能和用法研究》：https://blog.csdn.net/sss_369/article/details/84060561
+>
+>《类和函数模板特例化》：https://blog.csdn.net/wang664626482/article/details/52372789
+>
+>《C++实现多态的原理》：https://blog.csdn.net/qq_37954088/article/details/79947898
+>
+>《浅谈C++中的几种构造函数》：https://blog.csdn.net/zxc024000/article/details/51153743
+>
+>《C++面试题之浅拷贝和深拷贝的区别》：https://blog.csdn.net/caoshangpa/article/details/79226270
+>
+>《构造函数、析构函数、虚函数可否内联，有何意义》：https://www.cnblogs.com/helloweworld/archive/2013/06/14/3136705.html
+>
+>《auto和decltype的用法总结》：https://www.cnblogs.com/XiangfeiAi/p/4451904.html
+>
+>《C++11新特性中auto 和 decltype 区别和联系》：https://www.jb51.net/article/103666.htm
+>
+>《写程序判断系统是大端序还是小端序》：https://www.cnblogs.com/zhoudayang/p/5985563.html
+>
+>《C++拷贝构造函数详解》：https://www.cnblogs.com/alantu2018/p/8459250.html
+>
+>《【C++】几种类型的new介绍》：https://www.jianshu.com/p/9b57e769c3cb
+>
+>《NULL和nullptr区别》：https://blog.csdn.net/qq_39380590/article/details/82563571
+>
+>《C/C++内存管理详解》：https://chenqx.github.io/2014/09/25/Cpp-Memory-Management/
+>
+>《C++异常处理（try catch throw）完全攻略》：http://c.biancheng.net/view/422.html
+>
+>《C++STL 》https://www.bilibili.com/video/BV1db411q7B8?p=12 
+>
+>《C++内存管理》https://www.bilibili.com/video/BV1Kb411B7N8?p=25
+>
+>《C++中的 trivial destructor》：https://blog.csdn.net/wudishine/article/details/12307611
+>
+>《C++封装继承多态总结》：https://blog.csdn.net/IOT_SHUN/article/details/79674293
+>
+>《C++类对象成员变量和函数内存分配的问题》：https://blog.csdn.net/z2664836046/article/details/78967313
+>
+>《为什么用成员初始化列表会快一些？》：https://blog.csdn.net/JackZhang_123/article/details/82590368
+>
+>《为什么C++不能有虚构造函数，却可以有虚析构函数》：https://dwz.cn/lnfW9H6m
+>
+>《构造函数或者析构函数中调用虚函数会怎么样？》：https://dwz.cn/TaJTJONX
+>
+>《智能指针的原理及实现》：https://blog.csdn.net/lizhentao0707/article/details/81156384
+>
+>《C++构造函数的default和delete》：https://blog.csdn.net/u010591680/article/details/71101737
+>
+>《C/C++函数调用过程分析》：https://www.cnblogs.com/biyeymyhjob/archive/2012/07/20/2601204.html
+>
+>《C/C++函数调用的压栈模型》：https://blog.csdn.net/m0_37717595/article/details/80368411
+>
+>《【C++】临时变量不能作为函数的返回值？》：https://www.wandouip.com/t5i204349/
+>
+>《C++中this指针的用法详解》http://blog.chinaunix.net/uid-21411227-id-1826942.html
+>
+>《C++ 智能指针（及循环引用问题）》：https://blog.csdn.net/m0_37968340/article/details/76737395
+>
+>《C++中的静态绑定和动态绑定》：https://www.cnblogs.com/lizhenghn/p/3657717.html
+>
+>《C++经典面试题》：https://www.cnblogs.com/yjd_hycf_space/p/7495640.html
+>
+>《C++ 虚函数表解析》：https://blog.csdn.net/haoel/article/details/1948051/
+>
+>《操作系统（三）》：https://www.nowcoder.com/tutorial/93/675fd4af3ab34b2db0ae650855aa52d5
+>
+>《互斥锁、读写锁、自旋锁、条件变量的特点总结》：https://blog.csdn.net/RUN32875094/article/details/80169978
+>
+>《c++右值引用以及使用》：https://www.cnblogs.com/likaiming/p/9045642.html
+>
+>《从4行代码看右值引用》：https://www.cnblogs.com/likaiming/p/9029908.html
+>
+>《程序员求职宝典》王道论坛
+>
+>《STL源码解析》侯捷
 
