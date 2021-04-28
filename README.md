@@ -64,7 +64,7 @@
 <a name="公众号"></a>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
-也欢迎添加个人微信【[aXiu_go](#个人微信)】 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
+也欢迎添加个人微信【[coderxiu1](#个人微信)】 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
 
 <a id="work"></a>
 
@@ -93,11 +93,12 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.7/202104/字节内推二维码.jpg" style="zoom:30%;" /></div>
 投递进度查询：  https://job.bytedance.com/society/position/application （电脑打开）
 
-**微信咨询**：aXiu_go(加人请备注“**字节内推**”，否则不予通过，见谅哈)
+**微信咨询**：coderxiu1 (加人请备注“**字节内推**”，否则不予通过，见谅哈)
 
 <a name="个人微信">阿秀微信二维码</a>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png" alt="微信号" style="zoom:50%;" /></div>
+<div align="center"><img src="https://gitee.com/ForthEspada/image/raw/master/20210428173214.jpg" alt="微信号" style="zoom:50%;" /></div>
+
 #### 2、 携程
 
 携程招聘开始了，有想去携程工作的小伙伴欢迎使用内推码投递简历哦。
