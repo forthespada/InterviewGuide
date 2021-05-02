@@ -34,22 +34,34 @@
 
 
 
+由于近期发现有一些辅导机构使用阿秀辛苦整理的面试真题制成视频进行牟利和哄骗一些小白报班，这违背了我开源该仓库的初衷。
+
+思虑再三，现在决定不再提供md格式的仓库文件了，只提供  [PDF 版本的下载方式](#download)，还望海涵抱歉。
+
+PDF 内容预览：
+
+![QQ截图20210502192801](image/QQ截图20210502192801.png)
+
+![QQ截图20210502192821](image/QQ截图20210502192821.png)
+
+![QQ截图20210502192903](image/QQ截图20210502192903.png)
+
 ## 📚 目录
 
 - [PDF下载方式](#download)
 - 面试准备
-  - [求求你了，不要乱写简历了](面试准备/求求你了，不要乱写简历了.md)
-  - [了解校招](面试准备/了解校招.md)
-  - [C++岗位](面试准备/C++岗位.md)
+  - 求求你了，不要乱写简历了
+  - 了解校招
+  - C++岗位
 - 知识储备
-  - :anguished:[C/C++](知识储备/C&C++.md)
-  - :scream:[数据结构与算法](知识储备/数据结构与算法.md)
-  - :disappointed_relieved:[操作系统](知识储备/操作系统.md)
-  - :sob:[计算机网络](知识储备/计算机网络.md) 
-  - :pensive:[MySQL](知识储备/MySQL.md)
-  - :tired_face:[Redis](知识储备/Redis.md)
-  - :sweat:[常见智力题、情景题](知识储备/常见智力题&情景题.md)
-  - :grin:[常见非技术性问题(比如你最大的缺点是什么)](知识储备/常见非技术性问题.md)
+  - :anguished:C/C++
+  - :scream:数据结构与算法
+  - :disappointed_relieved:操作系统
+  - :sob:计算机网络
+  - :pensive:MySQL
+  - :tired_face:Redis
+  - :sweat:常见智力题、情景题
+  - :grin:常见非技术性问题(比如你最大的缺点是什么)
   - :dog:未完待续.....
 - [优质面经](优质面经/README.md)
 - [内推信息](#work)
@@ -99,7 +111,7 @@
 
 <a name="个人微信">阿秀微信二维码</a>
 
-<div align="center"><img src="https://gitee.com/ForthEspada/image/raw/master/20210428173214.jpg" alt="微信号" style="zoom:50%;" /></div>
+<div align="center"><img src="https://gitee.com/ForthEspada/image/raw/master/20210428173214.jpg"  style="zoom:50%;" /></div>
 
 #### 2、 携程
 
