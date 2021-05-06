@@ -32,9 +32,11 @@
 
 </details>
 
-
-
-**由于近期发现有一些辅导机构使用阿秀辛苦整理的面试真题制成视频进行牟利和哄骗一些小白报班，这违背了我开源该仓库的初衷。**
+<p align="center">
+</a>
+    <div align="left">
+        <p ><strong>由于近期发现有一些辅导机构使用阿秀辛苦整理的面试真题制成视频进行<font style = "color:red">牟利和哄骗一些小白报班</font>，这违背了我开源该仓库的初衷。</strong></p>
+    </div> 
 
 **思虑再三，现在决定不再提供md格式的仓库文件了，只提供  [PDF 版本的下载方式](#download)，还望海涵抱歉。**
 
@@ -81,10 +83,13 @@ PDF 内容预览：
 
 <a name="公众号"></a>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" />
+    <p>个人公众号</p>
+</div>
+
+也欢迎添加阿秀个人微信 [aXiu_go](#个人微信) 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
 
 
-也欢迎添加阿秀个人微信 [coderxiu1](#个人微信) 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
 
 <a id="work"></a>
 
@@ -113,11 +118,11 @@ PDF 内容预览：
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.7/202104/字节内推二维码.jpg" style="zoom:30%;" /></div>
 投递进度查询：  https://job.bytedance.com/society/position/application （电脑打开）
 
-**微信咨询**：coderxiu1  (加人请备注“**字节内推**”，否则不予通过，见谅哈)
+**微信咨询**：aXiu_go  (加人请备注“**字节内推**”，否则不予通过，见谅哈)
 
 <a name="个人微信">阿秀微信二维码</a>
 
-<div align="center"><img src="https://gitee.com/ForthEspada/image/raw/master/20210428173214.jpg"  style="zoom:50%;" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png"  style="zoom:50%;" /></div>
 
 #### 2、 携程
 
