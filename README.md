@@ -22,19 +22,31 @@
         </p>
 
 
-# <b><details><summary> :book:仓库事宜与:orange_book:PDF下载方式</summary>
-
-:book:仓库事宜
+<b><details><summary> :book:仓库事宜</summary></b>
 
 🙏 本仓库脱胎于阿秀 **2021** 年秋招时期总结的面试笔记，我自己也是凭借这份笔记成功体验到一份 **offer 收割机** 的快乐，阿秀秋招总结可看[秋招总结文章](https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q)，现将个人笔记整理开源出来，造福每位像我这样的渣渣~
 
-由于本人水平有限，仓库内容如有错误，欢迎提交 **issue**或者直接联系本人，个人微信 [aXiu_go](#个人微信)或者邮件告知： **coderaxiu@163.com** ，虚心接受每一位好心人的建议与意见。
+由于本人水平有限，仓库内容如有错误，欢迎提交 **issue**或者邮件告知： **coderaxiu@163.com** ，虚心接受每一位好心人的建议与意见。
 
 另仓库中的全部知识点均来自本人学习总结、读书笔记、经典书籍、网络博文等，阿秀已经尽自己最大能力找到当时搜集面试题时的出处并注明了。如有遗漏与侵权，请 **issue** 提出，感激不尽。
 
 转载请注明出处，不得用于商业目的。
 
+:orange_book: PDF下载方式
+
+请扫描下方个人公众号『**拓跋阿秀**』后，回复关键字『**PDF**』，即可下载**最新 PDF 版本面试指南**。
+
+<a name="公众号"></a>
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" />
+    <p>个人公众号</p>
+</div>
+
+也欢迎添加阿秀个人微信 [aXiu_go](#个人微信) 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
+
 </details>
+
+
 
 
 
