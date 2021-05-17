@@ -22,9 +22,9 @@
         </p>
 
 
-<b><details><summary> :orange_book: PDF下载方式</summary></b>
-
 <a name="download"></a>
+
+# <b><details><summary> :orange_book: PDF下载方式</summary></b>
 
 :orange_book: PDF下载方式
 
@@ -67,7 +67,7 @@
 
 # ⚠注意事项
 
-1、由于网页端最多能容纳的字符有限，因此本文档在该界面端显示不全，推荐下载PDF版本进行复习，[PDF下载方式](#download)
+1、由于网页端最多能容纳的字符有限，因此本文档在该界面端显示不全，推荐下载PDF版本进行复习，PDF下载方式
 
 2、点击下列目录直接跳转所在类别，但有时跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的面试常见问题都在本页面。
 
