@@ -24,7 +24,7 @@
 
 # <b><details><summary> :book:仓库事宜与:orange_book:PDF下载方式</summary>
 
-#  :book:仓库事宜
+:book:仓库事宜
 
 🙏 本仓库脱胎于阿秀 **2021** 年秋招时期总结的面试笔记，我自己也是凭借这份笔记成功体验到一份 **offer 收割机** 的快乐，阿秀秋招总结可看[秋招总结文章](https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q)，现将个人笔记整理开源出来，造福每位像我这样的渣渣~
 
@@ -34,7 +34,7 @@
 
 转载请注明出处，不得用于商业目的。
 
-# :orange_book: PDF下载方式
+:orange_book: PDF下载方式
 
 请扫描下方个人公众号『**拓跋阿秀**』后，回复关键字『**PDF**』，即可下载**最新 PDF 版本面试指南**。
 
@@ -56,7 +56,6 @@
     <div align="left">
         <p ><strong>近期发现有某个辅导机构使用阿秀辛苦整理的面试真题制成视频进行<font style = "color:red">牟利和哄骗一些小白报班</font>，这违背了我开源该仓库的初衷。</strong></p>
     </div> 
-
 **思虑再三，现在决定不再提供md格式的仓库文件了，只提供  [PDF 版本的下载方式](#download)，还望海涵抱歉。**
 
 -->
