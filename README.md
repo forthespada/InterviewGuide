@@ -34,17 +34,6 @@
 
 转载请注明出处，不得用于商业目的。
 
-:orange_book: PDF下载方式
-
-请扫描下方个人公众号『**拓跋阿秀**』后，回复关键字『**PDF**』，即可下载**最新 PDF 版本面试指南**。
-
-<a name="公众号"></a>
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" />
-    <p>个人公众号</p>
-</div>
-也欢迎添加阿秀个人微信 [aXiu_go](#个人微信) 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
-
 </details>
 
 
