@@ -22,7 +22,7 @@
         </p>
 
 
-# <b><details><summary> :book:仓库事宜与PDF下载方式</summary></b>
+# <b><details><summary> :book:仓库事宜与:orange_book:PDF下载方式</summary>
 
 #  :book:仓库事宜
 
@@ -43,13 +43,11 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" />
     <p>个人公众号</p>
 </div>
-
-
-
-
 也欢迎添加阿秀个人微信 [aXiu_go](#个人微信) 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
 
 </details>
+
+
 
 <!--
 
