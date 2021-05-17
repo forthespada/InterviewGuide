@@ -26,7 +26,7 @@
 
 :orange_book: PDF下载方式
 
-请扫描下方个人公众号『**拓跋阿秀**』后，回复关键字『**PDF**』，即可下载**最新 PDF 版本面试指南**。
+请扫描下方个人公众号『**拓跋阿秀**』后，回复关键字『**PDF**』，即可下载该面试指南的**最新 PDF 版本**。
 
 <a name="公众号"></a>
 
@@ -35,6 +35,8 @@
 </div>
 
 也欢迎添加阿秀个人微信 [aXiu_go](#个人微信) 拉你进大佬交流群，拥抱IT时代，享受技术带给我们的全新生活，期待你的到来。
+
+
 
 🙏 本仓库脱胎于阿秀 **2021** 年秋招时期总结的面试笔记，我自己也是凭借这份笔记成功体验到一份 **offer 收割机** 的快乐，阿秀秋招总结可看[秋招总结文章](https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q)，现将个人笔记整理开源出来，造福每位像我这样的渣渣~
 
@@ -75,7 +77,7 @@
   - 1.1.1、[阿秀个人简历修改案例](#firstfirstfirst)
   
   - 1.1.2、[多用一些简历网站](#firstfirstfirstsecond)
-  - 1.1.3、[投递简历的三种方式](firstfirstfirstthird)
+  - 1.1.3、[投递简历的三种方式](firstfirstthird)
   
 - 1.2、[了解校招](#firstsecond)
   - 1.2.1、[求职术语科普](#firstsecondfirst)
@@ -85,7 +87,7 @@
   
 - 1.3、[C++岗位](#firstthird)
 
-2、🍖知识储备
+2、🍖[知识储备](#second)
 
 - 2.1、[C/C++](#secondfirst)
   - 2.1.1、[基础语法](#secondfirstfirst)
@@ -95,7 +97,7 @@
   - 2.1.5、[其余问题](#secondfirstfivth)
 - 2.2、[数据结构与算法](#secondsecond)
 - 2.3、[操作系统](#secondthird)
-- 2.4、[计算机网络](#secondfoth)
+- 2.4、[计算机网络](#secondforth)
 - 2.5、[MySQL](#secondfivth)
 - 2.6、[Redis](#secondsixth)
 - 2.7、[常见智力题](#secondseventh)
@@ -104,11 +106,25 @@
 
 3、:grin:[优质面经](#third)
 
+- 3.1、[双非渣硕的秋招之路总结（已拿抖音研发岗SP)](#thirdfirst)
+- 3.2、[百折不挠，最终成功上岸](#thirdsecond)
+- 3.3、[双非本科大三学弟连斩腾讯字节](#thirdthird)
+
 4、:dog:[免费资源](#forth)
+
+- 4.1、[刷题笔记(支持Java、C++、Golang三种语言)](#forthfirst)
+
+- 4.2、[我可能是推荐该项目的第一人](#forthsecond)
+
+- 4.3、[其余项目推荐](#forththird)
 
 5、:airplane: [内推信息](#fivth)
 
-6、:moneybag: [赞赏](#sixth)
+- 5.1、[字节跳动](#fivthfirst)
+- 5.2、[携程](#fivthsecond)
+- 5.3、[其余公司](#fivththird)
+
+6、:moneybag: [赞赏](#money)
 
 
 
@@ -297,7 +313,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.4.4/202103/职徒简历七天会员邀请二维码.jpg" style="zoom:50%;" />
 
-<a id="firstfirstfirstthird"></a>
+<a id="firstfirstthird"></a>
 
 ### 1.1.3、投递简历的三种方式
 
@@ -11617,7 +11633,7 @@ MySQL binlog增量发布订阅消费+消息队列+增量数据更新到Redis
 
 <a id="secondseventh"></a>
 
-## 2.7、常见智力题题
+## 2.7、常见智力题
 
 #### 1、三人三鬼过桥
 
@@ -12784,17 +12800,11 @@ HR们会养备胎，你也可以多拿几个offer ，算是给自己多养几个
 
 # 3、优质面经
 
-原文链接
-
-- [阿秀个人秋招总结文章：双非渣硕的秋招之路总结（已拿抖音研发岗SP)](#面经1)
-- [朋友先后折戟腾讯、字节、快手、网易、滴滴、深信服后，终于成功上岸了](#面经2)
-- [虚度大一一年又如何，双非本科大三学弟连斩腾讯字节](#面经3)
-
-
+<a id="thirdfirst"></a>
 
 ## 3.1、阿秀个人秋招总结文章：双非渣硕的秋招之路总结（已拿抖音研发岗SP)
 
->首发于个人公众号上，原文链接：https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q
+>首发于个人公众号「拓跋阿秀」上，原文链接：https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q
 
 **前言**
 
@@ -13063,17 +13073,15 @@ HR们会养备胎，你也可以多拿几个offer ，算是给自己多养几个
 
 
 
+<a id="thirdsecond"></a>
 
+## 3.2、朋友先后折戟腾讯、字节、快手、网易、滴滴、深信服后，终于成功上岸了
 
-## 3.2、朋友先后折戟腾讯、字节、快手、网易、滴滴、深信服后，终于成功上岸了</a>
-
-> 首发于个人公众号上，原文链接：https://mp.weixin.qq.com/s/MsaAr1ofstCgxqs749W1wg
+> 首发于个人公众号「拓跋阿秀」上，原文链接：https://mp.weixin.qq.com/s/MsaAr1ofstCgxqs749W1wg
 
 <div>
     <p style="background-color: #FFFFFF;font-weight: bold;"  >大家好，我是阿秀</p>
 </div>
-
-
 阿秀粉丝群里一位小伙伴顺利上岸百度实习岗了，把他的经历分享给大家！
 
 >本文发布相关内容，已取得粉丝本人同意~
@@ -13175,17 +13183,15 @@ HR们会养备胎，你也可以多拿几个offer ，算是给自己多养几个
 
 
 
-
+<a id="thirdthird"></a>
 
 ## 3.3、虚度大一一年又如何，双非本科大三学弟连斩腾讯字节
 
->首发于个人公众号，原文链接：https://mp.weixin.qq.com/s/IsuN7Wo8AyC_FFwXJdU7fg
+>首发于个人公众号「拓跋阿秀」上，原文链接：https://mp.weixin.qq.com/s/IsuN7Wo8AyC_FFwXJdU7fg
 
 <div>
     <p style="background-color: #FFFFFF;font-weight: bold;"  >大家好，我是阿秀。</p>
 </div>
-
-
 最近很开心鸭，因为不少粉丝朋友都来找我报喜，真心替他们感到高兴！
 
 有通过自己的努力艰难爬坑社招去长沙多益做游戏开发的，也有校招实习去腾讯 WXG 部门的，还有去字节抖音的，真的太牛逼了。
@@ -13436,11 +13442,13 @@ NBA已故球星科比的名言就很好：总有人要赢得，为什么不能�
 
 
 
-
+<a id="forth"></a>
 
 # 4、免费资源
 
 阿秀学长自己收集了一些不错的资料可以送给大家，大家可以按照自己的情况自行取用~
+
+<a id="forthfirst"></a>
 
 ## 4.1、支持Java、C++、Go三种语言的刷题笔记
 
@@ -13505,6 +13513,8 @@ NBA已故球星科比的名言就很好：总有人要赢得，为什么不能�
 阿秀学长已经替大家把这三本书都下载好了，需要的小伙伴去阿秀学长的个人公众号「拓跋阿秀」或者扫描下方二维码，回复「**02**」即可获取。
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
+
+<a id="forthsecond"></a>
 
 ## 4.2、推荐一个可以写在简历上的 C++ 项目，放心，不是 Web 服务器
 
@@ -13597,9 +13607,9 @@ github地址：https://github.com/youngyangyang04/Skiplist-CPP
 
 
 
+<a id="forththird"></a>
+
 ## 4.3、其余项目推荐
-
-
 
 我这两天花时间整理了一下，推荐几个个人觉得还不错的 C++项目吧，由易到难。
 
@@ -13712,37 +13722,7 @@ MyTinySTL这个项目把我想的做了，它是基于 C++11的  TinySTL，其�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a id="work"></a>
+<a id="fivth"></a>
 
 # 5​、:airplane: 内推信息
 
@@ -13756,7 +13736,9 @@ MyTinySTL这个项目把我想的做了，它是基于 C++11的  TinySTL，其�
 
 4、互联网人人内推的时代，你不内推不就亏了，大家都内推，你不去内推...这就好像幼儿园考试，每个孩子都有一朵大红花，而你没有，嗯，你亏了。
 
-## 1、字节跳动
+<a id="fivthfirst"></a>
+
+## 5.1、字节跳动
 
 字节跳动大量招募新同学！本次招聘包含 **暑期实习**和 **全职补录** 两类岗位，职位类别涵盖研发、产品、运营、设计、市场、 销售、职能/支持、教研教学、 游戏策划等多个方向。
 
@@ -13776,7 +13758,9 @@ MyTinySTL这个项目把我想的做了，它是基于 C++11的  TinySTL，其�
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/阿秀个人微信无汉字2.png"  style="zoom:50%;" /></div>
 
-## 2、 携程
+<a id="fivthsecond"></a>
+
+## 5.2、 携程
 
 携程招聘开始了，有想去携程工作的小伙伴欢迎使用内推码投递简历哦。
 内推可以优先筛选简历，可以更快速被HR看到！ 个人携程内推码【 **NTJi8576**】，也欢迎大家联系我跟进面试进度！ 
@@ -13787,17 +13771,21 @@ MyTinySTL这个项目把我想的做了，它是基于 C++11的  TinySTL，其�
 
 **微信咨询**：Coder_XZ (加人请备注“**携程内推**”，否则不予通过哈，见谅！)
 
+<a id="fivththird"></a>
+
 ## 3、其余公司
 
 其余公司内推信息正在整理ing 
 
-# 6、:moneybag: 赞赏
+
 
 <a id="money"></a>
+
+# 6、:moneybag: 赞赏
 
 <div align=right>
     <p>一个好的项目离不开每一位小伙伴的支持.</p><p>如果 <strong>InterviewGuide</strong> 有帮助到你拿到不错的offer，请阿秀喝杯奶茶吧！谢谢！</p>
 <figure class="half">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" alt="谢谢赞赏" style="right;zoom: 26%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png" alt="谢谢赞赏" style="right;zoom: 25%;" />
+    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" alt="谢谢赞赏" style="right;zoom: 46%;" />
+                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png" alt="谢谢赞赏" style="right;zoom: 44%;" />
                                                                                                                          </figure></div>
