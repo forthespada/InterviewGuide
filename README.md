@@ -6,9 +6,10 @@
     <p>一个收录优质计算机校招、社招面试常见面试题的仓库，我管它叫<strong>《InterviewGuide》</strong>，以前它叫做<strong>《逆袭进大厂》</strong>。
      </br>
     <br>目前已收录 <strong>C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis </strong>等面试资料，未来打算继续收录<strong>Java、Python、Go</strong>等面试常见问题，坚持将此仓库维护下去。</p>
-  <br> <strong>👍推荐<a href="http://interviewguide.cn/#/">在线阅读</a></strong> (速度快，排版清晰)
- <br> <strong>👍推荐<a href="https://github.com/forthespada/CS-Books">免费白嫖1000本经典计算机 PDF 电子书</a></strong> 
+  <br> <strong>👍推荐<a href="http://interviewguide.cn/#/">在线阅读</a></strong> (速度快，排版清晰)<br>
+ <br> <strong>👍推荐<a href="https://github.com/forthespada/CS-Books">免费白嫖1000本经典计算机 PDF 电子书</a></strong> <br>
     </div> 
+
 
 <p align="center">
     <a href="#个人微信"><img src="https://img.shields.io/badge/WeChat-微信群-blue.svg" alt="微信群"></a>
