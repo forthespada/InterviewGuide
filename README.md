@@ -72,6 +72,8 @@
 
 1、点击下列目录直接跳转所在类别，但有时跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，或者[直接去在线版网站学习](http://interviewguide.cn/#/)即可
 
+
+
 **🍵 校招准备**
 
 - [简历很重要](Doc/Prepare/简历很重要.md)
@@ -92,8 +94,8 @@
 - **算法**
   - [算法基础](Doc/Knowledge/算法/算法基础/十大排序.md)
   - [高频面试真题](Doc/Knowledge/算法/精选高频面试题/精选高频面试题.md)
-  - [带你快速刷完67道剑指offer](Doc/Knowledge\算法/带你快速刷完67道剑指offer/README.md)
-  - [精选300+LeetCode题解](Knowledege/算法/)
+  - [带你快速刷完67道剑指offer](Doc/Knowledge/算法/带你快速刷完67道剑指offer/README.md)
+  - [精选300+LeetCode题解](Doc/Knowledge/算法/LeetCode题解/README.md)
 
 - **[操作系统](Doc/Knowledge/操作系统/操作系统.md)**
 
@@ -157,7 +159,6 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
     <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 55%;" />
                                                                                                                         <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 52%;" />
                                                                                                                          </figure></div>
-
 
 
 
