@@ -1,4 +1,7 @@
 >如果你需要本部分知识点的**PDF版本**，可以[**点此下载**](Doc/免费资源/逆袭进大厂PDF/Download.md)。
+>
+
+<p  id="什么是stl"></p>
 
 #### 1、什么是STL？
 
@@ -10,7 +13,7 @@ C++ STL从广义来讲包括了三类：算法，容器和迭代器。
 
 
 
-
+<p  id="解释一下什么是trivialdestructor"></p>
 
 #### 2、解释一下什么是trivial destructor
 
@@ -26,7 +29,7 @@ C++ STL从广义来讲包括了三类：算法，容器和迭代器。
 
 也就是说，在实际的应用当中，STL库提供了相关的判断方法**__type_traits**，感兴趣的读者可以自行查阅使用方式。除了trivial destructor，还有trivial construct、trivial copy construct等，如果能够对是否trivial进行区分，可以采用内存处理函数memcpy()、malloc()等更加高效的完成相关操作，提升效率。
 
-
+<p  id="使用智能指针管理内存资源"></p>
 
 #### 3、使用智能指针管理内存资源，RAII是怎么回事？
 
@@ -42,7 +45,7 @@ C++ STL从广义来讲包括了三类：算法，容器和迭代器。
 
 
 
-
+<p  id="迭代器itit哪个好为什么"></p>
 
 #### 4、迭代器：++it、it++哪个好，为什么
 
@@ -73,7 +76,9 @@ int temp = *this;
 } 
 ~~~
 
- 
+
+
+<p  id="说一下左值引用和右值引用"></p>
 
 #### 5、说一下C++左值引用和右值引用
 
@@ -147,7 +152,7 @@ int main() {
 }
 ```
 
-
+<p  id="hashtable的实现"></p>
 
 #### 6、STL中hashtable的实现？
 
@@ -159,9 +164,9 @@ hashtable中的bucket所维护的list既不是list也不是slist，而是其自�
 
 在hashtable设计bucket的数量上，其内置了28个质数[53, 97, 193,...,429496729]，在创建hashtable时，会根据存入的元素个数选择大于等于元素个数的质数作为hashtable的容量（vector的长度），其中每个bucket所维护的linked-list长度也等于hashtable的容量。如果插入hashtable的元素个数超过了bucket的容量，就要进行重建table操作，即找出下一个质数，创建新的buckets vector，重新计算元素在新hashtable的位置。
 
+<p  id="简单说一下traits技法"></p>
 
-
-#### 7、简单说一下STL中的traits技法
+#### 7、简单说一下traits技法
 
 traits技法利用“内嵌型别“的编程技巧与**编译器的template参数推导功能**，增强C++未能提供的关于型别认证方面的能力。常用的有iterator_traits和type_traits。
 
@@ -207,7 +212,7 @@ template<> struct __type_traits<Shape>{
 };
 ```
 
-
+<p   id="的两级空间配置器"></p>
 
 #### 8、STL的两级空间配置器
 
@@ -280,7 +285,7 @@ GC4.9之后就没有第一级了，只有第二级
 
 allocate函数：如果要分配的内存大于128字节，就转用第一级分配器，否则也就是小于128字节。那么首先判断落在第几号链表，定位到了，先判断链表是不是空，如果是空就需要充值，（调节到8的倍数，默认一次申请20个区块，当然了也要判断20个是不是能够申请到，如果只申请到一个那就直接返回好了，不止一个的话，把第2到第n个挨个挂到当前链表上，第一个返回回去给容器用,n是不大于20的，当然了如果不在1-20之间，那就是内存碎片了，那就先把碎片挂到某一条链表上，然后再重新malloc了，malloc  2*20个块）去内存池去拿或者重新分配。不为空的话
 
-
+<p  id="vector与list的区别与应用怎么找某vector或者list的倒数第二个元素"></p>
 
 #### 9、 vector与list的区别与应用？怎么找某vector或者list的倒数第二个元素
 
@@ -300,7 +305,7 @@ int mySize = vec.size();vec.at(mySize -2);
 
 list不提供随机访问，所以不能用下标直接访问到某个位置的元素，要访问list里的元素只能遍历，不过你要是只需要访问list的最后N个元素的话，可以用反向迭代器来遍历：
 
-
+<p  id="vector删除其中的元素迭代器如何变化"></p>
 
 #### 10、STL 中vector删除其中的元素，迭代器如何变化？为什么是两倍扩容？释放空间？
 
@@ -332,7 +337,7 @@ size()函数返回的是已用空间大小，capacity()返回的是总空间大�
 
  对比可以发现采用采用成倍方式扩容，可以保证常数的时间复杂度，而增加指定大小的容量只能达到O(n)的时间复杂度，因此，使用成倍的方式扩容。
 
- 
+<p  id="如何释放空间"></p>
 
 #### 11、Vector如何释放空间?
 
@@ -345,7 +350,7 @@ vector(Vec).swap(Vec); //将Vec的内存清除；
 vector().swap(Vec); //清空Vec的内存；
 ~~~
 
-
+<p  id="容器内部删除一个元素"></p>
 
 #### 12、容器内部删除一个元素
 
@@ -361,7 +366,7 @@ erase迭代器只是被删除元素的迭代器失效，但是返回值是void�
 
 c.erase(it++)
 
-
+<p  id="迭代器如何实现"></p>
 
 #### 13、STL迭代器如何实现
 
@@ -371,7 +376,7 @@ c.erase(it++)
 
 3、最常用的迭代器的相应型别有五种：value type、difference type、pointer、reference、iterator catagoly;
 
-
+<p  id="set是怎么实现的红黑树"></p>
 
 #### 14、map、set是怎么实现的，红黑树是怎么能够同时实现这两种容器？ 为什么使用红黑树？
 
@@ -381,7 +386,7 @@ c.erase(it++)
 
 3)  因为map和set要求是自动排序的，红黑树能够实现这一功能，而且时间复杂度比较低。
 
-
+<p  id="如何在共享内存上使用标准库"></p>
 
 #### 15、如何在共享内存上使用STL标准库？
 
@@ -401,7 +406,7 @@ c.erase(it++)
 
 进程B知道如何获取该保存了地址映射的map容器，然后同样再根据名字取得其他容器的地址。
 
-
+<p  id="map插入方式有哪几种"></p>
 
 #### 16、map插入方式有哪几种？
 
@@ -423,7 +428,7 @@ mapStudent.insert(make_pair(1, "student_one"));
 mapStudent[1] = "student_one"; 
 ~~~
 
-
+<p  id="hashmap如何解决冲突以及扩容"></p>
 
 #### 17、STL中unordered_map(hash_map)和map的区别，hash_map如何解决冲突以及扩容
 
@@ -445,7 +450,7 @@ mapStudent[1] = "student_one";
 
 9)  **扩容(resize)**就是重新计算容量，向HashMap对象里不停的添加元素，而HashMap对象内部的数组无法装载更多的元素时，对象就需要扩大数组的长度，以便能装入更多的元素。
 
-
+<p  id="vector越界访问下标map越界访问下标vector删除元素时会不会释放空间"></p>
 
 #### 18、vector越界访问下标，map越界访问下标？vector删除元素时会不会释放空间？
 
@@ -459,7 +464,7 @@ erase成员函数，它删除了itVect迭代器指向的元素，并且返回要
 
 >update1:感谢微信好友“猿六学算法”指出错误，已修正！
 
-
+<p  id="map中与find的区别"></p>
 
 #### 19、map中[]与find的区别？
 
@@ -467,7 +472,7 @@ erase成员函数，它删除了itVect迭代器指向的元素，并且返回要
 
 2) map的find函数：用关键码执行查找，找到了返回该位置的迭代器；如果不存在这个关键码，就返回尾迭代器。
 
-
+<p  id="list与queue之间的区别"></p>
 
 #### 20、 STL中list与queue之间的区别
 
@@ -483,7 +488,7 @@ erase成员函数，它删除了itVect迭代器指向的元素，并且返回要
 
 6) deque和vector最大的差异，一在于deque允许常数时间内对起头端进行元素的插入或移除操作，二在于deque没有所谓容量概念，因为它是动态地以分段连续空间组合而成，随时可以增加一段新的空间并链接起来，deque没有所谓的空间保留功能。
 
-
+<p  id="allocatordeallocator"></p>
 
 #### 21、STL中的allocator、deallocator
 
@@ -495,7 +500,7 @@ erase成员函数，它删除了itVect迭代器指向的元素，并且返回要
 
 4) 空间释放函数deallocate()，该函数首先判断区块大小，大于128bytes时，直接调用一级配置器，小于128bytes就找到对应的free-list然后释放内存。
 
-
+<p  id="hashmap扩容发生什么"></p>
 
 #### 22、STL中hash_map扩容发生什么？ 
 
@@ -503,7 +508,7 @@ erase成员函数，它删除了itVect迭代器指向的元素，并且返回要
 
 2)   向前操作：首先尝试从目前所指的节点出发，前进一个位置（节点），由于节点被安置于list内，所以利用节点的next指针即可轻易完成前进操作，如果目前正巧是list的尾端，就跳至下一个bucket身上，那正是指向下一个list的头部节点。
 
-
+<p  id="常见容器性质总结"></p>
 
 #### 23、常见容器性质总结？
 
@@ -541,7 +546,9 @@ deque是一个双端队列(double-ended queue)，也是在堆中保存内容的.
 
 14.unordered_multimap 底层数据结构为hash表，无序，可重复 
 
- 
+
+
+<p   id="vector的增加删除都是怎么做的为什么是或者是倍"></p>
 
 #### 24、vector的增加删除都是怎么做的？为什么是1.5或者是2倍？
 
@@ -569,7 +576,7 @@ deque是一个双端队列(double-ended queue)，也是在堆中保存内容的.
 
 6)  不同的是：采用remove一般情况下不会改变容器的大小，而pop_back()与erase()等成员函数会改变容器的大小。
 
-
+<p  id="每种容器对应的迭代器"></p>
 
 #### 25、说一下STL每种容器对应的迭代器
 
@@ -580,7 +587,7 @@ deque是一个双端队列(double-ended queue)，也是在堆中保存内容的.
 | list、(multi)set/map                   | 双向迭代器     |
 | unordered_(multi)set/map、forward_list | 前向迭代器     |
 
-
+<p  id="迭代器失效的情况有哪些"></p>
 
 #### 26、STL中迭代器失效的情况有哪些？
 
@@ -608,7 +615,7 @@ unordered_(hash) 迭代器意义不大, rehash之后, 迭代器应该也是全�
 
 
 
-
+<p  id="vector的实现"></p>
 
 #### 27、STL中vector的实现
 
@@ -656,7 +663,7 @@ int main()
 
 需要注意的是，频繁对vector调用push_back()对性能是有影响的，这是因为每插入一个元素，如果空间够用的话还能直接插入，若空间不够用，则需要重新配置空间，移动数据，释放原空间等操作，对程序性能会造成一定的影响
 
-
+<p  id="slist的实现"></p>
 
 #### 28、STL中slist的实现
 
@@ -743,7 +750,7 @@ int main()
 
 需要注意的是C++标准委员会没有采用slist的名称，forward_list在C++ 11中出现，它与slist的区别是没有size()方法。
 
-
+<p  id="list的实现"></p>
 
 #### 29、STL中list的实现
 
@@ -769,7 +776,7 @@ list的空间管理默认采用alloc作为空间配置器，为了方便的以�
 
 由于list的双向特性，其支持在头部（front)和尾部（back)两个方向进行push和pop操作，当然还支持erase，splice，sort，merge，reverse，sort等操作，这里不再详细阐述。
 
-
+<p  id="deque的实现"></p>
 
 #### 30、STL中的deque的实现
 
@@ -825,7 +832,7 @@ struct __deque_iterator
 
 deque迭代器的“++”、“--”操作是远比vector迭代器繁琐，其主要工作在于缓冲区边界，如何从当前缓冲区跳到另一个缓冲区，当然deque内部在插入元素时，如果map中node数量全部使用完，且node指向的缓冲区也没有多余的空间，这时会配置新的map（2倍于当前+2的数量）来容纳更多的node，也就是可以指向更多的缓冲区。在deque删除元素时，也提供了元素的析构和空闲缓冲区空间的释放等机制。
 
-
+<p  id="stack和queue的实现"></p>
 
 #### 31、STL中stack和queue的实现
 
@@ -887,7 +894,7 @@ public:
 
 同样，queue也可以使用list作为底层容器，不具有遍历功能，没有迭代器。
 
-
+<p  id="heap的实现"></p>
 
 #### 32、STL中的heap的实现
 
@@ -968,7 +975,7 @@ int main()
 }
 ```
 
-
+<p  id="priorityqueue的实现"></p>
 
 #### 33、STL中的priority_queue的实现
 
@@ -1031,7 +1038,7 @@ int main()
 }
 ```
 
-
+<p  id="set的实现"></p>
 
 #### 34、STL中set的实现？
 
@@ -1097,7 +1104,7 @@ int main()
 
 关联式容器尽量使用其自身提供的find()函数查找指定的元素，效率更高，因为STL提供的find()函数是一种顺序搜索算法。 
 
-
+<p  id="map的实现"></p>
 
 #### 35、STL中map的实现
 
@@ -1187,7 +1194,7 @@ pair第一个元素是迭代器，指向当前插入的新元素，如果插入�
 
 由于这个实值是以引用方式传递，因此作为左值或者右值都可以
 
-
+<p  id="set和map的区别multimap和multiset的区别"></p>
 
 #### 36、set和map的区别，multimap和multiset的区别
 
@@ -1231,7 +1238,7 @@ multimap和map的唯一区别就是：multimap调用的是红黑树的insert_equ
 
   3、查找时间一定可以控制在O(logn)。 
 
-  
+<p  id="unorderedmap和map的区别和应用场景"></p>
 
 #### **37、STL中unordered_map和map的区别和应用场景**
 
@@ -1241,7 +1248,7 @@ multimap和map的唯一区别就是：multimap调用的是红黑树的insert_equ
 
   从两者的底层机制和特点可以看出：map适用于有序数据的应用场景，unordered_map适用于高效查询的应用场景
 
-  
+<p  id="hashtable中解决冲突有哪些方法"></p>
 
 #### **38、hashtable中解决冲突有哪些方法？**
 
