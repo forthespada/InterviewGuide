@@ -1,7 +1,8 @@
-<p align="center">
-<a href="https://github.com/forthespada/InterviewGuider" target="_blank">
-	<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.8/202104/LOGO.png" width="300"/>
-</a>
+<h1 align="center">
+<a href="https://github.com/forthespada/InterviewGuider" target="_blank"> 
+    📔阿秀的校招笔记  
+</a></h1>
+
     <div align="left">
     <p>一个收录优质计算机校招、社招面试常见面试题的仓库，我管它叫<strong>《InterviewGuide》</strong>，以前它叫做<strong>《逆袭进大厂》</strong>。
      </br>
@@ -10,6 +11,13 @@
  <br> <strong>👍推荐<a href="https://github.com/forthespada/CS-Books">免费白嫖1000本经典计算机 PDF 电子书</a></strong> <br>
     </div> 
 
+
+
+<!--
+
+​	<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.8/202104/LOGO.png" width="300"/>
+
+-->
 
 <p align="center">
     <br>
@@ -147,7 +155,6 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 - [其余公司](Doc/Other/内推信息/内推信息.md#其余公司)
 
 <p id="money"></p>
-
 **🐼 [关于阿秀](Doc/Other/ContactMe.md)**
 
 
