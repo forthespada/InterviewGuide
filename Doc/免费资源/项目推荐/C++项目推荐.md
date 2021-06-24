@@ -12,7 +12,7 @@
 
 **写在前面**
 
-该项目需要你有一定的 Redis 基础，如果Redis水平不好的话，最好先去看一下《 Redis设计与实现》和《Redis这两本书》，当当和京东 均有售。
+该项目需要你有一定的 Redis 基础，如果Redis水平不好的话，最好先去看一下《 Redis设计与实现》和《Redis实战》这两本书，当当和京东 均有售。
 
 如果需要这两本书的 PDF 版本的话，可以看一下这个电子书仓库，里面经典的计算机专业数据很多：https://github.com/forthespada/CS-Books
 
@@ -78,7 +78,6 @@ github地址：https://github.com/youngyangyang04/Skiplist-CPP
 需要该项目的的小伙伴可以去阿秀学长的个人公众号「拓跋阿秀」或者扫描下方二维码，回复「**跳表**」即可获取，我已经下载好啦。
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
-
 
 
 #### 2、推荐其余的C++项目
@@ -177,7 +176,6 @@ MyTinySTL这个项目把我想的做了，它是基于 `C++11` 的` tinySTL`，�
 需要该压缩包的的小伙伴可以去阿秀学长的个人公众号「**拓跋阿秀**」或者扫描下方二维码，回复「**项目**」即可获取。
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/公众号：拓跋阿秀.png" style="zoom:50%;" /></div>
-
 
 
 
