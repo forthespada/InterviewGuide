@@ -154,10 +154,11 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 - [携程](Doc/Other/内推信息/内推信息.md#携程)
 - [其余公司](Doc/Other/内推信息/内推信息.md#其余公司)
 
-<p id="money"></p>
+
+
 **🐼 [关于阿秀](Doc/Other/ContactMe.md)**
 
-
+<p id="money"></p>
 
 **🎅 友情赞助**
 
