@@ -2153,7 +2153,7 @@ public:
             }
             
         }
-        st.push(value);
+        //st.push(value); #这里应该删除
     }
     void pop() {
         st.pop();
@@ -2170,7 +2170,7 @@ public:
 };
 ~~~
 
-
+>感谢微信好友“Pikachuts”指出笔误，现在改正，多谢。-2021.06.11
 
 **二刷：**
 
