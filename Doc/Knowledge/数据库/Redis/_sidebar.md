@@ -1,7 +1,5 @@
 [返回](README.md)
 
-[MySQL](Doc/Knowledge/数据库/Redis/Redis.md)
-
 [1、听说过Redis吗？它是什么？](#听说过Redis吗它是什么)
 
 [2、Redis的五种数据结构整理](#Redis的五种数据结构整理)
