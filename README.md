@@ -1,7 +1,6 @@
 <p id="阿秀的校招笔记"></p>
 <h1 align="center">📔 阿秀的校招笔记</h1>
 
-
 **🍵 校招准备**
 
 - [简历很重要](Doc/Prepare/简历很重要/简历很重要.md)
@@ -12,10 +11,9 @@
 
 <p id="知识储备"></p>
 
-
 **🚀 知识储备**
 
-- [C/C++](Doc/Knowledge/C++/README.md)
+- [**C/C++**](Doc/Knowledge/C++/README.md)
   - [基础语法](Doc/Knowledge/C++/基础语法/基础语法.md)
   - [内存管理](Doc/Knowledge/C++/内存管理/内存管理.md)
   - [C++11新标准](Doc/Knowledge/C++/C++11新标准/C++11新标准.md)
@@ -52,7 +50,6 @@
 🍖 **[求职交流](Doc/Other/求职交流/求职交流.md#求职交流)**
 
 <p id="他人经验"></p>
-
 
 **🐝 他人经验**
 
