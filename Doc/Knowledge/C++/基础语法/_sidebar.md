@@ -1,4 +1,4 @@
-[返回](./README.md)
+[返回](Doc/Knowledge/C++/README.md)
 
 基础语法
 

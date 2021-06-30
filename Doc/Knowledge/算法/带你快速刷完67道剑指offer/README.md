@@ -1,6 +1,6 @@
-<h1 align="center">《带你快速刷完67道剑指offer》</h1>
-<p id="talksomething"></p>
-<p id="talksomething"></p>
+<p id="带你快速刷完67道剑指offer"></p>
+
+<h1 align="center">带你快速刷完67道剑指offer</h1>
 
 **前言**
 
@@ -29,7 +29,6 @@
 <br>
 
 <p id = "二维数组中的查找"></p>
-
 **No1、二维数组中的查找**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&&tqId=11154&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -214,7 +213,6 @@ bool findNumberIn2DArray(vector<vector<int>>& matrix, int target) {
 
 <p id = "替换空格"></p>
 
-
 **No2、替换空格**
 
  [牛客网原题链接](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&&tqId=11155&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -248,7 +246,6 @@ void replaceSpace(char *str,int length) {//int length是指当前的长度
 ~~~
 
 <p id ="从头到尾打印链表"></p>
-
 
 **No3、从尾到头打印链表**
 
@@ -301,7 +298,6 @@ vector<int> printListFromTailToHead(ListNode* head) {
 ~~~
 
 <p id = "重建二叉树"></p>
-
 
 **No4、重建二叉树**
 
@@ -395,7 +391,6 @@ TreeNode* reConstructBinaryTree(vector<int> pre, vector<int> vin) {
 
 <p id = "用两个栈来实现一个队列"></p>
 
-
 **No5、 用两个栈来实现一个队列**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&&tqId=11158&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -437,7 +432,6 @@ private:
 ~~~
 
 <p id = "旋转数组"></p>
-
 
 **No6、旋转数组**
 
@@ -543,7 +537,6 @@ int minNumberInRotateArray(vector<int> rotateArray) {
 
 <p id = "斐波那契数列"></p>
 
-
 **No7、斐波那契数列**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=13&&tqId=11160&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -630,7 +623,6 @@ int Fibonacci(int n) {
 
 <p id = "跳台阶"></p>
 
-
 **No8、 跳台阶**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&&tqId=11161&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -694,7 +686,6 @@ int Fibonacci(int n) {
 
 <p id = "变态跳台阶"></p>
 
-
 **No9、变态跳台阶**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/22243d016f6b47f2a6928b4313c85387?tpId=13&&tqId=11162&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -755,7 +746,6 @@ int jumpFloorII(int number) {
 ~~~
 
 <p id = "矩阵覆盖"></p>
-
 
 **No10、矩阵覆盖**
 
@@ -822,7 +812,6 @@ int jumpFloorII(int number) {
 ~~~
 
 <p id = "二进制中1的个数"></p>
-
 
 **No11、二进制中1的个数** 
 
@@ -997,7 +986,6 @@ int  NumberOf1(int n) {
 
 <p id = "数值的整数次方"></p>
 
-
 **No12、数值的整数次方**  
 
 [牛客网原题链接](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&&tqId=11165&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -1115,7 +1103,6 @@ int  NumberOf1(int n) {
 ~~~
 
 <p id = "调整数组顺序使奇数位于偶数前面"></p>
-
 
 **No13、调整数组顺序使奇数位于偶数前面**
 
@@ -1263,7 +1250,6 @@ void reOrderArray(vector<int>& array) {
 
 <p id = "链表中倒数第k个结点"></p>
 
-
 **No14、 链表中倒数第k个结点**  
 
 [牛客网原题链接](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&&tqId=11167&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -1335,7 +1321,6 @@ ListNode* FindKthToTail(ListNode* pListHead, unsigned int k) {
 ~~~
 
 <p id = "反转链表"></p>
-
 
 **No15、反转链表**
 
@@ -1498,7 +1483,6 @@ ListNode* ReverseList(ListNode* pHead) {
 ~~~
 
 <p id = "合并两个有序链表"></p>
-
 
 **No16、合并两个有序链表**
 
@@ -1714,7 +1698,6 @@ ListNode* Merge(ListNode* pHead1, ListNode* pHead2)
 
 <p id = "树的子结构"></p>
 
-
 **No17、树的子结构**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/6e196c44c7004d15b1610b9afca8bd88?tpId=13&&tqId=11170&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -1791,7 +1774,6 @@ bool HasSubtreeCore(TreeNode* pRoot1, TreeNode* pRoot2){
 ~~~
 
 <p id = "二叉树的镜像"></p>
-
 
 **No18、二叉树的镜像**
 
@@ -1937,7 +1919,6 @@ void Mirror(TreeNode* pRoot) {
 ~~~
 
 <p id = "顺时针打印矩阵"></p>
-
 
 **No19、顺时针打印矩阵**
 
@@ -2125,7 +2106,6 @@ if (matrix.size() == 0 || matrix[0].size() == 0) return vector<int>();
 
 <p id = "包含min函数的栈"></p>
 
-
 **No20、包含min函数的栈**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/4c776177d2c04c2494f2555c9fcc1e49?tpId=13&&tqId=11173&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -2218,7 +2198,6 @@ public:
 ~~~
 
 <p id = "栈的压入弹出序列"></p>
-
 
 **No21、栈的压入弹出序列**
 
@@ -2344,7 +2323,6 @@ if (pushV.empty() || popV.empty() || pushV.size() != popV.size())
 
 <p id = "从上往下打印二叉树"></p>
 
-
 **No22、从上往下打印二叉树**
 
  [牛客网原题链接](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&&tqId=11175&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -2418,7 +2396,6 @@ if (pushV.empty() || popV.empty() || pushV.size() != popV.size())
 ~~~
 
 <p id = "二叉搜索树的后序遍历序列"></p>
-
 
 **No23、二叉搜索树的后序遍历序列**
 
@@ -2495,7 +2472,6 @@ bool VerifySquenceOfBSTCore(vector<int>& sequence, int start, int end) {
 ~~~
 
 <p id = "二叉树中和为某一值的路径"></p>
-
 
 **No24、二叉树中和为某一值的路径**
 
@@ -2669,7 +2645,6 @@ void FindPathCore(TreeNode*root,vector<vector<int>>&result,vector<int>temp,int s
 ~~~
 
 <p id = "复杂链表的复制"></p>
-
 
 **No25、复杂链表的复制**
 
@@ -3045,7 +3020,6 @@ public:
 
 <p id = "二叉搜索树与双向链表"></p>
 
-
 **No26、二叉搜索树与双向链表**
 
  [牛客网原题链接](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&&tqId=11179&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -3316,7 +3290,6 @@ TreeNode* Convert(TreeNode* pRootOfTree)
 
 <p id = "字符串的排列"></p>
 
-
 **No27、字符串的排列**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/fe6b651b66ae47d7acce78ffdd9a96c7?tpId=13&&tqId=11180&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -3500,7 +3473,6 @@ public:
 
 <p id = "数组中出现次数超过一半的数字"></p>
 
-
 **No28、数组中出现次数超过一半的数字**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/e8a1b01a2df14cb2b228b30ee6a92163?tpId=13&&tqId=11181&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -3612,7 +3584,6 @@ priority_queue<int,vector\<int>,less\<int>>
 ~~~
 
 <p id = "连续子数组的最大和"></p>
-
 
 **No30、连续子数组的最大和**
 
@@ -3729,7 +3700,6 @@ int FindGreatestSumOfSubArray(vector<int> array) {
 <p id = "整数中1出现的次数"></p>
 
 
-
 **No31、整数中1出现的次数（ 从1 到 n 中1出现的次数 ）**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&&tqId=11184&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -3840,7 +3810,6 @@ ACMer希望你们帮帮他,并把问题更加普遍化,可以很快的求出任�
 [力扣](https://leetcode-cn.com/problems/number-of-digit-one/submissions/)上有类似的题目
 
 <p id = "把数组排成最小的数"></p>
-
 
 
 **No32、把数组排成最小的数**
@@ -3956,7 +3925,6 @@ sort中的比较函数compare要声明为静态成员函数或全局函数，不
 <p id="丑数"></p>
 
 
-
 **No33、第N个丑数**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&&tqId=11186&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -4005,7 +3973,6 @@ int GetUglyNumber_Solution(int index) {
 ~~~
 
 <p id = "第一个只出现一次的字符"></p>
-
 
 **No34、第一个只出现一次的字符**
 
@@ -4088,7 +4055,6 @@ vector < int > result(58,0);
 ~~~
 
 <p id = "数组中的逆排序"></p>
-
 
 **No35、数组中的逆排序**
 
@@ -4374,7 +4340,6 @@ int InversePairs(vector<int> data) {
 <p id = "返回两个链表中的第一个公共节点"></p>
 
 
-
 **No36、返回两个链表中的第一个公共节点**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&&tqId=11189&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -4461,7 +4426,6 @@ ListNode* FindFirstCommonNode( ListNode* pHead1, ListNode* pHead2) {
 <p id = "统计一个数字在排序数组中出现的次数"></p>
 
 
-
 **No37、 统计一个数字在排序数组中出现的次数**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/70610bf967994b22bb1c26f9ae901fa2?tpId=13&&tqId=11190&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -4534,7 +4498,6 @@ int GetNumberOfK(vector<int> data, int k) {
 ~~~
 
 <p id = "二叉树的深度"></p>
-
 
 
 **No38、二叉树的深度**
@@ -4615,7 +4578,6 @@ int TreeDepth(TreeNode* pRoot)
 ~~~
 
 <p id = "平衡二叉树"></p>
-
 
 
 **No39、平衡二叉树**
@@ -4740,7 +4702,6 @@ bool IsBalanced_Solution(TreeNode* pRoot) {
 ~~~
 
 <p id = "数组中只出现一次的数字"></p>
-
 **No40、数组中只出现一次的数字**
 
  [牛客网原题链接](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&&tqId=11193&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -4867,7 +4828,6 @@ void FindNumsAppearOnce(vector<int> data,int* num1,int *num2) {
 ~~~
 
 <p id = "和为S的连续整数序列"></p>
-
 
 
 **No41、和为S的连续整数序列**
@@ -5002,7 +4962,6 @@ vector<vector<int>> findContinuousSequence(int target) {
 <p id = "和为S的两个数字"></p>
 
 
-
 **No42、和为S的两个数字**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&&tqId=11195&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -5113,7 +5072,6 @@ vector<int> FindNumbersWithSum(vector<int> array,int sum) {
 ~~~
 
 <p id = "左旋转字符串"></p>
-
 **No43、左旋转字符串**
 
  [牛客网原题链接](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&&tqId=11196&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -5192,7 +5150,6 @@ string LeftRotateString(string str, int n) {
 <p id = "反转单词序列"></p>
 
 
-
 **No44、反转单词序列**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/3194a4f4cf814f63919d0790578d51f3?tpId=13&&tqId=11197&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -5263,7 +5220,6 @@ string ReverseSentence(string str) {
 ~~~
 
 <p id = "扑克牌顺子"></p>
-
 
 
 **No45、扑克牌顺子**
@@ -5472,7 +5428,6 @@ if (numbers.size() <= 4) return false;
 <p id = "孩子们的游戏（圆圈中最后剩下的数）"></p>
 
 
-
 **No46、孩子们的游戏（圆圈中最后剩下的数）**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/f78a359491e64a50bce2d89cff857eb6?tpId=13&&tqId=11199&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -5618,7 +5573,6 @@ int LastRemaining_Solution(int n, int m)
 <p id = "求总和"></p>
 
 
-
 **No47、求1+2+3+...+N**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/7a0da8fc483247ff8800059e12d7caf1?tpId=13&&tqId=11200&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -5687,7 +5641,6 @@ int Sum_Solution(int n) {
 ~~~
 
 <p id = "求两个数相加"></p>
-
 
 
 **No48、求两个数相加**
@@ -5781,7 +5734,6 @@ int Add(int num1, int num2)
 ~~~
 
 <p id = "最小的K个数"></p>
-
 
 **No49、字符串转化为整数**
 
@@ -5985,7 +5937,6 @@ int StrToInt(string str) {
 ~~~
 
 <p id = "数组中重复的数字"></p>
-
 **No50、数组中重复的数字**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&&tqId=11203&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -6118,7 +6069,6 @@ bool duplicate(int numbers[], int length, int* duplication) {
 <p id = "构建乘积数组"></p>
 
 
-
 **No51、构建乘积数组**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/94a4d381a68b47b7a8bed86f2975db46?tpId=13&&tqId=11204&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -6216,7 +6166,6 @@ vector<int> multiply(const vector<int>& A) {
 ~~~
 
 <p id = "正则表达式匹配"></p>
-
 
 
 **No52、正则表达式匹配**
@@ -6417,7 +6366,6 @@ public:
 <p id = "表示数值的字符串"></p>
 
 
-
 **No53、表示数值的字符串**
 
  [牛客网原题链接](https://www.nowcoder.com/practice/6f8c901d091949a5837e24bb82a731f2?tpId=13&&tqId=11206&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -6535,7 +6483,6 @@ bool isNumeric(char* string)
 ~~~
 
 <p id = "字符流中第一个不重复的字符"></p>
-
 
 
 **No54、字符流中第一个不重复的字符**
@@ -6673,7 +6620,6 @@ public:
 <p id = "链表中环的入口结点"></p>
 
 
-
 **No55、链表中环的入口结点**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&&tqId=11208&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -6781,7 +6727,6 @@ ListNode* EntryNodeOfLoop(ListNode* pHead)
 ~~~
 
 <p id = "删除链表中的重复结点"></p>
-
 
 
 **No56、删除链表中的重复结点**
@@ -6990,7 +6935,6 @@ ListNode* deleteDuplication(ListNode* pHead)
 <p id = "二叉树的下一个结点"></p>
 
 
-
 **No57、二叉树的下一个结点**
 
  [牛客网原题链接](https://www.nowcoder.com/practice/9023a0c988684a53960365b889ceaf5e?tpId=13&&tqId=11210&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -7114,7 +7058,6 @@ TreeLinkNode* GetNext(TreeLinkNode* pNode)
 <p id = "对称的二叉树"></p>
 
 
-
 **No58、对称的二叉树**
 
  [牛客网原题链接](https://www.nowcoder.com/practice/ff05d44dfdb04e1d83bdbdab320efbcb?tpId=13&&tqId=11211&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -7193,7 +7136,6 @@ bool isSymmetrical(TreeNode* pRoot)
 ~~~
 
 <p id = "按之字形顺序打印二叉树"></p>
-
 
 
 **No59、按之字形顺序打印二叉树**
@@ -7436,7 +7378,6 @@ vector<vector<int> > Print(TreeNode* pRoot) {
 <p id = "把二叉树打印成多行"></p>
 
 
-
 **No60、把二叉树打印成多行**
 
  [牛客网原题链接](https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&&tqId=11213&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -7517,7 +7458,6 @@ vector<vector<int> > Print(TreeNode* pRoot) {
 ~~~
 
 <p id = "序列化二叉树"></p>
-
 
 
 **No61、序列化二叉树** 
@@ -7705,7 +7645,6 @@ public:
 <p id = "二叉搜索树的第"></p>
 
 
-
 **No62、二叉搜索树的第K个节点**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/ef068f602dde4d28aab2b210e859150a?tpId=13&&tqId=11215&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -7817,7 +7756,6 @@ TreeNode* KthNode(TreeNode* pRoot, int k)
 ~~~
 
 <p id = "数据流中的中位数"></p>
-
 
 
 **63、数据流中的中位数**
@@ -8137,7 +8075,6 @@ public:
 <p id = "滑动窗口的最大值"></p>
 
 
-
 **No64、滑动窗口的最大值**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/1624bc35a45c42c0bc17d17fa0cba788?tpId=13&&tqId=11217&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -8331,7 +8268,6 @@ vector<int> maxInWindows(const vector<int>& num, unsigned int size)
 <p id = "矩阵中的路径"></p>
 
 
-
 **No65、矩阵中的路径**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/c61c6999eecb4b8f88a98f66b273a3cc?tpId=13&&tqId=11218&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -8520,7 +8456,6 @@ bool hasPath(char* matrix, int rows, int cols, char* str)
 ~~~
 
 <p id = "机器人的运动范围"></p>
-
 **No66、机器人的运动范围**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&&tqId=11219&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -8721,7 +8656,6 @@ int movingCount(int threshold, int rows, int cols)
 ~~~
 
 <p id = "剪绳子"></p>
-
 **No67、剪绳子**
 
 [牛客网原题链接](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&&tqId=33257&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
