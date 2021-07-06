@@ -1,4 +1,10 @@
-### [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)
+<p id="罗马数字转整数"></p>
+
+
+
+### 13. 罗马数字转整数
+
+[力扣原题链接（点我直达）](https://leetcode-cn.com/problems/roman-to-integer/)
 
 罗马数字包含以下七种字符: `I`， `V`， `X`， `L`，`C`，`D` 和 `M`。
 
@@ -117,11 +123,13 @@ int romanToInt(string s) {
 
 
 
+<p id="二进制求和"></p>
 
 
 
+### 67. 二进制求和
 
-### [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
+[力扣原题链接（点我直达）](https://leetcode-cn.com/problems/add-binary/)
 
 给定两个二进制字符串，返回他们的和（用二进制表示）。
 
@@ -204,13 +212,267 @@ int romanToInt(string s) {
     }
 ```
 
+<p id="字符串中的单词数"></p>
+
+
+
+### 434. 字符串中的单词数
+
+[力扣原题链接（点我直达）](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)
+
+统计字符串中的单词个数，这里的单词指的是连续的不是空格的字符。
+
+请注意，你可以假定字符串里不包括任何不可打印的字符。
+
+**示例:**
+
+```
+输入: "Hello, my name is John"
+输出: 5
+```
+
+
+
+
+
+#### 第一版，这里对单词的定义很不一样。。。
+
+执行用时 :4 ms, 在所有 cpp 提交中击败了65.68%的用户
+
+内存消耗 :8.5 MB, 在所有 cpp 提交中击败了23.30%的用户
+
+```c++
+int countSegments(string s) {
+	int cut = 0;
+	string word;
+	for (auto& a : s) {
+		if (a == ' ' && word != "") {
+			cut++;
+			//cout << word << endl;
+			word = "";
+		}
+		else if (a == ' ' && word == "") continue;
+		else
+		{			
+			word += a;
+		}
+
+	}
+	if (word != "") cut++;
+	return cut;
+}
+```
+
+
+
+#### 第二版，利用stringstream来实现
+
+执行用时 :4 ms, 在所有 cpp 提交中击败了65.68%的用户
+
+内存消耗 :8.5 MB, 在所有 cpp 提交中击败了33.50%的用户
+
+
+
+**是以空格作为分隔符的，很巧妙的流的概念：stringsstream**
+
+```c++
+    int countSegments(string s) {
+        string str;
+        int count = 0;
+        stringstream ss;
+        ss << s;
+        while (ss >> str) 
+            count ++;
+        return count;
+        
+    }
+```
+
+<p id="验证回文字符串"></p>
+
+
+
+### 680. 验证回文字符串 Ⅱ
+
+[力扣原题链接（点我直达）](https://leetcode-cn.com/problems/valid-palindrome-ii/)
+
+给定一个非空字符串 `s`，**最多**删除一个字符。判断是否能成为回文字符串。
+
+**示例 1:**
+
+```
+输入: "aba"
+输出: True
+```
+
+**示例 2:**
+
+```
+输入: "abca"
+输出: True
+解释: 你可以删除c字符。
+```
+
+**注意:**
+
+1. 字符串只包含从 a-z 的小写字母。字符串的最大长度是50000。
 
 
 
 
 
 
-### [819. 最常见的单词](https://leetcode-cn.com/problems/most-common-word/)
+
+#### 第一版，想差了，不应该用间两端扩展法的
+
+abc
+
+aba
+
+aeeeee
+
+
+
+```c++
+bool equal(string& s, int low, int high) {
+	int cut = 0;
+	if (low == high) {
+		low--;
+		high++;
+		cut++;
+	}
+	while (low >= 0 && high < s.size()) {
+		if (s[low] == s[high]) {
+			low--;
+			high++;
+		}
+		else
+		{
+			cut++;
+			low--;
+			high++;
+		}
+		if (cut == 2) return false;
+	}
+
+	return low == -1 && high == s.size();
+
+}
+
+bool validPalindrome(string s) {
+	if (s.size() < 3) return true;
+
+	int len = s.size();
+	if (len % 2 == 0) return equal(s, -1 + len / 2, len / 2);
+	else
+		return equal(s, len / 2, len / 2);
+
+}
+```
+
+
+
+#### 第二版，应该从两端向中间进发
+
+**从两端向中间进发，遇到不相等的了就加一或者减一再进行判断**
+
+**，千万注意边界的判断情况**
+
+执行用时 :80 ms, 在所有 cpp 提交中击败了74.60%的用户
+
+内存消耗 :21.7 MB, 在所有 cpp 提交中击败了89.60%的用户
+
+
+
+```c++
+bool equal(string& s, int low, int high) {
+	while (low < high && s[low] == s[high]) {
+		low++;
+		high--;
+	}
+
+	return low >= high;
+}
+
+bool validPalindrome(string s) {
+	if (s.size() < 3) return true;
+
+	int low=0,high = s.size()-1;
+	while (s[low] == s[high]&&low < high) {
+		low++;
+		high--;
+	}
+	if (low == high ||  low-high==1) return true;
+	else if (equal(s, low+1, high) || equal(s, low, high-1))
+		return true;
+	else
+		return false;
+		
+}
+
+
+```
+
+<p id="重复叠加字符串匹配"></p>
+
+
+
+### 686. 重复叠加字符串匹配
+
+[力扣原题链接（点我直达）](https://leetcode-cn.com/problems/repeated-string-match/)
+
+给定两个字符串 A 和 B, 寻找重复叠加字符串A的最小次数，使得字符串B成为叠加后的字符串A的子串，如果不存在则返回 -1。
+
+举个例子，A = "abcd"，B = "cdabcdab"。
+
+答案为 3， 因为 A 重复叠加三遍后为 “abcdabcdabcd”，此时 B 是其子串；A 重复叠加两遍后为"abcdabcd"，B 并不是其子串。
+
+**注意:**
+
+ `A` 与 `B` 字符串的长度在1和10000区间范围内。
+
+
+
+
+
+#### 第一版，很精妙,很经典，很厉害
+
+执行用时 :16 ms, 在所有 cpp 提交中击败了92.28%的用户
+
+内存消耗 :9.2 MB, 在所有 cpp 提交中击败了78.79%的用户
+
+```c++
+if (A.empty()) {
+		return -1;
+	}
+	string T = A;
+	int i = 1;
+	while (T.size() < B.size()) {
+		T.append(A);
+		++i;
+	}
+	//A的长度大于等于B了
+	if (T.find(B) != string::npos) {//顺序增长的就可以了,比如abcd 和 abcdabcdabcd
+		return i;
+	}
+	T.append(A);
+	++i;
+	if (T.find(B) != string::npos) { //不是按序增长，比如abcd 和 cdabcdabcdabcdab
+		return i;
+	}
+	return -1;
+
+```
+
+
+
+<p id="最常见的单词"></p>
+
+
+
+### 819. 最常见的单词
+
+[力扣原题链接（点我直达）](https://leetcode-cn.com/problems/most-common-word/)
 
 给定一个段落 (paragraph) 和一个禁用单词列表 (banned)。返回出现次数最多，同时不在禁用列表中的单词。题目保证至少有一个词不在禁用列表中，而且答案唯一。
 
@@ -365,9 +627,13 @@ banned = ["hit"]
     }
 ```
 
+<p id="亲密字符串"></p>
 
 
-### [859. 亲密字符串](https://leetcode-cn.com/problems/buddy-strings/)
+
+### 859. 亲密字符串
+
+[力扣原题链接（点我直达）](https://leetcode-cn.com/problems/buddy-strings/)
 
 给定两个由小写字母构成的字符串 `A` 和 `B` ，只要我们可以通过交换 `A` 中的两个字母得到与 `B` 相等的结果，就返回 `true` ；否则返回 `false` 。
 
@@ -487,245 +753,4 @@ banned = ["hit"]
 
 
 
-
-
-### [686. 重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/)
-
-给定两个字符串 A 和 B, 寻找重复叠加字符串A的最小次数，使得字符串B成为叠加后的字符串A的子串，如果不存在则返回 -1。
-
-举个例子，A = "abcd"，B = "cdabcdab"。
-
-答案为 3， 因为 A 重复叠加三遍后为 “abcdabcdabcd”，此时 B 是其子串；A 重复叠加两遍后为"abcdabcd"，B 并不是其子串。
-
-**注意:**
-
- `A` 与 `B` 字符串的长度在1和10000区间范围内。
-
-
-
-
-
-#### 第一版，很精妙,很经典，很厉害
-
-执行用时 :16 ms, 在所有 cpp 提交中击败了92.28%的用户
-
-内存消耗 :9.2 MB, 在所有 cpp 提交中击败了78.79%的用户
-
-```c++
-if (A.empty()) {
-		return -1;
-	}
-	string T = A;
-	int i = 1;
-	while (T.size() < B.size()) {
-		T.append(A);
-		++i;
-	}
-	//A的长度大于等于B了
-	if (T.find(B) != string::npos) {//顺序增长的就可以了,比如abcd 和 abcdabcdabcd
-		return i;
-	}
-	T.append(A);
-	++i;
-	if (T.find(B) != string::npos) { //不是按序增长，比如abcd 和 cdabcdabcdabcdab
-		return i;
-	}
-	return -1;
-
-```
-
-
-
-### [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)
-
-给定一个非空字符串 `s`，**最多**删除一个字符。判断是否能成为回文字符串。
-
-**示例 1:**
-
-```
-输入: "aba"
-输出: True
-```
-
-**示例 2:**
-
-```
-输入: "abca"
-输出: True
-解释: 你可以删除c字符。
-```
-
-**注意:**
-
-1. 字符串只包含从 a-z 的小写字母。字符串的最大长度是50000。
-
-
-
-
-
-
-
-#### 第一版，想差了，不应该用间两端扩展法的
-
-abc
-
-aba
-
-aeeeee
-
-
-
-```c++
-bool equal(string& s, int low, int high) {
-	int cut = 0;
-	if (low == high) {
-		low--;
-		high++;
-		cut++;
-	}
-	while (low >= 0 && high < s.size()) {
-		if (s[low] == s[high]) {
-			low--;
-			high++;
-		}
-		else
-		{
-			cut++;
-			low--;
-			high++;
-		}
-		if (cut == 2) return false;
-	}
-
-	return low == -1 && high == s.size();
-
-}
-
-bool validPalindrome(string s) {
-	if (s.size() < 3) return true;
-
-	int len = s.size();
-	if (len % 2 == 0) return equal(s, -1 + len / 2, len / 2);
-	else
-		return equal(s, len / 2, len / 2);
-
-}
-```
-
-
-
-#### 第二版，应该从两端向中间进发
-
-**从两端向中间进发，遇到不相等的了就加一或者减一再进行判断**
-
-**，千万注意边界的判断情况**
-
-执行用时 :80 ms, 在所有 cpp 提交中击败了74.60%的用户
-
-内存消耗 :21.7 MB, 在所有 cpp 提交中击败了89.60%的用户
-
-
-
-```c++
-bool equal(string& s, int low, int high) {
-	while (low < high && s[low] == s[high]) {
-		low++;
-		high--;
-	}
-
-	return low >= high;
-}
-
-bool validPalindrome(string s) {
-	if (s.size() < 3) return true;
-
-	int low=0,high = s.size()-1;
-	while (s[low] == s[high]&&low < high) {
-		low++;
-		high--;
-	}
-	if (low == high ||  low-high==1) return true;
-	else if (equal(s, low+1, high) || equal(s, low, high-1))
-		return true;
-	else
-		return false;
-		
-}
-
-
-```
-
-
-
-
-
-### [434. 字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)
-
-统计字符串中的单词个数，这里的单词指的是连续的不是空格的字符。
-
-请注意，你可以假定字符串里不包括任何不可打印的字符。
-
-**示例:**
-
-```
-输入: "Hello, my name is John"
-输出: 5
-```
-
-
-
-
-
-#### 第一版，这里对单词的定义很不一样。。。
-
-执行用时 :4 ms, 在所有 cpp 提交中击败了65.68%的用户
-
-内存消耗 :8.5 MB, 在所有 cpp 提交中击败了23.30%的用户
-
-```c++
-int countSegments(string s) {
-	int cut = 0;
-	string word;
-	for (auto& a : s) {
-		if (a == ' ' && word != "") {
-			cut++;
-			//cout << word << endl;
-			word = "";
-		}
-		else if (a == ' ' && word == "") continue;
-		else
-		{			
-			word += a;
-		}
-
-	}
-	if (word != "") cut++;
-	return cut;
-}
-```
-
-
-
-#### 第二版，利用stringstream来实现
-
-执行用时 :4 ms, 在所有 cpp 提交中击败了65.68%的用户
-
-内存消耗 :8.5 MB, 在所有 cpp 提交中击败了33.50%的用户
-
-
-
-**是以空格作为分隔符的，很巧妙的流的概念：stringsstream**
-
-```c++
-    int countSegments(string s) {
-        string str;
-        int count = 0;
-        stringstream ss;
-        ss << s;
-        while (ss >> str) 
-            count ++;
-        return count;
-        
-    }
-```
 

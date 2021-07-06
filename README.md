@@ -58,6 +58,8 @@
 - [双非本科大三学弟连斩腾讯字节](https://mp.weixin.qq.com/s/IsuN7Wo8AyC_FFwXJdU7fg)
 - [阿秀朋友百折不挠，最终成功上岸](https://mp.weixin.qq.com/s/MsaAr1ofstCgxqs749W1wg)
 - [一位大二非科班学弟，从开始刷题到获得成就感的两周](https://mp.weixin.qq.com/s/k1X7V9Ev8mIjENuAlnO64w)
+- [大三学弟的学习面试经验，他很成熟](https://mp.weixin.qq.com/s/QDID1F35OFmfHN6vFHnPyA)
+- [双非研二师弟的春招总结和实习感悟](https://mp.weixin.qq.com/s/1SGiM5n9N6BPePSmIdsP-g)
 
 <!--
 
