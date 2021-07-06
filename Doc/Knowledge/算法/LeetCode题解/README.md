@@ -6,45 +6,45 @@
 
 **前言**
 
-本部分所有题目均来自于LeetCode网，并于每道题目下标明具体力扣网题目链接
+本部分所有题目均来自于LeetCode网，并于每道题目下标明具体力扣网原题链接。
 
 **本专栏介绍**
 
 -  本专栏是阿秀本人在秋招前的于力扣网的刷题笔记整理总结，我个人是按照如下14个标签进行刷题的，每个标签下具体又分为easy、medium、hard三个等级
 -  本专栏适合于校招、社招工作党以及打算转行做计算机的 C++ 技术栈人士
--  本专栏是我从400余道算法题目中精选出300+道组成的，对于一些质量不太好的题目被阿秀筛掉了
+-  本专栏是我从将近600道算法题目中精选出300+道而成的，主要是面相笔试、面试而非算法类竞赛，对于一些质量不太好以及出现频率较低的题目被阿秀筛掉了
 
-<!--
+
 
 **具体分类**
 
 [1、数组](Doc/Knowledge/算法/LeetCode题解/total/01-数组/README.md)
 
-[2、字符串](./total/02-字符串/README.md)
+[2、字符串](Doc/Knowledge/算法/LeetCode题解/total/02-字符串/README.md)
 
-[3、链表](./total/03-链表/README.md)
+[3、链表](Doc/Knowledge/算法/LeetCode题解/total/03-链表/README.md)
 
-[4、数学](./total/04-数学/README.md)
+[4、数学](Doc/Knowledge/算法/LeetCode题解/total/04-数学/README.md)
 
-[5、哈希表](./total/05-哈希表/README.md)
+[5、哈希表](Doc/Knowledge/算法/LeetCode题解/total/05-哈希表/README.md)
 
-[6、二分查找](./total/06-二分查找/README.md)
+[6、二分查找](Doc/Knowledge/算法/LeetCode题解/total/06-二分查找/README.md)
 
-[7、栈](./total/07-栈/README.md)
+[7、栈](Doc/Knowledge/算法/LeetCode题解/total/07-栈/README.md)
 
-[8、双指针](./total/08-双指针/README.md)
+[8、双指针](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/README.md)
 
-[9、贪心算法](./total/09-贪心算法/README.md)
+[9、贪心算法](Doc/Knowledge/算法/LeetCode题解/total/09-贪心算法/README.md)
 
-[10、回溯算法](./total/10-回溯算法/README.md)
+[10、回溯算法](Doc/Knowledge/算法/LeetCode题解/total/10-回溯算法/README.md)
 
-[11、动态规划](./total/11-动态规划/README.md)
+[11、动态规划](Doc/Knowledge/算法/LeetCode题解/total/11-动态规划/README.md)
 
-[12、广度优先搜索（BFS）](./total/12-BFS/README.md)
+[12、广度优先搜索（BFS）](Doc/Knowledge/算法/LeetCode题解/total/12-BFS/README.md)
 
-[13、深度优先搜索（DFS）](./total/13-DFS/README.md)
+[13、深度优先搜索（DFS）](Doc/Knowledge/算法/LeetCode题解/total/13-DFS/README.md)
 
-[14、树](./total/14-树/README.md)
+[14、树](Doc/Knowledge/算法/LeetCode题解/total/14-树/README.md)
 
 
 
@@ -60,8 +60,11 @@
 
 <br>
 
+<!--
+
+该部分还在整理中，整理完毕会放出来的，预计在六月下旬就能彻底整理完毕了。
+
 -->
 
 
 
-该部分还在整理中，整理完毕会放出来的，预计在六月下旬就能彻底整理完毕了。
