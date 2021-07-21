@@ -36,7 +36,7 @@
   
 - **[智力&情景题](Doc/Knowledge/智力&情景题/智力&情景题.md)**
 
-- **[技术面与HR面](Doc/Knowledge/技术面与HR面/技术面与HR面.md)**
+- **[技术面与HR面](Doc/Knowledge/技术面与HR面/技术面与HR面.md#技术面与面)**
 
 - **[未完待续.....](Doc/Knowledge/未完待续/README.md)**
 

@@ -18,7 +18,7 @@
 
 **具体分类**
 
-[1、数组](./total/01-数组/README.md)
+[1、数组](Doc/Knowledge/算法/LeetCode题解/total/01-数组/README.md)
 
 [2、字符串](Doc/Knowledge/算法/LeetCode题解/total/02-字符串/README.md)
 
