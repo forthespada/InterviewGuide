@@ -3,6 +3,9 @@
 </h1>
 
 
+> 算法部分的目录结构是按照不同人群分类的，如果你不知道该看哪个部分的算法题，可以先看一下这里，<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[戳我直达](Doc/Knowledge/算法/适用人群.md)</font>。
+
+以下是本部分正文：
 
 **前言**
 
@@ -48,23 +51,19 @@
 
 
 
-关于更多本专栏的介绍可以点此了解阿秀的[**秋招找工作经历与个人介绍**](Doc/Other/ContactMe/ContactMe.md#个人背景)。
+关于更多本专栏的介绍可以点此了解阿秀的<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[**秋招找工作经历与个人介绍**](Doc/Other/ContactMe/ContactMe.md#个人背景)</font>。
 
 该部分的刷题笔记是由**阿秀原创**，后期整理并发布，对于其中涉及到他人的解法也给出了相应说明。
 
-对于本专栏的内容，未经其本人许可不得擅自发布在互联网上，如需引用请标注出处并[**告知本人**](Doc/Other/ContactMe/ContactMe.md#联系阿秀)。
+对于本专栏的内容，未经其本人许可不得擅自发布在互联网上，如需引用请标注出处并<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[**告知本人**](Doc/Other/ContactMe/ContactMe.md#联系阿秀)</font>。
 
 另，因个人水准不同，题目中的一些见解不免涉及一些个人主观判断，但也仅代表本人个人意见，与他人无关，如果你有更好的解法或者意见欢迎理性讨论~
 
-最后祝愿大家都能拿到好 **offer** ~加油！奥利给！
+最后祝愿大家都能拿到好 **offer** ~
+
+<p align="center" style="font-weight:bold" font-weight="bold">加油！奥利给！</p>
 
 <br>
-
-<!--
-
-该部分还在整理中，整理完毕会放出来的，预计在六月下旬就能彻底整理完毕了。
-
--->
 
 
 
