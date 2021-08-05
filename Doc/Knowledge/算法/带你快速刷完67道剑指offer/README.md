@@ -2,6 +2,10 @@
 
 <h1 align="center">《带你快速刷完67道剑指offer》</h1>
 
+> 算法部分的目录结构是按照不同人群分类的，如果你不知道该看哪个部分的算法题，可以先看一下这里，<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[戳我直达](Doc/Knowledge/算法/适用人群.md)</font>。
+
+以下是本部分正文：
+
 **前言**
 
 

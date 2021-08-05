@@ -1,17 +1,21 @@
 <p id="关于阿秀"></p>
-<h1 align="center">关于阿秀</h1>
+<h1 align="center">关于本站和阿秀</h1>
 
-<p id="个人背景"></p>
+<p id="个人背景">仅在这里简单介绍一下《阿秀的校招笔记》和阿秀吧</p>
 
 ### **🎉个人背景**
 
-阿秀，2021 届计算机研究生，本硕均于普通双非学校就读。
+**阿秀，2021 届计算机研究生，本硕均于普通二本学校就读**。
 
-2020年秋招笔试过59场，面试过30余家企业，其中百度、阿里、腾讯、美团、滴滴、字节跳动、猿辅导、华为等都面试过，最后顺利拿下**华为、百度、字节跳动SP** 等6个中大厂的 offer，也是<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网 C++ 校招求职专刊](https://www.nowcoder.com/tutorial/10043/index)</font>的作者。
+2020年秋招笔试过**59**场，面试过**40**余家企业，其中百度、阿里、腾讯、美团、滴滴、字节跳动、猿辅导、华为等都面试过，最后顺利拿下**华为、百度、字节跳动SP** 等6个中大厂的 **offer**，也是<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网 C++ 校招求职专刊](https://www.nowcoder.com/tutorial/10043/index)</font>的作者。
+
+现于**字节跳动抖音部门**担任**全栈开发工程师**，就是前后端都要写的那种..
 
 后来将自己的秋招笔记整理为《<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[逆袭进大厂](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MDU0ODM3MA==&action=getalbum&album_id=1728595536544366595&uin=&key=&devicetype=Windows+10+x64&version=6302019a&lang=zh_CN&ascene=7&fontgear)</font>》系列，成功帮助不少小伙伴上岸互联网大厂了，比如腾讯、百度、字节跳动等。
 
-再后来有不少小伙伴说希望有个在线版的网站，这样看起来也更舒服一点，安排，必须安排上！于是就有了这个小破站~
+再后来有不少小伙伴说希望有个在线版的网站，这样看起来也更舒服一点，安排，必须安排上！
+
+于是，就有了这个小破站，也就是阿秀的校招笔记~
 
 在阿秀本科四年 + 研究生三年，一共七年的计算机学习生涯中**慢慢收集了不少好的计算机学习资源**，本着 ~~白嫖~~ 开源分享的精神，现在把它们分享出来！
 
