@@ -4,7 +4,7 @@
 
 另外由于不少资源都是通过百度云链接的形式分享出来，因此**有可能会失效**。
 
-如果你发现失效了可以<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[**通过这里的联系方式**](Doc/Other/ContactMe.md)</font>告知我，我及时补上！感谢您的好心💖！
+如果你发现失效了可以<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[通过这里的联系方式](Doc/Other/ContactMe/ContactMe.md#联系阿秀)</font>告知我，我及时补上！感谢您的好心💖！
 
 1. <font style="font-weight:normal; color:#4169E1;text-decoration:underline;">[本网站的全部知识点（C++、操作系统、计算机网络、MySQL、Redis、技术面与HR面、智力&情景题等） 离线版 PDF](Doc/免费资源/逆袭进大厂PDF/Download.md)</font>
 2. <font style="font-weight:normal; color:#4169E1;text-decoration:underline;">[1000本计算机经典书籍 PDF 电子版](Doc/免费资源/千本PDF/千本PDF.md)</fon>.
