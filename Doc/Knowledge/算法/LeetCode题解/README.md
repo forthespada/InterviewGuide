@@ -13,41 +13,41 @@
 
 **本专栏介绍**
 
--  本专栏是阿秀本人在秋招前的于力扣网的刷题笔记整理总结，我个人是按照如下14个标签进行刷题的，每个标签下具体又分为easy、medium、hard三个等级
--  本专栏适合于校招、社招工作党以及打算转行做计算机的 C++ 技术栈人士，适用于互联网求职笔试、面试而非算法类竞赛比如蓝桥杯等
+-  本专栏是阿秀本人在秋招前的于力扣网的刷题笔记整理总结，是按照如下14个标签进行刷题的，每个标签下具体又分为Easy、Medium、Hard三个等级
+-  本专栏适合于校招、社招工作党以及打算转行做计算机的非科班人士，适用于互联网求职笔试、面试而非算法类竞赛比如蓝桥杯等
 -  本专栏是我从将近600道算法题目中精选出300+道而成的，对于一些质量不太好以及面试笔试中出现频率较低的题目被阿秀筛掉了
 
 
 
 **具体分类**
 
-[1、数组](Doc/Knowledge/算法/LeetCode题解/total/01-数组/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[1、数组](Doc/Knowledge/算法/LeetCode题解/total/01-数组/README.md)</font>
 
-[2、字符串](Doc/Knowledge/算法/LeetCode题解/total/02-字符串/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[2、字符串](Doc/Knowledge/算法/LeetCode题解/total/02-字符串/README.md)</font>
 
-[3、链表](Doc/Knowledge/算法/LeetCode题解/total/03-链表/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[3、链表](Doc/Knowledge/算法/LeetCode题解/total/03-链表/README.md)</font>
 
-[4、数学](Doc/Knowledge/算法/LeetCode题解/total/04-数学/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[4、数学](Doc/Knowledge/算法/LeetCode题解/total/04-数学/README.md)</font>
 
-[5、哈希表](Doc/Knowledge/算法/LeetCode题解/total/05-哈希表/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[5、哈希表](Doc/Knowledge/算法/LeetCode题解/total/05-哈希表/README.md)</font>
 
-[6、二分查找](Doc/Knowledge/算法/LeetCode题解/total/06-二分查找/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[6、二分查找](Doc/Knowledge/算法/LeetCode题解/total/06-二分查找/README.md)</font>
 
-[7、栈](Doc/Knowledge/算法/LeetCode题解/total/07-栈/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[7、栈](Doc/Knowledge/算法/LeetCode题解/total/07-栈/README.md)</font>
 
-[8、双指针](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[8、双指针](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/README.md)</font>
 
-[9、贪心算法](Doc/Knowledge/算法/LeetCode题解/total/09-贪心算法/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[9、贪心算法](Doc/Knowledge/算法/LeetCode题解/total/09-贪心算法/README.md)</font>
 
-[10、回溯算法](Doc/Knowledge/算法/LeetCode题解/total/10-回溯算法/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[10、回溯算法](Doc/Knowledge/算法/LeetCode题解/total/10-回溯算法/README.md)</font>
 
-[11、动态规划](Doc/Knowledge/算法/LeetCode题解/total/11-动态规划/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[11、动态规划](Doc/Knowledge/算法/LeetCode题解/total/11-动态规划/README.md)</font>
 
-[12、广度优先搜索（BFS）](Doc/Knowledge/算法/LeetCode题解/total/12-BFS/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[12、广度优先搜索（BFS）](Doc/Knowledge/算法/LeetCode题解/total/12-BFS/README.md)</font>
 
-[13、深度优先搜索（DFS）](Doc/Knowledge/算法/LeetCode题解/total/13-DFS/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[13、深度优先搜索（DFS）](Doc/Knowledge/算法/LeetCode题解/total/13-DFS/README.md)</font>
 
-[14、树](Doc/Knowledge/算法/LeetCode题解/total/14-树/README.md)
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[14、树](Doc/Knowledge/算法/LeetCode题解/total/14-树/README.md)</font>
 
 
 
