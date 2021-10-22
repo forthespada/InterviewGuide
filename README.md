@@ -1,9 +1,11 @@
 <p id="阿秀的校招笔记"></p>
 
-<h1 align="center">📔 阿秀的校招笔记</h1>
+<h1 align="center">📔 阿秀的求职笔记</h1>
 <div align="left">
 <p>计算机校招、社招面试常见八股文整理，也是<strong>《逆袭进大厂》</strong>的唯一仓库.目前已收录 <strong>C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis</strong>等面试资料，未来打算继续收录<strong>Java、Python、Go</strong>等面试常见问题，坚持将此仓库维护下去。</p>
     </div> 
+
+👉 该求职资料适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~** 作者：[阿秀](Doc/Other/ContactMe/ContactMe.md#关于阿秀)
 
 👉 推荐 [在线阅读](https://interviewguide.cn/#/) (Github 访问速度比较慢可能会导致部分图片无法刷新出来)
 
