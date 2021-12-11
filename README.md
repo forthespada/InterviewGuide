@@ -11,7 +11,7 @@
 
 👉 **1000**本计算机经典书籍免费下载：[CS-Books](https://github.com/forthespada/CS-Books)
 
-👉 关于 **InterviewGuide** 仓库的介绍，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
+👉 关于 **InterviewGuide** 仓库的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
 
 :book:**PDF下载方式**：[点此免费下载](#downloadpdf)
 
