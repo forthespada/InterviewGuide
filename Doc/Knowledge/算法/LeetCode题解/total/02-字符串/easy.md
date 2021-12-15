@@ -747,10 +747,13 @@ banned = ["hit"]
 		unordered_set<char> misMatch(A.begin(), A.end());
 		return misMatch.size() < len;
 	}
+  if (res.size() == 1) 
+    return false;
 	return A[res[0]] == B[res[1]] && A[res[1]] == B[res[0]];
     }
 ```
 
+**补充**：测试用例`"abcb"`和`"abcd"`当`res.size()`为`1`时，缺少判断`return false`导致`res[1]`报错，故应添加一行代码如下：`if (res.size() == 1) return false;`
 
-
+>感谢网友提出补充，已做补充，感谢！2021.10.12 https://github.com/forthespada/InterviewGuide/issues/16
 
