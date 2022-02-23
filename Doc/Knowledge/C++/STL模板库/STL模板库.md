@@ -1318,7 +1318,7 @@ multimap和map的唯一区别就是：multimap调用的是红黑树的insert_equ
 <p  id="unorderedmap和map的区别和应用场景"></p>
 
 
-#### 37、STL中unordered_map和map的区别和应用场景
+#### 37、STL中unordered_map和map的区别和应用场景**
 
   map支持键值的自动排序，底层机制是红黑树，红黑树的查询和维护时间复杂度均为$O(logn)$，但是空间占用比较大，因为每个节点要保持父节点、孩子节点及颜色的信息
 
