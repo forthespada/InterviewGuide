@@ -940,9 +940,7 @@
 - 《许三观卖血记 - 余华》 [百度云链接](https://pan.baidu.com/s/13j4KevXl3SfPsdAOu27qyw )  提取码：pgf3 
 - 《平凡的世界 - 路遥》  [百度云链接](https://pan.baidu.com/s/1hNPgA3YlllyEuc-fBw2lhg )  提取码：vaa6 
 
--------
 
-<!--
 
 #### Donate
 
@@ -953,8 +951,6 @@
                                                                                                                         <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 35%;" />
                                                                                                                          </figure></div>
 
-
--->
 
 #### 免责声明
 

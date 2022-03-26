@@ -71,7 +71,7 @@ github地址：https://github.com/youngyangyang04/Skiplist-CPP
 
 **再次提醒**
 
-需要注意的是上面推荐的项目 需要你有一定的 Redis 基础，如果Redis水平不好的话，可以先去看一下《 Redis设计与实现》和《Redis实战》这两本书，当当和JD均有售。
+需要注意的是上面推荐的项目 需要你有一定的 Redis 基础，如果Redis水平不好的话，可以先去看一下《 Redis设计与实现》和《Redis这两本书》，当当和JD均有售。
 
 ##### **下载方式**
 
