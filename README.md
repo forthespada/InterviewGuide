@@ -27,9 +27,22 @@
 
 </details>
 
+🍖 **说明**
+
+近期有粉丝专门跑来告知我有某些机构直接克隆我的仓库，修改文件，重新生成PDF，美其名曰为**机构内部资料**。
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202204052308662.png)
+
+故此，不再提供md源码文件，望理解。
+
+**🚀推荐两种学习方式：**
+
+- 直接去个人网站观看在线版，[点此直达](https://interviewguide.cn/#/)
+
+- 下载PDF版本学习，[点此免费下载](#downloadpdf)
 
 
-
+<!--
 
 **🍵 校招准备**
 
@@ -111,11 +124,11 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 
 **🐼 [关于阿秀](Doc/Other/ContactMe/ContactMe.md#关于阿秀)**
 
-<!--
+
 
 🍖**[一对一服务](Doc/Other/一对一服务.md)**
 
--->
+
 
 **🎅 [友情赞助](Doc/Other/Donate/Donate.md#友情赞助)**
 
@@ -123,8 +136,9 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 
 **🥉 [致谢](Doc/Other/致谢/致谢.md#致谢)**
 
-<p id="downloadpdf">
+-->
 
+<p id="downloadpdf">
 **:book:PDF下载方式**
 
 请移步本人公众号『[拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)』或扫描下方二维码，回复关键字『**PDF**』即可下载最新PDF版本，阿秀会不断更新迭代最新版本~
