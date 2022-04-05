@@ -21,7 +21,7 @@
 
 由于本人水平有限，仓库内容如有错误，欢迎提交 **[issue](https://github.com/forthespada/InterviewGuide/issues)**，虚心接受每一位好心人的建议与意见。
 
-本仓库中笔记除去我在文末引用出处之外，其余部分均为阿秀个人原创，比如《[带你快速刷完67道剑指offer](http://interviewguide.cn/#/Doc/Knowledge算法/带你快速刷完67道剑指offer/README)》与《[精选300+LeetCode题解](http://interviewguide.cn/#/Doc/Knowledge/算法/LeetCode题解/README)》均为个人原创。
+本仓库中笔记除去我在文末引用出处之外，其余部分均为阿秀个人原创，比如《[带你快速刷完67道剑指offer](https://interviewguide.cn/#/Doc/Knowledge/%E7%AE%97%E6%B3%95/%E5%B8%A6%E4%BD%A0%E5%BF%AB%E9%80%9F%E5%88%B7%E5%AE%8C67%E9%81%93%E5%89%91%E6%8C%87offer/README?id=%e5%b8%a6%e4%bd%a0%e5%bf%ab%e9%80%9f%e5%88%b7%e5%ae%8c67%e9%81%93%e5%89%91%e6%8c%87offer)》与《[精选300+LeetCode题解](https://interviewguide.cn/#/Doc/Knowledge/%E7%AE%97%E6%B3%95/LeetCode%E9%A2%98%E8%A7%A3/README)》均为个人原创。
 
 转载请注明出处，不得用于商业目的。
 
