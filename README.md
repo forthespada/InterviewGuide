@@ -149,7 +149,13 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 
 请移步本人公众号『[拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)』或扫描下方二维码，回复关键字『**PDF**』即可下载最新PDF版本，阿秀会不断更新迭代最新版本~
 
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261416899.png"  align="middle" style="zoom:50%;" >
+<div style="height: 250px; width:250px; align:center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261416899.png"  align="middle" style="zoom: 33%;" >
+</div>
+
+
+
+
 
 解压密码为：a123654，注意看清楚是a123654，而不是a123456，设置密码的原因主要是**防止百度云和谐 PDF ，造成资源失效**。
 
