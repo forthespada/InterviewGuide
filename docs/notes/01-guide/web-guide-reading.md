@@ -3,11 +3,12 @@ layout: post
 category: guide
 title: 目录
 tagline: by 阿秀
-tag: [java,interview]
-lock: need
+tag: [cs,interview]
 ---
 
-# <h1 align="center">👉👉👉《阿秀的学习笔记》食用指南🔥🔥🔥</h1>
+
+
+<h1 align="center">👉👉👉《阿秀的学习笔记》食用指南🔥🔥🔥</h1>
 
 >1、你好，我是阿秀，2021年毕业于普通学校，现在是**字节跳动抖音部门**担任**全栈开发工程师**，就是前后端都要写的那种..
 >
@@ -66,7 +67,9 @@ lock: need
 
 我看到很多**小白&新手&非科班转行成功**的例子，他们拥有的一个共性就是**踏实、耐得住寂寞、一步一个脚印**，这一点你可以去看一下网站的第六部分《他人经验》中的例子，他们基本不会去看什么《7天学习Java》/《21天学会C++》的垃圾书籍，没有什么一蹴而就，有的只是**稳扎稳扎、步步为营**。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205051803992.png)
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205051803992.png" style="zoom:150%;" /></div>
+
+
 
 
 
@@ -122,7 +125,9 @@ lock: need
 
 因此阿秀与另外两位研究生同学（现分别就职于腾讯、阿里）共同维护一个**CS学习路线图**，与 developer-roadmap 仓库不同，本路线图更专注于**计算机初学者**，也就是**普通本科&研究生**以及**打算从生化环材等专业转行到计算机的童鞋**。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205051805447.png)
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205051805447.png" style="zoom:80%;" /></div>
+
+
 
 需要注意的是基础科目是每一位互联网技术岗都需要学习的内容，不管是前端还是后端，不管是JavaScript还是Java、C++、Golang、PHP等。
 
@@ -142,48 +147,50 @@ lock: need
 
 ## 三、求职找工作
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205051815052.png)
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205051815052.png" style="zoom:150%;" /></div>
 
-### 1、 软实力
 
-#### a.简历真的很重要
+
+## 1、 软实力
+
+**a.简历真的很重要**
 
 - 地址：简历的迭代编写
 - 简介：
 
-#### b.求职必知名词&黑话
+**b.求职必知名词&黑话**
 
 - 地址：必知名词&黑话
 - 简介：
 
-#### c.互联网面试总结
+**c.互联网面试总结**
 
 - 地址：必知名词&黑话
 - 简介：
 
-### 2、硬实力
+## 2、硬实力
 
-#### a.编程语言
+**a.编程语言**
 
 - 地址：技术岗面试常见问题&参考答案
 - 简介：
 
-#### b.操作系统
+**b.操作系统**
 
 - 地址：操作系统
 - 简介：
 
-#### c.计算机网络
+**c.计算机网络**
 
 - 地址：计算机网络
 - 简介：
 
-#### d.数据结构与算法
+**d.数据结构与算法**
 
 - 地址：数据结构与算法个人总结
 - 简介：
 
-#### e.数据库（MySQL&Redis）
+**e.数据库（MySQL&Redis）**
 
 - 地址：数据库常见知识点总结
 - 简介：
