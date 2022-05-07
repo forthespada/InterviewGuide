@@ -2,8 +2,8 @@
 home: true
 heroImage: /images/system/blog-03.png
 actionLinks:
-- link: /md/other/guide-to-reading.md
-  text: 马上开卷 →
+- link: /notes/01-guide/web-guide-reading.md
+  text: 懂了，马上开卷 →
   class: primary
 - link: https://t.zsxq.com/Ja27ujq
   text: 阿秀的学习圈子
@@ -42,11 +42,19 @@ footer: <a href="http://beian.miit.gov.cn" target="_blank">京ICP备19031103号-
 
 ## 公众号
 
-最新文章会首发公众号，强烈推荐读者伙伴关注一波！另外，在公众号：bugstack虫洞栈 回复 `1024` 可以下载更多资源内容。
+最新文章都会首发在个人公众号，强烈推荐小伙伴关注一波！偷偷告诉你一个**秘密**，在公众号：拓跋阿秀 回复 `宝贝` 真的会有一个宝贝~
+
+<div align="center">
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205060117681.png?raw=true" width="650px">
+    <div style="font-size: 9px;">公众号：拓跋阿秀</div>
+    <br/>
+</div>
+
+
 
 <div align="center">
     <img src="https://bugstack.cn/images/system/resources-xiaofuge.png?raw=true" width="650px">
-    <div style="font-size: 9px;">公众号：bugstack虫洞栈</div>
+    <div style="font-size: 9px;">公众号：拓跋阿秀</div>
     <br/>
 </div>
-                                                                                                                                                                                                   
+​                                                                                                                                                                                                   

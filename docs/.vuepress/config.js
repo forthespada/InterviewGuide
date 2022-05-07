@@ -130,17 +130,6 @@ module.exports = {
         [
             {globalUIComponents: ['LockArticle', 'PayArticle']}
         ],
-        // ['@vssue/vuepress-plugin-vssue', {
-        //     platform: 'github-v3', //v3的platform是github，v4的是github-v4
-        //     // 其他的 Vssue 配置
-        //     owner: 'fuzhengwei', //github账户名
-        //     repo: 'CodeGuide', //github一个项目的名称
-        //     clientId: 'df8beab2190bec20352a',//注册的Client ID
-        //     clientSecret: '7eeeb4369d699c933f02a026ae8bb1e2a9c80e90',//注册的Client Secret
-        //     autoCreateIssue: true // 自动创建评论，默认是false，最好开启，这样首次进入页面的时候就不用去点击创建评论的按钮了。
-        // }
-        // ],
-        // ['@vuepress/back-to-top', true], replaced with inject page-sidebar
         ['@vuepress/medium-zoom', {
             selector: 'img:not(.nozoom)',
             // See: https://github.com/francoischalifour/medium-zoom#options
@@ -203,9 +192,7 @@ module.exports = {
     ],
     themeConfig: {
         docsRepo: "forthespada/InterviewGuide",
-        // 编辑文档的所在目录
         docsDir: 'docs',
-        // 文档放在一个特定的分支下：
         docsBranch: 'main',
         logo: "/images/personal/logo.png",
         editLinks: true,
@@ -222,254 +209,334 @@ module.exports = {
                         text: '🌎导读', link: '/notes/01-guide/web-guide-reading.md'
                     },
                     {
-                        text: '🌎原来导读', link: '/md/other/guide-to-reading.md'
-                    },
-                    {
                         text: '🌽学习路线',
                         items: [
                             {
                                 text: '基础学科',
-                                link: '/notes/02-learning_route/01-basic-project/01-计算机网络学习路线.md'
+                                link: '/notes/02-learning_route/03-计算机网络学习路线.md'
                             },
                             {
                                 text: '编程语言',
-                                link: '/notes/02-learning_route/02-language/01-C++学习路线.md'
+                                link: '/notes/02-learning_route/01-C++学习路线.md'
                             },
                         ]
                     },
                     {
-                        text: 'Java',
+                        text: '🌽校招社招',
                         items: [
                             {
-                                text: '面经手册',
-                                link: '/md/java/interview/2020-07-28-面经手册 · 开篇《面试官都问我啥》.md'
-                            },
-                            {
-                                text: '用Java实现JVM',
-                                link: '/md/java/develop-jvm/2019-05-01-用Java实现JVM第一章《命令行工具》.md'
-                            },
-                            {
-                                text: '基础技术',
-                                link: '/md/java/core/2020-01-06-[源码分析]咋嘞？你的IDEA过期了吧！加个Jar包就破解了，为什么？.md'
-                            }
-                        ]
-                    },
-                    {
-                        text: 'Spring',
-                        items: [
-                            {
-                                text: 'Spring 手撸专栏',
-                                link: '/md/spring/develop-spring/2021-05-16-第1章：开篇介绍，手写Spring能给你带来什么？.md'
-                            },
-                            {
-                                text: 'Mybatis 手撸专栏',
-                                link: '/md/spring/develop-mybatis/2022-03-20-第1章：开篇介绍，手写Mybatis能给你带来什么？.md'
-                            },
-                            {
-                                text: 'Spring Cloud',
-                                link: '/md/spring/spring-cloud/2019-10-31-Spring Cloud零《总有一偏概述告诉你SpringCloud是什么》.md'
-                            },
-                            {
-                                text: '源码分析(Mybatis、Quartz)',
-                                link: '/md/spring/source-code/2019-12-25-[源码分析]Mybatis接口没有实现类为什么可以执行增删改查.md'
-                            }
-                        ]
-                    },
-                    {
-                        text: '面向对象',
-                        items: [
-                            {
-                                text: '重学Java设计模式',
+                                text: '软实力',
                                 items: [
                                     {
-                                        text: '创建型模式',
-                                        link: '/md/develop/design-pattern/2020-05-20-重学Java设计模式《实战工厂方法模式》.md'
+                                        text: '简历远比你想的要重要',
+                                        link: '/notes/03-hunting_job/01-prepare/01-01-简历远比你想的要重要.md'
                                     },
                                     {
-                                        text: '结构型模式',
-                                        link: '/md/develop/design-pattern/2020-06-02-重学 Java 设计模式《适配器模式》.md'
+                                        text: '求职必知名词&黑话',
+                                        link: '/notes/03-hunting_job/01-prepare/02-01-互联网常见技术岗分类.md'
                                     },
                                     {
-                                        text: '行为型模式',
-                                        link: '/md/develop/design-pattern/2020-06-18-重学 Java 设计模式《实战责任链模式》.md'
+                                        text: '技术方向',
+                                        link: '/notes/03-hunting_job/01-prepare/03-01-技术方向.md'
+                                    },
+                                    {
+                                        text: '互联网面试总结',
+                                        link: '/notes/03-hunting_job/01-prepare/04-01-互联网面试总结.md'
                                     }
                                 ]
                             },
                             {
-                                text: '系统架构',
+                                text: '硬实力',
                                 items: [
                                     {
-                                        text: 'DDD 专题',
-                                        link: '/md/develop/framework/ddd/2019-10-15-DDD专题案例一《初识领域驱动设计DDD落地》.md'
+                                        text: '编程语言',
+                                        link: '/notes/03-hunting_job/02-interview/01-01-01-基础语法.md'
                                     },
                                     {
-                                        text: '工程框架',
-                                        link: '/md/develop/framework/frame/2019-12-22-架构框架搭建一《单体应用服务之SSM整合：Spring4 + SpringMvc + Mybatis》.md'
+                                        text: '操作系统',
+                                        link: '/notes/03-hunting_job/02-interview/02-01-操作系统.md'
                                     },
                                     {
-                                        text: '架构方案',
-                                        link: '/md/develop/framework/scheme/2021-02-04-基于IDEA插件开发和字节码插桩技术，实现研发交付质量自动分析.md'
+                                        text: '计算机网络',
+                                        link: '/notes/03-hunting_job/02-interview/03-01-计算机网络.md'
+                                    },
+                                    {
+                                        text: '数据库',
+                                        link: '/notes/03-hunting_job/02-interview/04-01-01-MySQL.md'
+
+                                    },
+                                    {
+                                        text: '智力&场景题',
+                                        link: '/notes/03-hunting_job/02-interview/06-智力&场景题.md'
+
                                     }
                                 ]
                             },
                             {
-                                text: '标准',
+                                text: '数据结构与算法',
                                 items: [
                                     {
-                                        text: '开发规范&事故',
-                                        link: '/md/develop/standard/2020-09-14-一次代码评审，差点过不了试用期！.md'
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        text: '中间件',
-                        items: [
-                            {
-                                text: 'SpringBoot 中间件开发',
-                                link: '/md/assembly/middleware/2019-12-02-SpringBoot服务治理中间件之统一白名单验证.md'
-                            },
-                            {
-                                text: 'IDEA-Plugin',
-                                link: '/md/assembly/idea-plugin/2021-08-27-技术调研，IDEA 插件怎么开发？.md'
-                            }
-                        ]
-                    },
-                    {
-                        text: 'Netty 4.x',
-                        items: [
-                            {
-                                text: '基础入门篇',
-                                link: '/md/netty/base/2019-07-30-netty案例，netty4.1基础入门篇零《初入JavaIO之门BIO、NIO、AIO实战练习》.md'
-                            },
-                            {
-                                text: '中级拓展篇',
-                                link: '/md/netty/expand/2019-08-16-netty案例，netty4.1中级拓展篇一《Netty与SpringBoot整合》.md'
-                            },
-                            {
-                                text: '高级应用篇',
-                                link: '/md/netty/application/2019-09-01-手写RPC框架第一章《自定义配置xml》.md'
-                            },
-                            {
-                                text: '源码分析篇',
-                                link: '/md/netty/source-code/2019-09-10-netty案例，netty4.1源码分析篇一《NioEventLoopGroup源码分析》.md'
-                            },
-                        ]
-                    },
-                    {
-                        text: '字节码编程',
-                        items: [
-                            {
-                                text: '框架', items: [
-                                    {
-                                        text: 'ASM',
-                                        link: '/md/bytecode/asm/2020-03-25-[ASM字节码编程]如果你只写CRUD，那这种技术你永远碰不到.md'
+                                        text: '刷题建议',
+                                        link: '/notes/03-hunting_job/03-algorithm/01-basic-algorithm/01-算法模块食用指南.md'
                                     },
                                     {
-                                        text: 'Javassist',
-                                        link: '/md/bytecode/javassist/2020-04-19-字节码编程，Javassist篇一《基于javassist的第一个案例helloworld》.md'
+                                        text: '算法基础',
+                                        link: '/notes/03-hunting_job/03-algorithm/01-basic-algorithm/02-必备算法基础.md'
                                     },
                                     {
-                                        text: 'Byte-Buddy',
-                                        link: '/md/bytecode/byte-buddy/2020-05-08-字节码编程，Byte-buddy篇一《基于Byte Buddy语法创建的第一个HelloWorld》.md'
-                                    }
-                                ]
-                            },
-                            {
-                                text: '全链路监控', items: [
+                                        text: '带你快速刷完67道剑指offer',
+                                        link: '/notes/03-hunting_job/02-interview/02-01-操作系统.md'
+                                    },
                                     {
-                                        text: 'JavaAgent',
-                                        link: '/md/bytecode/agent/2019-07-10-基于JavaAgent的全链路监控一《嗨！JavaAgent》.md'
-                                    }
+                                        text: '力扣精选300+题目',
+                                        link: '/notes/03-hunting_job/02-interview/03-01-计算机网络.md'
+                                    },
+                                    {
+                                        text: '算法高频面试题',
+                                        link: '/notes/03-hunting_job/02-interview/04-01-01-MySQL.md'
+
+                                    },
                                 ]
                             },
-                            {
-                                text: '文档', items: [
-                                    {text: 'ASM-DOC', link: '/md/bytecode/asm-document/1引言.md'}
-                                ]
-                            }
                         ]
                     },
                     {
-                        text: '💯实战项目',
-                        items: [
-                            {
-                                text: 'IM Netty 仿PC端微信',
-                                link: '/md/project/im/2020-03-04-《Netty+JavaFx实战：仿桌面版微信聊天》.md'
-                            },
-                            {
-                                text: 'SpringBoot 中间件设计和开发',
-                                link: '/md/project/springboot-middleware/2021-03-31-《SpringBoot 中间件设计和开发》专栏小册上线啦！.md'
-                            },
-                            {
-                                text: 'Lottery 分布式抽奖系统',
-                                link: '/md/project/lottery/introduce/Lottery抽奖系统.md'
-                            }
-                        ]
+                        text: 'Github',
+                        link: 'https://github.com/forthespada/InterviewGuide'
                     },
-                    {
-                        text: '部署',
-                        link: '/md/devops/2019-08-12-windows环境下安装elasticsearch6.2.2.md'
-                    },
-                    {
-                        text: '📚PDF',
-                        items: [
-                            {
-                                text: '出版图书', items: [
-                                    {
-                                        text: '《重学Java设计模式》',
-                                        link: '/md/knowledge/book/2021-04-22-久等了！小傅哥的《重学Java设计模式》终于出版了，彩印&纸质！.md'
-                                    }
-                                ]
-                            },
-                            {
-                                text: '电子书籍', items: [
-                                    {
-                                        text: 'Java 面经手册',
-                                        link: '/md/knowledge/pdf/2021-01-26-Java面经手册PDF下载.md'
-                                    },
-                                    {
-                                        text: '手撸 Spring',
-                                        link: '/md/knowledge/pdf/2021-08-12-《手撸 Spring》PDF，全书260页6.5万字，完稿&发版！.md'
-                                    },
-                                    {
-                                        text: '重学Java设计模式',
-                                        link: '/md/knowledge/pdf/2020-07-12-重学 Java 设计模式.md'
-                                    },
-                                    {
-                                        text: '字节码编程',
-                                        link: '/md/knowledge/pdf/2020-05-17-小傅哥出书了《字节码编程》免费拿！.md'
-                                    },
-                                    {
-                                        text: 'IDEA Plugin 开发手册',
-                                        link: '/md/knowledge/pdf/2022-01-23-IDEA Plugin 开发手册.md'
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        text: '关于',
-                        items: [
-                            {text: '关于自己', link: '/md/about/me/about-me.md'},
-                            {text: '关于学习', link: '/md/about/study/2020-04-30-讲道理，只要你是一个爱折腾的程序员，毕业找工作真的不需要再花钱培训.md'},
-                            {text: '关于职场', link: '/md/about/job/2020-04-11-工作两年简历写成这样，谁要你呀！.md'}
-                        ]
-                    },
+                    // {
+                    //     text: 'Java',
+                    //     items: [
+                    //         {
+                    //             text: '面经手册',
+                    //             link: '/md/java/interview/2020-07-28-面经手册 · 开篇《面试官都问我啥》.md'
+                    //         },
+                    //         {
+                    //             text: '用Java实现JVM',
+                    //             link: '/md/java/develop-jvm/2019-05-01-用Java实现JVM第一章《命令行工具》.md'
+                    //         },
+                    //         {
+                    //             text: '基础技术',
+                    //             link: '/md/java/core/2020-01-06-[源码分析]咋嘞？你的IDEA过期了吧！加个Jar包就破解了，为什么？.md'
+                    //         }
+                    //     ]
+                    // },
+                    // {
+                    //     text: 'Spring',
+                    //     items: [
+                    //         {
+                    //             text: 'Spring 手撸专栏',
+                    //             link: '/md/spring/develop-spring/2021-05-16-第1章：开篇介绍，手写Spring能给你带来什么？.md'
+                    //         },
+                    //         {
+                    //             text: 'Mybatis 手撸专栏',
+                    //             link: '/md/spring/develop-mybatis/2022-03-20-第1章：开篇介绍，手写Mybatis能给你带来什么？.md'
+                    //         },
+                    //         {
+                    //             text: 'Spring Cloud',
+                    //             link: '/md/spring/spring-cloud/2019-10-31-Spring Cloud零《总有一偏概述告诉你SpringCloud是什么》.md'
+                    //         },
+                    //         {
+                    //             text: '源码分析(Mybatis、Quartz)',
+                    //             link: '/md/spring/source-code/2019-12-25-[源码分析]Mybatis接口没有实现类为什么可以执行增删改查.md'
+                    //         }
+                    //     ]
+                    // },
+                    // {
+                    //     text: '面向对象',
+                    //     items: [
+                    //         {
+                    //             text: '重学Java设计模式',
+                    //             items: [
+                    //                 {
+                    //                     text: '创建型模式',
+                    //                     link: '/md/develop/design-pattern/2020-05-20-重学Java设计模式《实战工厂方法模式》.md'
+                    //                 },
+                    //                 {
+                    //                     text: '结构型模式',
+                    //                     link: '/md/develop/design-pattern/2020-06-02-重学 Java 设计模式《适配器模式》.md'
+                    //                 },
+                    //                 {
+                    //                     text: '行为型模式',
+                    //                     link: '/md/develop/design-pattern/2020-06-18-重学 Java 设计模式《实战责任链模式》.md'
+                    //                 }
+                    //             ]
+                    //         },
+                    //         {
+                    //             text: '系统架构',
+                    //             items: [
+                    //                 {
+                    //                     text: 'DDD 专题',
+                    //                     link: '/md/develop/framework/ddd/2019-10-15-DDD专题案例一《初识领域驱动设计DDD落地》.md'
+                    //                 },
+                    //                 {
+                    //                     text: '工程框架',
+                    //                     link: '/md/develop/framework/frame/2019-12-22-架构框架搭建一《单体应用服务之SSM整合：Spring4 + SpringMvc + Mybatis》.md'
+                    //                 },
+                    //                 {
+                    //                     text: '架构方案',
+                    //                     link: '/md/develop/framework/scheme/2021-02-04-基于IDEA插件开发和字节码插桩技术，实现研发交付质量自动分析.md'
+                    //                 }
+                    //             ]
+                    //         },
+                    //         {
+                    //             text: '标准',
+                    //             items: [
+                    //                 {
+                    //                     text: '开发规范&事故',
+                    //                     link: '/md/develop/standard/2020-09-14-一次代码评审，差点过不了试用期！.md'
+                    //                 }
+                    //             ]
+                    //         }
+                    //     ]
+                    // },
+                    // {
+                    //     text: '中间件',
+                    //     items: [
+                    //         {
+                    //             text: 'SpringBoot 中间件开发',
+                    //             link: '/md/assembly/middleware/2019-12-02-SpringBoot服务治理中间件之统一白名单验证.md'
+                    //         },
+                    //         {
+                    //             text: 'IDEA-Plugin',
+                    //             link: '/md/assembly/idea-plugin/2021-08-27-技术调研，IDEA 插件怎么开发？.md'
+                    //         }
+                    //     ]
+                    // },
+                    // {
+                    //     text: 'Netty 4.x',
+                    //     items: [
+                    //         {
+                    //             text: '基础入门篇',
+                    //             link: '/md/netty/base/2019-07-30-netty案例，netty4.1基础入门篇零《初入JavaIO之门BIO、NIO、AIO实战练习》.md'
+                    //         },
+                    //         {
+                    //             text: '中级拓展篇',
+                    //             link: '/md/netty/expand/2019-08-16-netty案例，netty4.1中级拓展篇一《Netty与SpringBoot整合》.md'
+                    //         },
+                    //         {
+                    //             text: '高级应用篇',
+                    //             link: '/md/netty/application/2019-09-01-手写RPC框架第一章《自定义配置xml》.md'
+                    //         },
+                    //         {
+                    //             text: '源码分析篇',
+                    //             link: '/md/netty/source-code/2019-09-10-netty案例，netty4.1源码分析篇一《NioEventLoopGroup源码分析》.md'
+                    //         },
+                    //     ]
+                    // },
+                    // {
+                    //     text: '字节码编程',
+                    //     items: [
+                    //         {
+                    //             text: '框架', items: [
+                    //                 {
+                    //                     text: 'ASM',
+                    //                     link: '/md/bytecode/asm/2020-03-25-[ASM字节码编程]如果你只写CRUD，那这种技术你永远碰不到.md'
+                    //                 },
+                    //                 {
+                    //                     text: 'Javassist',
+                    //                     link: '/md/bytecode/javassist/2020-04-19-字节码编程，Javassist篇一《基于javassist的第一个案例helloworld》.md'
+                    //                 },
+                    //                 {
+                    //                     text: 'Byte-Buddy',
+                    //                     link: '/md/bytecode/byte-buddy/2020-05-08-字节码编程，Byte-buddy篇一《基于Byte Buddy语法创建的第一个HelloWorld》.md'
+                    //                 }
+                    //             ]
+                    //         },
+                    //         {
+                    //             text: '全链路监控', items: [
+                    //                 {
+                    //                     text: 'JavaAgent',
+                    //                     link: '/md/bytecode/agent/2019-07-10-基于JavaAgent的全链路监控一《嗨！JavaAgent》.md'
+                    //                 }
+                    //             ]
+                    //         },
+                    //         {
+                    //             text: '文档', items: [
+                    //                 {text: 'ASM-DOC', link: '/md/bytecode/asm-document/1引言.md'}
+                    //             ]
+                    //         }
+                    //     ]
+                    // },
+                    // {
+                    //     text: '💯实战项目',
+                    //     items: [
+                    //         {
+                    //             text: 'IM Netty 仿PC端微信',
+                    //             link: '/md/project/im/2020-03-04-《Netty+JavaFx实战：仿桌面版微信聊天》.md'
+                    //         },
+                    //         {
+                    //             text: 'SpringBoot 中间件设计和开发',
+                    //             link: '/md/project/springboot-middleware/2021-03-31-《SpringBoot 中间件设计和开发》专栏小册上线啦！.md'
+                    //         },
+                    //         {
+                    //             text: 'Lottery 分布式抽奖系统',
+                    //             link: '/md/project/lottery/introduce/Lottery抽奖系统.md'
+                    //         }
+                    //     ]
+                    // },
+                    // {
+                    //     text: '部署',
+                    //     link: '/md/devops/2019-08-12-windows环境下安装elasticsearch6.2.2.md'
+                    // },
+                    // {
+                    //     text: '📚PDF',
+                    //     items: [
+                    //         {
+                    //             text: '出版图书', items: [
+                    //                 {
+                    //                     text: '《重学Java设计模式》',
+                    //                     link: '/md/knowledge/book/2021-04-22-久等了！小傅哥的《重学Java设计模式》终于出版了，彩印&纸质！.md'
+                    //                 }
+                    //             ]
+                    //         },
+                    //         {
+                    //             text: '电子书籍', items: [
+                    //                 {
+                    //                     text: 'Java 面经手册',
+                    //                     link: '/md/knowledge/pdf/2021-01-26-Java面经手册PDF下载.md'
+                    //                 },
+                    //                 {
+                    //                     text: '手撸 Spring',
+                    //                     link: '/md/knowledge/pdf/2021-08-12-《手撸 Spring》PDF，全书260页6.5万字，完稿&发版！.md'
+                    //                 },
+                    //                 {
+                    //                     text: '重学Java设计模式',
+                    //                     link: '/md/knowledge/pdf/2020-07-12-重学 Java 设计模式.md'
+                    //                 },
+                    //                 {
+                    //                     text: '字节码编程',
+                    //                     link: '/md/knowledge/pdf/2020-05-17-小傅哥出书了《字节码编程》免费拿！.md'
+                    //                 },
+                    //                 {
+                    //                     text: 'IDEA Plugin 开发手册',
+                    //                     link: '/md/knowledge/pdf/2022-01-23-IDEA Plugin 开发手册.md'
+                    //                 }
+                    //             ]
+                    //         }
+                    //     ]
+                    // },
+                    // {
+                    //     text: '关于',
+                    //     items: [
+                    //         {text: '关于自己', link: '/md/about/me/about-me.md'},
+                    //         {text: '关于学习', link: '/md/about/study/2020-04-30-讲道理，只要你是一个爱折腾的程序员，毕业找工作真的不需要再花钱培训.md'},
+                    //         {text: '关于职场', link: '/md/about/job/2020-04-11-工作两年简历写成这样，谁要你呀！.md'}
+                    //     ]
+                    // },
                     // {
                     //     text: 'B站',
                     //     link: 'https://space.bilibili.com/15637440'
                     // },
-                    {
-                        text: 'Github',
-                        link: 'https://github.com/forthespada/InterviewGuide'
-                    }
+
                 ],
                 sidebar: {
                     "/notes/01-guide/": generateLeftBarGuide(),
-                    "/notes/02-learning_route/01-basic-project/": generateLeftBarBasicMap(),
-                    "/notes/02-learning_route/02-language/": generateLeftBarLanguage(),
+                    "/notes/02-learning_route/": generateLeftBarBasicMap(),
+                    "/notes/03-hunting_job/01-prepare/": generateLeftBarJianli(),
+                    "/notes/03-hunting_job/02-interview/": generateLeftBarKnowledge(),
+                    "/notes/03-hunting_job/03-algorithm/01-basic-algorithm/": generateLeftBarAlgorithmBasic(),
+
                     "/md/other/": genBarOther(),
                     "/md/java/interview/": genBarJavaInterview(),
                     "/md/java/develop-jvm/": genBarJavaDevelopJvm(),
@@ -517,19 +584,13 @@ function generateLeftBarGuide() {
 function generateLeftBarBasicMap() {
     return [
         {
-            title: "基础学科",
-            collapsable: false,
-            sidebarDepth: 0,
-            children: [
-                "01-计算机网络学习路线.md",
-            ]
+        title: "基础学科",
+        collapsable: false,
+        sidebarDepth: 0,
+        children: [
+            "03-计算机网络学习路线.md",
+        ]
         },
-    ]
-}
-
-// learning-map language
-function generateLeftBarLanguage() {
-    return [
         {
             title: "编程语言",
             collapsable: false,
@@ -539,6 +600,165 @@ function generateLeftBarLanguage() {
                 "02-golang学习路线.md",
             ]
         },
+    ]
+
+}
+
+
+// learning-map language
+function generateLeftBarJianli() {
+    return [
+        {
+            title: "简历专题",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "01-01-简历远比你想的要重要.md",
+                "01-02-帮助一位毕业一年的本科学弟修改简历.md",
+                "01-03-不要胡乱投递简历.md",
+            ]
+        },
+        {
+            title: "求职必知名词黑话",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "02-01-互联网常见技术岗分类.md",
+                "02-02-求职必知名词&黑话.md",
+            ]
+        },
+        {
+            title: "技术方向科普",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "03-01-技术方向.md",
+            ]
+        },
+        {
+            title: "互联网面试总结",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "04-01-互联网面试总结.md",
+            ]
+        }
+    ]
+}
+
+// learning-map language
+function generateLeftBarKnowledge() {
+    return [
+        {
+            title: "C/C++",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "01-01-01-基础语法.md",
+                "01-01-02-基础语法.md",
+                "01-01-03-基础语法.md",
+                "01-01-04-基础语法.md",
+                "01-01-05-基础语法.md",
+                "01-01-06-基础语法.md",
+                "01-01-07-基础语法.md",
+                "01-02-01-内存管理.md",
+                "01-03-01-C++11新标准.md",
+                "01-04-01-STL模板库.md",
+                "01-04-02-STL模板库.md",
+                "01-05-01-其余问题.md",
+                "01-05-02-其余问题.md",
+            ]
+        },
+        {
+            title: "操作系统",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "02-01-操作系统.md",
+                "02-02-操作系统.md",
+                "02-03-操作系统.md",
+                "02-04-操作系统.md",
+            ]
+        },
+        {
+            title: "计算机网络",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "03-01-计算机网络.md",
+                "03-02-计算机网络.md",
+                "03-03-计算机网络.md",
+                "03-04-计算机网络.md",
+                "03-05-计算机网络.md",
+                "03-06-计算机网络.md",
+            ]
+        },
+        {
+            title: "MySQL",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "04-01-01-MySQL.md",
+                "04-01-02-MySQL.md",
+                "04-01-03-MySQL.md",
+            ]
+        },
+        {
+            title: "Redis",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "04-02-01-Redis.md",
+                "04-02-02-Redis.md",
+            ]
+        },
+        {
+            title: "智力&场景题",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "06-智力&场景题.md",
+            ]
+        },
+    ]
+}
+
+// learning-map language
+function generateLeftBarAlgorithmBasic() {
+    return [
+        {
+            title: "算法模块食用指南",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "01-算法模块食用指南.md",
+            ]
+        },
+        {
+            title: "必备算法基础",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "02-必备算法基础.md",
+            ]
+        },
+        {
+            title: "十大排序",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "02-01-十大排序.md",
+                "02-02-十大排序.md",
+                "02-03-十大排序.md",
+                "02-04-十大排序.md",
+                "02-05-十大排序.md",
+                "02-06-十大排序.md",
+                "02-07-十大排序.md",
+                "02-08-十大排序.md",
+                "02-09-十大排序.md",
+                "02-10-十大排序.md",
+            ]
+        }
     ]
 }
 
