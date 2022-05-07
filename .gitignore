@@ -6,3 +6,4 @@
 /.temp/
 /docs/md
 *.xmind
+/docs/.vuepress/

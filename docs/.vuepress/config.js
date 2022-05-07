@@ -285,7 +285,7 @@ module.exports = {
                                     },
                                     {
                                         text: '带你快速刷完67道剑指offer',
-                                        link: '/notes/03-hunting_job/02-interview/02-01-操作系统.md'
+                                        link: '/notes/03-hunting_job/03-algorithm/02-sword-offer/01-剑指offer.md'
                                     },
                                     {
                                         text: '力扣精选300+题目',
@@ -536,6 +536,7 @@ module.exports = {
                     "/notes/03-hunting_job/01-prepare/": generateLeftBarJianli(),
                     "/notes/03-hunting_job/02-interview/": generateLeftBarKnowledge(),
                     "/notes/03-hunting_job/03-algorithm/01-basic-algorithm/": generateLeftBarAlgorithmBasic(),
+                    "/notes/03-hunting_job/03-algorithm/02-sword-offer/": generateLeftBarSwordOffer(),
 
                     "/md/other/": genBarOther(),
                     "/md/java/interview/": genBarJavaInterview(),
@@ -723,7 +724,7 @@ function generateLeftBarKnowledge() {
     ]
 }
 
-// learning-map language
+// 算法基础
 function generateLeftBarAlgorithmBasic() {
     return [
         {
@@ -759,6 +760,25 @@ function generateLeftBarAlgorithmBasic() {
                 "02-10-十大排序.md",
             ]
         }
+    ]
+}
+
+
+// 剑指offer
+function generateLeftBarSwordOffer() {
+    return [
+        {
+            title: "带你快速刷完67道剑指offer",
+            collapsable: false,
+            sidebarDepth: 0,
+            children: [
+                "01-剑指offer.md",
+                "02-剑指offer.md",
+                "03-剑指offer.md",
+                "04-剑指offer.md",
+                "05-剑指offer.md",
+            ]
+        },
     ]
 }
 
