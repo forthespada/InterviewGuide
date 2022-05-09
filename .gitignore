@@ -1,6 +1,5 @@
 /.idea/
-/package-lock.json
-/package.json
+*.json
 /node_modules/
 /site/
 /.temp/
