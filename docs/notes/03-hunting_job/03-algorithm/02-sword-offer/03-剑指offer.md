@@ -1,10 +1,10 @@
 ---
 layout:  post
 category:  algorithm
-title:  No2、从尾到头打印链表
+title:  No3、从尾到头打印链表
 tagline:  by 阿秀
 tag: [数据结构与算法]
-excerpt: No2、从尾到头打印链表
+excerpt: No3、从尾到头打印链表
 ---
 
 
