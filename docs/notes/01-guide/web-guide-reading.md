@@ -31,8 +31,9 @@ comment: false
 2020年秋招笔试期间过**59**场，面试过**40**余家企业，其中百度、阿里、腾讯、美团、滴滴、字节跳动、猿辅导、华为等都面试过，最后顺利拿下**华为、百度、字节跳动SP** 等6个中大厂的 **offer**，其后还应邀为牛客网写过一个**校招求职专刊**。
 
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205051803413.png" style="zoom:50%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205051803413.png" style="zoom:30%;" />
 </div>
+
 
 我深知自己能走到今天这一步，靠的都是**自己提前准备**，肯定不是普通双非学校的背景，在自己身边人还没开始对找工作有意识的时候就**开始系统准备&自学**，以至于到最后我拿到华为offer的时候身边还有同学简历还没开始投递，如果我跟他们一样**温水煮青蛙、后知后觉**的话，也就不可能有今天的我了。
 
