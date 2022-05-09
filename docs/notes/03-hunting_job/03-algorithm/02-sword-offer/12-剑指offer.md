@@ -1,0 +1,128 @@
+﻿---
+layout:  post
+category:  algorithm
+title:  No12、数值的整数次方
+tagline:  by 阿秀
+tag: [数据结构与算法]
+excerpt: No12、数值的整数次方
+---
+
+
+## **No12、数值的整数次方**  
+
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&&tqId=11165&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
+
+**题目描述**
+
+给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。
+
+保证base和exponent不同时为0。不得使用库函数，同时不需要考虑大数问题，也不用考虑小数点后面0的位数。
+
+**示例1**
+
+**输入**
+
+```
+2.00000,3
+```
+
+**返回值**
+
+```
+8.00000
+```
+
+**示例2**
+
+**输入**
+
+```
+2.10000,3
+```
+
+**返回值**
+
+```
+9.26100
+```
+
+**示例3**
+
+**输入**
+
+```
+2.00000,-2
+```
+
+**返回值**
+
+```
+0.25000
+```
+
+**说明**
+
+```
+2的-2次方等于1/4=0.25
+```
+
+**1、主要要注意正负数的情况，要注意分开**
+
+运行时间：3ms  占用内存：520k
+
+~~~cpp
+    double Power(double base, int exponent) {
+        if( exponent == 0) return 1.0;
+        if( base == 0.0 ) return 0.0;//保证不同时为0，先处理各自为0的情况
+        
+        bool flag = false;//判断指数是否为负
+        if( exponent < 0) {
+            flag = true;
+            exponent *=-1;//如果为负数，则将指数转正
+        }
+        double res = base; 
+        for(int i = 2;i <= exponent; ++i){
+            res *=base;//逐渐递乘
+        }
+        
+        if(flag) return 1.0/res;
+        else
+            return res;
+    }
+~~~
+
+
+
+**2、快速幂算法，值得好好看看，力扣上的要求更严谨一些**
+
+ https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/ 
+
+执行用时：0 ms, 在所有 C++ 提交中击败了100.00%的用户
+
+内存消耗：5.9 MB, 在所有 C++ 提交中击败了100.00%的用户
+
+~~~cpp
+    double myPow(double x, int n) {
+        if( n == 0) return 1;
+        if( x == 0.0) return 0;
+        long  exp = n;//
+        if(n < 0) {
+            exp = n* (-1.0);//，当n == INT_MIN时正数时大于INT_MAX的，所以要用一个大于 INT_MAX的类型来保存，同时在将他转正的时候， n*(-1)的结果依然是一个 int，此时的int是个隐藏类型，然后才将这个结果赋值给 exp，所以用来保存结果值的不应该是个int型，我们用double型的 -1 ,这样就可以将相乘的结果值保存为一个 double类型了，然后再进行赋值
+        } 
+        
+        double res = 1.0;
+        while(exp != 0){
+            if( (exp &1) == 1 ){
+                res *=x;
+            }
+            x *=x;
+            exp >>= 1;
+        }
+
+        return n<0 ? 1/res: res;
+
+    }
+~~~
+
+<p id = "数值的整数次方"></p>
+

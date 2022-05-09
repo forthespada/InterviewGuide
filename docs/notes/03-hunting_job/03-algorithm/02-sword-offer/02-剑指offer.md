@@ -42,4 +42,3 @@ void replaceSpace(char *str,int length) {//int length是指当前的长度
 ~~~
 
 <p id ="从头到尾打印链表"></p>
-

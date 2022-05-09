@@ -3,29 +3,29 @@
   <main :class="{'withouttoc': !showPageToc, 'page':true}">
     <slot name="top"/>
 
-    <Content class="theme-default-content"/>
+      <Content class="theme-default-content"/>
 
-    <footer class="page-edit">
-      <div
-        class="edit-link"
-        v-if="editLink"
-      >
-        <a
-          :href="editLink"
-          target="_blank"
-          rel="noopener noreferrer"
-        >{{ editLinkText }}</a>
-        <OutboundLink/>
-      </div>
+      <footer class="page-edit">
+        <div
+          class="edit-link"
+          v-if="editLink"
+        >
+          <a
+            :href="editLink"
+            target="_blank"
+            rel="noopener noreferrer"
+          >{{ editLinkText }}</a>
+          <OutboundLink/>
+        </div>
 
-      <div
-        class="last-updated"
-        v-if="lastUpdated"
-      >
-        <span class="prefix">{{ lastUpdatedText }}: </span>
-        <span class="time">{{ lastUpdated }}</span>
-      </div>
-    </footer>
+        <div
+          class="last-updated"
+          v-if="lastUpdated"
+        >
+          <span class="prefix">{{ lastUpdatedText }}: </span>
+          <span class="time">{{ lastUpdated }}</span>
+        </div>
+      </footer>
 
     <div class="page-nav" v-if="prev || next">
       <p class="inner">
