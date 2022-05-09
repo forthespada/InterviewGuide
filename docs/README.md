@@ -5,16 +5,21 @@ actionLinks:
 - link: /notes/01-guide/web-guide-reading.md
   text: 懂了，马上开卷 →
   class: primary
-- link: https://t.zsxq.com/Ja27ujq
-  text: 阿秀的学习圈子
-  class: secondary
 footer: <a href="http://beian.miit.gov.cn" target="_blank"> Copyright © 2021-至今 阿秀，All rights reserved. 
 ---
 
 ---
+<!--
+
+- link: https://t.zsxq.com/Ja27ujq
+  text: 阿秀的学习圈子
+  class: secondary
+
+-->
+
 ## 👨‍💻关于作者
 
-[comment]: <> (你只管努力，剩下的交给时间就好，我就是活生生的例子。)
+[comment]: <> "你只管努力，剩下的交给时间就好，我就是活生生的例子。"
 你好，我是阿秀，2021年毕业于普通学校，现在是字节跳动抖音部门担任全栈开发工程师，主后端兼前端。
 
 作为一名从普通双非学校成功上岸字节跳动抖音部门的学生来说，我深感这一路的不易，对于那些跟我一样普通二本学校的学生而言想要走出来**实在太难了**。
