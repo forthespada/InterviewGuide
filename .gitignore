@@ -3,6 +3,5 @@
 /node_modules/
 /site/
 /.temp/
-/docs/md
 *.xmind
 /docs/.vuepress/
