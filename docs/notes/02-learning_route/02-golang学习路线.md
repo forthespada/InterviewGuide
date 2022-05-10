@@ -9,6 +9,14 @@ excerpt: 转为小白新手准备的Goplang求职版学习路线
 
 
 
+## Golang版求职版路线
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202112012147950.png" alt="Golang求职版学习路线" style="zoom:50%;" />
+</div>
+
+### 1、导读
+
 这篇学习路线写完其实很久了，不过前段时间又请组内的Go后端资深研发工程师吃了一顿烤羊腿。
 
 ![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205052313472.png)向他请教了一些新手学习Go语言需要注意的内容，然后删减了一些不是很好的书籍(Go出的书倒是不少，可好的真的不多)，并且增加了几个不错的项目，最终润色完毕后，才有的这篇学习路线。
@@ -31,7 +39,13 @@ excerpt: 转为小白新手准备的Goplang求职版学习路线
 
 与以前给大家安排的C++学习路线类似，Golang学习路线也一共有四个阶段:
 
-![Golang求职版学习路线](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202112012147950.png)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202112012147950.png" alt="Golang求职版学习路线" style="zoom:50%;" />
+</div>
+
+
+
+
 
 第一阶段为计算机基础学习，第二阶段是基础语法，第三阶段是进阶编程，第四阶段是比较热门的微服务相关。
 
@@ -41,19 +55,21 @@ excerpt: 转为小白新手准备的Goplang求职版学习路线
 
 需要注意的是文中会我推荐一些书籍或者视频，其中纸质版书籍在当当或者JD均有售，如果想要PDF电子版，可以去下面这两个仓库自行查找；
 
-地址1：https://github.com/forthespada/CS-Books
+地址1：[https://github.com/forthespada/CS-Books](https://github.com/forthespada/CS-Books)
 
-地址2：https://gitee.com/ForthEspada/CS-Books
+地址2：[https://gitee.com/ForthEspada/CS-Books](https://gitee.com/ForthEspada/CS-Books)
 
 对应的视频在均已注明地址或者领取方式，注意看即可，好了下面就开始吧。
 
-## 1、计算机基础
+## 2、计算机基础
 
 首先需要说明的是，不管是什么学习什么语言，对于计算机基础知识都是需要掌握的。
 
-比如操作系统、计算机网络、数据结构与算法、数据库等等，对于这些内容的学习，以前我都有过说明，可以点击下面的链接自己去了解，这里就不再赘述，我们直接进入主题Golang语言的学习。
+比如操作系统、计算机网络、数据结构与算法、数据库等等，对于这些内容的学习，以前我都有过说明，是不可跳过必须要学习的。
 
-## 2、Go 语言基础
+可以点击下面的链接自己去了解：[计算机基础学习路线](http://localhost:8080/notes/02-learning_route/03-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)，这里就不再赘述，我们直接进入主题Golang语言的学习。
+
+## 3、Go 语言基础
 
 ### 1、语言学习
 
@@ -132,7 +148,7 @@ excerpt: 转为小白新手准备的Goplang求职版学习路线
 
 
 
-## 3、Go 语言进阶
+## 4、Go 语言进阶
 
 一般来说，在具体了解 Go 相关语法知识之后，就需要进一步学一些比较细分的知识了。
 
@@ -243,7 +259,7 @@ Gin框架不需要你去仔细学，但是需要你会用，这里推荐一下�
 
 地址：https://github.com/xinliangnote/go-gin-api
 
-## 4、微服务相关
+## 5、微服务相关
 
 一般来说，你学完前三个基本就可以去找一份Go语言后台研发的工作了，剩下的就是在工作中慢慢学习和进步了。
 
@@ -265,4 +281,6 @@ Gin框架不需要你去仔细学，但是需要你会用，这里推荐一下�
 
 好了，以上就是给大家安排的学习路线，资料不在多而在于精，不要贪多，把一两门学好就基本ok够用了。
 
-需要说明的是，学习路线这种东西，每个人的基础都不一样，所以我为了尽可能的照顾大多数人，推荐的资料可能是一些入门级的，如果你有更好的推荐，欢迎你在评论区留言评论。
+需要说明的是，学习路线这种东西，每个人的基础都不一样，所以我为了尽可能的照顾大多数人，推荐的资料可能是一些入门级的。
+
+如果你有更好的推荐，欢迎你在评论区留言评论。
