@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No33、第N个丑数
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No33、第N个丑数
+comment: false
 ---
 
 
@@ -12,11 +13,11 @@ excerpt: No33、第N个丑数
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/6aa9e04fc3794f68acf8778237ba065b?tpId=13&&tqId=11186&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入一个正整数数组，把数组里所有数字拼接起来排成一个数，打印能拼接出的所有数字中最小的一个。例如输入数组{3，32，321}，则打印出这三个数字能排成的最小数字为321323。
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -31,7 +32,7 @@ excerpt: No33、第N个丑数
 
 
 
-**1、三指针法  很经典**
+### **1、三指针法  很经典**
 
 1-6之间都是丑数 1 2 3 4 5 6 直接返回即可
 

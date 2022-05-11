@@ -5,6 +5,7 @@ title:  No7、斐波那契数列
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No7、斐波那契数列
+comment: false
 ---
 
 
@@ -15,13 +16,13 @@ excerpt: No7、斐波那契数列
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/c6c7742f5ba7442aada113136ddea0c3?tpId=13&&tqId=11160&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 大家都知道斐波那契数列，现在要求输入一个整数n，请你输出斐波那契数列的第n项（从0开始，第0项为0，第1项是1）。
 
 **n≤39**
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -39,7 +40,7 @@ excerpt: No7、斐波那契数列
 
 easy不需再刷
 
-**1、采用三个元素保存数组即可**
+### **1、采用三个元素保存数组即可**
 
 ~~~cpp
     int Fibonacci(int n) {
@@ -62,7 +63,7 @@ easy不需再刷
 
 
 
-**2、递归，慢得多**
+### **2、递归，慢得多**
 
 ~~~cpp
 int Fibonacci(int n) {
@@ -73,7 +74,7 @@ int Fibonacci(int n) {
 }
 ~~~
 
-**二刷：很简单**
+### **二刷：很简单**
 
 三个元素来保存元素，来回替换即可
 

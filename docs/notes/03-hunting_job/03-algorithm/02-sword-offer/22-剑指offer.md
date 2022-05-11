@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No22、从上往下打印二叉树
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No22、从上往下打印二叉树
+comment: false
 ---
 
 
@@ -13,11 +14,11 @@ excerpt: No22、从上往下打印二叉树
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank"> [牛客网原题链接](https://www.nowcoder.com/practice/7fe2212963db4790b57431d9ed259701?tpId=13&&tqId=11175&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 从上往下打印出二叉树的每个节点，同层节点从左至右打印。 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -32,7 +33,7 @@ excerpt: No22、从上往下打印二叉树
 
 
 
-**1、迭代做法，借助队列，比较简单**
+### **1、迭代做法，借助队列，比较简单**
 
 ~~~cpp
     vector<int> PrintFromTopToBottom(TreeNode* root) {
@@ -55,9 +56,9 @@ excerpt: No22、从上往下打印二叉树
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、借助队列来做，简单**
+### **1、借助队列来做，简单**
 
 运行时间：2ms  占用内存：528k
 

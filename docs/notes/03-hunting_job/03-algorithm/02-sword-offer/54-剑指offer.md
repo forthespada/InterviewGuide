@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No54、字符流中第一个不重复的字符
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No54、字符流中第一个不重复的字符
+comment: false
 ---
 
 
@@ -13,7 +14,7 @@ excerpt: No54、字符流中第一个不重复的字符
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/00de97733b8e4f97a3fb5c680ee10720?tpId=13&&tqId=11207&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 请实现一个函数用来找出字符流中第一个只出现一次的字符。例如，当从字符流中只读出前两个字符"go"时，第一个只出现一次的字符是"g"。当从该字符流中读出前六个字符“google"时，第一个只出现一次的字符是"l"。
 
@@ -23,7 +24,7 @@ excerpt: No54、字符流中第一个不重复的字符
 
 
 
-**1、自己想的一种方法**
+### **1、自己想的一种方法**
 
 ~~~cpp
 class Solution
@@ -51,7 +52,7 @@ public:
 
 
 
-**2、借助一个unordered_map**
+### **2、借助一个unordered_map**
 
 这个方法要慢一些
 
@@ -81,9 +82,9 @@ public:
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、简单的方法，复杂度稍微高一些**
+### **1、简单的方法，复杂度稍微高一些**
 
 运行时间：4ms  占用内存：376k
 
@@ -112,7 +113,7 @@ public:
 
 
 
-**2、借助一个哈希表，稍微快一点了**
+### **2、借助一个哈希表，稍微快一点了**
 
 运行时间：4ms  占用内存：376k
 

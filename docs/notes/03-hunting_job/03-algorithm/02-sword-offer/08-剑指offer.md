@@ -5,6 +5,7 @@ title:  No8、 跳台阶
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No8、 跳台阶
+comment: false
 ---
 
 
@@ -15,13 +16,13 @@ excerpt: No8、 跳台阶
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&&tqId=11161&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+## **题目描述**
 
 一只青蛙一次可以跳上1级台阶，也可以跳上2级。求该青蛙跳上一个n级的台阶总共有多少种跳法（先后次序不同算不同的结果）。 
 
 
 
-**1、递归做法，真的很耗时**
+## **1、递归做法，真的很耗时**
 
 ~~~cpp
     int jumpFloor(int number) {
@@ -34,7 +35,7 @@ excerpt: No8、 跳台阶
 
 
 
-**2、直接循环会好很多**
+## **2、直接循环会好很多**
 
 ~~~cpp
     int jumpFloor(int number) {
@@ -54,7 +55,7 @@ excerpt: No8、 跳台阶
 
 
 
-**二刷：其实就是斐波那契数列**
+## **二刷：其实就是斐波那契数列**
 
 运行时间：3ms 占用内存：376k
 

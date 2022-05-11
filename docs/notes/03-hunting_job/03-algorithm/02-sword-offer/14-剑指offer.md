@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No14、 链表中倒数第k个结点
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No14、 链表中倒数第k个结点
+comment: false
 ---
 
 
@@ -13,11 +14,11 @@ excerpt: No14、 链表中倒数第k个结点
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&&tqId=11167&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入一个链表，输出该链表中倒数第k个结点。 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -31,7 +32,7 @@ excerpt: No14、 链表中倒数第k个结点
 {5}
 ```
 
-**1、比较简单的一种方法**
+### **1、比较简单的一种方法**
 
 时间复杂度较高，没有二刷的那种方法好
 
@@ -53,9 +54,9 @@ ListNode* FindKthToTail(ListNode* pListHead, unsigned int k) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、快慢指针，不应该说是先后指针**
+### **1、快慢指针，不应该说是先后指针**
 
 3 ms  376K
 

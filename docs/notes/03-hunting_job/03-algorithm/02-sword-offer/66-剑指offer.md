@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No66、机器人的运动范围
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No66、机器人的运动范围
+comment: false
 ---
 
 
@@ -12,14 +13,14 @@ excerpt: No66、机器人的运动范围
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/6e5207314b5241fb83f2329e89fdecc8?tpId=13&&tqId=11219&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 地上有一个m行和n列的方格。一个机器人从坐标0,0的格子开始移动，
 每一次只能向左，右，上，下四个方向移动一格，但是不能进入行坐标和列坐标的数位之和大于k的格子。 
 例如，当k为18时，机器人能够进入方格（35,37），因为3+5+3+7 = 18。
 但是，它不能进入方格（35,38），因为3+5+3+8 = 19。请问该机器人能够达到多少个格子？
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -34,7 +35,7 @@ excerpt: No66、机器人的运动范围
 
 
 
-**1、借助标记法，看的解释，其实很好理解和明白**
+### **1、借助标记法，看的解释，其实很好理解和明白**
 
 ~~~cpp
 bool canReach(int threshold, int x, int y) {
@@ -71,7 +72,7 @@ int movingCount(int threshold, int rows, int cols)
 
 
 
-**2、标注借助法的简化版**
+### **2、标注借助法的简化版**
 
 递归只要俩行就够了，helper(threshold, rows, cols, flags, i + 1, j) +  helper(threshold, rows, cols, flags, i, j + 1) + 1，不需要往回走，然后前面的判断i，j也不会小于零了  
 
@@ -110,7 +111,7 @@ int movingCount(int threshold, int rows, int cols)
 
 
 
-**3、BFS**
+### **3、BFS**
 
 ~~~cpp
 bool canReach(int threshold, int x, int y) {
@@ -156,9 +157,9 @@ int movingCount(int threshold, int rows, int cols)
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、还是比较经典的方法**
+### **1、还是比较经典的方法**
 
 运行时间：4ms  占用内存：504k
 

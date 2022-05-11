@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No51、构建乘积数组
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No51、构建乘积数组
+comment: false
 ---
 
 
@@ -13,7 +14,7 @@ excerpt: No51、构建乘积数组
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/94a4d381a68b47b7a8bed86f2975db46?tpId=13&&tqId=11204&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 给定一个数组A[0,1,...,n-1],请构建一个数组B[0,1,...,n-1],其中B中的元素B[i]=A[0]\*A[1]\*...\*A[i-1]\*A[i+1]\*...\*A[n-1]，不能使用除法。
 
@@ -21,7 +22,7 @@ excerpt: No51、构建乘积数组
 
 对于A长度为1的情况，B无意义，故而无法构建，因此该情况不会存在。
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -36,7 +37,7 @@ excerpt: No51、构建乘积数组
 
 
 
-**1、暴力法**
+### **1、暴力法**
 
 ~~~cpp
 vector<int> multiply(const vector<int>& A) {
@@ -55,7 +56,7 @@ vector<int> multiply(const vector<int>& A) {
 
 
 
-**2、一种超级精妙的解法，吹爆了**
+### **2、一种超级精妙的解法，吹爆了**
 
 ~~~cpp
 vector<int> multiply(const vector<int>& A) {
@@ -78,9 +79,9 @@ vector<int> multiply(const vector<int>& A) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、遇到一点问题，还没有很顺利的写出来**
+### **1、遇到一点问题，还没有很顺利的写出来**
 
 运行时间：2ms  占用内存：376k
 

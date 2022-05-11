@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No64、滑动窗口的最大值
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No64、滑动窗口的最大值
+comment: false
 ---
 
 
@@ -14,7 +15,7 @@ excerpt: No64、滑动窗口的最大值
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/1624bc35a45c42c0bc17d17fa0cba788?tpId=13&&tqId=11217&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 给定一个数组和滑动窗口的大小，找出所有滑动窗口里数值的最大值。
 
@@ -40,7 +41,7 @@ excerpt: No64、滑动窗口的最大值
 
 
 
-**1、自己想的，边界条件很多**
+### **1、自己想的，边界条件很多**
 
 总的来说，利用 low high maxIndex三个指针维护整个数组的情况
 
@@ -87,7 +88,7 @@ excerpt: No64、滑动窗口的最大值
 
 
 
-**2、第二种做法，比较水，借助优先队列来做，小顶堆**
+### **2、第二种做法，比较水，借助优先队列来做，小顶堆**
 
 ~~~cpp
 vector<int> maxInWindows(const vector<int>& num, unsigned int size)
@@ -113,7 +114,7 @@ vector<int> maxInWindows(const vector<int>& num, unsigned int size)
 
 
 
-**3、借助双端队列来做，最为高效的一种方法**
+### **3、借助双端队列来做，最为高效的一种方法**
 
 ~~~cpp
 vector<int> maxInWindows(const vector<int>& num, unsigned int size)
@@ -139,9 +140,9 @@ vector<int> maxInWindows(const vector<int>& num, unsigned int size)
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、优先队列，其实也就是大顶堆来做**
+### **1、优先队列，其实也就是大顶堆来做**
 
 运行时间：3ms  占用内存：376k
 
@@ -171,7 +172,7 @@ vector<int> maxInWindows(const vector<int>& num, unsigned int size)
 
 
 
-**2、单调栈来做应该是最快的**
+### **2、单调栈来做应该是最快的**
 
 运行时间：3ms  占用内存：480k
 

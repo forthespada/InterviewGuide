@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No45、扑克牌顺子
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No45、扑克牌顺子
+comment: false
 ---
 
 
@@ -14,7 +15,7 @@ excerpt: No45、扑克牌顺子
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank"> [牛客网原题链接](https://www.nowcoder.com/practice/762836f4d43d43ca9deb273b3de8e1f4?tpId=13&&tqId=11198&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 LL今天心情特别好,因为他去买了一副扑克牌,发现里面居然有2个大王,2个小王(一副牌原本是54张^_^)...
 
@@ -26,7 +27,7 @@ LL决定去买体育彩票啦。 现在,要求你使用这幅牌模拟上面的�
 
 为了方便起见,你可以认为大小王是0。 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -82,7 +83,7 @@ false
 false
 ```
 
-**1、比较容易想到的一种方法**
+### **1、比较容易想到的一种方法**
 
 1、排序 
 
@@ -117,7 +118,7 @@ false
 
 
 
-**2、第二种方法**
+### **2、第二种方法**
 
 max 记录 最大值
  min 记录  最小值
@@ -178,9 +179,9 @@ max 记录 最大值
 
 
 
-**二刷：**
+### **二刷：**
 
-**先排序，再进行操作即可，挺好**
+### **先排序，再进行操作即可，挺好**
 
 运行时间：3ms 占用内存：504k
 

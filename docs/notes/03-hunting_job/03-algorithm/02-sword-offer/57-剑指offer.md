@@ -1,25 +1,24 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No57、二叉树的下一个结点
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No57、二叉树的下一个结点
+comment: false
 ---
-
-
 
 ## **No57、二叉树的下一个结点**
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank"> [牛客网原题链接](https://www.nowcoder.com/practice/9023a0c988684a53960365b889ceaf5e?tpId=13&&tqId=11210&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 给定一个二叉树和其中的一个结点，请找出中序遍历顺序的下一个结点并且返回。注意，树中的结点不仅包含左右子结点，同时包含指向父结点的指针。 
 
 
 
-**1、没有思路，自己瞎写的，错误**
+### **1、没有思路，自己瞎写的，错误**
 
 ~~~cpp
 TreeLinkNode* GetNext(TreeLinkNode* pNode)
@@ -44,7 +43,7 @@ TreeLinkNode* GetNext(TreeLinkNode* pNode)
 
 
 
-**2、牛客网上做法**
+### **2、牛客网上做法**
 
 分析可知：
 
@@ -79,7 +78,7 @@ TreeLinkNode* GetNext(TreeLinkNode* pNode)
 
 
 
-**3、第二种写法的变种**
+### **3、第二种写法的变种**
 
 ~~~cpp
 TreeLinkNode* GetNext(TreeLinkNode* pNode)
@@ -103,9 +102,9 @@ TreeLinkNode* GetNext(TreeLinkNode* pNode)
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、继续刷起来，也是很好的题目**
+### **1、继续刷起来，也是很好的题目**
 
 运行时间：2ms   占用内存：480k
 

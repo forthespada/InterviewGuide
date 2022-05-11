@@ -5,6 +5,7 @@ title:  No6、旋转数组
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No6、旋转数组
+comment: false
 ---
 
 
@@ -17,7 +18,7 @@ excerpt: No6、旋转数组
 
 
 
-**题目描述**
+### **题目描述**
 
 把一个数组最开始的若干个元素搬到数组的末尾，我们称之为数组的旋转。
 
@@ -27,7 +28,7 @@ NOTE：给出的所有元素都大于0，若数组大小为0，请返回0。
 
 
 
-**1、常规做法**
+### **1、常规做法**
 
 ~~~cpp
  int minNumberInRotateArray(vector<int> rotateArray) {
@@ -55,7 +56,7 @@ NOTE：给出的所有元素都大于0，若数组大小为0，请返回0。
 
 
 
-**2、二分法 很不错**
+### **2、二分法 很不错**
 
 ~~~cpp
 int minNumberInRotateArray(vector<int> rotateArray) {
@@ -75,9 +76,9 @@ int minNumberInRotateArray(vector<int> rotateArray) {
 
 
 
-**二刷**
+### **二刷**
 
-**2-1、常规做法**
+### **2-1、常规做法**
 
 运行时间：26ms   占用内存：1124k
 
@@ -95,7 +96,7 @@ int minNumberInRotateArray(vector<int> rotateArray) {
 
 
 
-**2-2、二分法变种**
+### **2-2、二分法变种**
 
 ~~~cpp
     int minNumberInRotateArray(vector<int> rotateArray) {       

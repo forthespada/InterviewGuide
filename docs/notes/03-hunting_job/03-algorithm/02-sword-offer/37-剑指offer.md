@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No37、 统计一个数字在排序数组中出现的次数
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No37、 统计一个数字在排序数组中出现的次数
+comment: false
 ---
 
 
@@ -13,11 +14,11 @@ excerpt: No37、 统计一个数字在排序数组中出现的次数
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/70610bf967994b22bb1c26f9ae901fa2?tpId=13&&tqId=11190&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 统计一个数字在升序数组中出现的次数。
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -32,7 +33,7 @@ excerpt: No37、 统计一个数字在排序数组中出现的次数
 
 
 
-**1、STL中取巧的一种写法，直接调equal_range() 方法**
+### **1、STL中取巧的一种写法，直接调equal_range() 方法**
 
 ~~~cpp
 int GetNumberOfK(vector<int> data ,int k) {
@@ -43,7 +44,7 @@ int GetNumberOfK(vector<int> data ,int k) {
 
 
 
-**2、二分法，找到第一次出现的位置和最后一次出现的位置，还是记这种二分法模板吧**
+### **2、二分法，找到第一次出现的位置和最后一次出现的位置，还是记这种二分法模板吧**
 
 low<=high  low = mid+1,high = mid-1;
 

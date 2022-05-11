@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No35、数组中的逆排序
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No35、数组中的逆排序
+comment: false
 ---
 
 
@@ -13,7 +14,7 @@ excerpt: No35、数组中的逆排序
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/96bd6684e04a44eb80e6a68efc0ec6c5?tpId=13&&tqId=11188&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 在数组中的两个数字，如果前面一个数字大于后面的数字，则这两个数字组成一个逆序对。输入一个数组,求出这个数组中的逆序对的总数P。并将P对1000000007取模的结果输出。 即输出P%1000000007
 
@@ -21,7 +22,7 @@ excerpt: No35、数组中的逆排序
 
 题目保证输入的数组中没有的相同的数字数据范围：	对于%50的数据,size<=10^4	对于%75的数据,size<=10^5	对于%100的数据,size<=2*10^5
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -37,7 +38,7 @@ excerpt: No35、数组中的逆排序
 
 
 
-**1、只通过50%的笨方法**
+### **1、只通过50%的笨方法**
 
 ~~~cpp
     int InversePairs(vector<int> data) {
@@ -62,7 +63,7 @@ excerpt: No35、数组中的逆排序
 
 
 
-**2、牛客上的一种做法，很厉害**
+### **2、牛客上的一种做法，很厉害**
 
 https://www.nowcoder.com/profile/872855282/codeBookDetail?submissionId=78340272
 
@@ -112,9 +113,9 @@ InversePairsCore(copy, data, begin, mid)中 copy和data互换位置好评。。�
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、很棒的一道题目，建议多刷**
+### **1、很棒的一道题目，建议多刷**
 
 ~~~cpp
 int InversePairsCore(vector<int>& data, vector<int>& copy, int begin, int end) {
@@ -157,7 +158,7 @@ int InversePairs(vector<int> data) {
 
 
 
-**2、归并排序，归并成从小到大的序列，这种方法更好理解一些**
+### **2、归并排序，归并成从小到大的序列，这种方法更好理解一些**
 
 运行时间：78ms  占用内存：5788k
 
@@ -221,7 +222,7 @@ int InversePairs(vector<int> data) {
 
 
 
-**力扣上的剑指offer：**
+### **力扣上的剑指offer：**
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)</font>
 

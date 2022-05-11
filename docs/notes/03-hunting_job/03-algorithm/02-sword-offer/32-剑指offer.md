@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No32、把数组排成最小的数
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No32、把数组排成最小的数
+comment: false
 ---
 
 
@@ -13,11 +14,11 @@ excerpt: No32、把数组排成最小的数
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/8fecd3f8ba334add803bf2a06af1b993?tpId=13&&tqId=11185&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入一个正整数数组，把数组里所有数字拼接起来排成一个数，打印能拼接出的所有数字中最小的一个。例如输入数组{3，32，321}，则打印出这三个数字能排成的最小数字为321323。
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -31,7 +32,7 @@ excerpt: No32、把数组排成最小的数
 "321323"
 ```
 
-**1、很精妙绝伦的一种排序方法**
+### **1、很精妙绝伦的一种排序方法**
 
 执行用时：12 ms, 在所有 C++ 提交中击败了92.42%的用户
 
@@ -56,7 +57,7 @@ string minNumber(vector<int>& nums) {
 
 
 
-**2、第二种做法，与第一种又有点不一样，但是速度比第一种要慢不少**
+### **2、第二种做法，与第一种又有点不一样，但是速度比第一种要慢不少**
 
 sort函数要定义为静态或者全局函数
 
@@ -95,9 +96,9 @@ sort中的比较函数compare要声明为静态成员函数或全局函数，不
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、超强比较方法**
+### **1、超强比较方法**
 
 运行时间：2ms 占用内存：492k
 

@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No31、整数中1出现的次数
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No31、整数中1出现的次数
+comment: false
 ---
 
 
@@ -13,7 +14,7 @@ excerpt: No31、整数中1出现的次数
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/bd7f978302044eee894445e244c7eee6?tpId=13&&tqId=11184&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 求出1-13的整数中1出现的次数,并算出100-1300的整数中1出现的次数？
 
@@ -34,7 +35,7 @@ ACMer希望你们帮帮他,并把问题更加普遍化,可以很快的求出任�
 
 
 
-**1、经典方法吗，真的想不到这种方法，我服了**
+### **1、经典方法吗，真的想不到这种方法，我服了**
 
 执行用时：0 ms, 在所有 C++ 提交中击败了100.00%的用户
 
@@ -71,9 +72,9 @@ ACMer希望你们帮帮他,并把问题更加普遍化,可以很快的求出任�
 
 
 
-**二刷：**
+### **二刷：**
 
-**超级好的方法**
+### **超级好的方法**
 
 运行时间：2ms  占用内存：376k
 
@@ -95,7 +96,7 @@ ACMer希望你们帮帮他,并把问题更加普遍化,可以很快的求出任�
 
 
 
-**三刷：**
+### **三刷：**
 
 ~~~cpp
     int NumberOf1Between1AndN_Solution(int n)

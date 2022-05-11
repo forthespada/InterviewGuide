@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No40、数组中只出现一次的数字
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No40、数组中只出现一次的数字
+comment: false
 ---
 
 
@@ -12,13 +13,13 @@ excerpt: No40、数组中只出现一次的数字
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank"> [牛客网原题链接](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&&tqId=11193&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 一个整型数组里除了两个数字之外，其他的数字都出现了两次。请写程序找出这两个只出现一次的数字。 
 
 
 
-**1、常规做法**
+### **1、常规做法**
 
 ~~~cpp
 void FindNumsAppearOnce(vector<int> data,int* num1,int *num2) {
@@ -50,9 +51,9 @@ void FindNumsAppearOnce(vector<int> data,int* num1,int *num2) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、hash表的笨方法**
+### **1、hash表的笨方法**
 
 运行时间：3ms  占用内存：376k
 
@@ -91,7 +92,7 @@ void FindNumsAppearOnce(vector<int> data,int* num1,int *num2) {
 
 
 
-**2、异或做法，很棒**
+### **2、异或做法，很棒**
 
   当**只有一个数出现一次**时，我们把数组中所有的数，依次异或运算，最后剩下的就是落单的数，因为成对儿出现的都抵消了。 
 

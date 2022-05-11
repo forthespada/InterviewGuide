@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No41、和为S的连续整数序列
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No41、和为S的连续整数序列
+comment: false
 ---
 
 
@@ -13,7 +14,7 @@ excerpt: No41、和为S的连续整数序列
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&&tqId=11194&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
  小明很喜欢数学,有一天他在做数学作业时,要求计算出9~16的和,他马上就写出了正确答案是100。但是他并不满足于此,他在想究竟有多少种连续的正数序列的和为100(至少包括两个数)。没多久,他就得到另一组连续正数和为100的序列:18,19,20,21,22。现在把问题交给你,你能不能也很快的找出所有和为S的连续正数序列? Good Luck! 
 
@@ -35,7 +36,7 @@ excerpt: No41、和为S的连续整数序列
 
 
 
-**1、牛客解法，很厉害。类似于TCP滑动窗口**
+### **1、牛客解法，很厉害，类似于TCP滑动窗口**
 
 ~~~cpp
 vector<vector<int> > FindContinuousSequence(int sum) {
@@ -63,7 +64,7 @@ vector<vector<int> > FindContinuousSequence(int sum) {
 
 
 
-**2、暴力解法**
+### **2、暴力解法**
 
 ~~~cpp
 vector<vector<int> > FindContinuousSequence(int sum) {
@@ -83,9 +84,9 @@ vector<vector<int> > FindContinuousSequence(int sum) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、滑动窗口，直接用数学公式来进行计算**
+### **1、滑动窗口，直接用数学公式来进行计算**
 
 运行时间：3ms  占用内存：496k
 
@@ -111,7 +112,7 @@ vector<vector<int> > FindContinuousSequence(int sum) {
 
 
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[力扣网原题链接](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)</font>
+### <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[力扣网原题链接](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)</font>
 
 执行用时：0 ms, 在所有 C++ 提交中击败了100.00%的用户
 

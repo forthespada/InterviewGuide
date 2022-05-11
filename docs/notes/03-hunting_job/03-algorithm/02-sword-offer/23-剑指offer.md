@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No23、二叉搜索树的后序遍历序列
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No23、二叉搜索树的后序遍历序列
+comment: false
 ---
 
 
@@ -13,11 +14,11 @@ excerpt: No23、二叉搜索树的后序遍历序列
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd?tpId=13&&tqId=11176&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 从上往下打印出二叉树的每个节点，同层节点从左至右打印。
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -32,7 +33,7 @@ excerpt: No23、二叉搜索树的后序遍历序列
 
 
 
-**1、递归写法，树主要的做法就是递归**
+### **1、递归写法，树主要的做法就是递归**
 
 ~~~cpp
 bool VerifySquenceOfBST(vector<int> sequence) {
@@ -58,7 +59,7 @@ bool VerifySquenceOfBSTCore(vector<int>& sequence, int start, int end) {
 
 
 
-**二刷：依然没有思路，值得再看一遍**
+### **二刷：依然没有思路，值得再看一遍**
 
 1、并没有想象中的难，下次应该仔细想一想的
 

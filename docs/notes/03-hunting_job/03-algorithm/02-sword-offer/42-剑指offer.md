@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No42、和为S的两个数字
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No42、和为S的两个数字
+comment: false
 ---
 
 
@@ -13,7 +14,7 @@ excerpt: No42、和为S的两个数字
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&&tqId=11195&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入一个递增排序的数组和一个数字S，在数组中查找两个数，使得他们的和正好是S，如果有多对数字的和等于S，输出两个数的乘积最小的。
 
@@ -23,7 +24,7 @@ excerpt: No42、和为S的两个数字
 对应每个测试案例，输出两个数，小的先输出
 ```
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -38,7 +39,7 @@ excerpt: No42、和为S的两个数字
 
 
 
-**1、很简单的一个问题**
+### **1、很简单的一个问题**
 
 ~~~cpp
 vector<int> FindNumbersWithSum(vector<int> array,int sum) {        
@@ -63,9 +64,9 @@ vector<int> FindNumbersWithSum(vector<int> array,int sum) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、滑动窗口来做**
+### **1、滑动窗口来做**
 
 运行时间：3ms  占用内存：512k
 
@@ -95,7 +96,7 @@ vector<int> FindNumbersWithSum(vector<int> array,int sum) {
 
 
 
-**优化一下**
+### **优化一下**
 
 运行时间：2ms  占用内存：476k
 

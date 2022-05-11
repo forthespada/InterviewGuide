@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No18、二叉树的镜像
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No18、二叉树的镜像
+comment: false
 ---
 
 
@@ -13,11 +14,12 @@ excerpt: No18、二叉树的镜像
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=13&&tqId=11171&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 操作给定的二叉树，将其变换为源二叉树的镜像。 
 
-**输入描述:**
+### **输入描述:**
+
 二叉树的镜像定义：源二叉树 
 
 ~~~
@@ -34,7 +36,7 @@ excerpt: No18、二叉树的镜像
     	11  9 7  5                
 ~~~
 
-**1、借助队列来做，跟上面一题中的迭代版本很像**
+### **1、借助队列来做，跟上面一题中的迭代版本很像**
 
 ~~~cpp
 void Mirror(TreeNode* pRoot) {
@@ -54,7 +56,7 @@ void Mirror(TreeNode* pRoot) {
 }
 ~~~
 
-**2、不使用swap函数的迭代版本**
+### **2、不使用swap函数的迭代版本**
 
 ~~~cpp
 void Mirror(TreeNode* pRoot) {
@@ -77,7 +79,7 @@ void Mirror(TreeNode* pRoot) {
 }
 ~~~
 
-**3、递归版本**
+### **3、递归版本**
 
 ~~~cpp
     void Mirror(TreeNode *pRoot) {
@@ -90,7 +92,7 @@ void Mirror(TreeNode* pRoot) {
     }
 ~~~
 
-**4、栈的迭代版本**
+### **4、栈的迭代版本**
 
 ~~~cpp
 void Mirror(TreeNode* pRoot) {
@@ -111,9 +113,9 @@ void Mirror(TreeNode* pRoot) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、迭代版本，想多了**
+### **1、迭代版本，想多了**
 
 运行时间：2ms  占用内存：376k
 
@@ -139,7 +141,7 @@ void Mirror(TreeNode* pRoot) {
 
 
 
-**2、递归版本，而更容易理解一些，也更好写**
+### **2、递归版本，而更容易理解一些，也更好写**
 
 运行时间：2ms  占用内存：504k
 

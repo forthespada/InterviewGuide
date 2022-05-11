@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No49、字符串转化为整数
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No49、字符串转化为整数
+comment: false
 ---
 
 
@@ -13,7 +14,7 @@ excerpt: No49、字符串转化为整数
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/1277c681251b4372bdef344468e4f26e?tpId=13&&tqId=11202&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 将一个字符串转换成一个整数，要求不能使用字符串转换整数的库函数。 数值为0或者字符串不是一个合法的数值则返回0
 
@@ -29,7 +30,7 @@ excerpt: No49、字符串转化为整数
 如果是合法的数值表达则返回该数字，否则返回0
 ```
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -47,7 +48,7 @@ excerpt: No49、字符串转化为整数
 
 
 
-**1、自己思考的一种笨方法,这题用C++   AC 不了**
+### **1、自己思考的一种笨方法,这题用C++   AC 不了**
 
 负数 -1234，正数 +2563的情形 第一个为正负号 要考虑到
 
@@ -85,7 +86,7 @@ int StrToInt(string str) {
 
 
 
-**2、第二种精简一点的方法**
+### **2、第二种精简一点的方法**
 
 ~~~cpp
 int StrToInt(string str) {
@@ -111,7 +112,7 @@ int StrToInt(string str) {
 
 
 
-**3、有很多要注意的地方**
+### **3、有很多要注意的地方**
 
 ~~~cpp
 int StrToInt(string str) {
@@ -144,9 +145,9 @@ int StrToInt(string str) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、这种做法更加稳妥**
+### **1、这种做法更加稳妥**
 
 运行时间：2ms  占用内存：376k
 
@@ -179,7 +180,7 @@ int StrToInt(string str) {
 
 
 
-**2、考虑负数溢出情况**
+### **2、考虑负数溢出情况**
 
 运行时间：2ms 占用内存：492k
 

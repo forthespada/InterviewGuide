@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No56、删除链表中的重复结点
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No56、删除链表中的重复结点
+comment: false
 ---
 
 
@@ -16,11 +17,11 @@ excerpt: No56、删除链表中的重复结点
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/fc533c45b73a41b0b44ccba763f866ef?tpId=13&&tqId=11209&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 在一个排序的链表中，存在重复的结点，请删除该链表中重复的结点，重复的结点不保留，返回链表头指针。 例如，链表1->2->3->3->4->4->5 处理后为 1->2->5
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -35,7 +36,7 @@ excerpt: No56、删除链表中的重复结点
 
 
 
-**1、真的是超级笨，我服了，调试了很多遍才通过的**
+### **1、真的是超级笨，我服了，调试了很多遍才通过的**
 
 大概思想：采用vector保存链表中的不重复元素，然后将链表从表头开始挨个对比，一样就将当前结点保存下来，然后index++，不一样就继续向下遍历，注意边界条件。
 
@@ -95,7 +96,7 @@ ListNode* deleteDuplication(ListNode* pHead)
 
 
 
-**2、别人的思路和方法，三指针法，取到原来指针的前一个指针**
+### **2、别人的思路和方法，三指针法，取到原来指针的前一个指针**
 
 1. 首先添加一个头节点，以方便碰到第一个，第二个节点就相同的情况
 
@@ -128,9 +129,9 @@ if (pHead == nullptr || pHead->next == nullptr) { return pHead; }
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、三指针法，可以将元素开辟到栈上**
+### **1、三指针法，可以将元素开辟到栈上**
 
 ~~~cpp
 ListNode* deleteDuplication(ListNode* pHead)
@@ -160,7 +161,7 @@ ListNode* deleteDuplication(ListNode* pHead)
 
 
 
-**变种：删除链表中的重复结点，保留一个重复点**
+### **变种：删除链表中的重复结点，保留一个重复点**
 
 在一个排序的链表中，存在重复的结点，请删除该链表中重复的结点，重复的结点保留，返回链表头指针。 例如，链表1->2->3->3->4->4->5 处理后为 1->2->3->4->5
 
@@ -185,7 +186,7 @@ ListNode* deleteDuplication(ListNode* pHead)
 
 
 
-**另一种写法**
+### **另一种写法**
 
 ~~~cpp
 ListNode* deleteDuplication(ListNode* pHead)
@@ -214,6 +215,3 @@ ListNode* deleteDuplication(ListNode* pHead)
 	return dummpyHead.next;
 }
 ~~~
-
-
-No56、删除链表中的重复结点

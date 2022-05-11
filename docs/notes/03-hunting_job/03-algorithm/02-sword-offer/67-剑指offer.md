@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No67、剪绳子
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No67、剪绳子
+comment: false
 ---
 
 
@@ -12,7 +13,7 @@ excerpt: No67、剪绳子
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/57d85990ba5b440ab888fc72b0751bf8?tpId=13&&tqId=33257&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 给你一根长度为n的绳子，请把绳子剪成整数长的m段（m、n都是整数，n>1并且m>1），每段绳子的长度记为k[1],...,k[m]。请问k[1]x...xk[m]可能的最大乘积是多少？例如，当绳子的长度是8时，我们把它剪成长度分别为2、3、3的三段，此时得到的最大乘积是18。
 
@@ -44,7 +45,7 @@ excerpt: No67、剪绳子
 
 
 
-**1、很厉害的一种思路**
+### **1、很厉害的一种思路**
 
 题目分析：
 
@@ -94,7 +95,7 @@ int cutRope(int number) {
 
 
 
-**1-1、力扣上的一种讲解**
+### **1-1、力扣上的一种讲解**
 
 执行用时：0 ms, 在所有 C++ 提交中击败了100.00%的用户
 
@@ -117,7 +118,7 @@ int cuttingRope(int n) {
 
 
 
-**2、一种DP讲解方法**
+### **2、一种DP讲解方法**
 
 **讲解视频：**
 
@@ -145,7 +146,7 @@ int cutRope(int number) {
 
 
 
-**3、这种DP更容易懂一些**
+### **3、这种DP更容易懂一些**
 
 讲解视频：https://www.bilibili.com/video/BV1C7411V7s6?from=search&seid=16580267998265505121
 
@@ -183,7 +184,7 @@ j<=i/2 是因为 f(5) = f(1)*f(4)   f(5) = f(2)*****f(3)    f(5) = f(3)*****f(2)
 
 
 
-**二刷：**
+### **二刷：**
 
 运行时间：3ms  占用内存：508k
 
@@ -209,7 +210,7 @@ int cutRope(int number) {
 
 
 
-**剪绳子-2（力扣54题）**
+### **剪绳子-2（力扣54题）**
 
 给你一根长度为 n 的绳子，请把绳子剪成整数长度的 m 段（m、n都是整数，n>1并且m>1），每段绳子的长度记为 k[0],k[1]...k[m] 。
 
@@ -236,7 +237,7 @@ int cutRope(int number) {
 
 
 
-**1、DP会溢出，只能用上述规律这一种方法来做了**
+### **1、DP会溢出，只能用上述规律这一种方法来做了**
 
 执行用时：0 ms, 在所有 C++ 提交中击败了100.00%的用户
 
@@ -261,5 +262,4 @@ int cuttingRope(int n) {
 
 
 <p id = "剪绳子"></p>
-
 

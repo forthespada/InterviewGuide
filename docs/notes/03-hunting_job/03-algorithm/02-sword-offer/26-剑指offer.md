@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No26、二叉搜索树与双向链表
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No26、二叉搜索树与双向链表
+comment: false
 ---
 
 
@@ -12,13 +13,13 @@ excerpt: No26、二叉搜索树与双向链表
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank"> [牛客网原题链接](https://www.nowcoder.com/practice/947f6eb80d944a84850b0538bf0ec3a5?tpId=13&&tqId=11179&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入一棵二叉搜索树，将该二叉搜索树转换成一个排序的双向链表。要求不能创建任何新的结点，只能调整树中结点指针的指向。 
 
 
 
-**0、最笨的一种写法，这也是最容易理解的一种方法了**
+### **0、最笨的一种写法，这也是最容易理解的一种方法了**
 
 中序遍历二叉树，然后用一个数组类保存遍历的结果，这样在数组中节点就按顺序保存了，然后再来修改指针，虽然没有一点技术含量，但是最后竟然还通过了 哈哈哈。。。
 
@@ -50,7 +51,7 @@ TreeNode* Convert(vector<TreeNode*>& result) {
 
 
 
-**0-1借助栈和数组类进行数据保存，最后修改指针指向**
+### **0-1借助栈和数组类进行数据保存，最后修改指针指向**
 
 关键在于二叉树的层次遍历这一块
 
@@ -86,7 +87,7 @@ public:
 
 
 
-**1、借助栈进行节点保存，很厉害的一种写法**
+### **1、借助栈进行节点保存，很厉害的一种写法**
 
 我服啦，采用的是跟剑指offer上一样的写法
 
@@ -134,7 +135,7 @@ TreeNode* Convert(TreeNode* pRootOfTree)
 
 
 
-**2、复杂一点的递归做法**
+### **2、复杂一点的递归做法**
 
 先将左子树变为有序的排序链表，再将右子树变为有序的链表，然后将当前结点插入在两个链表中间就可以了，需要注意左子树和右子树为空的情况
 
@@ -167,7 +168,7 @@ TreeNode* Convert(TreeNode* pRootOfTree)
 
 
 
-**3、简单递归做法，精简版**
+### **3、简单递归做法，精简版**
 
 ~~~cpp
 TreeNode* Convert(TreeNode* pRootOfTree)
@@ -202,9 +203,9 @@ TreeNode* Convert(TreeNode* pRootOfTree)
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、借助stack和vector**
+### **1、借助stack和vector**
 
 运行时间：2ms  占用内存：408k
 
@@ -241,7 +242,7 @@ TreeNode* Convert(TreeNode* pRootOfTree)
 
 
 
-**2、依然是栈，不过节约了不少空间，记这种做法，很棒**
+### **2、依然是栈，不过节约了不少空间，记这种做法，很棒**
 
 运行时间：2ms  占用内存：484k
 

@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No50、数组中重复的数字
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No50、数组中重复的数字
+comment: false
 ---
 
 
@@ -12,7 +13,7 @@ excerpt: No50、数组中重复的数字
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/623a5ac0ea5b4e5f95552655361ae0a8?tpId=13&&tqId=11203&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 在一个长度为n的数组里的所有数字都在0到n-1的范围内。 数组中某些数字是重复的，但不知道有几个数字是重复的。也不知道每个数字重复几次。请找出数组中第一个重复的数字。 例如，如果输入长度为7的数组{2,3,1,0,2,5,3}，那么对应的输出是第一个重复的数字2。
 
@@ -24,7 +25,7 @@ excerpt: No50、数组中重复的数字
 
 
 
-**1、用unordered_map保存即可**
+### **1、用unordered_map保存即可**
 
 ~~~cpp
 bool duplicate(int numbers[], int length, int* duplication) {
@@ -46,7 +47,7 @@ bool duplicate(int numbers[], int length, int* duplication) {
 
 
 
-**2、减少内存，降低内存复杂度**
+### **2、减少内存，降低内存复杂度**
 
 用 vector\<char>来存 
 
@@ -69,7 +70,7 @@ bool duplicate(int numbers[], int length, int* duplication) {
 
 
 
-**3、不占用任何空间的一种做法**
+### **3、不占用任何空间的一种做法**
 
 题目里写了数组里数字的范围保证在0 ~ n-1   之间，所以可以利用现有数组设置标志，当一个数字被访问过后，可以设置对应位上的数 +   n，之后再遇到相同的数时，会发现对应位上的数已经大于等于n了，那么直接返回这个数即可。  
 
@@ -90,9 +91,9 @@ bool duplicate(int numbers[], int length, int* duplication) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、常规做法就是哈希表，使用一个vector的bool型数组会节约不少空间**
+### **1、常规做法就是哈希表，使用一个vector的bool型数组会节约不少空间**
 
 运行时间：2ms  占用内存：508k
 
@@ -115,7 +116,7 @@ bool duplicate(int numbers[], int length, int* duplication) {
 
 
 
-**2、另一种原地做法**
+### **2、另一种原地做法**
 
 运行时间：2ms  占用内存：476k
 

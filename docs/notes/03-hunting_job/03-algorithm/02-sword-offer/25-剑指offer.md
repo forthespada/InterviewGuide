@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No25、复杂链表的复制
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No25、复杂链表的复制
+comment: false
 ---
 
 
@@ -13,10 +14,11 @@ excerpt: No25、复杂链表的复制
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/f836b2c43afc4b35ad6adc41ec941dba?tpId=13&&tqId=11178&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
+
 输入一个复杂链表（每个节点中有节点值，以及两个指针，一个指向下一个节点，另一个特殊指针random指向一个随机节点），请对此链表进行深拷贝，并返回拷贝后的头结点。（注意，输出结果中请不要返回参数中的节点引用，否则判题程序会直接返回空） 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -42,7 +44,7 @@ excerpt: No25、复杂链表的复制
 
 
 
-**1、第一种方法，在节点后复制一个节点，然后再分离开这方法超级棒，太麻烦了，不建议用这种方法**
+### **1、第一种方法，在节点后复制一个节点，然后再分离开这方法超级棒，太麻烦了，不建议用这种方法**
 
 ~~~cpp
 /*
@@ -121,7 +123,7 @@ RandomListNode* Clone(RandomListNode* pHead)
 
 
 
-**自己在力扣上复现第一种做法，有很多要注意的地方**
+### **自己在力扣上复现第一种做法，有很多要注意的地方**
 
 https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
 
@@ -192,7 +194,7 @@ public:
 
 
 
-**2、哈希表的做法，其实更简单一下啊**
+### **2、哈希表的做法，其实更简单一下啊**
 
 ~~~cpp
 RandomListNode* Clone(RandomListNode* pHead)
@@ -222,7 +224,7 @@ RandomListNode* Clone(RandomListNode* pHead)
 
 
 
-**在力扣上复现了一遍**
+### **在力扣上复现了一遍**
 
 执行用时：20 ms, 在所有 C++ 提交中击败了49.48%的用户
 
@@ -249,7 +251,7 @@ RandomListNode* Clone(RandomListNode* pHead)
 
 
 
-**3、哈希表的递归写法**
+### **3、哈希表的递归写法**
 
 ~~~cpp
 struct RandomListNode {
@@ -279,7 +281,7 @@ public:
 
 
 
-**力扣上复现做法**
+### **力扣上复现做法**
 
 执行用时：24 ms, 在所有 C++ 提交中击败了21.10%的用户
 
@@ -318,9 +320,9 @@ public:
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、哈希表递归写法**
+### **1、哈希表递归写法**
 
 运行时间：3ms  占用内存：520k
 
@@ -345,7 +347,7 @@ public:
 
 
 
-**2、哈希表迭代写法**
+### **2、哈希表迭代写法**
 
 运行时间：2ms  占用内存：492k
 

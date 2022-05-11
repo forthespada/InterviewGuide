@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No65、矩阵中的路径
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No65、矩阵中的路径
+comment: false
 ---
 
 
@@ -12,11 +13,11 @@ excerpt: No65、矩阵中的路径
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/c61c6999eecb4b8f88a98f66b273a3cc?tpId=13&&tqId=11218&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 请设计一个函数，用来判断在一个矩阵中是否存在一条包含某字符串所有字符的路径。路径可以从矩阵中的任意一个格子开始，每一步可以在矩阵中向左，向右，向上，向下移动一个格子。如果一条路径经过了矩阵中的某一个格子，则该路径不能再进入该格子。
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -46,7 +47,7 @@ false
 
 
 
-**1、DFS**
+### **1、DFS**
 
 这道题是典型的深度优先遍历DFS的应用，原二维数组就像是一个迷宫，可以  //上下左右四个方向行走
 我们的二维数组board中每个数都作为起点和给定的字符串做匹配，我们需要
@@ -103,7 +104,7 @@ bool hasPath(char* matrix, int rows, int cols, char* str)
 
 
 
-**2、回溯法  写法非常的好啊**
+### **2、回溯法  写法非常的好啊**
 
 ~~~cpp
 /*参数说明  k 字符串索引初始为0即先判断字符串的第一位*/
@@ -155,9 +156,9 @@ bool hasPath(char* matrix, int rows, int cols, char* str)
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、很经典的题目**
+### **1、很经典的题目**
 
 ~~~cpp
 bool hasPathCore(vector<vector<char>>& matrix, char* str, int row, int col,int index , vector<vector<bool>> &visit) {
@@ -197,5 +198,4 @@ bool hasPath(char* matrix, int rows, int cols, char* str)
 
 
 <p id = "矩阵中的路径"></p>
-
 

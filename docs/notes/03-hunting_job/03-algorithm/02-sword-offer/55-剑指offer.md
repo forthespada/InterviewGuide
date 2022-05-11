@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No55、链表中环的入口结点
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No55、链表中环的入口结点
+comment: false
 ---
 
 
@@ -13,13 +14,13 @@ excerpt: No55、链表中环的入口结点
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&&tqId=11208&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 给一个链表，若其中包含环，请找出该链表的环的入口结点，否则，输出null。
 
 
 
-**1、老办法，借助unordered_map**
+### **1、老办法，借助unordered_map**
 
 ~~~cpp
 ListNode* EntryNodeOfLoop(ListNode* pHead)
@@ -56,7 +57,7 @@ ListNode* EntryNodeOfLoop(ListNode* pHead)
 
 
 
-**2、有个快慢指针的做法**
+### **2、有个快慢指针的做法**
 
 先说个定理：两个指针一个fast、一个slow同时从一个链表的头部出发
 fast一次走2步，slow一次走一步，如果该链表有环，两个指针必然在环内相遇
@@ -86,9 +87,9 @@ ListNode* EntryNodeOfLoop(ListNode* pHead)
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、快慢指针，常规题**
+### **1、快慢指针，常规题**
 
 运行时间：3ms  占用内存：376k
 
