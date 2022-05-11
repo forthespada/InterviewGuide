@@ -5,6 +5,7 @@ title:  No4、重建二叉树
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No4、重建二叉树
+comment: false
 ---
 
 
@@ -15,7 +16,7 @@ excerpt: No4、重建二叉树
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&&tqId=11157&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+## **题目描述**
 
 好题 绝对的好题
 
@@ -23,7 +24,7 @@ excerpt: No4、重建二叉树
 
 
 
-**1、力扣上的一种解法**
+## **1、力扣上的一种解法**
 
 需要首先熟悉二叉树先序遍历与中序遍历的规则。
 先找到preorder中的起始元素作为根节点，在inorder中找到根节点的索引mid；那么，preorder[1:mid + 1]为左子树，preorder[mid + 1:]为右子树；inorder[0:mid]为左子树，inorder[mid + 1:]为右子树。递归建立二叉树。
@@ -48,7 +49,7 @@ TreeNode* reConstructBinaryTree(vector<int> pre,vector<int> vin) {
 
 
 
-**2、借助哈希来进行加速的一种做法**
+## **2、借助哈希来进行加速的一种做法**
 
 ~~~cpp
 TreeNode* reConstructBinaryTree(vector<int> pre, vector<int> vin) {
@@ -74,7 +75,7 @@ TreeNode* reConstructBinaryTreeCore(vector<int>& preorder, unordered_map<int, in
 
 
 
-**二刷：借助hash来进行加速**
+## **二刷：借助hash来进行加速**
 
 3 ms	496K
 

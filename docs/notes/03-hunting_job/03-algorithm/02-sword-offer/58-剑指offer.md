@@ -1,24 +1,23 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No58、对称的二叉树
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No58、对称的二叉树
+comment: false
 ---
-
-
 
 
 ## **No58、对称的二叉树**
 
  <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/ff05d44dfdb04e1d83bdbdab320efbcb?tpId=13&&tqId=11211&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 请实现一个函数，用来判断一棵二叉树是不是对称的。注意，如果一个二叉树同此二叉树的镜像是同样的，定义其为对称的。 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -45,7 +44,7 @@ false
 
 
 
-**1、递归法比较好做，也很方便**
+### **1、递归法比较好做，也很方便**
 
 ~~~cpp
 bool isEqual(TreeNode*node1,TreeNode*node2){
@@ -65,9 +64,9 @@ bool isSymmetrical(TreeNode* pRoot) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、对称 是指 8 6 6 5 7 7 5这样的对称，我的左子树要跟你的右子树一样才叫对称**
+### **1、对称 是指 8 6 6 5 7 7 5这样的对称，我的左子树要跟你的右子树一样才叫对称**
 
 运行时间：2ms 占用内存：380k
 

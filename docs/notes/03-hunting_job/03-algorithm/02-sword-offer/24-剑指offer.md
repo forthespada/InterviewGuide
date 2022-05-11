@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No24、二叉树中和为某一值的路径
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No24、二叉树中和为某一值的路径
+comment: false
 ---
 
 
@@ -13,11 +14,11 @@ excerpt: No24、二叉树中和为某一值的路径
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank"> [牛客网原题链接](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&&tqId=11177&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入一颗二叉树的根节点和一个整数，按字典序打印出二叉树中结点值的和为输入整数的所有路径。路径定义为从树的根结点开始往下一直到叶结点所经过的结点形成一条路径。 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -45,7 +46,7 @@ excerpt: No24、二叉树中和为某一值的路径
 []
 ```
 
-**1、带有回溯性质的解法**
+### **1、带有回溯性质的解法**
 
 ~~~cpp
 void FindPathCore(vector<vector<int>>&result, vector<int>  &temp, TreeNode* root, int sum) {
@@ -143,9 +144,9 @@ vector<vector<int> > FindPath(TreeNode* root, int expectNumber) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**二刷也不太会，哭了，仔细想想其实也不太难，哎还是太菜了**
+### **二刷也不太会，哭了，仔细想想其实也不太难，哎还是太菜了**
 
 运行时间：2ms  占用内存：484k
 

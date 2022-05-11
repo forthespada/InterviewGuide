@@ -1,21 +1,22 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No11、二进制中1的个数
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No11、二进制中1的个数
+comment: false
 ---
 
 ## **No11、二进制中1的个数** 
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/8ee967e43c2c4ec193b040ea7fbb10b8?tpId=13&&tqId=11164&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入一个整数，输出该数32位二进制表示中1的个数。其中负数用补码表示。
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -30,7 +31,7 @@ excerpt: No11、二进制中1的个数
 
 
 
-**1、自己写的，错误的想法**
+### **1、自己写的，错误的想法**
 
 ~~~cpp
 int  NumberOf1(int n) {
@@ -77,7 +78,7 @@ int  NumberOf1(int n) {
 
 
 
-**2、bitset的运用**
+### **2、bitset的运用**
 
 ~~~cpp
 int  NumberOf1(int n) {
@@ -87,7 +88,7 @@ int  NumberOf1(int n) {
 
 
 
-**3、牛客大神的做法**
+### **3、牛客大神的做法**
 
 ~~~cpp
 
@@ -109,7 +110,7 @@ int  NumberOf1(int n) {
 
 
 
-**二刷：1、bitset用法：**
+### **二刷：1、bitset用法：**
 
 主要是将 n 转化为 32位表示，int 最大也就是 2^32次方，然后利用bitset。count（）函数，返回 其中 1 的数量
 
@@ -156,7 +157,7 @@ int  NumberOf1(int n) {
 
 
 
-**2、温习一下牛客大神的做法**
+### **2、温习一下牛客大神的做法**
 
 如果一个整数不为0，那么这个整数至少有一位是1。如果我们把这个整数减1，那么原来处在整数最右边的1就会变为0，原来在1后面的所有的0都会变成1(如果最右边的1后面还有0的话)。其余所有位将不会受到影响。    
 

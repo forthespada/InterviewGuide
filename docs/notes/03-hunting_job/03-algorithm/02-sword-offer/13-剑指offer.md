@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No13、调整数组顺序使奇数位于偶数前面
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No13、调整数组顺序使奇数位于偶数前面
+comment: false
 ---
 
 
@@ -12,13 +13,13 @@ excerpt: No13、调整数组顺序使奇数位于偶数前面
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/beb5aa231adc45b2a5dcc5b62c93f593?tpId=13&&tqId=11166&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入一个整数数组，实现一个函数来调整该数组中数字的顺序，使得所有的奇数位于数组的前半部分，所有的偶数位于数组的后半部分，并保证奇数和奇数，偶数和偶数之间的相对位置不变。 
 
 
 
-**1、暴力解法，新开辟一个数组保存数据**
+### **1、暴力解法，新开辟一个数组保存数据**
 
 ~~~cpp
 void reOrderArray(vector<int>& array) {
@@ -39,7 +40,7 @@ void reOrderArray(vector<int>& array) {
 
 
 
-**2、一种很巧妙的解法，空间复杂度o1的做法，时间复杂度是on^2**
+### **2、一种很巧妙的解法，空间复杂度o1的做法，时间复杂度是on^2**
 
 ~~~cpp
 void reOrderArray(vector<int>& array) {
@@ -63,7 +64,7 @@ void reOrderArray(vector<int>& array) {
 
 
 
-**3、时间和空间都是on的做法，只保存偶数部分**
+### **3、时间和空间都是on的做法，只保存偶数部分**
 
 ~~~cpp
     void reOrderArray(vector<int> &array) {
@@ -82,9 +83,9 @@ void reOrderArray(vector<int>& array) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、笨方法另外开辟一个数组，先保存奇数，再保存偶数**
+### **1、笨方法另外开辟一个数组，先保存奇数，再保存偶数**
 
 ~~~cpp
     void reOrderArray(vector<int> &array) {
@@ -107,7 +108,7 @@ void reOrderArray(vector<int>& array) {
 
 
 
-**2、一种原地解法，很巧妙，从后向前进行修正，类似于冒泡法，同时对一刷的时候进行改进**
+### **2、一种原地解法，很巧妙，从后向前进行修正，类似于冒泡法，同时对一刷的时候进行改进**
 
 运行时间：2ms  占用内存：480k
 
@@ -127,7 +128,7 @@ void reOrderArray(vector<int>& array) {
 
 
 
-**3、第三种解法，但是并不是原地解法，至少比第一种要好一点，只保存偶数数据**
+### **3、第三种解法，但是并不是原地解法，至少比第一种要好一点，只保存偶数数据**
 
 运行时间：3ms 占用内存：484k  odd奇数：even偶数
 

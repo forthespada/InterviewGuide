@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No10、矩阵覆盖
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No10、矩阵覆盖
+comment: false
 ---
 
 
@@ -12,7 +13,7 @@ excerpt: No10、矩阵覆盖
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/72a5a919508a4251859fb2cfb987a0e6?tpId=13&&tqId=11163&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 我们可以用2\*1的小矩形横着或者竖着去覆盖更大的矩形。
 
@@ -24,7 +25,7 @@ excerpt: No10、矩阵覆盖
 
 
 
-**1、其实很简单，画画图就知道了。。。**
+### **1、其实很简单，画画图就知道了。。。**
 
 ~~~cpp
     int rectCover(int number) {
@@ -36,7 +37,7 @@ excerpt: No10、矩阵覆盖
 
 
 
-**2、循环很快**
+### **2、循环很快**
 
 ~~~cpp
     int rectCover(int number) {
@@ -55,7 +56,7 @@ excerpt: No10、矩阵覆盖
 
 
 
-**二刷：感觉还是斐波那契数列的变种**
+### **二刷：感觉还是斐波那契数列的变种**
 
 运行时间：3ms  占用内存：464k
 

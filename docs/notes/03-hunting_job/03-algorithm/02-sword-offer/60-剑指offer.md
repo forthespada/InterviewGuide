@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No60、把二叉树打印成多行
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No60、把二叉树打印成多行
+comment: false
 ---
 
 
@@ -12,11 +13,11 @@ excerpt: No60、把二叉树打印成多行
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank"> [牛客网原题链接](https://www.nowcoder.com/practice/445c44d982d04483b04a54f298796288?tpId=13&&tqId=11213&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 从上到下按层打印二叉树，同一层结点从左至右输出。每一层输出一行。 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -31,7 +32,7 @@ excerpt: No60、把二叉树打印成多行
 
 
 
-**1、队列做法，保存每层的节点个数**
+### **1、队列做法，保存每层的节点个数**
 
 ~~~cpp
 vector<vector<int> > Print(TreeNode* pRoot) {
@@ -57,9 +58,9 @@ vector<vector<int> > Print(TreeNode* pRoot) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、跟59有点像**
+### **1、跟59题有点像**
 
 运行时间：2ms  占用内存：508k
 

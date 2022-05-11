@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No48、求两个数相加
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No48、求两个数相加
+comment: false
 ---
 
 
@@ -12,10 +13,11 @@ excerpt: No48、求两个数相加
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/59ac416b4b944300b617d4f7f111b215?tpId=13&&tqId=11201&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
+
 写一个函数，求两个整数之和，要求在函数体内不得使用+、-、*、\/四则运算符号。
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -28,7 +30,7 @@ excerpt: No48、求两个数相加
 3
 ~~~
 
-**1、这种解法真的太厉害了**
+### **1、这种解法真的太厉害了**
 
 ~~~cpp
 int Add(int num1, int num2)
@@ -77,9 +79,9 @@ int Add(int num1, int num2)
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、不太理解，记住模板吧**
+### **1、不太理解，记住模板吧**
 
 运行时间：2ms  占用内存：376k
 
@@ -100,5 +102,4 @@ int Add(int num1, int num2)
 
 
 <p id = "求两个数相加"></p>
-
 

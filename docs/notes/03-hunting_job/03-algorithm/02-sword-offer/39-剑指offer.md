@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No39、平衡二叉树
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No39、平衡二叉树
+comment: false
 ---
 
 
@@ -12,7 +13,7 @@ excerpt: No39、平衡二叉树
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/8b3b95850edb4115918ecebdf1b4d222?tpId=13&&tqId=11192&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入一棵二叉树，判断该二叉树是否是平衡二叉树。
 
@@ -29,7 +30,7 @@ excerpt: No39、平衡二叉树
 true
 ~~~
 
-**1、暴力法，笨方法**
+## **1、暴力法，笨方法**
 
 最直接的做法，遍历每个结点，借助一个获取树深度的递归函数，根据该结点的左右子树高度差判断是否平衡，然后递归地对左右子树进行判断。
 
@@ -51,7 +52,7 @@ return 后面不需要加两个&&来递归他左子树和右子树. 这样想, �
 
 
 
-**2、改进版，很好的方法，只遍历一次，画个二叉树就知道了**
+## **2、改进版，很好的方法，只遍历一次，画个二叉树就知道了**
 
  上面这种做法有很明显的问题，在判断上层结点的时候，会多次重复遍历下层结点，增加了不必要的开销。如果改为从下往上遍历，如果子树是平衡二叉树，则返回子树的高度；如果发现子树不是平衡二叉树，则直接停止遍历，这样至多只对每个结点访问一次。  
 
@@ -79,11 +80,11 @@ bool IsBalanced_Solution(TreeNode* pRoot) {
 
 
 
-**二刷：**
+## **二刷：**
 
 所谓平衡二叉树就是他的左孩子和右孩子的深度之差不能超过1
 
-**1、迭代方法 仔细想一下**
+## **1、迭代方法 仔细想一下**
 
 ~~~cpp
 int getDepth(TreeNode * node){
@@ -104,7 +105,7 @@ bool IsBalanced_Solution(TreeNode* pRoot) {
 
 
 
-**2、迭代法改进版本，从下往上便利，这种方法好一点**
+## **2、迭代法改进版本，从下往上便利，这种方法好一点**
 
 ~~~cpp
 int getDepth(TreeNode * node){
@@ -130,5 +131,4 @@ bool IsBalanced_Solution(TreeNode* pRoot) {
 ~~~
 
 <p id = "平衡二叉树"></p>
-
 

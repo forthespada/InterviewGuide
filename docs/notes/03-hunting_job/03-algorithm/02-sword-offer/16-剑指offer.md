@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No16、合并两个有序链表
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No16、合并两个有序链表
+comment: false
 ---
 
 
@@ -13,11 +14,11 @@ excerpt: No16、合并两个有序链表
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&&tqId=11169&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入两个单调递增的链表，输出两个链表合成后的链表，当然我们需要合成后的链表满足单调不减规则。
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -31,7 +32,7 @@ excerpt: No16、合并两个有序链表
 {1,2,3,4,5,6}
 ```
 
-**1、常规做法，非递归花了好久才做出来**
+### **1、常规做法，非递归花了好久才做出来**
 
 ~~~cpp
 struct ListNode {
@@ -135,7 +136,7 @@ ListNode* Merge(ListNode* pHead1, ListNode* pHead2)
 
 
 
-**2、递归版本**
+### **2、递归版本**
 
 ~~~cpp
  ListNode* Merge(ListNode* pHead1, ListNode* pHead2)
@@ -158,9 +159,9 @@ ListNode* Merge(ListNode* pHead1, ListNode* pHead2)
 
 
 
-**二刷：很容易了**
+### **二刷：很容易了**
 
-**1、迭代版本，依然还是迭代版本要快一点**
+### **1、迭代版本，依然还是迭代版本要快一点**
 
 运行时间：2ms  占用内存：480k
 
@@ -186,7 +187,7 @@ ListNode* Merge(ListNode* pHead1, ListNode* pHead2)
 
 
 
-**2、递归版本**
+### **2、递归版本**
 
 运行时间：3ms  占用内存：504k
 

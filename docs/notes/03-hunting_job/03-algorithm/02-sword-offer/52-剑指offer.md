@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No52、正则表达式匹配
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No52、正则表达式匹配
+comment: false
 ---
 
 
@@ -14,11 +15,11 @@ excerpt: No52、正则表达式匹配
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/45327ae22b7b413ea21df13ee7d6429c?tpId=13&&tqId=11205&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 请实现一个函数用来匹配包括'.'和'*'的正则表达式。模式中的字符'.'表示任意一个字符，而'*'表示它前面的字符可以出现任意次（包含0次）。 在本题中，匹配是指字符串的所有字符匹配整个模式。例如，字符串"aaa"与模式"a.a"和"ab*ac*a"匹配，但是与"aa.a"和"ab*a"均不匹配
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -32,7 +33,7 @@ excerpt: No52、正则表达式匹配
 true
 ```
 
-**1、太他吗难了，不会不会，老子不会**
+### **1、太他吗难了，不会不会，老子不会**
 
 ~~~cpp
 //字符串"aaa"与模式"a.a"和"ab*ac*a"匹配，但是与"aa.a"和"ab*a"均不匹配
@@ -69,7 +70,7 @@ bool match(char* str, char* pattern)
 
 
 
-**2、看的思路**
+### **2、看的思路**
 
 ​       解这题需要把题意仔细研究清楚，反正我试了好多次才明白的。
 
@@ -123,7 +124,7 @@ bool match(char* str, char* pattern)
 
 
 
-**3、另一种写法**
+### **3、另一种写法**
 
 ~~~cpp
 /*
@@ -163,9 +164,9 @@ public:
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、很好，依然不会，哈哈，递归的方法**
+### **1、很好，依然不会，哈哈，递归的方法**
 
 运行时间：3ms  占用内存：492k
 

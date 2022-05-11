@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No12、数值的整数次方
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No12、数值的整数次方
+comment: false
 ---
 
 
@@ -12,13 +13,13 @@ excerpt: No12、数值的整数次方
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&&tqId=11165&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。
 
 保证base和exponent不同时为0。不得使用库函数，同时不需要考虑大数问题，也不用考虑小数点后面0的位数。
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -66,7 +67,7 @@ excerpt: No12、数值的整数次方
 2的-2次方等于1/4=0.25
 ```
 
-**1、主要要注意正负数的情况，要注意分开**
+### **1、主要要注意正负数的情况，要注意分开**
 
 运行时间：3ms  占用内存：520k
 
@@ -93,7 +94,7 @@ excerpt: No12、数值的整数次方
 
 
 
-**2、快速幂算法，值得好好看看，力扣上的要求更严谨一些**
+### **2、快速幂算法，值得好好看看，力扣上的要求更严谨一些**
 
  https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/ 
 

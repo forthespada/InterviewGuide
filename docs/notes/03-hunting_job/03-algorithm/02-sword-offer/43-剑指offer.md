@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No43、左旋转字符串
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No43、左旋转字符串
+comment: false
 ---
 
 
@@ -12,11 +13,11 @@ excerpt: No43、左旋转字符串
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank"> [牛客网原题链接](https://www.nowcoder.com/practice/12d959b108cb42b1ab72cef4d36af5ec?tpId=13&&tqId=11196&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 汇编语言中有一种移位指令叫做循环左移（ROL），现在有个简单的任务，就是用字符串模拟这个指令的运算结果。对于一个给定的字符序列S，请你把其循环左移K位后的序列输出。例如，字符序列S=”abcXYZdef”,要求输出循环左移3位后的结果，即“XYZdefabc”。是不是很简单？OK，搞定它！ 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -31,7 +32,7 @@ excerpt: No43、左旋转字符串
 
 
 
-**1、我真的是太傻比了，其实很容易的**
+### **1、我真的是太傻比了，其实很容易的**
 
 ~~~cpp
  string LeftRotateString(string str, int n) {
@@ -50,7 +51,7 @@ excerpt: No43、左旋转字符串
 
 
 
-**2、精简做法**
+### **2、精简做法**
 
 ~~~cpp
 string LeftRotateString(string str, int n) {
@@ -64,9 +65,9 @@ string LeftRotateString(string str, int n) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、简单的字符串处理函数，记得边界条件**
+### **1、简单的字符串处理函数，记得边界条件**
 
 运行时间：2ms  占用内存：376k
 

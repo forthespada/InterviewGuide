@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No19、顺时针打印矩阵
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No19、顺时针打印矩阵
+comment: false
 ---
 
 
@@ -15,11 +16,11 @@ excerpt: No19、顺时针打印矩阵
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/9b4c81a02cd34f76be2659fa0d54342a?tpId=13&&tqId=11172&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字，例如，如果输入如下4 X 4矩阵： 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 则依次打印出数字1,2,3,4,8,12,16,15,14,13,9,5,6,7,11,10. 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -33,7 +34,7 @@ excerpt: No19、顺时针打印矩阵
 [1,2,4,3]
 ```
 
-**1、有点难，在力扣上写了好久**
+### **1、有点难，在力扣上写了好久**
 
 主要就是分析清楚上下左右的情况
 
@@ -91,7 +92,7 @@ vector<int> spiralOrder(vector<vector<int>>& matrix) {
 
 
 
-**2、新的写法，这种其实更好理解**
+### **2、新的写法，这种其实更好理解**
 
 执行用时：24 ms, 在所有 C++ 提交中击败了56.85%的用户
 
@@ -119,7 +120,7 @@ vector<int> spiralOrder(vector<vector<int>>& matrix) {
 
 
 
-**3、改进一下第二种写法，快上不少**
+### **3、改进一下第二种写法，快上不少**
 
 执行用时：12 ms, 在所有 C++ 提交中击败了98.41%的用户
 
@@ -150,9 +151,9 @@ vector<int> spiralOrder(vector<vector<int>>& matrix) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、最快的做法，注意中间的判断条件不可少**
+### **1、最快的做法，注意中间的判断条件不可少**
 
 运行时间：3ms  占用内存：496k
 

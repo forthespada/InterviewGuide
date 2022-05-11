@@ -1,23 +1,22 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No59、按之字形顺序打印二叉树
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No59、按之字形顺序打印二叉树
+comment: false
 ---
-
-
 
 ## **No59、按之字形顺序打印二叉树**
 
  <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/91b69814117f4e8097390d107d2efbe0?tpId=13&&tqId=11212&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 请实现一个函数按照之字形打印二叉树，即第一行按照从左到右的顺序打印，第二层按照从右至左的顺序打印，第三行按照从左到右的顺序打印，其他行以此类推。 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -32,7 +31,7 @@ excerpt: No59、按之字形顺序打印二叉树
 
 
 
-**1、注意左右子树在两个栈中的入栈顺序**
+### **1、注意左右子树在两个栈中的入栈顺序**
 
 ~~~cpp
 vector<vector<int> > Print(TreeNode* pRoot) {
@@ -79,7 +78,7 @@ vector<vector<int> > Print(TreeNode* pRoot) {
 
 
 
-**2、稍微优化一下代码**
+### **2、稍微优化一下代码**
 
 ~~~cpp
 vector<vector<int> > Print(TreeNode* pRoot) {
@@ -125,7 +124,7 @@ vector<vector<int> > Print(TreeNode* pRoot) {
 
 
 
-**3、只用一个队列来做，很不错的想法**
+### **3、只用一个队列来做，很不错的想法**
 
 ~~~cpp
 vector<vector<int> > Print(TreeNode* pRoot) {
@@ -162,9 +161,9 @@ vector<vector<int> > Print(TreeNode* pRoot) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、算是二叉树的层次遍历的一种变形吧，果然还是第一反应想到这种做法**
+### **1、算是二叉树的层次遍历的一种变形吧，果然还是第一反应想到这种做法**
 
 运行时间：4ms  占用内存：360k
 
@@ -204,7 +203,7 @@ vector<vector<int> > Print(TreeNode* pRoot) {
 
 
 
-**2、优化一下**
+### **2、优化一下**
 
 运行时间：3ms  占用内存：504k
 

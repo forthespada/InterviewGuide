@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No61、序列化二叉树
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No61、序列化二叉树
+comment: false
 ---
 
 
@@ -12,7 +13,7 @@ excerpt: No61、序列化二叉树
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&&tqId=11214&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
 请实现两个函数，分别用来序列化和反序列化二叉树
 
@@ -24,7 +25,7 @@ excerpt: No61、序列化二叉树
 
 
 
-**1、看的大神的写法，这种写法超级棒，代码逻辑非常好**
+### **1、看的大神的写法，这种写法超级棒，代码逻辑非常好**
 
 但是牛客上并没有考虑到负数的情况，力扣上的题目有负数的限制
 
@@ -75,7 +76,7 @@ public:
 
 
 
-**力扣上的要求会有负数的限制**
+### **力扣上的要求会有负数的限制**
 
 ~~~cpp
 class Codec {
@@ -125,9 +126,9 @@ public:
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、挺好，还是要再刷一下**
+### **1、挺好，还是要再刷一下**
 
 ​    2ms	488KB
 

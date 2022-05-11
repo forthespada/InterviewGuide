@@ -1,10 +1,11 @@
-﻿---
+---
 layout:  post
 category:  algorithm
 title:  No15、反转链表
 tagline:  by 阿秀
 tag: [数据结构与算法]
 excerpt: No15、反转链表
+comment: false
 ---
 
 
@@ -13,11 +14,11 @@ excerpt: No15、反转链表
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[牛客网原题链接](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&&tqId=11168&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)</font>
 
-**题目描述**
+### **题目描述**
 
  输入一个链表，反转链表后，输出新链表的表头。 
 
-**示例1**
+### **示例1**
 
 **输入**
 
@@ -35,7 +36,7 @@ excerpt: No15、反转链表
 
 https://blog.csdn.net/qq_42351880/article/details/88637387
 
-**1、头插法 很经典的做法啊**
+### **1、头插法 很经典的做法啊**
 
 ~~~cpp
 struct ListNode {
@@ -91,7 +92,7 @@ void test02()
 
 
 
-**2、第二种方法，借助三个结点进行不断更替**
+### **2、第二种方法，借助三个结点进行不断更替**
 
 ~~~cpp
 ListNode* ReverseList(ListNode* pHead) {
@@ -116,9 +117,9 @@ ListNode* ReverseList(ListNode* pHead) {
 
 
 
-**二刷：**
+### **二刷：**
 
-**1、头插法来做，将元素开辟在栈上，这样会避免内存泄露**
+### **1、头插法来做，将元素开辟在栈上，这样会避免内存泄露**
 
 运行时间：3ms  占用内存：364k
 
@@ -147,7 +148,7 @@ ListNode* ReverseList(ListNode* pHead) {
 
 
 
-**2、借助三个节点来进行迭代即可**
+### **2、借助三个节点来进行迭代即可**
 
 运行时间：3ms  占用内存：504k
 
