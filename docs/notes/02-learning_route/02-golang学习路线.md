@@ -3,14 +3,17 @@ layout: post
 category: lanuuage
 title: Golang学习路线
 tagline: by 阿秀
-tag: [Golang，学习路线,Golang学习路线]
+tags:
+    - 原创
+    - Golang
+    - 学习路线
+    - 编程语言
+    - 阿秀
 excerpt: 转为小白新手准备的Goplang求职版学习路线
 comment: false
 ---
 
-
-
-## Golang版求职版路线
+<h1 align="center">Golang版求职版路线</h1>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202112012147950.png" alt="Golang求职版学习路线" style="zoom:50%;" />

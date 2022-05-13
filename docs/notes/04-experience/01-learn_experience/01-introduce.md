@@ -2,8 +2,14 @@
 layout: post
 category: lanuuage
 title: 学习心得
-tag: [知识星球]
+tags:
+    - 原创
+    - 学习
+    - CS
+    - 校招
+    - 阿秀
 excerpt: 阿秀的学习圈子
+comment: false
 ---
 
 

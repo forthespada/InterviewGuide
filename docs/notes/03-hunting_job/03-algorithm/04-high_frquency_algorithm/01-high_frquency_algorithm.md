@@ -3,7 +3,12 @@ layout:  post
 category:  hunting_job
 title:  面试高频算法真题
 tagline:  by 阿秀
-tag: [os，智力&场景题]
+tags:
+    - 原创
+    - 场景题
+    - 智力题
+    - 校招
+    - 阿秀
 excerpt: 面试高频算法真题
 comment: false
 ---
@@ -12,9 +17,11 @@ comment: false
 
 
 
+
+
 <p id="精选高频面试题"></p>
 
-## 面试高频算法真题
+## <h1 align="center">面试高频算法真题</h1>
 
 > 算法部分的目录结构是按照不同人群分类的，如果你不知道该看哪个部分的算法题，可以先看一下这里，<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[戳我直达](Doc/Knowledge/算法/适用人群.md)</font>。
 
@@ -28,12 +35,10 @@ comment: false
 
 而一般说来笔试的难度是比面试稍微高一些的，面试中的手撕算法难度一般是力扣的 medium 水平，也有一些 easy 的，而笔试至少都是力扣 medium 难度以上的。
 
-
-
 <p id="合并有序链表"></p>
 
 
-#### **1、合并有序链表**
+## **1、合并有序链表**
 
 [力扣链接](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)
 
@@ -111,14 +116,14 @@ int main(void) {
 <p id="反转链表"></p>
 
 
-#### **2、反转链表**
+## **2、反转链表**
 
  定义一个函数，输入一个链表的头节点，反转该链表并输出反转后链表的头节点。 
 
 输入: 1->2->3->4->5->NULL
 输出: 5->4->3->2->1->NULL
 
-**第一种做法**
+### **第一种做法**
 
 ~~~cpp
 #include<algorithm>
@@ -213,9 +218,9 @@ ListNode* ReverseList(ListNode* pHead) {
 <p id="单例模式"></p>
 
 
-#### **3、单例模式**
+## **3、单例模式**
 
-**饿汉模式**
+### **饿汉模式**
 
 ~~~cpp
 class singlePattern {
@@ -246,7 +251,7 @@ singlePattern* singlePattern::instance() {
 
 
 
-**懒汉模式**
+### **懒汉模式**
 
 ~~~cpp
 class singlePattern {
@@ -277,7 +282,7 @@ singlePattern* singlePattern::instance() {
 <p id="简单工厂模式"></p>
 
 
-#### **4、简单工厂模式**
+## **4、简单工厂模式**
 
 ~~~cpp
 typedef enum productType {
@@ -344,7 +349,7 @@ public:
 <p id="快速排序"></p>
 
 
-#### **5、快速排序**
+## **5、快速排序**
 
 ~~~cpp
 void quickSort(vector<int>& data, int low, int high) {
@@ -375,7 +380,7 @@ void quickSort(vector<int>& data, int low, int high) {
 <p id="归并排序"></p>
 
 
-#### **6、归并排序**
+## **6、归并排序**
 
 ~~~cpp
 void mergeSort(vector<int>& data, vector<int>& copy, int begin, int end) {
@@ -409,7 +414,7 @@ void mergeTest() {
 <p id="实现一个堆排序"></p>
 
 
-#### **7、实现一个堆排序**
+## **7、实现一个堆排序**
 
 堆排序的基本过程：
 
@@ -475,7 +480,7 @@ int main(){
 <p id="设计缓存"></p>
 
 
-#### **8、设计LRU缓存**
+## **8、设计LRU缓存**
 
 [力扣链接](https://leetcode-cn.com/problems/lru-cache-lcci)
 
@@ -583,7 +588,7 @@ public:
 <p id="重排链表"></p>
 
 
-#### **9、重排链表**
+## **9、重排链表**
 
 [力扣链接](https://leetcode-cn.com/problems/reorder-list/)
 
@@ -698,7 +703,7 @@ int  main() {
 <p id="奇偶链表"></p>
 
 
-#### **10、奇偶链表**
+## **10、奇偶链表**
 
 [力扣链接](https://leetcode-cn.com/problems/odd-even-linked-list/)
 
@@ -722,7 +727,7 @@ int  main() {
 
 
 
-**第一种解法**
+### **第一种解法**
 
 ~~~cpp
  ListNode* oddEvenList(ListNode* head) {
@@ -746,7 +751,7 @@ int  main() {
 
 ~~~
 
-**第二种解法**
+### **第二种解法**
 
 ~~~cpp
 ListNode* oddEvenList(ListNode* head) 
@@ -777,7 +782,7 @@ ListNode* oddEvenList(ListNode* head)
 <p id="三个线程"></p>
 
 
-#### **11、写三个线程交替打印ABC**
+## **11、写三个线程交替打印ABC**
 
 ```C++
 #include<iostream>
@@ -839,7 +844,7 @@ int main(){
 <p id="涛普问题"></p>
 
 
-#### **12、Top K问题**
+## **12、Top K问题**
 
 **Top K 问题的常见形式：**
 
@@ -912,7 +917,7 @@ public int quickSelect(int[] arr, int k, int left, int right) {
 <p id ="布隆过滤器原理与优点"></p>
 
 
-#### **13、布隆过滤器原理与优点**
+## **13、布隆过滤器原理与优点**
 
 布隆过滤器是一个比特向量或者比特数组，它本质上是一种概率型数据结构，用来查找一个元素是否在集合中，支持高效插入和查询某条记录。常作为针对超大数据量下高效查找数据的一种方法。
 
