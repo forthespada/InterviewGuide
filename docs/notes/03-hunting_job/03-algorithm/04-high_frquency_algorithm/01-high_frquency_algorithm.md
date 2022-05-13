@@ -21,7 +21,7 @@ comment: false
 
 <p id="精选高频面试题"></p>
 
-## <h1 align="center">面试高频算法真题</h1>
+## <h2 align="center">面试高频算法真题</h2>
 
 > 算法部分的目录结构是按照不同人群分类的，如果你不知道该看哪个部分的算法题，可以先看一下这里，<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[戳我直达](Doc/Knowledge/算法/适用人群.md)</font>。
 
