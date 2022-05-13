@@ -6,3 +6,4 @@
 *.xmind
 /docs/.vuepress/
 /docs/README.md
+.babelrc

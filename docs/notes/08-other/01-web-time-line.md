@@ -1,18 +1,20 @@
 ---
 layout: post
 category: language
-title: 网站时间线
+title:  网站日记&更新迭代记录
 tags:
     - 时间线
+    - 网站日记
+    - 更新迭代
+    - 阿秀
 excerpt: 阿秀的学习圈子
 comment: false
 ---
 
 
 
-
   <h1 align="center">
-    主要时间线
+    网站日记&更新迭代记录
   </h1>
 
 没有哪个网站是最开始建成之时，功能就十分完善的，所以仅在此记录下阿秀的小破站的迭代更新记录。
@@ -25,11 +27,11 @@ comment: false
 
 
 
-2022.05.04 - 微信好友小卓帮助整理剑指offer例题，感谢！
+- **2022.05.04** - 微信好友小卓帮助整理剑指offer例题，感谢！
 
-2022.05.03 - 增加valine留言功能
+- **2022.05.03** - 增加valine留言功能
 
-2022.05.02 - 将网站框架由docsify替换为Vuepress，并进行UI调整
+- **2022.05.02** - 将网站框架由docsify替换为Vuepress，并进行UI调整
 
 调整前：
 
@@ -45,31 +47,31 @@ comment: false
   <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205130210038.png" style="zoom:30%;" />
 </div>
 
-2021.09.03 - 整理网友通过github、微信私聊、邮箱等方式进行的勘误
+- **2021.09.03** - 整理网友通过github、微信私聊、邮箱等方式进行的勘误
 
-2021.08.11 - 为所有链接加上CSS格式，字体显示为蓝色，便于区分普通文本和超链接
+- **2021.08.11** - 为所有链接加上CSS格式，字体显示为蓝色，便于区分普通文本和超链接
 
-2021.07.19 - 增加研二师弟学习经验分享内容
+- **2021.07.19** - 增加研二师弟学习经验分享内容
 
-2021.07.06 - 增加《[精选300+LeetCode题解](https://interviewguide.cn/#/Doc/Knowledge/%E7%AE%97%E6%B3%95/LeetCode%E9%A2%98%E8%A7%A3/README)》专栏内容
+- **2021.07.06** - 增加《[精选300+LeetCode题解](https://interviewguide.cn/#/Doc/Knowledge/%E7%AE%97%E6%B3%95/LeetCode%E9%A2%98%E8%A7%A3/README)》专栏内容
 
-2021.07.05 - 增加一位大三和研二师弟的春招总结与面试经验-
+- **2021.07.05** - 增加一位大三和研二师弟的春招总结与面试经验-
 
-2021.06.29 - 完善知识储备中全部八股文侧边栏定位失败问题 - 
+- **2021.06.29** - 完善知识储备中全部八股文侧边栏定位失败问题 - 
 
- 2021.06.25 - 完善知识储备中MySQL、Redis部分侧边栏重复问题侧边栏定位失败问题 -
+- **2021.06.25** - 完善知识储备中MySQL、Redis部分侧边栏重复问题侧边栏定位失败问题 -
 
-2021.06.07 - 完善知识储备中C++下的[内存管理、C++新标准、STL模板库、其余问题的](Doc/Knowledge/C++/README.md)侧边栏定位失败问题 - （此部分感谢一位大一小学弟（微信昵称“矢”）的帮忙）
+- **2021.06.07** - 完善知识储备中C++下的[内存管理、C++新标准、STL模板库、其余问题的](Doc/Knowledge/C++/README.md)侧边栏定位失败问题 - （此部分感谢一位大一小学弟（微信昵称“矢”）的帮忙）
 
-2021.06.05- 完善知识储备中C++下的[基础知识](Doc/Knowledge/C++/基础语法/基础语法.md)侧边栏定位失败问题
+- **2021.06.05**- 完善知识储备中C++下的[基础知识](Doc/Knowledge/C++/基础语法/基础语法.md)侧边栏定位失败问题
 
-2021.05.25 - 增加网站页面字数统计功能 
+- **2021.05.25** - 增加网站页面字数统计功能 
 
-2021.05.23 - 完善原创专栏《[带你快速刷完67道剑指offer](https://interviewguide.cn/#/Doc/Knowledge/%E7%AE%97%E6%B3%95/%E5%B8%A6%E4%BD%A0%E5%BF%AB%E9%80%9F%E5%88%B7%E5%AE%8C67%E9%81%93%E5%89%91%E6%8C%87offer/README)》
+- **2021.05.23** - 完善原创专栏《[带你快速刷完67道剑指offer](https://interviewguide.cn/#/Doc/Knowledge/%E7%AE%97%E6%B3%95/%E5%B8%A6%E4%BD%A0%E5%BF%AB%E9%80%9F%E5%88%B7%E5%AE%8C67%E9%81%93%E5%89%91%E6%8C%87offer/README)》
 
-2021.05.23 - 搬运知识储备中的 [C/C++](Doc/Knowledge/C++/README.md) 内容
+- **2021.05.23** - 搬运知识储备中的 [C/C++](Doc/Knowledge/C++/README.md) 内容
 
-2021.05.20 -05.22-网站初步开发，初步搬运 [InterviewGuide](https://github.com/forthespada/InterviewGuide) 仓库及个人公众号上内容
+- **2021.05.20 -05.22**-网站初步开发，初步搬运 [InterviewGuide](https://github.com/forthespada/InterviewGuide) 仓库及个人公众号上内容
 
 
 
