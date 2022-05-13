@@ -5,3 +5,4 @@
 /.temp/
 *.xmind
 /docs/.vuepress/
+/docs/README.md

@@ -1,16 +1,19 @@
 ---
 layout: post
 category: language
-title: 时间线
-tag: [时间线]
+title: 网站时间线
+tags:
+    - 时间线
 excerpt: 阿秀的学习圈子
+comment: false
 ---
 
 
 
-## 时间线
 
-网站时间线
+  <h1 align="center">
+    主要时间线
+  </h1>
 
 没有哪个网站是最开始建成之时，功能就十分完善的，所以仅在此记录下阿秀的小破站的迭代更新记录。
 
@@ -18,27 +21,29 @@ excerpt: 阿秀的学习圈子
 
 在我看来，这就是一个简简单单的补充计算机知识的网站，你能从这里得到你所需要的内容就足够了！
 
-<!--
-
-大家也不要让我给这个网站加什么各种酷炫的功能，你尽管提！加了算我输！
-
-<div align="center">
-    <img style="align:center;"  src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@4.8/202106/任性.png" style="zoom:10%;" />
-</div>
--->
 
 
 
-<div align="center">
-  <h1>
-    主要时间线
-  </h1>
 
-
+2022.05.04 - 微信好友小卓帮助整理剑指offer例题，感谢！
 
 2022.05.03 - 增加valine留言功能
 
-2022.05.02 - 将网站框架替换为Vuepress
+2022.05.02 - 将网站框架由docsify替换为Vuepress，并进行UI调整
+
+调整前：
+
+<div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205130207949.png" style="zoom:30%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205130207959.png" style="zoom:30%;" />
+</div>
+
+调整后：
+
+<div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205130210658.png" style="zoom:30%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205130210038.png" style="zoom:30%;" />
+</div>
 
 2021.09.03 - 整理网友通过github、微信私聊、邮箱等方式进行的勘误
 

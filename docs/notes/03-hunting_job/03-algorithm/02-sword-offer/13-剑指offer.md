@@ -3,10 +3,19 @@ layout:  post
 category:  algorithm
 title:  No13、调整数组顺序使奇数位于偶数前面
 tagline:  by 阿秀
-tag: [数据结构与算法]
+tags:
+    - 原创
+    - 剑指offer
+    - 数据结构与算法
+    - 算法
+    - 社招
+    - 校招
+    - 阿秀
 excerpt: No13、调整数组顺序使奇数位于偶数前面
 comment: false
 ---
+
+<h1 align="center">带你快速刷完67道剑指offer</h1>
 
 
 ## **No13、调整数组顺序使奇数位于偶数前面**

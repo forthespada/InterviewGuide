@@ -2,7 +2,8 @@
 layout: post
 category: lanuuage
 title: 留言板
-tag: [留言板]
+tags:
+    - 留言板
 excerpt: 阿秀的学习圈子
 ---
 

@@ -5,17 +5,13 @@ actionLinks:
 - link: /notes/01-guide/web-guide-reading.md
   text: 懂了，马上开卷 →
   class: primary
+- link: /notes/05-xingqiu/01-xingqiu-reading-guide/01-introduce.md
+  text: 阿秀的学习圈子
+  class: secondary
 footer: <a href="http://beian.miit.gov.cn" target="_blank"> Copyright © 2021-至今 阿秀，All rights reserved. 
 ---
 
 ---
-<!--
-
-- link: https://t.zsxq.com/Ja27ujq
-  text: 阿秀的学习圈子
-  class: secondary
-
--->
 
 ## 👨‍💻关于作者
 
