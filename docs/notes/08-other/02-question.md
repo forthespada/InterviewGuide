@@ -1,0 +1,100 @@
+---
+layout: post
+category: language
+title:  常见问题&留言板
+tags:
+    - 常见问答
+    - 使用方式
+    - 网站日记
+    - 更新迭代
+    - 阿秀
+excerpt: 常见问题&留言板s
+---
+
+
+
+  <h1 align="center">
+    常见问题&留言板
+  </h1>
+
+
+
+
+## 1、网站内容适用人群？
+
+答：《阿秀的学习笔记》适用人群为**计算机校招技术岗以及毕业三年之内的社招党**，尤其是前者，面试中考察计算机基本功还是很常见的。
+
+对于毕业三年以上的社招党来说，求职面试中考察的更多则是经验和项目了。
+
+## 2、发现错误，如何勘误校对？
+
+本站95%以上的文字均来自阿秀个人学习笔记，不免会有一些错误如笔误等。
+
+截止2022.05.14号前，已经fix多达129个错误，但仍可能会有一些漏网之鱼！
+
+如果你在阅读过程对本博客中，如果你发现一些`内容`、`图稿`、`代码`等中的错误，可以提交Issue或者PR的方式进行问题反馈。
+
+阿秀每天都会看自己的仓库，也会持续性进行完善，感谢你的支持；
+
+- Issue：[https://github.com/forthespada/InterviewGuide/issues(opens new window)](https://github.com/forthespada/InterviewGuide/issues)
+- PR：[https://github.com/forthespada/InterviewGuide/pulls (opens new window)](https://github.com/forthespada/InterviewGuide/pulls)
+
+勘误步骤：
+
+1、在打算编辑的文章的最下面左侧找到`在 GitHub 上编辑此页`的按钮。
+
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205141646236.png" style="zoom:33%;" />
+
+2、进行勘误，填写描述信息并提交request
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205141648473.png)
+
+
+
+## 3、关于夜间模式
+
+使用chrome浏览器，安装Dark Reader插件，就可以夜间模式了。
+
+
+
+## 4、阿秀，如何才能联系到你？
+
+如果你对我整理的某个知识点感到困惑或者有你自己的看法，可以[直接提交PR](/notes/08-other/02-question.html#_2、发现错误-如何勘误校对)，我每周都会审查。
+
+如果你需要帮助：
+
+- 比如你有计算机学习、技术方向、编程语言选择等方面的困扰；
+- 比如你有考研、读研等方面的困扰，毕竟阿秀自己也是考研过来的人，也负责过[计算机考研复试](/notes/06-about/02-school/20210315-近期招收计算机考研调剂学生有感%20%7C%20考研调剂指南.md)；
+- 比如你有校招、社招、offer选择等求职找工作方面的困扰；
+- ....
+
+
+
+也欢迎你加入[阿秀的学习圈子](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md)，每天阿秀都会优先看学习圈子中小伙伴们遇到的问题，为他们答疑解惑！一起努力、报团取暖、打卡学习、顺利拿到好offer，完成自己的目标！
+
+
+个人微信：**coderxiu2**，或者扫描下方二维码即可添加
+
+<div align="center">
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205150014655.png" style="zoom:50%;" />
+</div>
+
+
+
+**注意**
+
+1、我自己也在字节跳动这边工作，字节条的工作强度很大，我还在抖音这边搬砖写码，工作也比较繁重，所以有可能添加好友通过不及时，还望海涵！
+
+每天我都会在回答完[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md)中学弟学妹们的问题后专门抽出30min的时间来进行粉丝免费答疑，可以放心。
+
+2、如果我通过好友了，不要问”在吗“/”秀哥在吗“这种话，有问题直接问就好！最大程度上节省双方时间！这对你对我都是一种双赢的事情，我也能多回答几个学弟学妹的问题！
+
+
+
+
+
+## 留言板
+
+可以在这里说一说你的想法、你的计划、你的目标、你的希冀！
+
+希望本站能够帮到大家，拿到很好的offer！加油💪🏻！
