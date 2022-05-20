@@ -22,21 +22,31 @@ comment: false
 </h1>
 
 
-> 算法部分的目录结构是按照不同人群分类的，如果你不知道该看哪个部分的算法题，可以先看一下这里，<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[戳我直达](Doc/Knowledge/算法/适用人群.md)</font>。
+> 阿秀自己刷过的算法部分经过整理后是按照不同基础、不同人群分类的，如果你不知道自己该看哪个部分的算法题，可以先看一下这里，[戳我直达](/notes/03-hunting_job/03-algorithm/01-basic-algorithm/01-算法模块食用指南.md)。
 
 以下是本部分正文：
 
-**前言**
+## **前言**
 
 本部分所有题目均来自于LeetCode网，并于每道题目下标明具体力扣网原题链接。
 
-**本专栏介绍**
+## **本专栏介绍**
 
 -  本专栏是阿秀本人在秋招前的于力扣网的刷题笔记整理总结，是按照如下14个标签进行刷题的，每个标签下具体又分为Easy、Medium、Hard三个等级
 -  本专栏适合于校招、社招工作党以及打算转行做计算机的非科班人士，适用于互联网求职笔试、面试而非算法类竞赛比如蓝桥杯等
 -  本专栏是我从将近600道算法题目中精选出300+道而成的，对于一些质量不太好以及面试笔试中出现频率较低的题目被阿秀筛掉了
 
 
+
+## 说明
+
+由于换站带来的数据迁移问题，目前只整理好了[带你快速刷完67道剑指offer](/notes/03-hunting_job/03-algorithm/02-sword-offer/01-introduce.html)、[面试高频算法真题](/notes/03-hunting_job/03-algorithm/04-high_frquency_algorithm/01-high_frquency_algorithm.html)，而《精选力扣300+道算法题》还未整理好，预计还需要一段时间才能整理完，至少需要1个月左右了。
+
+但阿秀是工作党，字节抖音的工作很忙，自己没那么多空闲时间去整理，只能慢慢整理了。
+
+如果有热心的小伙伴帮我整理的话感激不尽！如果有好心人，请联系阿秀个人，微信：aXiu_go
+
+<!--
 
 **具体分类**
 
@@ -68,13 +78,13 @@ comment: false
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[14、树](Doc/Knowledge/算法/LeetCode题解/total/14-树/README.md)</font>
 
+-->
 
-
-关于更多本专栏的介绍可以点此了解阿秀的<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[**秋招找工作经历与个人介绍**](Doc/Other/ContactMe/ContactMe.md#个人背景)</font>。
+关于更多本专栏的介绍可以点此了解阿秀的<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[**秋招找工作经历与个人介绍**](/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.md)</font>。
 
 该部分的刷题笔记是由**阿秀原创**，后期整理并发布，对于其中涉及到他人的解法也给出了相应说明。
 
-对于本专栏的内容，未经其本人许可不得擅自发布在互联网上，如需引用请标注出处并<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[**告知本人**](Doc/Other/ContactMe/ContactMe.md#联系阿秀)</font>。
+对于本专栏的内容，未经其本人许可不得擅自发布在互联网上，如需引用请标注出处并<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[**告知本人**](/notes/08-other/02-question.md#_4、阿秀-如何才能联系到你)</font>。
 
 另，因个人水准不同，题目中的一些见解不免涉及一些个人主观判断，但也仅代表本人个人意见，与他人无关，如果你有更好的解法或者意见欢迎理性讨论~
 

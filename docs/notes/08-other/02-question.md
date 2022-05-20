@@ -43,11 +43,15 @@ excerpt: 常见问题&留言板s
 
 1、在打算编辑的文章的最下面左侧找到`在 GitHub 上编辑此页`的按钮。
 
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205141646236.png" style="zoom:33%;" />
+<div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205141646236.png" style="zoom: 150%;" />
+</div>
+
+
 
 2、进行勘误，填写描述信息并提交request
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205141648473.png)
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205141648473.png" style="zoom:67%;" />
 
 
 
@@ -90,6 +94,22 @@ excerpt: 常见问题&留言板s
 2、如果我通过好友了，不要问”在吗“/”秀哥在吗“这种话，有问题直接问就好！最大程度上节省双方时间！这对你对我都是一种双赢的事情，我也能多回答几个学弟学妹的问题！
 
 
+
+## 5、如何下载阿秀的学习笔记内容PDF版本？
+
+很抱歉，可能以后都不会再开放下载本站内容了，原因见下💔💔💔：
+
+
+
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202303985.png" style="zoom:67%;" /></div>
+
+
+
+有学弟专门跑来告知我有某些机构使用我的学习笔记PDF版本分发给学员，美其名曰为**机构内部资料**🤕。。。
+
+故以后都不会再提供PDF版本的下载了，只为[阿秀的学习圈子](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html)中的圈友提供本站内容的最新版PDF。
+
+如果有意一起学习&为秋招努力&拿到好offer，欢迎了解[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html)，附赠[加入方式](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md#五、加入方式)。
 
 
 

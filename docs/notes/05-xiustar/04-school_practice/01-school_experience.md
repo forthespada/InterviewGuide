@@ -16,6 +16,6 @@ comment: false
 
 
 
-## 实习经验
+## <h1 align="center">实习经验</h1>
 
 实习经验话题2
