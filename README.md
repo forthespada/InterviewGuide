@@ -2,7 +2,7 @@
 
 <h1 align="center">InterviewGuide | 📔 阿秀的学习笔记</h1>
 
-> 你好，我是阿秀，<strong>《阿秀的学习笔记》</strong>strong>网站拥有者，现在是一名字节跳动抖音部门全栈研发工程师，主后端、兼前端，也是一名坚持终身学习的互联网从业者，[📚︎关于我](/notes/01-guide/web-guide-reading.html)。
+> 你好，我是阿秀，一名坚持终身学习的互联网从业者，目前在字节跳动抖音部门担任全栈研发工程师，主后端、兼前端，->[📚︎关于我](/notes/01-guide/web-guide-reading.html)。
 >
 > 本仓库是是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们秋招总结文章的汇总，也许你曾经了解过甚至研读过一本PDF，它可能叫做《逆袭进大厂》或者《阿秀的校招笔记》或者《阿秀的求职笔记》，都是本仓库内容的镜像摘录。
 
@@ -308,7 +308,7 @@
 
 ### 8.2、[精品资源](docs/notes/07-resources/02-precious.html)
 
-## 9、转载分享
+## 9、📋转载分享
 
 
 
@@ -322,7 +322,7 @@
 
 
 
-## 10、参与贡献
+## 10、🥉参与贡献
 
 由于本人水平有限，仓库内容如有错误，欢迎提交 **[issue](https://github.com/forthespada/InterviewGuide/issues)**，虚心接受每一位好心人的建议与意见。
 
@@ -334,7 +334,7 @@
 
 
 
-## 11、 联系阿秀
+## 11、🐼联系阿秀
 
 ### 11.1、**校招上岸交流**
 
@@ -381,6 +381,8 @@
 
 感谢曾经对InterviewGuide仓库做过贡献（提交过 Issue 或者 PR）或者对《阿秀的学习笔记》网站进行过赞赏的同学，如果你希望被添加到这个名单中，请与我联系。
 
+**:seedling: 衷心感谢大家对仓库建设的贡献**
+
 <a href="https://github.com/forthespadat">
     <img src="https://avatars.githubusercontent.com/u/44971298?v=4" style="border-radius:5px" width="50px">
 </a>
@@ -400,7 +402,7 @@
     <img src="https://avatars.githubusercontent.com/u/93831006?v=4" style="border-radius:5px" width="50px">
 </a>
 
-**:seedling: 衷心感谢大家对仓库建设的贡献**
+
 
 
 
@@ -529,20 +531,6 @@
 **📋   [网站迭代](Doc/Other/网站迭代更新记录/网站迭代更新记录.md#网站迭代更新记录)**
 
 **🥉 [致谢](Doc/Other/致谢/致谢.md#致谢)**
-
--->
-
-
-
-
-
-Doc/Other/校招总结/阿秀个人的秋招之路总结/阿秀个人的秋招之路总结.md
-
-Doc/Other/校招总结/双非本科大三学弟连斩腾讯字节/双非本科大三学弟连斩腾讯字节.md
-
-Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
-
-
 
 
 
