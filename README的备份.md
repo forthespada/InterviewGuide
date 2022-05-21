@@ -1,12 +1,10 @@
 <p id="阿秀的校招笔记"></p>
 
-<h1 align="center">InterviewGuide | 📔 阿秀的学习笔记</h1>
+<h1 align="center">📔 阿秀的学习笔记</h1>
+<div align="left">
+<p>计算机校招、社招面试常见八股文整理，也是<strong>《逆袭进大厂》</strong>的唯一仓库.目前已收录 <strong>C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis</strong>等面试资料，未来打算继续收录<strong>Java、Python、Go</strong>等面试常见问题，坚持将此仓库维护下去。</p>
+    </div> 
 
-> 你好，我是阿秀，<strong>《阿秀的学习笔记》</strong>strong>网站拥有者，现在是一名字节跳动抖音部门全栈研发工程师，主后端、兼前端，也是一名坚持终身学习的互联网从业者，[📚︎关于我](/notes/01-guide/web-guide-reading.html)。
->
-> 本仓库是是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们秋招总结文章的汇总，也许你曾经了解过甚至研读过一本PDF，它可能叫做《逆袭进大厂》或者《阿秀的校招笔记》或者《阿秀的求职笔记》，都是本仓库内容的镜像摘录。
-
-👉 如果你是计算机小白、迷茫找不到方向、或者跟阿秀一样出身很差（大专、三本、二本等）、不甘平凡想要再努力一把、缺少学习动力等，不妨阅读[阿秀的故事](http://localhost:8080/notes/01-guide/web-guide-reading.html#二、自学经历)或者加入[阿秀的学习圈](http://localhost:8080/notes/01-guide/web-guide-reading.html#七、⭐⭐阿秀的学习圈子)，我记录了自己从普通双非学校一名默默无名的学生到顺利成长为一名互联网一线大厂的程序员的成长过程以及在互联网职场的学习成长经历，相信这些内容能够帮助你成长一名合格的互联网技术从业者。
 
 👉 该求职资料适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~** 作者：[阿秀](Doc/Other/ContactMe/ContactMe.md#关于阿秀)
 
@@ -14,7 +12,7 @@
 
 👉 **1000**本计算机经典书籍免费下载：[CS-Books](https://github.com/forthespada/CS-Books)
 
-👉 关于 **InterviewGuide** 仓库或者《阿秀的学习笔记网站》的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
+👉 关于 **InterviewGuide** 仓库的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
 
 :book:**PDF下载方式**：[点此免费下载](#downloadpdf)
 
@@ -24,250 +22,11 @@
 
 由于本人水平有限，仓库内容如有错误，欢迎提交 **[issue](https://github.com/forthespada/InterviewGuide/issues)**，虚心接受每一位好心人的建议与意见。
 
-本仓库中笔记除去我在文末引用出处之外，其余部分均为阿秀个人原创，比如《[带你快速刷完67道剑指offer](http://localhost:8080/notes/03-hunting_job/03-algorithm/02-sword-offer/01-introduce.html)》与《[精选300+LeetCode题解](http://localhost:8080/notes/03-hunting_job/03-algorithm/03-leetcode/01-introduce.html)》均为个人原创。
+本仓库中笔记除去我在文末引用出处之外，其余部分均为阿秀个人原创，比如《[带你快速刷完67道剑指offer](https://interviewguide.cn/#/Doc/Knowledge/%E7%AE%97%E6%B3%95/%E5%B8%A6%E4%BD%A0%E5%BF%AB%E9%80%9F%E5%88%B7%E5%AE%8C67%E9%81%93%E5%89%91%E6%8C%87offer/README?id=%e5%b8%a6%e4%bd%a0%e5%bf%ab%e9%80%9f%e5%88%b7%e5%ae%8c67%e9%81%93%e5%89%91%e6%8c%87offer)》与《[精选300+LeetCode题解](https://interviewguide.cn/#/Doc/Knowledge/%E7%AE%97%E6%B3%95/LeetCode%E9%A2%98%E8%A7%A3/README)》均为个人原创。
 
 转载请注明出处，不得用于商业目的。
 
 </details>
-
-## 🍖 目录
-
-1、🌎**介绍**
-
-2、🌽**学习路线**
-
-- 2.1、基础学科
-- 2.2、编程语言
-
-3、📚︎[**校招八股文**](http://localhost:8080/notes/01-guide/四、校招八股文)
-
-- 3.1、[编程语言](http://localhost:8080/notes/01-guide/web-guide-reading.html#_1、⭐编程语言)
-- 3.2、[操作系统](http://localhost:8080/notes/01-guide/_2、⭐操作系统)
-- 3.3、[计算机网络](http://localhost:8080/notes/01-guide/web-guide-reading.html#_3、⭐计算机网络)
-- 3.4、[数据库](http://localhost:8080/notes/01-guide/web-guide-reading.html#_4、⭐数据库)
-- 3.5、[智力题&情景题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_5、⭐智力-场景题)
-
-4、🍡[**数据结构与算法**](http://localhost:8080/notes/01-guide/web-guide-reading.html#五、数据结构与算法)
-
-- 4.1、[带你快速刷完67道剑指offer](http://localhost:8080/notes/01-guide/web-guide-reading.html#_3、⭐⭐带你快速刷完67道剑指offer)
-- 4.2、[精选力扣300+道算法题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_4、⭐⭐精选力扣300-算法题)
-- 4.3、[面试高频算法真题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_5、⭐⭐⭐算法高频面试题)
-
-5、🎓[**学习心得&总结**](http://localhost:8080/notes/01-guide/web-guide-reading.html#六、学习心得&总结)：
-
-- 5.1、[CS学习心得](http://localhost:8080/notes/04-experience/01-learn_experience/01-introduce.html)
-- 5.2、[实习经验总结](http://localhost:8080/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.html)
-- 5.3、[校招经验总结](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.html)
-
-6、🧑‍🤝‍🧑[**阿秀的学习圈子**](http://localhost:8080/notes/01-guide/web-guide-reading.html#八、阿秀的学习圈子)
-
-- 6.1、[聊聊校招的相关话题](http://localhost:8080/notes/05-xiustar/02-campus_prepare/02-01-校招重要时间点科普.html)
-
-- 6.2、[简历真的很重要](http://localhost:8080/notes/05-xiustar/03-resume/01-00-简历开篇词.html)
-- 6.3、[暑期/日常实习总结](http://localhost:8080/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.html)
-
-- 6.4、[校招(秋招/春招)总结](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.html)
-
-- 6.5、[阿秀帮你选offer](http://localhost:8080/notes/05-xiustar/06-offer/01-offer_choose.html)
-
-- 6.6、[互联网职场杂谈](http://localhost:8080/05-xiustar/08-it_career/20210714 - 入职字节一周了.html)
-
-7、😊[**阿秀三两事**](http://localhost:8080/notes/01-guide/web-guide-reading.html#八、阿秀三两事)
-
-- 7.1、[程序人生](http://localhost:8080/notes/06-about/01-myself/20210401-写文刚满100天，阿秀都有工作室了？还有钱请运营？.html)
-
-- 7.2、[青葱校园](http://localhost:8080/notes/06-about/02-school/2021012-在校2年，仅靠纯技术我赚到了12W.html)
-
-8、🐙[**学习资源**](http://localhost:8080/notes/01-guide/web-guide-reading.html#九、学习资源)
-
-- 8.1、[免费资源](http://localhost:8080/notes/07-resources/01-free/01-introduce.html)
-- 8.2、[精品资源](http://localhost:8080/notes/07-resources/02-precious.html)
-
-
-
-## 1、🌎**介绍**->👉[在线阅读](http://localhost:8080/notes/01-guide/web-guide-reading.html)
-
-## 2、🌽**学习路线**
-
-- ### 2.1、基础学科->👉[在线阅读](http://localhost:8080/notes/02-learning_route/01-basic-project/01-introduce.html)
-
-  - [为什么说基础学科的学习很重要？](docs/notes/02-learning_route/01-basic-project/01-introduce.md)
-  - 
-
-- ### 2.2、编程语言
-
-## 3、📚︎[**校招八股文**](http://localhost:8080/notes/01-guide/四、校招八股文)->👉在线阅读
-
-- ### 3.1、[编程语言](http://localhost:8080/notes/01-guide/web-guide-reading.html#_1、⭐编程语言)
-
-- ### 3.2、[操作系统](http://localhost:8080/notes/01-guide/_2、⭐操作系统)
-
-- ### 3.3、[计算机网络](http://localhost:8080/notes/01-guide/web-guide-reading.html#_3、⭐计算机网络)
-
-- ### 3.4、[数据库](http://localhost:8080/notes/01-guide/web-guide-reading.html#_4、⭐数据库)
-
-- ### 3.5、[智力题&情景题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_5、⭐智力-场景题)
-
-## 4、🍡[**数据结构与算法**](http://localhost:8080/notes/01-guide/web-guide-reading.html#五、数据结构与算法)->👉在线阅读
-
-- ### 4.1、[带你快速刷完67道剑指offer](http://localhost:8080/notes/01-guide/web-guide-reading.html#_3、⭐⭐带你快速刷完67道剑指offer)
-
-- ### 4.2、[精选力扣300+道算法题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_4、⭐⭐精选力扣300-算法题)
-
-- ### 4.3、[面试高频算法真题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_5、⭐⭐⭐算法高频面试题)
-
-## 5、🎓[**学习心得&总结**](http://localhost:8080/notes/01-guide/web-guide-reading.html#六、学习心得&总结)->👉在线阅读
-
-- ### 5.1、[CS学习心得](http://localhost:8080/notes/04-experience/01-learn_experience/01-introduce.html)
-
-- ### 5.2、[实习经验总结](http://localhost:8080/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.html)
-
-- ### 5.3、[校招经验总结](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.html)
-
-## 6、🧑‍🤝‍🧑[**阿秀的学习圈子**](http://localhost:8080/notes/01-guide/web-guide-reading.html#八、阿秀的学习圈子)->👉在线阅读
-
-- ### 6.1、[聊聊校招的相关话题](http://localhost:8080/notes/05-xiustar/02-campus_prepare/02-01-校招重要时间点科普.html)
-
-- ### 6.2、[简历真的很重要](http://localhost:8080/notes/05-xiustar/03-resume/01-00-简历开篇词.html)
-
-  - 
-
-  - <details><summary><a>👉显示更多</a></summary></br>
-
-
-    - [还重构？就你那代码只能铲了重写！](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/standard/2021-09-15-%E8%BF%98%E9%87%8D%E6%9E%84%EF%BC%9F%E5%B0%B1%E4%BD%A0%E9%82%A3%E4%BB%A3%E7%A0%81%E5%8F%AA%E8%83%BD%E9%93%B2%E4%BA%86%E9%87%8D%E5%86%99%EF%BC%81.md)
-    - [p3c 插件，是怎么检查出你那屎山的代码？](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/standard/2021-09-27-p3c%20%E6%8F%92%E4%BB%B6%EF%BC%8C%E6%98%AF%E6%80%8E%E4%B9%88%E6%A3%80%E6%9F%A5%E5%87%BA%E4%BD%A0%E9%82%A3%E5%B1%8E%E5%B1%B1%E7%9A%84%E4%BB%A3%E7%A0%81%EF%BC%9F.md)
-    - [12种 vo2dto 方法，就 BeanUtils.copyProperties 压测最拉胯](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/standard/2021-10-10-12%E7%A7%8D%20vo2dto%20%E6%96%B9%E6%B3%95%EF%BC%8C%E5%B0%B1%20BeanUtils.copyProperties%20%E5%8E%8B%E6%B5%8B%E6%9C%80%E6%8B%89%E8%83%AF.md)
-    - [架构师深夜把玩 ApiPost，分享细腻的体验！](https://github.com/fuzhengwei/CodeGuide/blob/master/docs/md/develop/standard/2022-03-06-ApiPost.md)
-
-    </details>
-
-- ### 6.3、[暑期/日常实习总结](http://localhost:8080/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.html)
-
-- ### 6.4、[校招(秋招/春招)总结](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.html)
-
-- ### 6.5、[阿秀帮你选offer](http://localhost:8080/notes/05-xiustar/06-offer/01-offer_choose.html)
-
-- ### 6.6、[互联网职场杂谈](http://localhost:8080/05-xiustar/08-it_career/20210714 - 入职字节一周了.html)
-
-## 7、😊[**阿秀三两事**](http://localhost:8080/notes/01-guide/web-guide-reading.html#八、阿秀三两事)->👉在线阅读
-
-- ### 7.1、[程序人生](http://localhost:8080/notes/06-about/01-myself/20210401-写文刚满100天，阿秀都有工作室了？还有钱请运营？.html)
-
-- ### 7.2、[青葱校园](http://localhost:8080/notes/06-about/02-school/2021012-在校2年，仅靠纯技术我赚到了12W.html)
-
-## 8、🐙[**学习资源**](http://localhost:8080/notes/01-guide/web-guide-reading.html#九、学习资源)->👉在线阅读
-
-- ### 8.1、[免费资源](http://localhost:8080/notes/07-resources/01-free/01-introduce.html)
-
-- ### 8.2、[精品资源](http://localhost:8080/notes/07-resources/02-precious.html)
-
-
-
-## 9、转载分享
-
-阿秀建立本开源项目的初衷是基于个人学习与校招求职以及学弟学妹们校招实习总结的记录，本仓库内的文章均为阿秀个人原创，并且均已在个人公众号平台标注`原创`，如果您需要转载本仓库的一些文章到公众号上，请联系阿秀个人进行开白授权；如果您需要转载本仓库的一些文章到自己的博客，请按照以下格式注明出处，谢谢合作。
-
-```
-作者：阿秀
-链接：https://interviewguide.cn
-来源：拓跋阿秀
-```
-
-## 10、参与贡献
-
-本站95%以上的文字均来自阿秀个人学习笔记，不免会有一些错误如笔误等，截止2022.05.14号前，已经fix多达129个错误，但仍可能会有一些漏网之鱼！
-
-如果你在阅读本仓库过程中，如果你发现一些`内容`、`图稿`、`代码`等中的错误，可以提交Issue或者PR的方式进行问题反馈。
-
-## 11、 联系阿秀
-
-### 11.1、**校招上岸交流**
-
- 阿秀目前为止有超过 8000 人，共计24个微信群的校招交流社群，这是其中的两个群，其中不少小伙伴已经顺利上岸BAT、TMD等大厂！
-
-<div align="center">
- <p>
-   <strong>没有广告，也没有任何公司HR。</strong>
-  </p> 
- <p>
-   <strong>没有广告，也没有任何公司HR。</strong>
-  </p>  <p>
-   <strong>没有广告，也没有任何公司HR。</strong>
-  </p> 
-  <p>
-    作为过来人，只是想提供一个简单直接的校招交流平台！
-  </p>
-</div>
-
-<figure align="center">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3@0.1/202106/一群.png" alt="校招一群" style="zoom: 60%;" />
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3@0.1/202106/二群.png" alt="校招二群" style="zoom: 60%;" />
-</figure>
-
-
-
-如果您是校招生，比如大三大四或者研究生想要跟千人交流求职，您可以扫描**下方二维码**或者微信搜索：**coderxiu2**，添加阿秀个人微信，我拉你入群！
-
-<div align="center">
-    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205211838580.png" width="180px" />
-</div>
-
-
-
-### 11.2、**公众号(拓跋阿秀)** 
-
-分享计算机学习、编程、校招、职场等原创技术文章，希望自己踩过的坑后来人不要再踩，自己学过的内容能够帮助后来人一步一个脚印得慢慢成长🌹🌹🌹！
-
-<img src="https://bugstack.cn/images/personal/qrcode.png" width="180px">
-
-## 12. 致谢
-
-感谢曾经对InterviewGuide仓库做过贡献（提交过 Issue 或者 PR）或者对《阿秀的学习笔记》网站进行过赞赏的同学，如果你希望被添加到这个名单中，请与我联系。
-
-<a href="https://github.com/forthespadat">
-    <img src="https://avatars.githubusercontent.com/u/44971298?v=4" style="border-radius:5px" width="50px">
-</a>
-
-<a href="https://github.com/GrindGold">
-    <img src="https://avatars.githubusercontent.com/u/95928655?v=4" style="border-radius:5px" width="50px">
-</a>
-
-<a href="https://github.com/stream1080">
-    <img src="https://avatars.githubusercontent.com/u/77672403?v=4)" style="border-radius:5px" width="50px">
-</a> 
-<a href="https://github.com/lttzz">
-    <img src="https://avatars.githubusercontent.com/u/29999217?v=4" style="border-radius:5px" width="50px">
-</a> 
-
-<a href="https://github.com/iazyt">
-    <img src="https://avatars.githubusercontent.com/u/93831006?v=4" style="border-radius:5px" width="50px">
-</a>
-
-**:seedling: 衷心感谢大家对仓库建设的贡献**
-
-1、🌎**介绍**该部分是对InterviewGuide以及《阿秀的学习笔记》由来做大致介绍。
-
-2、🌽**学习路线**：该部门是针对小白新手而创建的部分，是由阿秀根绝自身学习经验&[阿秀的学习圈子](#八、阿秀的学习圈子)中的圈友学习经历所编写&维护。如果你是成手或者已经入门的同学可以省略不看，如果是新手小白可以看一看，所编写的都是一些针对求职的学习路线，该部分可分为基础科目&编程语言两大类；
-
-- 基础学科：对于校招技术岗同学来时，不管你是是从事前端开发（JS、Vue、React等）还是后端开发（Java、C++、Golang、PHP等），基础学科中的知识都需要系统性学习，因为它们属于通用性科目，这属于程序员内功系列，**切记不可跳过**！
-- 编程语言：计算机主要技术岗可分为前端&后端，其中前端主要使用JavaScript、Typescript两种语言，框架主要为Vue或者React居多；后端则以Java、C++、Golang等居多。对于校招同学来说，**选择其中一门即可，无需全部学习，只需学习一门主攻语言即可，切记切记**！
-
-3、📚︎[**校招八股文**](http://localhost:8080/notes/01-guide/四、校招八股文)：该章节与《[数据结构与算法](http://localhost:8080/notes/01-guide/web-guide-reading.html#五、数据结构与算法)》小节是本站的**核心内容**，适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学**，是由**阿秀个人学习笔记&个人公众号往期文章**整理而来，主要可分为主要包括面试必考的[编程语言](http://localhost:8080/notes/01-guide/web-guide-reading.html#_1、⭐编程语言)与计算机基础知识：[操作系统](http://localhost:8080/notes/01-guide/_2、⭐操作系统)、[计算机网络](http://localhost:8080/notes/01-guide/web-guide-reading.html#_3、⭐计算机网络)、[数据库](http://localhost:8080/notes/01-guide/web-guide-reading.html#_4、⭐数据库)、[智力题&情景题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_5、⭐智力-场景题)等。
-
-4、🍡[**数据结构与算法**](http://localhost:8080/notes/01-guide/web-guide-reading.html#五、数据结构与算法)：现在校招&毕业三年之内的社招党基本没有不考察算法题的了，手撕算法是常规操作了。阿秀自己校招时剑指offer刷过3遍左右、力扣刷过600+题目，后经过整理开源分享出来，具体可分为[带你快速刷完67道剑指offer](http://localhost:8080/notes/01-guide/web-guide-reading.html#_3、⭐⭐带你快速刷完67道剑指offer)、[精选力扣300+道算法题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_4、⭐⭐精选力扣300-算法题)、[面试高频算法真题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_5、⭐⭐⭐算法高频面试题)
-
-5、🎓[**学习心得&总结**](http://localhost:8080/notes/01-guide/web-guide-reading.html#六、学习心得&总结)：该部分主要是阿秀个人在自学计算机过程中的自学经验分享以及[阿秀的学习圈子](http://localhost:8080/notes/01-guide/web-guide-reading.html#八、阿秀的学习圈子)中的小伙伴们的实习经验和校招经验分享，如果你也是一名校招党不妨多看看别人的经验和总结。
-
-- 5.1
-
-6、🧑‍🤝‍🧑[**阿秀的学习圈子**](http://localhost:8080/notes/01-guide/web-guide-reading.html#八、阿秀的学习圈子)：该部分主要是**阿秀&本科学弟学妹&研究生师弟师妹们一起报团取暖的学习圈子**，其中包括但不限于前期准备、简历问题、日常实习、校招求职、offer选择、互联网职场杂谈等话题，踽踽独行不行报团取暖！
-
-7、😊[**阿秀三两事**](http://localhost:8080/notes/01-guide/web-guide-reading.html#八、阿秀三两事)：该部分主要是阿秀个人文章分享，主要分为程序人生、青葱校园追忆等。
-
-8、🐙[**学习资源**](http://localhost:8080/notes/01-guide/web-guide-reading.html#九、学习资源)：在学习计算机将近十年的时间里自己收集到很多学习资料，其中很多都是阿秀自己使用过的，这里仅做分享使用。
-
-
 
 🍖 **说明**
 
@@ -387,7 +146,6 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
 
 
 <p id="downloadpdf">
-
 **:book:PDF下载方式**
 
 请移步本人公众号『[拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)』或扫描下方二维码，回复关键字『**PDF**』即可下载最新PDF版本，阿秀会不断更新迭代最新版本~
@@ -433,9 +191,9 @@ Doc/Other/校招总结/阿秀朋友百折不挠/阿秀朋友百折不挠.md
    <a href="https://mp.weixin.qq.com/s/VthCUlT8oAJqKOoq5_NzSQ"><img src="https://bugstack.cn/images/system/CodeGuide-Lottery.svg"></a>
    <a href="https://github.com/fuzhengwei/CodeGuide"><img src="https://badgen.net/github/stars/fuzhengwei/CodeGuide?icon=github&color=4ab8a1"></a>
 </div>
+
 <br/>  
      
-
 <div align="center">
     <p align="center"><b>知识星球</b>：<a href="https://t.zsxq.com/jAi2nUf">码农会锁</a> 👇</p>
    <table>
