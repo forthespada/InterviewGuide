@@ -1,7 +1,7 @@
 ---
 layout: post
 category: basic-project
-title: 编程语言导读
+title: 主攻一门即可
 tags:
     - 原创
     - 编程语言
@@ -12,7 +12,7 @@ excerpt: 计算机内功，基础学科，学习路线。
 comment: false
 ---
 
-<h1 align="center">编程语言学习路线导读</h1>
+<h1 align="center">为什么说编程语言主攻一门即可？学会做一个T型人才</h1>
 
 计算机校园招聘主要以考察学生潜力为主，除了必问的计算机基本功，还有一门主攻的编程语言，比如编程语言主要可分为**前端语言**和**后端语言**，前者以JavaScript为主，后者则以Java、C++、Golang、PHP、Golang为主。
 
