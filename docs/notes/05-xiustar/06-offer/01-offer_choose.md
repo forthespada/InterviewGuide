@@ -20,4 +20,5 @@ comment: false
 
 
 
-offer多多哦
+TODO 
+选择offer的方法

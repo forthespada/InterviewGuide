@@ -85,7 +85,7 @@ comment: false
 
 比如操作系统、计算机网络、数据结构与算法、数据库等等，对于这些内容的学习，以前我都有过说明，是不可跳过必须要学习的。
 
-可以点击下面的链接自己去了解：[计算机基础学习路线](http://localhost:8080/notes/02-learning_route/03-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html)，这里就不再赘述，我们直接进入主题Golang语言的学习。
+可以点击下面的链接自己去了解：[计算机基础学习路线](/notes/02-learning_route/01-basic-project/01-introduce.md)，这里就不再赘述，我们直接进入主题Golang语言的学习。
 
 ## 3、Go 语言基础
 
@@ -113,11 +113,11 @@ comment: false
 
 视频地址
 
-上：https://www.bilibili.com/video/BV1UW411x7v2
+上：[https://www.bilibili.com/video/BV1UW411x7v2](https://www.bilibili.com/video/BV1UW411x7v2)
 
-中：https://www.bilibili.com/video/BV1UW411x7Ve
+中：[https://www.bilibili.com/video/BV1UW411x7Ve](https://www.bilibili.com/video/BV1UW411x7Ve)
 
-下：https://www.bilibili.com/video/BV17W411W7hm
+下：[https://www.bilibili.com/video/BV17W411W7hm](https://www.bilibili.com/video/BV17W411W7hm)
 
 不管看完入门书籍还是跟着一起学完某马的视频，建议你去练习一下，也好加深一下印象。
 
@@ -226,7 +226,7 @@ Gin框架很是出名，写的也很好，钩子贼多，很好用，但这并�
 
 你要是有大毅力者，去研究Gin的源码当然可以，可以简单看一下它的快速入门即可
 
-快速入门链接：https://gin-gonic.com/zh-cn/docs/quickstart/
+快速入门链接：[https://gin-gonic.com/zh-cn/docs/quickstart/](https://gin-gonic.com/zh-cn/docs/quickstart/)
 
 
 
@@ -248,7 +248,7 @@ Gin框架不需要你去仔细学，但是需要你会用，这里推荐一下�
 
 这个建议好好跟下来，系统走一遍，你也能对上面的Gin和Gorm的用法有更深一点的了解和认识。
 
-地址：https://github.com/eddycjy/go-gin-example
+地址：[https://github.com/eddycjy/go-gin-example](https://github.com/eddycjy/go-gin-example)
 
 
 
