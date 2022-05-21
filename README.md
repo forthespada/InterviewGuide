@@ -16,10 +16,6 @@
 
 👉 关于 **InterviewGuide** 仓库或者《阿秀的学习笔记网站》的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
 
-:book:**PDF下载方式**：[点此免费下载](#downloadpdf)
-
-
-
 <b><details><summary>:orange_book: 勘误与转载事宜</summary></b>
 
 由于本人水平有限，仓库内容如有错误，欢迎提交 **[issue](https://github.com/forthespada/InterviewGuide/issues)**，虚心接受每一位好心人的建议与意见。
@@ -32,57 +28,57 @@
 
 ## 🍖 目录
 
-1、🌎**介绍**
+1、🌎**[介绍](https://github.com/forthespada/InterviewGuide#1%E4%BB%8B%E7%BB%8D-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)**
 
-2、🌽**学习路线**
+2、🌽**[学习路线](https://github.com/forthespada/InterviewGuide#2%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF)**
 
-- 2.1、基础学科
-- 2.2、编程语言
+- 2.1、[基础学科](https://github.com/forthespada/InterviewGuide#21%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)
+- 2.2、[编程语言](https://github.com/forthespada/InterviewGuide#22%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)
 
-3、📚︎[**校招八股文**](#校招八股文)
+3、📚︎**[校招八股文](https://github.com/forthespada/InterviewGuide#3%EF%B8%8E%E6%A0%A1%E6%8B%9B%E5%85%AB%E8%82%A1%E6%96%87-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)**
 
-- 3.1、[编程语言](http://localhost:8080/notes/01-guide/web-guide-reading.html#_1、⭐编程语言)
-- 3.2、[操作系统](http://localhost:8080/notes/01-guide/_2、⭐操作系统)
-- 3.3、[计算机网络](http://localhost:8080/notes/01-guide/web-guide-reading.html#_3、⭐计算机网络)
-- 3.4、[数据库](http://localhost:8080/notes/01-guide/web-guide-reading.html#_4、⭐数据库)
-- 3.5、[智力题&情景题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_5、⭐智力-场景题)
+- 3.1、[编程语言](https://github.com/forthespada/InterviewGuide#31%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
+- 3.2、[操作系统](https://github.com/forthespada/InterviewGuide#32%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+- 3.3、[计算机网络](https://github.com/forthespada/InterviewGuide#33%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+- 3.4、[数据库](https://github.com/forthespada/InterviewGuide#35%E6%99%BA%E5%8A%9B%E9%A2%98%E6%83%85%E6%99%AF%E9%A2%98)
+- 3.5、[智力题&情景题](https://github.com/forthespada/InterviewGuide#35%E6%99%BA%E5%8A%9B%E9%A2%98%E6%83%85%E6%99%AF%E9%A2%98)
 
-4、🍡[**数据结构与算法**](http://localhost:8080/notes/01-guide/web-guide-reading.html#五、数据结构与算法)
+4、🍡[**数据结构与算法**](https://github.com/forthespada/InterviewGuide#4%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)
 
-- 4.1、[算法基础](http://localhost:8080/notes/01-guide/web-guide-reading.html#_3、⭐⭐带你快速刷完67道剑指offer)
-- 4.2、[带你快速刷完67道剑指offer](http://localhost:8080/notes/01-guide/web-guide-reading.html#_3、⭐⭐带你快速刷完67道剑指offer)
-- 4.3、[精选力扣300+道算法题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_4、⭐⭐精选力扣300-算法题)
-- 4.4、[面试高频算法真题](http://localhost:8080/notes/01-guide/web-guide-reading.html#_5、⭐⭐⭐算法高频面试题)
+- 4.1、[算法基础](https://github.com/forthespada/InterviewGuide#41%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80)
+- 4.2、[带你快速刷完67道剑指offer](https://github.com/forthespada/InterviewGuide#42%E5%B8%A6%E4%BD%A0%E5%BF%AB%E9%80%9F%E5%88%B7%E5%AE%8C67%E9%81%93%E5%89%91%E6%8C%87offer)
+- 4.3、[精选力扣300+道算法题](https://github.com/forthespada/InterviewGuide#43%E7%B2%BE%E9%80%89%E5%8A%9B%E6%89%A3300%E9%81%93%E7%AE%97%E6%B3%95%E9%A2%98)
+- 4.4、[面试高频算法真题](https://github.com/forthespada/InterviewGuide#44%E9%9D%A2%E8%AF%95%E9%AB%98%E9%A2%91%E7%AE%97%E6%B3%95%E7%9C%9F%E9%A2%98)
 
-5、🎓[**学习心得&总结**](http://localhost:8080/notes/01-guide/web-guide-reading.html#六、学习心得&总结)：
+5、🎓**[学习心得&总结](https://github.com/forthespada/InterviewGuide#5%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97%E6%80%BB%E7%BB%93-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)**：
 
-- 5.1、[CS学习心得](http://localhost:8080/notes/04-experience/01-learn_experience/01-introduce.html)
-- 5.2、[实习经验总结](http://localhost:8080/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.html)
-- 5.3、[校招经验总结](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.html)
+- 5.1、[CS学习心得](https://github.com/forthespada/InterviewGuide#51cs%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97)
+- 5.2、[实习经验总结](https://github.com/forthespada/InterviewGuide#63%E6%9A%91%E6%9C%9F%E6%97%A5%E5%B8%B8%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93)
+- 5.3、[校招经验总结](https://github.com/forthespada/InterviewGuide#64%E6%A0%A1%E6%8B%9B%E7%A7%8B%E6%8B%9B%E6%98%A5%E6%8B%9B%E6%80%BB%E7%BB%93)
 
-6、🧑‍🤝‍🧑[**阿秀的学习圈子**](http://localhost:8080/notes/01-guide/web-guide-reading.html#八、阿秀的学习圈子)
+6、🧑‍🤝‍🧑[**阿秀的学习圈子**](https://github.com/forthespada/InterviewGuide#6%E9%98%BF%E7%A7%80%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)
 
-- 6.1、[聊聊校招的相关话题](http://localhost:8080/notes/05-xiustar/02-campus_prepare/02-01-校招重要时间点科普.html)
+- 6.1、[聊聊校招的相关话题](https://github.com/forthespada/InterviewGuide#61%E8%81%8A%E8%81%8A%E6%A0%A1%E6%8B%9B%E7%9A%84%E7%9B%B8%E5%85%B3%E8%AF%9D%E9%A2%98)
 
-- 6.2、[简历真的很重要](http://localhost:8080/notes/05-xiustar/03-resume/01-00-简历开篇词.html)
-- 6.3、[暑期/日常实习总结](http://localhost:8080/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.html)
+- 6.2、[简历真的很重要](https://github.com/forthespada/InterviewGuide#62%E7%AE%80%E5%8E%86%E7%9C%9F%E7%9A%84%E5%BE%88%E9%87%8D%E8%A6%81)
+- 6.3、[暑期/日常实习总结](https://github.com/forthespada/InterviewGuide#63%E6%9A%91%E6%9C%9F%E6%97%A5%E5%B8%B8%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93)
 
-- 6.4、[校招(秋招/春招)总结](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.html)
+- 6.4、[校招(秋招/春招)总结](https://github.com/forthespada/InterviewGuide#64%E6%A0%A1%E6%8B%9B%E7%A7%8B%E6%8B%9B%E6%98%A5%E6%8B%9B%E6%80%BB%E7%BB%93)
 
-- 6.5、[阿秀帮你选offer](http://localhost:8080/notes/05-xiustar/06-offer/01-offer_choose.html)
+- 6.5、[阿秀帮你选offer](https://github.com/forthespada/InterviewGuide#65%E9%98%BF%E7%A7%80%E5%B8%AE%E4%BD%A0%E9%80%89offer)
 
-- 6.6、[互联网职场杂谈](http://localhost:8080/05-xiustar/08-it_career/20210714 - 入职字节一周了.html)
+- 6.6、[互联网职场杂谈](http://localhost:8080/notes/05-xiustar/08-it_career/20210714%20-%20%E5%85%A5%E8%81%8C%E5%AD%97%E8%8A%82%E4%B8%80%E5%91%A8%E4%BA%86.html)
 
-7、😊[**阿秀三两事**](http://localhost:8080/notes/01-guide/web-guide-reading.html#八、阿秀三两事)
+7、😊**[阿秀三两事](https://github.com/forthespada/InterviewGuide#7%E9%98%BF%E7%A7%80%E4%B8%89%E4%B8%A4%E4%BA%8B-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)**
 
-- 7.1、[程序人生](http://localhost:8080/notes/06-about/01-myself/20210401-写文刚满100天，阿秀都有工作室了？还有钱请运营？.html)
+- 7.1、[程序人生](https://github.com/forthespada/InterviewGuide#71%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F)
 
-- 7.2、[青葱校园](http://localhost:8080/notes/06-about/02-school/2021012-在校2年，仅靠纯技术我赚到了12W.html)
+- 7.2、[青葱校园](https://github.com/forthespada/InterviewGuide#72%E9%9D%92%E8%91%B1%E6%A0%A1%E5%9B%AD)
 
-8、🐙[**学习资源**](http://localhost:8080/notes/01-guide/web-guide-reading.html#九、学习资源)
+8、🐙**[学习资源](https://github.com/forthespada/InterviewGuide#8%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)**
 
-- 8.1、[免费资源](http://localhost:8080/notes/07-resources/01-free/01-introduce.html)
-- 8.2、[精品资源](http://localhost:8080/notes/07-resources/02-precious.html)
+- 8.1、[免费资源](https://github.com/forthespada/InterviewGuide#81%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90)
+- 8.2、[精品资源](https://github.com/forthespada/InterviewGuide#82%E7%B2%BE%E5%93%81%E8%B5%84%E6%BA%90)
 
 
 
@@ -108,17 +104,17 @@
 
   </details>
 
-## 3、📚︎[**校招八股文**](http://localhost:8080/notes/01-guide/四、校招八股文)->👉[在线阅读](http://localhost:8080/notes/03-hunting_job/02-interview/01-01-01-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.html)
+## 3、📚︎**校招八股文**->👉[在线阅读](http://localhost:8080/notes/03-hunting_job/02-interview/01-01-01-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.html)
 
-### 3.1、[编程语言](http://localhost:8080/notes/01-guide/web-guide-reading.html#_1、⭐编程语言)
+### 3.1、编程语言
 
-### 3.2、[操作系统](http://localhost:8080/notes/03-hunting_job/02-interview/02-01-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.html)
+### 3.2、操作系统
 
 ### 3.3、[计算机网络](http://localhost:8080/notes/03-hunting_job/02-interview/03-01-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.html)
 
-### 3.4、[数据库](http://localhost:8080/notes/03-hunting_job/02-interview/04-01-01-MySQL.html)
+### 3.4、数据库
 
-### 3.5、[智力题&情景题](http://localhost:8080/notes/03-hunting_job/02-interview/06-%E6%99%BA%E5%8A%9B&%E5%9C%BA%E6%99%AF%E9%A2%98.html)
+### 3.5、智力题&情景题
 
 ## 4、🍡[**数据结构与算法**](http://localhost:8080/notes/01-guide/web-guide-reading.html#五、数据结构与算法)->👉[在线阅读](http://localhost:8080/notes/03-hunting_job/03-algorithm/01-basic-algorithm/01-%E7%AE%97%E6%B3%95%E6%A8%A1%E5%9D%97%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97.html)
 
@@ -130,7 +126,7 @@
 
 ### 4.4、[面试高频算法真题](http://localhost:8080/notes/03-hunting_job/03-algorithm/04-high_frquency_algorithm/01-high_frquency_algorithm.html)
 
-## 5、🎓[**学习心得&总结**](http://localhost:8080/notes/01-guide/web-guide-reading.html#六、学习心得&总结)->👉[在线阅读](http://localhost:8080/notes/04-experience/01-learn_experience/01-introduce.html)
+## 5、🎓**学习心得&总结**->👉[在线阅读](http://localhost:8080/notes/04-experience/01-learn_experience/01-introduce.html)
 
 ### 5.1、[CS学习心得](http://localhost:8080/notes/04-experience/01-learn_experience/01-introduce.html)
 
@@ -165,7 +161,7 @@
 
 ### 5.3、[校招经验总结](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.html)
 
-## 6、🧑‍🤝‍🧑[**阿秀的学习圈子**](http://localhost:8080/notes/01-guide/web-guide-reading.html#八、阿秀的学习圈子)->👉[在线阅读](http://localhost:8080/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html)
+## 6、🧑‍🤝‍🧑**阿秀的学习圈子**->👉[在线阅读](http://localhost:8080/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html)
 
 ### 6.1、聊聊校招的相关话题
 
@@ -255,7 +251,7 @@
 
 - [阿里内部平台VS火山引擎后端开发，拿头比？](http://localhost:8080/notes/05-xiustar/06-offer/20211123-%E9%98%BF%E9%87%8C%E5%86%85%E9%83%A8%E5%B9%B3%E5%8F%B0VS%E7%81%AB%E5%B1%B1%E8%A7%86%E9%A2%91%E5%BC%95%E6%93%8E%E5%90%8E%E7%AB%AF%EF%BC%8C%E6%8B%BF%E5%A4%B4%E6%AF%94%EF%BC%9F.html)
 
-### 6.6、[互联网职场杂谈](http://localhost:8080/05-xiustar/08-it_career/20210714 - 入职字节一周了.html)
+### 6.6、互联网职场杂谈
 
 - [入职字节一周了](http://localhost:8080/notes/05-xiustar/08-it_career/20210714%20-%20%E5%85%A5%E8%81%8C%E5%AD%97%E8%8A%82%E4%B8%80%E5%91%A8%E4%BA%86.html)
 
@@ -304,8 +300,8 @@
 ### 7.2、青葱校园
 
 - [在校2年，仅靠纯技术我赚到了12W](http://localhost:8080/notes/06-about/02-school/2021012-在校2年，仅靠纯技术我赚到了12W.html)
-- [近期招收计算机考研调剂学生有感 | 考研调剂指南](http://localhost:8080/notes/06-about/02-school/20210315-近期招收计算机考研调剂学生有感 | 考研调剂指南.html)
-- [很抱歉！四六级可能比你想的要重要！](http://localhost:8080/notes/06-about/02-school/20211218 - 很抱歉！四六级可能比你想的要重要.html)
+- [近期招收计算机考研调剂学生有感 | 考研调剂指南](http://localhost:8080/notes/06-about/02-school/20210315-近期招收计算机考研调剂学生有感|考研调剂指南.html)
+- [很抱歉！四六级可能比你想的要重要！](http://localhost:8080/notes/06-about/02-school/20211218-很抱歉！四六级可能比你想的要重要.html)
 
 ## 8、🐙**学习资源**->👉[在线阅读](http://localhost:8080/notes/07-resources/01-free/01-introduce.html)
 
