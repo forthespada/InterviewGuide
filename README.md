@@ -355,11 +355,12 @@
 </div>
 
 <figure align="center">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3@0.1/202106/一群.png" alt="校招一群" style="zoom: 60%;" />
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3@0.1/202106/二群.png" alt="校招二群" style="zoom: 60%;" />
-</figure>
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205212323495.png" alt="校招一群" style="zoom: 60%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205212323662.png" alt="校招二群" style="zoom: 60%;" /></figure>
 
 
+
+​    
 
 如果您是校招生，比如大三大四或者研究生想要跟千人交流求职，您可以扫描**下方二维码**或者微信搜索：**coderxiu2**，添加阿秀个人微信，我拉你入群！
 
@@ -377,7 +378,7 @@
 
 
 
-## 12. 致谢
+## 12、🎅致谢
 
 感谢曾经对InterviewGuide仓库做过贡献（提交过 Issue 或者 PR）或者对《阿秀的学习笔记》网站进行过赞赏的同学，如果你希望被添加到这个名单中，请与我联系。
 
