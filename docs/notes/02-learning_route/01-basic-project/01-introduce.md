@@ -12,7 +12,7 @@ excerpt: 计算机内功，基础学科，学习路线。
 comment: false
 ---
 
-<h1 align="center">基础学科学习路线导读</h1>
+<h1 align="center">为什么说基础学科的学习很重要？</h1>
 
 
 
