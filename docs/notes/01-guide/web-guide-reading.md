@@ -213,32 +213,32 @@ tags:
 ### **1、聊聊校招的相关话题⭐**
 
 - 地址：[聊聊校招的相关话题](/notes/05-xiustar/02-campus_prepare/02-01-校招重要时间点科普.md)
-- 简介：阿秀以及学习圈子朋友们总结的校招相关知识，比如[校招重要时间点科普](http://localhost:8080/notes/05-xiustar/02-campus_prepare/02-01-校招重要时间点科普.html)、[面试常见名词黑话](http://localhost:8080/notes/05-xiustar/02-campus_prepare/02-03-求职必知名词&黑话.html)、[⭐阿秀三个多月、50余场面试经验浓缩为6000字](http://localhost:8080/notes/05-xiustar/02-campus_prepare/04-01-互联网面试总结.html)以及[提前批和投递城市](http://localhost:8080/notes/05-xiustar/02-campus_prepare/20210722-提前批和投递城市？值得聊聊.html)等。
+- 简介：阿秀以及学习圈子朋友们总结的校招相关知识，比如[校招重要时间点科普](/notes/05-xiustar/02-campus_prepare/02-01-校招重要时间点科普.html)、[面试常见名词黑话](/notes/05-xiustar/02-campus_prepare/02-03-求职必知名词&黑话.html)、[⭐阿秀三个多月、50余场面试经验浓缩为6000字](/notes/05-xiustar/02-campus_prepare/04-01-互联网面试总结.html)以及[提前批和投递城市](/notes/05-xiustar/02-campus_prepare/20210722-提前批和投递城市？值得聊聊.html)等。
 
 ### **2、简历真的很重要⭐⭐**
 
 - 地址：[简历真的很重要](/notes/05-xiustar/03-resume/01-00-简历开篇词.md)
-- 简介：手把手教你写好自己的简历，顺利跳过简历关（**划重点，简历远远比大多数人想的要重要得多**），比如[简历远远比你想要的重要的多](http://localhost:8080/notes/05-xiustar/03-resume/01-00-简历开篇词.html)、[阿秀个人26版秋招简历迭代修改全过程-一份百投百中的计算机校招简历是如何迭代足足26版的？](http://localhost:8080/notes/05-xiustar/03-resume/01-01-一份百投百中的计算机校招简历是如何迭代足足26版的.html)等
+- 简介：手把手教你写好自己的简历，顺利跳过简历关（**划重点，简历远远比大多数人想的要重要得多**），比如[简历远远比你想要的重要的多](/notes/05-xiustar/03-resume/01-00-简历开篇词.html)、[阿秀个人26版秋招简历迭代修改全过程-一份百投百中的计算机校招简历是如何迭代足足26版的？](/notes/05-xiustar/03-resume/01-01-一份百投百中的计算机校招简历是如何迭代足足26版的.html)等
 
 ### 3、暑期/日常实习总结⭐⭐
 
 - 地址：[暑期/日常实习总结](/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.md)
-- 简介：[阿秀的学习圈子](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md)中大二/大三/大四学弟学妹们以及研一研二的师弟师妹们拿到实习offer的经验总结，如[师弟去网易实习了](http://localhost:8080/notes/05-xiustar/04-school_practice/20210826-师弟去网易实习了.html)、[大三学弟的学习面试经验，他很成熟](http://localhost:8080/notes/05-xiustar/04-school_practice/20210702-大三学弟的学习面试经验，他很成熟.html)、[从公司角度来看，为什么要招实习生？](http://localhost:8080/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.html)等。
+- 简介：[阿秀的学习圈子](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md)中大二/大三/大四学弟学妹们以及研一研二的师弟师妹们拿到实习offer的经验总结，如[师弟去网易实习了](/notes/05-xiustar/04-school_practice/20210826-师弟去网易实习了.html)、[大三学弟的学习面试经验，他很成熟](/notes/05-xiustar/04-school_practice/20210702-大三学弟的学习面试经验，他很成熟.html)、[从公司角度来看，为什么要招实习生？](/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.html)等。
 
 ### **4、校招(秋招/春招)总结⭐⭐⭐**
 
 - 地址：[校招(秋招/春招)总结](/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.md)
-- 简介：[阿秀的学习圈子](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md)中大二/大三/大四学弟学妹们以及研一研二的师弟师妹们拿到正式校招offer的经验总结，如[阿秀自己的校招总结-双非渣硕的秋招之路总结（已拿抖音研发岗SP）](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.html)、[阿秀自己的完整学习经历复盘-没有什么逆袭，有的只是一点点坚持而已](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/2021-05-17-没有什么逆袭，有的只是一点点坚持而已.html)、[我的offer基本全是SP，研究生三年总结](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/20211026-我的offer基本全是SP，研究生三年总结.html)、[一个萌妹纸：大四考研落榜又校招上岸字节客户端开发](http://localhost:8080/notes/05-xiustar/05-campus_recruitment/20210726-一个萌妹子：大四考研又上岸字节IOS.html)等
+- 简介：[阿秀的学习圈子](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md)中大二/大三/大四学弟学妹们以及研一研二的师弟师妹们拿到正式校招offer的经验总结，如[阿秀自己的校招总结-双非渣硕的秋招之路总结（已拿抖音研发岗SP）](/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.html)、[阿秀自己的完整学习经历复盘-没有什么逆袭，有的只是一点点坚持而已](/notes/05-xiustar/05-campus_recruitment/2021-05-17-没有什么逆袭，有的只是一点点坚持而已.html)、[我的offer基本全是SP，研究生三年总结](/notes/05-xiustar/05-campus_recruitment/20211026-我的offer基本全是SP，研究生三年总结.html)、[一个萌妹纸：大四考研落榜又校招上岸字节客户端开发](/notes/05-xiustar/05-campus_recruitment/20210726-一个萌妹子：大四考研又上岸字节IOS.html)等
 
 ### **5、阿秀帮你选offer⭐⭐**
 
 - 地址：[阿秀帮你选offer](/notes/05-xiustar/06-offer/01-offer_choose.md)
-- 简介：拿了实习/校招正式offer不会选？没事，阿秀帮你选！如[如何从多维度评估offer，选择最合适自己的那个](http://localhost:8080/notes/05-xiustar/06-offer/01-offer_choose.html)、[阿里内部平台VS火山引擎后端开发，拿头比？](http://localhost:8080/notes/05-xiustar/06-offer/20211123-阿里内部平台VS火山视频引擎后端，拿头比？.html)等。
+- 简介：拿了实习/校招正式offer不会选？没事，阿秀帮你选！如[如何从多维度评估offer，选择最合适自己的那个](/notes/05-xiustar/06-offer/01-offer_choose.html)、[阿里内部平台VS火山引擎后端开发，拿头比？](/notes/05-xiustar/06-offer/20211123-阿里内部平台VS火山视频引擎后端，拿头比？.html)等。
 
 ### **6、互联网职场杂谈**
 
 - 地址：[互联网职场杂谈](/notes/05-xiustar/08-it_career/20210714-入职字节一周了.md) 
-- 简介：从学生->打工人，转换身份后又是一份新的征程！从入职字节开始记录下自己在互联网大厂工作过程中的体会&感悟！如[入职字节一周了](http://localhost:8080/notes/05-xiustar/08-it_career/20210714-入职字节一周了.html)、[来字节一月了，四个字：翻天覆地](http://localhost:8080/notes/05-xiustar/08-it_career/20210816-来字节一月了，四个字：翻天覆地.html)、[转眼就来字节六个月了，真的不一样](http://localhost:8080/notes/05-xiustar/08-it_career/20211223-转眼间就来字节六个月了，真的不一样！.html)、[带了个实习生，体会到当妈的感觉了](http://localhost:8080/notes/05-xiustar/08-it_career/20220409-带了一个实习生，体会到当妈的感觉了.html)等
+- 简介：从学生->打工人，转换身份后又是一份新的征程！从入职字节开始记录下自己在互联网大厂工作过程中的体会&感悟！如[入职字节一周了](/notes/05-xiustar/08-it_career/20210714-入职字节一周了.html)、[来字节一月了，四个字：翻天覆地](/notes/05-xiustar/08-it_career/20210816-来字节一月了，四个字：翻天覆地.html)、[转眼就来字节六个月了，真的不一样](/notes/05-xiustar/08-it_career/20211223-转眼间就来字节六个月了，真的不一样！.html)、[带了个实习生，体会到当妈的感觉了](/notes/05-xiustar/08-it_career/20220409-带了一个实习生，体会到当妈的感觉了.html)等
 
 
 
@@ -247,12 +247,12 @@ tags:
 ### 1、程序人生&烟火人生
 
 - 地址： [烟火气儿](/notes/06-about/01-myself/20210401-写文刚满100天，阿秀都有工作室了？还有钱请运营？.md) 
-- 介绍：身为一个在一线城市摸爬滚打的打工人，以文字的形式自己在工作中穿插的烟火气息。如[读了二十多年书，终于毕业了](http://localhost:8080/notes/06-about/01-myself/20210624-读了二十多年书，终于毕业了.html)、[校园->职场，学生->打工人，我们在一起1000天啦](http://localhost:8080/notes/06-about/01-myself/20210814-校园->职场，学生->打工人，我们在一起1000天啦.html)、[我差点去当高中老师了](http://localhost:8080/notes/06-about/01-myself/20210910-我差点去当高中老师了.html)等
+- 介绍：身为一个在一线城市摸爬滚打的打工人，以文字的形式自己在工作中穿插的烟火气息。如[读了二十多年书，终于毕业了](/notes/06-about/01-myself/20210624-读了二十多年书，终于毕业了.html)、[校园->职场，学生->打工人，我们在一起1000天啦](/notes/06-about/01-myself/20210814-校园->职场，学生->打工人，我们在一起1000天啦.html)、[我差点去当高中老师了](/notes/06-about/01-myself/20210910-我差点去当高中老师了.html)等
 
 ### 2、青葱校园
 
 - 地址：[青葱校园](/notes/06-about/02-school/2021012-在校2年，仅靠纯技术我赚到了12W.md)
-- 介绍：简单记录一下自己在校期间的一些值得记录的事情，有悲有喜。如[在校2年，仅靠纯技术我赚到了12W](http://localhost:8080/notes/06-about/02-school/2021012-在校2年，仅靠纯技术我赚到了12W.html)、[近期招收计算机考研调剂学生有感 | 考研调剂指南](http://localhost:8080/notes/06-about/02-school/20210315-近期招收计算机考研调剂学生有感|考研调剂指南.html)等
+- 介绍：简单记录一下自己在校期间的一些值得记录的事情，有悲有喜。如[在校2年，仅靠纯技术我赚到了12W](/notes/06-about/02-school/2021012-在校2年，仅靠纯技术我赚到了12W.html)、[近期招收计算机考研调剂学生有感 | 考研调剂指南](/notes/06-about/02-school/20210315-近期招收计算机考研调剂学生有感|考研调剂指南.html)等
 
 ## 九、学习资源
 
