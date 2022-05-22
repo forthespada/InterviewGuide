@@ -228,7 +228,7 @@ comment: false
   - [为什么我建议你尽量内推](/notes/05-xiustar/02-campus_prepare/20220521-为什么我建议你能内推尽量找内推.md)
   - [⭐阿秀三个多月、50余场面试经验浓缩为6000字](/notes/05-xiustar/02-campus_prepare/04-01-互联网面试总结.md)
   - [提前批和投递城市？值得聊聊](/notes/05-xiustar/02-campus_prepare/20210722-提前批和投递城市？值得聊聊.md)
-  - [秀哥，我学校垃圾，我该怎么办？](http://localhost:8080/notes/05-xiustar/02-campus_prepare/20210824-秀哥，我学校垃圾，我该怎么办？.html)
+  - [秀哥，我学校垃圾，我该怎么办？](/notes/05-xiustar/02-campus_prepare/20210824-秀哥，我学校垃圾，我该怎么办？.html)
   - [......](/notes/05-xiustar/02-campus_prepare/02-02-互联网常见技术岗分类.md)
 
   **2、简历真的很重要**
