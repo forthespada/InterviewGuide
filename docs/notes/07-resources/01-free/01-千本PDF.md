@@ -467,7 +467,6 @@ comment: false
 - 《算法之道》 [百度云链接](https://pan.baidu.com/s/1bYsTGe5DoBfBonY3YcZVDw)   提取码：f2td 
 - 《C++数据结构与算法 （第4版）带书签目录 完整版》 [百度云链接](https://pan.baidu.com/s/1t1bsfdO6MbrPE9MNurkHew)   提取码：6yyw 
 - 《趣学算法》 [百度云链接](https://pan.baidu.com/s/16pUBD7NDO8190Q_9La5IRQ )  提取码：lkah 
-- 《带你快速刷完67道剑指offer  by 阿秀》 [百度云链接](https://pan.baidu.com/s/1s7Pxb12RtnfH48ps2BiCrA)    提取码：dxm0 
 
 ## 06 - 操作系统
 
@@ -892,17 +891,7 @@ comment: false
 
 ## 21 - 社招校招汇总
 
-- 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide) 超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V0<br>[百度云链接](https://pan.baidu.com/s/1RCHHSAzSKUSlLlmKXJeiNw )   提取码：aa06  
-
-- 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V1<br>[百度云链接](https://pan.baidu.com/s/14VFpE0X8nAhQtkTliOzePA )   提取码：6lxd 
-
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V2》[百度云链接](https://pan.baidu.com/s/18UoSWI7CSKYE3jfybBP-Cw)  提取码：zogg
-
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V2.1》[百度云链接](https://pan.baidu.com/s/101k1ii8x6dsWtta690vsow)   提取码：2ryp
-
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V3- 2021.04.05 by 阿秀》 [百度云链接](https://pan.baidu.com/s/1ufHyDMP6cOAeal7CDXbExQ)     提取码：kzew 
-
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V4- 2021.06.17 by 阿秀》[百度云链接](https://pan.baidu.com/s/1_yuyugTSoZsp9hTheOjcBA)   提取码：qig9  
+- 《阿秀的学习笔记》-校招使用，[点此直达](https://interviewguide.cn)
 
 - 《计算机校招直播视频 - 2021.02.25晚视频号录播》 [百度云链接](https://pan.baidu.com/s/1QLDmX1O7QZNWjb2Rr9Pxuw )  提取码：w0ez 
 
