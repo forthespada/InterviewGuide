@@ -14,7 +14,7 @@ comment: false
 
 
 
-## <h1 align="center">学习计算机这一路上的经验之谈</h1>
+<h1 align="center">学习计算机这一路上的经验之谈</h1>
 
 <div align="center">
   <a href="/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子">
