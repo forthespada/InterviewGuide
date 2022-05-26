@@ -43,7 +43,7 @@ comment: false
 
 自己的学习方法：
 
-- [看书的一点小建议](notes/04-experience/01-learn_experience/20211110%20-%20看书的一点小建议.md)
+- [看书的一点小建议](/notes/04-experience/01-learn_experience/20211110%20-%20看书的一点小建议.md)
 - [看视频的一点小建议](/notes/04-experience/01-learn_experience/20210901%20-%20看视频的一点小建议.md)
 - [做个时间管理大师，尽可能管理好自己的学习时间](/notes/04-experience/01-learn_experience/20210819%20-%20我是时间管理大师？如何管理好自己的时间.md)
 - [刚开始看《深入理解计算机系统》的时候，我觉得自己是个傻子](/notes/04-experience/01-learn_experience/20220222%20-%20以《深入理解计算机系统》为例聊聊编程学习.md)
