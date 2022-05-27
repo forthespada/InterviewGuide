@@ -78,7 +78,7 @@ comment: false
 
 链接：[http://gk.link/a/11nhx](http://gk.link/a/11nhx)
 
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261418763.png" style="zoom:50%;" />
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261418763.png" style="zoom:50%;" /></div>
 
 
 
@@ -94,7 +94,9 @@ comment: false
 
 链接：[http://gk.link/a/11osB](http://gk.link/a/11osB)
 
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261421170.png" alt="image-20220526142112416" style="zoom:50%;" />
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261421170.png" alt="image-20220526142112416" style="zoom:50%;" /></div>
+
+
 
 
 
