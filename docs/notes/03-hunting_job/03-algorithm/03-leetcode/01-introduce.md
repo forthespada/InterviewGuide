@@ -40,11 +40,11 @@ comment: false
 
 ## 说明
 
-由于换站带来的数据迁移问题，目前只整理好了[带你快速刷完67道剑指offer](/notes/03-hunting_job/03-algorithm/02-sword-offer/01-introduce.html)、[面试高频算法真题](/notes/03-hunting_job/03-algorithm/04-high_frquency_algorithm/01-high_frquency_algorithm.html)，而《精选力扣300+道算法题》还未整理好，预计还需要一段时间才能整理完，至少需要1个月左右了。
+由于换站带来的数据迁移问题，目前只整理好了[带你快速刷完67道剑指offer](/notes/03-hunting_job/03-algorithm/02-sword-offer/01-introduce.html)、[面试高频算法真题](/notes/03-hunting_job/03-algorithm/04-high_frquency_algorithm/01-high_frquency_algorithm.html)，而《精选力扣300+道算法题》还未全部整理好，整理好一部分上线一部分~
 
-但阿秀是工作党，字节抖音的工作很忙，自己没那么多空闲时间去整理，只能慢慢整理了。
 
-如果有热心的小伙伴帮我整理的话感激不尽！如果有好心人，请联系阿秀个人，微信：aXiu_go
+
+
 
 **具体分类**
 
@@ -57,6 +57,24 @@ comment: false
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[4、数学](/notes/03-hunting_job/03-algorithm/03-leetcode/04-数学/introduce.md)</font>
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[5、哈希表](/notes/03-hunting_job/03-algorithm/03-leetcode/05-哈希表/introduce.md)</font>
+
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[6、二分查找](/notes/03-hunting_job/03-algorithm/03-leetcode/06-二分查找/introduce.md)</font>
+
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[7、栈](/notes/03-hunting_job/03-algorithm/03-leetcode/07-栈/introduce.md)</font>
+
+8、双指针
+
+9、贪心算法
+
+10、回溯算法
+
+11、动态规划]
+
+12、广度优先搜索（BFS）
+
+13、深度优先搜索（DFS）
+
+14、树
 
 <!--
 
