@@ -193,9 +193,9 @@ comment: false
 
 - 2、**时间不多的情况下应该先干什么？**
 
-- <div align="center">
+    <div align="center">
     <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202311906.png" alt="img" style="zoom:50%;" />
-  </div>
+    </div>
 
 - 3、**要不要去实习？全力准备秋招还是优先去实习？**
 
@@ -242,9 +242,8 @@ comment: false
   <div align="center">
     <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202238608.png" alt="简历修改很有用" style="zoom:50%;" />
   </div>
-
   
-
+  
 - 4、**有时候投递直接跪了，很有可能就是简历有大问题，比如这位圈友修改完第二天投递就有效果了**
 
   
@@ -259,7 +258,7 @@ comment: false
 
   <div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261956725.png" alt="image-20220526195616754" style="zoom:50%;" />
   </div>
-
+  
   
 
 ### 4、校招学习相关资源分享
