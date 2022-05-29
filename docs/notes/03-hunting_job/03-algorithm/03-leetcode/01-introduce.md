@@ -1,7 +1,7 @@
 ---
 layout:  post
 category:  hunting_job
-title:  精选力扣300+道算法题
+title:  使用指南
 tagline:  by 阿秀
 tags:
     - 原创
@@ -46,37 +46,37 @@ comment: false
 
 如果有热心的小伙伴帮我整理的话感激不尽！如果有好心人，请联系阿秀个人，微信：aXiu_go
 
-<!--
-
 **具体分类**
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[1、数组](Doc/Knowledge/算法/LeetCode题解/total/01-数组/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[1、数组](/notes/03-hunting_job/03-algorithm/03-leetcode/01-数组/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[2、字符串](Doc/Knowledge/算法/LeetCode题解/total/02-字符串/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[2、字符串](/notes/03-hunting_job/03-algorithm/03-leetcode/02-字符串/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[3、链表](Doc/Knowledge/算法/LeetCode题解/total/03-链表/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[3、链表](/notes/03-hunting_job/03-algorithm/03-leetcode/03-链表/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[4、数学](Doc/Knowledge/算法/LeetCode题解/total/04-数学/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[4、数学](/notes/03-hunting_job/03-algorithm/03-leetcode/04-数学/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[5、哈希表](Doc/Knowledge/算法/LeetCode题解/total/05-哈希表/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[5、哈希表](/notes/03-hunting_job/03-algorithm/03-leetcode/05-哈希表/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[6、二分查找](Doc/Knowledge/算法/LeetCode题解/total/06-二分查找/README.md)</font>
+<!--
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[7、栈](Doc/Knowledge/算法/LeetCode题解/total/07-栈/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[6、二分查找](/notes/03-hunting_job/03-algorithm/03-leetcode/06-二分查找/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[8、双指针](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[7、栈](/notes/03-hunting_job/03-algorithm/03-leetcode/07-栈/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[9、贪心算法](Doc/Knowledge/算法/LeetCode题解/total/09-贪心算法/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[8、双指针](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[10、回溯算法](Doc/Knowledge/算法/LeetCode题解/total/10-回溯算法/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[9、贪心算法](/notes/03-hunting_job/03-algorithm/03-leetcode/09-贪心算法/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[11、动态规划](Doc/Knowledge/算法/LeetCode题解/total/11-动态规划/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[10、回溯算法](/notes/03-hunting_job/03-algorithm/03-leetcode/10-回溯算法/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[12、广度优先搜索（BFS）](Doc/Knowledge/算法/LeetCode题解/total/12-BFS/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[11、动态规划](/notes/03-hunting_job/03-algorithm/03-leetcode/11-动态规划/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[13、深度优先搜索（DFS）](Doc/Knowledge/算法/LeetCode题解/total/13-DFS/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[12、广度优先搜索（BFS）](/notes/03-hunting_job/03-algorithm/03-leetcode/12-BFS/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[14、树](Doc/Knowledge/算法/LeetCode题解/total/14-树/README.md)</font>
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[13、深度优先搜索（DFS）](/notes/03-hunting_job/03-algorithm/03-leetcode/13-DFS/introduce.md)</font>
+
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[14、树](/notes/03-hunting_job/03-algorithm/03-leetcode/14-树/introduce.md)</font>
 
 -->
 
@@ -93,6 +93,19 @@ comment: false
 <p align="center" style="font-weight:bold" font-weight="bold">加油！奥利给！</p>
 
 <br>
+
+
+
+
+
+<div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205291839532.png" style="zoom:150%;" />
+</div>
+
+
+
+
+
 
 
 
