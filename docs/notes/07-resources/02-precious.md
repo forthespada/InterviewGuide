@@ -54,9 +54,6 @@ comment: false
 
 链接：[http://gk.link/a/11osy](http://gk.link/a/11osy)
 
-<div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261415646.png" style="zoom:50%;" />
-</div>
 
 
 
@@ -78,8 +75,6 @@ comment: false
 
 链接：[http://gk.link/a/11nhx](http://gk.link/a/11nhx)
 
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261418763.png" style="zoom:50%;" /></div>
-
 
 
 ## 3、左耳听风
@@ -93,9 +88,6 @@ comment: false
 评分：⭐️⭐️⭐️⭐️⭐️
 
 链接：[http://gk.link/a/11osB](http://gk.link/a/11osB)
-
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261421170.png" alt="image-20220526142112416" style="zoom:50%;" /></div>
-
 
 
 
