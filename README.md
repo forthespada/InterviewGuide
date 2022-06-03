@@ -57,7 +57,7 @@
 
 6、🧑‍🤝‍🧑[**阿秀的学习圈子**](https://github.com/forthespada/InterviewGuide#6%E9%98%BF%E7%A7%80%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90-%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB)
 
-- 6.1、[学习圈友问题摘录](https://github.com/forthespada/InterviewGuide#61%E8%81%8A%E8%81%8A%E6%A0%A1%E6%8B%9B%E7%9A%84%E7%9B%B8%E5%85%B3%E8%AF%9D%E9%A2%98)
+- 6.1、[学习圈友问题摘录](https://github.com/forthespada/InterviewGuide#61%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%8F%8B%E9%97%AE%E9%A2%98%E6%91%98%E5%BD%95)
 - 6.2、[聊聊校招的相关话题](https://github.com/forthespada/InterviewGuide#62%E8%81%8A%E8%81%8A%E6%A0%A1%E6%8B%9B%E7%9A%84%E7%9B%B8%E5%85%B3%E8%AF%9D%E9%A2%98)
 - 6.3、[简历真的很重要](https://github.com/forthespada/InterviewGuide#63%E7%AE%80%E5%8E%86%E7%9C%9F%E7%9A%84%E5%BE%88%E9%87%8D%E8%A6%81)
 - 6.4、[暑期/日常实习总结](https://github.com/forthespada/InterviewGuide#64%E6%9A%91%E6%9C%9F%E6%97%A5%E5%B8%B8%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93)

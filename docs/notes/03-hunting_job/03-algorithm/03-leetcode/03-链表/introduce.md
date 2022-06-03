@@ -23,11 +23,12 @@ comment: false
 
 ### Easy
 
-[21.合并两个有序链表](/notes/03-hunting_job/03-algorithm/03-leetcode/03-链表/easy/21.合并两个有序链表.md)
+- [21.合并两个有序链表](/notes/03-hunting_job/03-algorithm/03-leetcode/03-链表/easy/21.合并两个有序链表.md)
 
-[206.反转链表](/notes/03-hunting_job/03-algorithm/03-leetcode/03-链表/easy/206.反转链表.md)
+- [206.反转链表](/notes/03-hunting_job/03-algorithm/03-leetcode/03-链表/easy/206.反转链表.md)
 
-[237.删除链表中的节点](/notes/03-hunting_job/03-algorithm/03-leetcode/03-链表/easy/237.删除链表中的节点.md)
+- [237.删除链表中的节点](/notes/03-hunting_job/03-algorithm/03-leetcode/03-链表/easy/237.删除链表中的节点.md)
+
 
 
 

@@ -60,7 +60,7 @@ comment: false
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[6、二分查找](/notes/03-hunting_job/03-algorithm/03-leetcode/06-二分查找/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[7、栈](/notes/03-hunting_job/03-algorithm/03-leetcode/07-栈/introduce.md)</font>
+7、栈
 
 8、双指针
 
