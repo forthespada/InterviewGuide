@@ -40,7 +40,7 @@ comment: false
 
 ## 说明
 
-由于换站带来的数据迁移问题，目前只整理好了[带你快速刷完67道剑指offer](/notes/03-hunting_job/03-algorithm/02-sword-offer/01-introduce.html)、[面试高频算法真题](/notes/03-hunting_job/03-algorithm/04-high_frquency_algorithm/01-high_frquency_algorithm.html)，而《精选力扣300+道算法题》还未全部整理好，整理好一部分上线一部分~
+由于换站带来的数据迁移问题，目前只整理好了[带你快速刷完67道剑指offer](/notes/03-hunting_job/03-algorithm/02-sword-offer/01-introduce.md)、[面试高频算法真题](/notes/03-hunting_job/03-algorithm/04-high_frquency_algorithm/01-high_frquency_algorithm.md)，而《精选力扣300+道算法题》还未全部整理好，整理好一部分上线一部分~
 
 
 

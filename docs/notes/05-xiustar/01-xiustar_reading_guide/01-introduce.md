@@ -142,7 +142,7 @@ comment: false
 阿秀的学习圈最开始只是阿秀个人学习记录的地方，后来慢慢聚集了一帮有着相同共识的学弟学妹们，加入阿秀的学习圈能给你带来的帮助如下（加入方式见文末）：
 
 - 充分利用阿秀自己的校招经验帮你少踩坑，比如[阿秀自己的面经经验]()
-- 为你定制你专属的校招求职指南和建议，希望帮你像我一样逆袭大厂！
+- 为你定制你专属的校招求职指南和建议，帮你少走弯路，比如[这样](#各种校招相关的走心回答)。
 - 一对一的免费提问交流（阿秀每天都会优先看圈友的问题，给你专属建议，走心回答），比如[这样](#各种校招相关的走心回答)。
 - 容易被人忽视但又十分重要的简历服务([为什么重要可以看这里](/notes/05-xiustar/03-resume/01-00-简历开篇词.md))，阿秀可以为你免费修改简历（截止目前已经累计帮助 200+ 位朋友），比如[这样](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md#校招简历修改)
 - 提供《阿秀的学习笔记》博客 [http://interviewguide.cn](http://interviewguide.cn) 上所有内容在使用上的的指导、帮助
@@ -181,7 +181,17 @@ comment: false
 
 ### 2、各种校招相关的详细回答
 
-- 1、**针对圈友不同情况，给出具体路线和当前应该做的侧重点**
+在学习圈中也会有很多学弟学妹有各种各样的校招疑惑，阿秀每天都会看小伙伴们的疑问&困惑并以过来人的身份指出他们现阶段的一些问题，这里分享一些学习圈中中的疑问回答以及图片截图，如下：
+
+- [研一一整年都在搞深度学习，研二打算转开发](/notes/05-xiustar/09-question_answer/20220530-研一一整年都在搞深度学习，研二打算转开发.md)
+- [秋招准备时间不够？优先挑性价比高的](/notes/05-xiustar/09-question_answer/20220531-秋招准备时间不够？优先挑性价比高的.md)
+- [秋招来临，我缺打算换主攻语言](/notes/05-xiustar/09-question_answer/20220602-秋招来临，我却打算换主攻语言.md)
+- [越学越没信心！面试的时候像是在背八股文](/notes/05-xiustar/09-question_answer/20220602-越学越没信心！面试的时候像是在背八股文.md)
+- 更多相关问题：[校招相关疑问](https://wx.zsxq.com/dweb2/index/group/28855581515241)
+
+**星球校招相关疑问解答**：
+
+- 1、针对圈友不同情况，给出具体路线和当前应该做的侧重点
 
   <div align="center">
     <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202311104.png" alt="img" style="zoom:50%;" />
@@ -191,25 +201,23 @@ comment: false
 
 
 
-- 2、**时间不多的情况下应该先干什么？**
+- 2、时间不多的情况下应该先干什么？
 
     <div align="center">
     <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202311906.png" alt="img" style="zoom:50%;" />
     </div>
 
-- 3、**要不要去实习？全力准备秋招还是优先去实习？**
+- 3、要不要去实习？全力准备秋招还是优先去实习？
 
   <div align="center">
     <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261938211.png" alt="image-20220526193853232" style="zoom:50%;" />
   </div>
   
-- 4、**目前感觉很慌？时间不多肯定要优先抓重要的事情做，不要在一些性价比不高的事情上浪费时间！时间不够的情况下要追求极致的性价比！**
+- 4、目前感觉很慌？时间不多肯定要优先抓重要的事情做！不要在一些性价比不高的事情上浪费时间！时间不够的情况下要追求极致的性价比！
 
   <div align="center">
     <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261936500.png" style="zoom:50%;" />
   </div>
-  
-- 更多相关问题：[校招相关疑问](https://wx.zsxq.com/dweb2/index/group/28855581515241)
 
 ### 3、校招简历相关
 
@@ -277,33 +285,41 @@ comment: false
 
 
 
-### 5、圈友上岸各种分享集锦
+### 5、圈友各种分享集锦
 
-- **1、聊聊校招**
+- **1、学习圈圈友问答摘录**
 
-  - [校招重要时间点科普](/notes/05-xiustar/02-campus_prepare/02-01-校招重要时间点科普.md)
+  - [研一一整年都在搞深度学习，研二打算转开发](/notes/05-xiustar/09-question_answer/20220530-研一一整年都在搞深度学习，研二打算转开发.md)
+  - [秋招准备时间不够？优先挑性价比高的](/notes/05-xiustar/09-question_answer/20220531-秋招准备时间不够？优先挑性价比高的.md)
+  - [秋招来临，我缺打算换主攻语言](/notes/05-xiustar/09-question_answer/20220602-秋招来临，我却打算换主攻语言.md)
+  - [越学越没信心！面试的时候像是在背八股文](/notes/05-xiustar/09-question_answer/20220602-越学越没信心！面试的时候像是在背八股文.md)
+  
+- **2、聊聊校招**
+
+  - [了解校招重要时间点](/notes/05-xiustar/02-campus_prepare/02-01-校招重要时间点科普.md)
   - [为什么我建议你尽量内推](/notes/05-xiustar/02-campus_prepare/20220521-为什么我建议你能内推尽量找内推.md)
   - [⭐阿秀三个多月、50余场面试经验浓缩为6000字](/notes/05-xiustar/02-campus_prepare/04-01-互联网面试总结.md)
   - [提前批和投递城市？值得聊聊](/notes/05-xiustar/02-campus_prepare/20210722-提前批和投递城市？值得聊聊.md)
-  - [秀哥，我学校垃圾，我该怎么办？](/notes/05-xiustar/02-campus_prepare/20210824-秀哥，我学校垃圾，我该怎么办？.html)
+  - [秀哥，我学校垃圾，我该怎么办？](/notes/05-xiustar/02-campus_prepare/20210824-秀哥，我学校垃圾，我该怎么办？.md)
   - [......](/notes/05-xiustar/02-campus_prepare/02-02-互联网常见技术岗分类.md)
 
-  **2、简历真的很重要**
+  **3、简历真的很重要**
 
   - [简历远远比你想要的重要的多](/notes/05-xiustar/03-resume/01-00-简历开篇词.md)
   - [校招机会有限，千万不要乱投简历](/notes/05-xiustar/03-resume/01-03-不要胡乱投递简历.md)
   - [阿秀个人26版秋招简历迭代修改全过程-一份百投百中的计算机校招简历是如何迭代足足26版的？](/notes/05-xiustar/03-resume/01-01-一份百投百中的计算机校招简历是如何迭代足足26版的.md)
   - [帮助一位毕业一年的本科学弟修改简历](/notes/05-xiustar/03-resume/01-02-帮助一位毕业一年的本科学弟修改简历.md)
 
-  **3、暑期/实习总结**
+  **4、暑期/实习总结**
 
   - [从公司角度来看，为什么要招实习生？](/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.md)
+  - [需要达到什么水平才能找到一份计算机实习？](/notes/05-xiustar/04-school_practice/20220112-需要达到什么水平才能找到一份计算机实习.md)
   - [大三学弟的学习面试经验，他很成熟](/notes/05-xiustar/04-school_practice/20210702-大三学弟的学习面试经验，他很成熟.md)
   - [师弟去网易实习了](/notes/05-xiustar/04-school_practice/20210826-师弟去网易实习了.md)
-  - [需要达到什么水平才能找到一份计算机实习？](/notes/05-xiustar/04-school_practice/20220112-需要达到什么水平才能找到一份计算机实习.md)
-
-  **4、校招(秋招/春招)总结**
-
+  - [网易线上实习一年后，我又去字节镀金了](/notes/05-xiustar/04-school_practice/20220523-网易线上实习一年后，我又去字节镀金了.md)
+  
+  **5、校招(秋招/春招)总结**
+  
   - [阿秀自己的校招总结-双非渣硕的秋招之路总结（已拿抖音研发岗SP）](/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.md)
   - [阿秀自己的完整学习经历复盘-没有什么逆袭，有的只是一点点坚持而已](/notes/05-xiustar/05-campus_recruitment/2021-05-17-没有什么逆袭，有的只是一点点坚持而已.md)
   - [我的offer基本全是SP，研究生三年总结](/notes/05-xiustar/05-campus_recruitment/20211026-我的offer基本全是SP，研究生三年总结.md)
@@ -311,14 +327,14 @@ comment: false
   - [虚度大一一年又如何，双非本科大三学弟连斩腾讯字节](/notes/05-xiustar/05-campus_recruitment/20210320-虚度大一一年又如何，双非本科大三学弟连斩腾讯字节.md)
   - [一个萌妹纸：大四考研落榜又校招上岸字节客户端开发](/notes/05-xiustar/05-campus_recruitment/20210726-一个萌妹子：大四考研又上岸字节IOS.md)
   - [.....](/notes/05-xiustar/05-campus_recruitment/20210214-朋友先后折戟腾讯、字节、快手、网易、滴滴、深信服后，终于成功上岸了.md)
-
-  **5阿秀帮你选offer**
-
+  
+  **5、阿秀帮你选offer**
+  
   - [如何从多维度评估offer，选择最合适自己的那个](/notes/05-xiustar/06-offer/01-offer_choose.md)
   - [阿里内部平台VS火山引擎后端开发，拿头比？](/notes/05-xiustar/06-offer/20211123-阿里内部平台VS火山视频引擎后端，拿头比？.md)
-
+  
   **6、互联网职场杂谈**
-
+  
   - [入职字节一周了](/notes/05-xiustar/08-it_career/20210714-入职字节一周了.md)
   - [聊聊大多数学生毕业后面临的第一件事-租房](/notes/05-xiustar/08-it_career/20210719-聊聊大多数学生毕业后面临的第一件事-租房.md)
   - [来字节一月了，四个字：翻天覆地](/notes/05-xiustar/08-it_career/20210816-来字节一月了，四个字：翻天覆地.md)
