@@ -23,7 +23,7 @@ comment: false
 
 ### Easy
 
-[5464.换酒问题](/notes/03-hunting_job/03-algorithm/03-leetcode/04-数学/easy/5464.换酒问题.md)
+- [5464.换酒问题](/notes/03-hunting_job/03-algorithm/03-leetcode/04-数学/easy/5464.换酒问题.md)
 
 
 
