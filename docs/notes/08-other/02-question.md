@@ -57,13 +57,13 @@ excerpt: 常见问题&留言板s
 
 ## 3、关于夜间模式
 
-阿秀自己开发实现了暗黑模式功能，实现夜间模式，具体可见网站建设时间线：[网站日记&更新迭代记录](/notes/08-other/01-web-time-line.html)
+阿秀自己开发实现了暗黑模式功能，实现夜间模式，具体可见网站建设时间线：[网站日记&更新迭代记录](/notes/08-other/01-web-time-line.md)
 
 
 
 ## 4、阿秀，如何才能联系到你？
 
-如果你对我整理的某个知识点感到困惑或者有你自己的看法，可以[直接提交PR](/notes/08-other/02-question.html#_2、发现错误-如何勘误校对)，我每周都会审查。
+如果你对我整理的某个知识点感到困惑或者有你自己的看法，可以[直接提交PR](/notes/08-other/02-question.md#_2、发现错误-如何勘误校对)，我每周都会审查。
 
 如果你需要帮助：
 
@@ -100,9 +100,9 @@ excerpt: 常见问题&留言板s
 
 很抱歉，**2022.04.23**日后可能以后都不会再免费开放下载本站内容了，因为**23**号这天有学弟专门跑来告知我有某些机构使用我的学习笔记PDF版本分发给学员，美其名曰为**机构内部资料**🤕。。。
 
-**故以后都不会再提供免费PDF版本的下载了**，**2022.04.23**日之后《阿秀的学习笔记》网站上全部内容的PDF版本只为[阿秀的学习圈子](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html)中的圈友提供。
+**故以后都不会再提供免费PDF版本的下载了**，**2022.04.23**日之后《阿秀的学习笔记》网站上全部内容的PDF版本只为[阿秀的学习圈子](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md)中的圈友提供。
 
-如果你有意一起学习&为秋招努力&拿到好offer，欢迎了解并加入[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html)，附赠[加入方式](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md#五、加入方式)。
+如果你有意一起学习&为秋招努力&拿到好offer，欢迎了解并加入[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md)，附赠[加入方式](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md#五、加入方式)。
 
 具体截图见下💔💔💔：
 
