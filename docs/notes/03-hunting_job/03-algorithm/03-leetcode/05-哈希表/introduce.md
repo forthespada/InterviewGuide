@@ -21,7 +21,7 @@ comment: false
 
 <p id="easy"></p>
 
-### Easy
+## Easy
 
 - [202.快乐数](/notes/03-hunting_job/03-algorithm/03-leetcode/05-哈希表/easy/202.快乐数.md)
 
@@ -49,7 +49,7 @@ comment: false
 
 <p id="medium"></p>
 
-### Medium
+## Medium
 
 - [3.无重复字符的最长子串](/notes/03-hunting_job/03-algorithm/03-leetcode/05-哈希表/medium/3,无重复字符的最长子串.md)
 
@@ -66,5 +66,4 @@ comment: false
 - [692. 前K个高频单词](/notes/03-hunting_job/03-algorithm/03-leetcode/05-哈希表/medium/692.前K个高频单词.md)
 
 - [718. 最长重复子数组 经典](/notes/03-hunting_job/03-algorithm/03-leetcode/05-哈希表/medium/718.最长重复子数组.md)
-
 

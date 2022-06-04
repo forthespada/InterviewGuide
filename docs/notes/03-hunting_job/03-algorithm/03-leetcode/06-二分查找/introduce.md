@@ -21,7 +21,7 @@ comment: false
 
 <p id="easy"></p>
 
-### Easy
+## Easy
 
 - [69. x 的平方根](/notes/03-hunting_job/03-algorithm/03-leetcode/06-二分查找/easy/69.x的平方根.md)
 
@@ -41,7 +41,7 @@ comment: false
 
 <p id="medium"></p>
 
-### Medium
+## Medium
 
 - [29. 两数相除](/notes/03-hunting_job/03-algorithm/03-leetcode/06-二分查找/medium/29.两数相除.md)
 - [34. 在排序数组中查找元素的第一个和最后一个位置](/notes/03-hunting_job/03-algorithm/03-leetcode/06-二分查找/medium/34.在排序数组中查找元素的第一个和最后一个位置.md)

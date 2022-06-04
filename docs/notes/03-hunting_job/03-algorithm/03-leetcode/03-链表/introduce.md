@@ -21,7 +21,7 @@ comment: false
 
 <p id="easy"></p>
 
-### Easy
+## Easy
 
 - [21.合并两个有序链表](/notes/03-hunting_job/03-algorithm/03-leetcode/03-链表/easy/21.合并两个有序链表.md)
 

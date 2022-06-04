@@ -23,7 +23,7 @@ comment: false
 
 
 
-### Easy
+## Easy
 
 - [414、第三大的数](/notes/03-hunting_job/03-algorithm/03-leetcode/01-数组/easy/414.第三大的数.md)
 - [581. 最短无序连续子数组 很经典的题目，very nice](/notes/03-hunting_job/03-algorithm/03-leetcode/01-数组/easy/581.最短无序连续子数组.md)
@@ -66,11 +66,9 @@ comment: false
 
 - [剑指 Offer 66. 构建乘积数组](/notes/03-hunting_job/03-algorithm/03-leetcode/01-数组/easy/剑指Offer66.构建乘积数组.md)
 
-
-
 <p id="medium"></p>
 
-###  Medium 
+##  Medium 
 
 - [11. 盛最多水的容器](/notes/03-hunting_job/03-algorithm/03-leetcode/01-数组/medium/11.盛最多水的容器.md)
 - [1497.检查数组对是否可以被 k 整除](/notes/03-hunting_job/03-algorithm/03-leetcode/01-数组/medium/1497.检查数组对是否可以被k整除.md)

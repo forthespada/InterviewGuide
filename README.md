@@ -76,11 +76,11 @@
 - 8.1、[免费资源](https://github.com/forthespada/InterviewGuide#81%E5%85%8D%E8%B4%B9%E8%B5%84%E6%BA%90)
 - 8.2、[精品资源](https://github.com/forthespada/InterviewGuide#82%E7%B2%BE%E5%93%81%E8%B5%84%E6%BA%90)
 
-## 1、🌎**介绍**->👉[在线阅读](https://interviewguide.cndocs/notes/01-guide/web-guide-reading.html)
+## 1、🌎**介绍**->👉[在线阅读](https://interviewguide.cn/notes/01-guide/web-guide-reading.html)
 
 ## 2、🌽**学习路线**
 
-### 2.1、基础学科->👉[在线阅读](https://interviewguide.cndocs/notes/02-learning_route/01-basic-project/01-introduce.html)
+### 2.1、基础学科->👉[在线阅读](https://interviewguide.cn/notes/02-learning_route/01-basic-project/01-introduce.html)
 
 - [为什么说基础学科的学习很重要？](docs/notes/02-learning_route/01-basic-project/01-introduce.md)
 - [学会不直接劝退自己-计算机网络学习路线](docs/notes/02-learning_route/01-basic-project/03-计算机网络学习路线.md)
@@ -98,7 +98,7 @@
 
   </details>
 
-## 3、📚︎**校招八股文**->👉[在线阅读](https://interviewguide.cndocs/notes/03-hunting_job/02-interview/01-01-01-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.html)
+## 3、📚︎**校招八股文**->👉[在线阅读](https://interviewguide.cn/notes/03-hunting_job/02-interview/01-01-01-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.html)
 
 ### 3.1、[编程语言](http://localhost:8080/notes/03-hunting_job/02-interview/01-01-01-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
 
@@ -110,7 +110,7 @@
 
 ### 3.5、[智力题&情景题](http://localhost:8080/notes/03-hunting_job/02-interview/06-%E6%99%BA%E5%8A%9B&%E5%9C%BA%E6%99%AF%E9%A2%98.md)
 
-## 4、🍡**数据结构与算法**->👉[在线阅读](https://interviewguide.cndocs/notes/03-hunting_job/03-algorithm/01-basic-algorithm/01-%E7%AE%97%E6%B3%95%E6%A8%A1%E5%9D%97%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97.html)
+## 4、🍡**数据结构与算法**->👉[在线阅读](https://interviewguide.cn/notes/03-hunting_job/03-algorithm/01-basic-algorithm/01-%E7%AE%97%E6%B3%95%E6%A8%A1%E5%9D%97%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97.html)
 
 ### 4.1、[算法基础](docs/notes/03-hunting_job/03-algorithm/01-basic-algorithm/02-%E5%BF%85%E5%A4%87%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80.md)
 
@@ -120,7 +120,7 @@
 
 ### 4.4、[面试高频算法真题](docs/notes/03-hunting_job/03-algorithm/04-high_frquency_algorithm/01-high_frquency_algorithm.md)
 
-## 5、🎓**学习心得&总结**->👉[在线阅读](https://interviewguide.cndocs/notes/04-experience/01-learn_experience/01-introduce.html)
+## 5、🎓**学习心得&总结**->👉[在线阅读](https://interviewguide.cn/notes/04-experience/01-learn_experience/01-introduce.html)
 
 ### 5.1、[CS学习心得](docs/notes/04-experience/01-learn_experience/01-introduce.md)
 
@@ -155,7 +155,7 @@
 
 ### 5.3、[校招经验总结](docs/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.md)
 
-## 6、🧑‍🤝‍🧑**阿秀的学习圈子**->👉[在线阅读](https://interviewguide.cndocs/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html)
+## 6、🧑‍🤝‍🧑**阿秀的学习圈子**->👉[在线阅读](https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html)
 
 ### 6.1、学习圈友问题摘录
 
@@ -278,7 +278,7 @@
 
   </details>
 
-## 7、😊**阿秀三两事**->👉[在线阅读](https://interviewguide.cndocs/notes/06-about/01-myself/20210401-%E5%86%99%E6%96%87%E5%88%9A%E6%BB%A1100%E5%A4%A9%EF%BC%8C%E9%98%BF%E7%A7%80%E9%83%BD%E6%9C%89%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BA%86%EF%BC%9F%E8%BF%98%E6%9C%89%E9%92%B1%E8%AF%B7%E8%BF%90%E8%90%A5%EF%BC%9F.html)
+## 7、😊**阿秀三两事**->👉[在线阅读](https://interviewguide.cn/notes/06-about/01-myself/20210401-%E5%86%99%E6%96%87%E5%88%9A%E6%BB%A1100%E5%A4%A9%EF%BC%8C%E9%98%BF%E7%A7%80%E9%83%BD%E6%9C%89%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BA%86%EF%BC%9F%E8%BF%98%E6%9C%89%E9%92%B1%E8%AF%B7%E8%BF%90%E8%90%A5%EF%BC%9F.html)
 
 ### 7.1、程序人生
 
@@ -304,7 +304,7 @@
 - [近期招收计算机考研调剂学生有感 | 考研调剂指南](docs/notes/06-about/02-school/20210315-近期招收计算机考研调剂学生有感|考研调剂指南.md)
 - [很抱歉！四六级可能比你想的要重要！](docs/notes/06-about/02-school/20211218-很抱歉！四六级可能比你想的要重要.md)
 
-## 8、🐙**学习资源**->👉[在线阅读](https://interviewguide.cndocs/notes/07-resources/01-free/01-introduce.html)
+## 8、🐙**学习资源**->👉[在线阅读](https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html)
 
 ### 8.1、[免费资源](docs/notes/07-resources/01-free/01-introduce.md)
 

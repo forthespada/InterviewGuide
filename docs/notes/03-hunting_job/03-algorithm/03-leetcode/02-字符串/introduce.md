@@ -21,7 +21,7 @@ comment: false
 
 <p id="easy"></p>
 
-### Easy
+## Easy
 
 - [13.罗马数字转整数](/notes/03-hunting_job/03-algorithm/03-leetcode/02-字符串/easy/13.罗马数字转整数.md)
 
@@ -39,7 +39,7 @@ comment: false
 
 <p id="medium"></p>
 
-###  Medium 
+##  Medium 
 
 - [6. Z 字形变换](/notes/03-hunting_job/03-algorithm/03-leetcode/02-字符串/medium/6.Z字形变换.md)
 
