@@ -20,7 +20,7 @@ comment: false
 > 原文链接：[https://mp.weixin.qq.com/s/HkIKYaQfgI9_1o6o7LbGVg](https://mp.weixin.qq.com/s/HkIKYaQfgI9_1o6o7LbGVg)
 
 <div align="center">
-  <a href="/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md#阿秀组建了一个校招学习圈子">
+  <a href="/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子">
       <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222116157.png">
   </a></div>
 
