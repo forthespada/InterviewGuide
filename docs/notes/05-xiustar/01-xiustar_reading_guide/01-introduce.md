@@ -273,19 +273,39 @@ comment: false
 
 ### 4、校招学习相关资源分享
 
-星球资源较多，且在源源不断增加中目前都收录到了这里，包括《阿秀的学习笔记》的**PDF版本**，以后只为学习圈中的圈友独家提供了。
+星球资源较多，如果你是新进圈圈友可以直接点击资源分享，这是阿秀的学习圈圈友的全部沉淀累积，且在源源不断增加中目前都收录到了这里.
 
 ![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205262213272.png)
 
-- 1、简历资源分享
+- 1、《阿秀的学习笔记》的**PDF版本**，以后只为学习圈中的圈友独家提供，且不再对外免费开放下载，目前迭代到第四版，第五版更加精彩正在加紧制作中。
+
+  <div align="center">
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051236469.png" style="zoom:150%;" />
+  </div>
+  
+  
+  
+  <div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051237338.png" style="zoom:150%;" /></div>
+  
+  
+  
+- 2、简历资源分享
 
   <div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202311314.png" alt="img" style="zoom:50%;" /></div>
 
 
 
-- 逐渐增加中ing
+- 3、个人读书笔记分享，比如自己的各种读书笔记
 
+  <div align="center">
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051204901.png" alt="img" style="zoom:50%;" />
+  </div>
 
+  <div align="center">
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051209125.png" style="zoom:150%;" />
+  </div>
+
+  
 
 ### 5、圈友各种分享集锦
 
@@ -362,9 +382,8 @@ comment: false
 > 2、星球每加入**1000**人，都会涨价**20**元，因为一个人的精力是有限的，人多了服务质量肯定会下降，这是我所不想也绝对不愿意见到的，阿秀能够帮助到一小拨人就足够了。
 
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202359909.png" style="zoom:50%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051154815.png" style="zoom:70%;" />
 </div>
-
 
 
 
@@ -380,8 +399,10 @@ comment: false
 
 希望各位圈友能够坚持每日打卡，这样才能积少成多、聚沙成塔、水滴石穿，相互监督、结伴而行，90天后收获胜利果实！
 
-期待你的加入：
+对了，也附赠30元优惠券，见上方阿秀的学习圈优惠券！
 
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206041519407.png" />
-</div>
+  <p style="font-weight:bold; font-size: 26px">
+    秋招加油、相互监督
+  </p>
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051145716.png" style="zoom:100%;" /></div>
