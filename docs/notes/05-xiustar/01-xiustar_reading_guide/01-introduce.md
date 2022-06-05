@@ -393,16 +393,33 @@ comment: false
 
 因为两年前我就是只管学自己的，剩下的全都交给时间了[双非渣硕的秋招之路总结（已拿抖音研发岗SP）](/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.md)、[阿秀自己的完整学习经历复盘-没有什么逆袭，有的只是一点点坚持而已](/notes/05-xiustar/05-campus_recruitment/2021-05-17-没有什么逆袭，有的只是一点点坚持而已.md)。
 
-直到如今工作了，我依然保持**每天学一点点**，一天可能做不了什么，但是一周、一个月能做的就有很多了。
+直到如今工作了，我依然保持**每天学一点点**：[阿秀离开学校后坚持每天学习一小时已经135天了](/notes/05-xiustar/01-xiustar_reading_guide/20220427-昨天、今天和明天，离开校园后坚持学习135天了.md)一天可能做不了什么，但是一周、一个月能做的就有很多了。
 
 如果你能拆解自己的目标到每月、到每周，甚至到每天具体需要做些什么，并且去执行，剩下的就是交给时间了。
 
-希望各位圈友能够坚持每日打卡，这样才能积少成多、聚沙成塔、水滴石穿，相互监督、结伴而行，90天后收获胜利果实！
+希望你能够像已进圈的圈友那样立下自己的小目标，坚持每日打卡，坚持记录进度，最终化茧成蝶，90天后收获胜利果实！
 
-对了，也附赠30元优惠券，见上方阿秀的学习圈优惠券！
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060045908.png)
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060044293.png)
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060046750.png)
+
+这里也同样附赠30元学习圈优惠券
+
+<div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060042596.png" style="zoom:60%;" />
+</div>
+
+
 
 <div align="center">
   <p style="font-weight:bold; font-size: 26px">
-    秋招加油、相互监督
+    秋招加油、相互监督活动
   </p>
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051145716.png" style="zoom:100%;" /></div>
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060039403.png" style="zoom:100%;" />
+  <p style="font-weight:bold; font-size: 26px">
+    踏踏实实学习才是投资自己的最好方式！
+  </p>
+</div>
+
