@@ -275,17 +275,21 @@ comment: false
 
 星球资源较多，如果你是新进圈圈友可以直接点击资源分享，这是阿秀的学习圈圈友的全部沉淀累积，且在源源不断增加中目前都收录到了这里.
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205262213272.png)
+<div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205262213272.png" style="zoom:67%;" />
+</div>
+
+
 
 - 1、《阿秀的学习笔记》的**PDF版本**，以后只为学习圈中的圈友独家提供，且不再对外免费开放下载，目前迭代到第四版，第五版更加精彩正在加紧制作中。
 
   <div align="center">
-    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051236469.png" style="zoom:150%;" />
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051236469.png" style="zoom:70%;" />
   </div>
   
   
   
-  <div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051237338.png" style="zoom:150%;" /></div>
+  <div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051237338.png" style="zoom:70%;" /></div>
   
   
   
@@ -302,7 +306,7 @@ comment: false
   </div>
 
   <div align="center">
-    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051209125.png" style="zoom:150%;" />
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051209125.png" style="zoom:50%;" />
   </div>
 
   
@@ -399,11 +403,21 @@ comment: false
 
 希望你能够像已进圈的圈友那样立下自己的小目标，坚持每日打卡，坚持记录进度，最终化茧成蝶，90天后收获胜利果实！
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060045908.png)
+<div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060045908.png" style="zoom:67%;" />
+</div>
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060044293.png)
+<div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060044293.png" style="zoom:67%;" />
+</div>
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060046750.png)
+
+
+<div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060046750.png" style="zoom:67%;" />
+</div>
+
+
 
 这里也同样附赠30元学习圈优惠券
 
@@ -417,9 +431,9 @@ comment: false
   <p style="font-weight:bold; font-size: 26px">
     秋招加油、相互监督活动
   </p>
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060039403.png" style="zoom:100%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060039403.png" style="zoom:60%;" />
   <p style="font-weight:bold; font-size: 26px">
-    踏踏实实学习才是投资自己的最好方式！
+    踏踏实实,一步一个脚印才是拿到好offer，甚至SSP的正确方式！
   </p>
 </div>
 
