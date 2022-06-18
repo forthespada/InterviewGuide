@@ -15,15 +15,13 @@ comment: false
 
 <h1 align="center">阿秀组建了一个校招学习圈子</h1>
 
-友情提问：阿秀的学习圈**优惠券**及**秋招加油、相互监督打卡活动**加入方式在文末
+友情提示：阿秀的<span style="color:red;font-weight:bold">学习圈优惠券</span>及<span style="color:red;font-weight:bold">秋招加油、相互监督打卡活动</span>加入方式在文末
 
 ## 一、学生->打工人
 
 时间过得真的很快，转眼之间阿秀已经毕业一两年了，目前在抖音这边做全栈开发，主后端，兼前端。
 
-
-
-作为一名从**普通双非学校成功上岸字节跳动核心部门**的学生来说，我深感这一路的不易，对于那些跟我一样普通二本学校的学生而言想要走出来真的是实在太难了，作为亲历者我知道这一路有多难。
+作为一名从**普通双非学校成功上岸字节跳动核心部门**的学生来说，我深感这一路的不易，对于那些跟我一样普通二本学校的学生而言想要走出来真的是实在太难了，作为亲历者我十分清楚地知道这一路有多难。
 
 
 
@@ -125,17 +123,19 @@ comment: false
 <div align="center">
   <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202315049.png" style="zoom: 33%;" />
 </div>
-
-
-
+慢慢的一些圈友也开始分享和记录自己的每日学习进度，就像阿秀说的那样，每日一点点就行，剩下的交给时间就好！
 
 
 <div align="center">
   <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202315855.png" alt="img" style="zoom:33%;" />
 </div>
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206112312394.png)
 
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206112319864.png)
 
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206112319809.png)
 
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206112321782.png)
 
 
 
@@ -155,7 +155,81 @@ comment: false
 - 周日不定期直播分享，为大家答疑解惑，传授学习瓶颈突破技巧以及职场感悟
 - .....
 
+学计算机的都应该知道有个局部性原理，局部性原理在很多场合都适用，比如80%的圈友的痛点或者疑惑其实都集中在一些固定的方面或者问题上。
 
+阿秀已经在学习圈子中回答过不少圈友们的问题，比如**计算机学习、实习、校招、本科问题、硕士问题**等，也会将后续圈友们比较经典的疑问&阿秀的回答逐渐收录到这里。
+
+比如：
+
+**1、心路历程**
+
+**2、编程语言和技术方向的选择**
+
+**3、求职软实力**
+
+- **3.1、校招几个重要时间点**
+- **3.2、简历怎么写**
+- **3.3、面试技巧**
+- **3.4、选择（互联网、国企、银行、外企等）**
+
+**4、计算机学习规划相关**
+
+- **4.1、C++**
+- **4.2、Java**
+- **4.3、Go**
+- **4.4、前端**
+- **4.5、算法刷题**
+- **4.6、计算机基础**
+
+**5、实习**
+
+- **5.1、日常实习**
+- **5.2、暑期/寒假实习**
+- **5.3、实习心得总结**
+
+**6、校招**
+
+- **6.1、提前批**
+- **6.2、校招面经**
+- **6.3、校招总结**
+- **6.4、春招和补录**
+- **6.5、offer选择**
+
+**7、本科问题**
+
+**8、硕士研究生问题**
+
+**9、博士问题**
+
+**10、打工人絮叨**
+
+**11、圈友杂谈**
+
+**12、阿秀的学习圈资源**
+
+
+
+#### 1、学习圈中个人学习感悟
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206120045495.png)
+
+#### 2、学习圈中实习相关话题
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206120046787.png)
+
+#### 3、学习圈中校招学习相关
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206120038344.png)
+
+#### 4、学习圈中计算机基础学习相关
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206120039233.png)
+
+#### 5、学习圈中本科和硕士相关疑惑
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206120039805.png)
+
+如果你在学习计算机的过程中遇到问题或者感到迷茫，不妨多看看上面这些前辈们的经历，这些都是你在校招求职路上不可多得的经验！
 
 ## 四、阿秀的学习圈中已有分享
 
@@ -173,7 +247,7 @@ comment: false
 
 
 
-同时也会在校招群里各种讨论，交流信息！
+同时也会在校招群里各种讨论，交流信息，最大程度的报团取暖！
 
 <div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261946492.png" alt="秋招讨论" style="zoom:50%;" /></div>
 
@@ -196,30 +270,35 @@ comment: false
 - 1、针对圈友不同情况，给出具体路线和当前应该做的侧重点
 
   <div align="center">
-    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202311104.png" alt="img" style="zoom:50%;" />
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202311104.png" alt="img" style="zoom:70%;" />
   </div>
-  
-  
 
 
 
 - 2、时间不多的情况下应该先干什么？
 
     <div align="center">
-    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202311906.png" alt="img" style="zoom:50%;" />
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202311906.png" alt="img" style="zoom:70%;" />
     </div>
 
 - 3、要不要去实习？全力准备秋招还是优先去实习？
 
   <div align="center">
-    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261938211.png" alt="image-20220526193853232" style="zoom:50%;" />
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261938211.png" alt="image-20220526193853232" style="zoom:70%;" />
   </div>
   
 - 4、目前感觉很慌？时间不多肯定要优先抓重要的事情做！不要在一些性价比不高的事情上浪费时间！时间不够的情况下要追求极致的性价比！
 
   <div align="center">
-    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261936500.png" style="zoom:50%;" />
+    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205261936500.png" style="zoom:80%;" />
   </div>
+  
+- 5、针对学弟情况给出足够具体的建议，比如下面这个学弟的疑问就回答得很清楚，给了八条建议，也获得学习学妹们的好评！
+
+  <div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206190011613.png" style="zoom:40%;" /></div>
+  
+  
 
 ### 3、校招简历相关
 
@@ -233,21 +312,19 @@ comment: false
 
 原文链接:[正确的简历投递顺序是什么？]( https://t.zsxq.com/02RRJeUj2)
 
-
-
-- 1、部分简历修改记录
+- 1、**部分简历修改记录**
 
   <div align="center"> <div align="center"> <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202247637.png" style="zoom:60%;" /></div> </div>
 
 
 
-- 2、怕圈友理解不清楚，有时候阿秀会直接给出微信语音，这样学弟学妹们也能多听几遍，好好修改简历
+- 2、**怕圈友理解不清楚，有时候阿秀会直接给出微信语音，这样学弟学妹们也能多听几遍，好好修改简历**
 
 <div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202244777.png" style="zoom:50%;" /></div>
 
 
 
-- 3、上岸字节，跟阿秀做同事，简历修改帮了大忙了
+- 3、**上岸字节，跟阿秀做同事，简历修改帮了大忙了**
 
   <div align="center">
     <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202238608.png" alt="简历修改很有用" style="zoom:50%;" />
@@ -271,9 +348,15 @@ comment: false
   
   
 
-### 4、校招学习相关资源分享
 
-星球资源较多，如果你是新进圈圈友可以直接点击资源分享，这是阿秀的学习圈圈友的全部沉淀累积，且在源源不断增加中目前都收录到了这里.
+
+### 4、学习资源分享
+
+阿秀的学习圈中资源较多，如果你是新进圈的圈友可以直接点击置顶帖知识图谱插件学习圈中精华所在：
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206121551497.png)
+
+如果你是个资源党，那可以直接看「资源分享」模块，这是阿秀的学习圈圈友的全部沉淀累积，且在源源不断增加中，目前都收录到了这里。
 
 <div align="center">
   <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205262213272.png" style="zoom:67%;" />
@@ -297,8 +380,6 @@ comment: false
 
   <div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205202311314.png" alt="img" style="zoom:50%;" /></div>
 
-
-
 - 3、个人读书笔记分享，比如自己的各种读书笔记
 
   <div align="center">
@@ -308,8 +389,6 @@ comment: false
   <div align="center">
     <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051209125.png" style="zoom:50%;" />
   </div>
-
-  
 
 ### 5、圈友各种分享集锦
 
@@ -375,9 +454,7 @@ comment: false
 
 《阿秀的学习圈》这是**第一次开放，下面是星球30元的优惠券**，一并奉上！
 
-阿秀的学习圈子链接 -> [点此直达](https://wx.zsxq.com/dweb2/index/group/28855581515241)
-
-领代金券加入，如果感觉不值得或者不满意，这里郑重承诺可以免费体验三天，**三天内知识星球APP右上角都可以直接全额退款(官方自动扣除手续费)**！ 无任何套路。
+如果感觉不值得或者不满意，这里郑重承诺可以免费体验三天，**三天内知识星球APP右上角都可以直接全额退款(官方自动扣除手续费)**！ 无任何套路。
 
 > 备注：
 >
@@ -386,9 +463,13 @@ comment: false
 > 2、星球每加入**1000**人，都会涨价**20**元，因为一个人的精力是有限的，人多了服务质量肯定会下降，这是我所不想也绝对不愿意见到的，阿秀能够帮助到一小拨人就足够了。
 
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051154815.png" style="zoom:70%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051154815.png" style="zoom:60%;" />
 </div>
+欢迎你加入阿秀的学习圈，因为这可能是你<strong>近一年内性价比最高的一笔投资</strong>了！阿秀的学习圈子链接 -> <a href="https://wx.zsxq.com/dweb2/index/group/28855581515241" target="_blank">点此直达</a>
 
+**我看到很多小白&新手&非科班转行成功的例子，他们拥有的一个共性就是踏实、耐得住寂寞、一步一个脚印**
+
+**我始终相信成功是一步一个脚印走出来，而不是什么一蹴而成，一飞冲天，给自己一个机会！**
 
 
 ## 六、秋招加油、相互监督打卡活动
@@ -436,4 +517,3 @@ comment: false
     踏踏实实,一步一个脚印才是拿到好offer，甚至SSP的正确方式！
   </p>
 </div>
-
