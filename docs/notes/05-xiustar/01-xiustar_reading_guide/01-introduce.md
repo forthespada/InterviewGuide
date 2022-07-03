@@ -499,8 +499,11 @@ comment: false
 </div>
 
 
+<div align="center" style="font-size: 22px">
+  这里也同样附赠<strong>30元</strong>学习圈优惠券
+</div>
 
-这里也同样附赠30元学习圈优惠券
+
 
 <div align="center">
   <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206060042596.png" style="zoom:60%;" />
