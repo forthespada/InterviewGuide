@@ -17,7 +17,7 @@ comment: false
 
 
 
-<h1 align="center">精选力扣300+题目之哈希表</h1>
+<h1 align="center">精选力扣300+题目之二分查找</h1>
 
 <p id="easy"></p>
 
