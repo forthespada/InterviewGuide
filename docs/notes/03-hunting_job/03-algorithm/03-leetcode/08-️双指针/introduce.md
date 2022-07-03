@@ -21,9 +21,10 @@ comment: false
 
 ## Easy
 
-[532.数组中的数对](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/easy/easy.md#数组中的数对)
+- [532.数组中的数对](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/easy/532.数组中的数对.md)
+- [925.长按键入](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/easy/925.长按键入.md)
 
-[925.长按键入](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/easy/easy.md#长按键入)
+
 
 
 
@@ -31,23 +32,15 @@ comment: false
 
 ## Medium
 
-[56.合并区间](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/medium/medium.md#合并区间)
-
-[75. 颜色分类](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/medium/medium.md#颜色分类)
-
-[80. 删除排序数组中的重复项 II 很好的题目](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/medium/medium.md#删除排序数组中的重复项)
-
-[424. 替换后的最长重复字符 心态崩了](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/medium/medium.md#替换后的最长重复字符)
-
-[485. 最大连续1的个数（easy）](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/medium/medium.md#最大连续的个数)
-
-[524. 通过删除字母匹配到字典里最长单词 心态崩了](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/medium/medium.md#通过删除字母匹配到字典里最长单词)
-
-[986. 区间列表的交集](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/medium/medium.md#区间列表的交集)
-
-[1004. 最大连续1的个数 III 我还是太菜了，不会不会](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/medium/medium.md#最大连续的个数)
-
-[1498. 满足条件的子序列数目](Doc/Knowledge/算法/LeetCode题解/total/08-双指针/medium/medium.md#满足条件的子序列数目)
+- [56.合并区间](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/medium/56.合并区间.md)
+- [75. 颜色分类](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/medium/75.颜色分类.md)
+- [80. 删除排序数组中的重复项 II 很好的题目](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/medium/80.删除排序数组中的重复项II.md)
+- [424. 替换后的最长重复字符](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/medium/424.替换后的最长重复字符.md)
+- [485. 最大连续1的个数（easy）](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/medium/485.最大连续的个数.md)
+- [524. 通过删除字母匹配到字典里最长单词](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/medium/524.通过删除字母匹配到字典里最长单词.md)
+- [986. 区间列表的交集](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/medium/986.区间列表的交集.md)
+- [1004. 最大连续1的个数 III ](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/medium/1004最大连续的个数III.md)
+- [1498. 满足条件的子序列数目](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/medium/1498.满足条件的子序列数目.md)
 
 
 

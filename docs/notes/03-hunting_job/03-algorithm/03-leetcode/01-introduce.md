@@ -60,15 +60,17 @@ comment: false
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[6、二分查找](/notes/03-hunting_job/03-algorithm/03-leetcode/06-二分查找/introduce.md)</font>
 
-7、栈
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[6、二分查找](/notes/03-hunting_job/03-algorithm/03-leetcode/06-二分查找/introduce.md)</font>
 
-8、双指针
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[7、栈](/notes/03-hunting_job/03-algorithm/03-leetcode/07-栈/introduce.md)</font>
 
-9、贪心算法
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[8、双指针](/notes/03-hunting_job/03-algorithm/03-leetcode/08-️双指针/introduce.md)</font>
+
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[9、贪心算法](/notes/03-hunting_job/03-algorithm/03-leetcode/09-贪心算法/introduce.md)</font>
 
 10、回溯算法
 
-11、动态规划]
+11、动态规划
 
 12、广度优先搜索（BFS）
 
@@ -78,13 +80,7 @@ comment: false
 
 <!--
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[6、二分查找](/notes/03-hunting_job/03-algorithm/03-leetcode/06-二分查找/introduce.md)</font>
 
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[7、栈](/notes/03-hunting_job/03-algorithm/03-leetcode/07-栈/introduce.md)</font>
-
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[8、双指针](/notes/03-hunting_job/03-algorithm/03-leetcode/08-双指针/introduce.md)</font>
-
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[9、贪心算法](/notes/03-hunting_job/03-algorithm/03-leetcode/09-贪心算法/introduce.md)</font>
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[10、回溯算法](/notes/03-hunting_job/03-algorithm/03-leetcode/10-回溯算法/introduce.md)</font>
 
