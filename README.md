@@ -4,17 +4,30 @@
 
 > 你好，我是阿秀，一名坚持终身学习的互联网从业者，目前在字节跳动抖音部门担任全栈研发工程师，主后端、兼前端，->[📚︎关于我](/notes/01-guide/web-guide-reading.md)。
 >
-> 本仓库是是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们秋招总结文章的汇总，也许你曾经了解过甚至研读过一本PDF，它可能叫做《逆袭进大厂》或者《阿秀的校招笔记》或者《阿秀的求职笔记》，都是本仓库内容的镜像摘录。
+> 本仓库是是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们秋招总结文章的汇总，也许你曾经了解过甚至研读过一本PDF，它可能叫做《逆袭进大厂》或者《阿秀的校招笔记》或者《阿秀的求职笔记》，都是本仓库内容的部分摘录。
 
 👉 推荐 [在线阅读](https://interviewguide.cndoc/#/) (Github 访问速度比较慢可能会导致部分图片无法刷新出来)
 
 👉 如果你是计算机小白、迷茫找不到方向、或者跟阿秀一样出身很差（大专、三本、二本等）、不甘平凡想要再努力一把、缺少学习动力等，不妨阅读[阿秀的故事](docs/notes/01-guide/web-guide-reading.md#二、自学经历)或者加入[阿秀的学习圈](docs/notes/01-guide/web-guide-reading.md#七、⭐⭐阿秀的学习圈子)，我记录了自己从普通双非学校一名默默无名的学生到顺利成长为一名互联网一线大厂的程序员的成长过程以及在互联网职场的学习成长经历，相信这些内容能够帮助你成长一名合格的互联网技术从业者。
 
-👉 该求职资料适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~** 作者：[阿秀](doc/notes/08-other/02-question.md#_1、网站内容适用人群)
+👉 该学习笔记适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~** 作者：[阿秀](doc/notes/08-other/02-question.md#_1、网站内容适用人群)
 
 👉 **1000**本计算机经典书籍免费下载：[CS-Books](https://github.com/forthespada/CS-Books)
 
 👉 关于 **InterviewGuide** 仓库或者《[阿秀的学习笔记网站](doc/#/)》的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
+
+<div align="center">
+    <p align="center"><b>知识星球</b>：<a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90">阿秀的学习圈</a> 👇</p>
+   <table>
+  		<tbody>
+            <tr>
+               <td align="center" valign="middle">
+                <a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206190108471.png" width="900px"></a>
+              </td>       
+            </tr>
+  		</tbody>
+	</table>
+</div>
 
 <p align="center">
     <a href="https://interviewguide.cn"><img src="https://img.shields.io/badge/博客-在线阅读-blue.svg" alt="博客"></a>
