@@ -51,7 +51,7 @@ comment: false
 
 ## Medium
 
-- [3.无重复字符的最长子串](/notes/03-hunting_job/03-algorithm/03-leetcode/05-哈希表/medium/3,无重复字符的最长子串.md)
+- [3.无重复字符的最长子串](/notes/03-hunting_job/03-algorithm/03-leetcode/05-哈希表/medium/3.无重复字符的最长子串.md)
 
 - [215. 数组中的第K个最大元素 经典](/notes/03-hunting_job/03-algorithm/03-leetcode/05-哈希表/medium/215.数组中的第K个最大元素.md)
 
