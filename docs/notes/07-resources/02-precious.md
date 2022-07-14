@@ -129,7 +129,6 @@ comment: false
 
 
 
-<<<<<<< HEAD
 ### 6、趣谈Linux操作系统
 
 作者：刘超
