@@ -66,9 +66,9 @@ comment: false
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[9、贪心算法](/notes/03-hunting_job/03-algorithm/03-leetcode/09-贪心算法/introduce.md)</font>
 
-10、回溯算法
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[10、回溯算法](/notes/03-hunting_job/03-algorithm/03-leetcode/10-回溯算法/introduce.md)</font>
 
-11、动态规划
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[11、动态规划](/notes/03-hunting_job/03-algorithm/03-leetcode/11-动态规划/introduce.md)</font>
 
 12、广度优先搜索（BFS）
 
@@ -77,12 +77,6 @@ comment: false
 14、树
 
 <!--
-
-
-
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[10、回溯算法](/notes/03-hunting_job/03-algorithm/03-leetcode/10-回溯算法/introduce.md)</font>
-
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[11、动态规划](/notes/03-hunting_job/03-algorithm/03-leetcode/11-动态规划/introduce.md)</font>
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[12、广度优先搜索（BFS）](/notes/03-hunting_job/03-algorithm/03-leetcode/12-BFS/introduce.md)</font>
 
