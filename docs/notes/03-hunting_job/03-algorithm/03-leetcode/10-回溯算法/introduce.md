@@ -1,10 +1,27 @@
+---
+layout:  post
+category:  hunting_job
+title: 精选力扣300+题目之回溯算法
+tagline:  by 阿秀
+tags:
+    - 原创
+    - LeetCode
+    - 校招
+    - 社招
+    - 阿秀
+excerpt: 精选力扣300+题目之回溯算法
+comment: false
+---
+
+
+
+
+
+
+
 <h1 align="center">精选力扣300+题目之回溯算法</h1>
 
 <p id="easy"></p>
-
-### Easy
-
-正在整理中.....
 
 <p id="medium"></p>
 
@@ -25,9 +42,3 @@
 [679. 24 点游戏](/notes/03-hunting_job/03-algorithm/03-leetcode/10-回溯算法/medium/medium.md#点游戏)
 
 
-
-<p id="hard"></p>
-
-### Hard
-
-正在整理中.....

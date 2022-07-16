@@ -488,7 +488,7 @@
 - [**前端**](Doc/Knowledge/前端/README.md)
 - **算法**
   - [算法基础](Doc/Knowledge/算法/算法基础/十大排序.md#算法基础)
-  - [高频面试真题](Doc/Knowledge/算法/精选高频面试题/精选高频面试题.md#精选高频面试题)
+  - [高频面试真题](/notes/03-hunting_job/03-algorithm/04-high_frquency_algorithm/01-high_frquency_algorithm.md#精选高频面试题)
   - [带你快速刷完67道剑指offer](Doc/Knowledge/算法/带你快速刷完67道剑指offer/README.md#带你快速刷完67道剑指offer)
   - [精选力扣300+道算法题](Doc/Knowledge/算法/LeetCode题解/README.md)
 - **[操作系统](Doc/Knowledge/操作系统/操作系统.md#进程线程和协程的区别和联系)**
