@@ -2,19 +2,19 @@
 
 <h1 align="center">InterviewGuide | 📔 阿秀的学习笔记</h1>
 
-> 你好，我是阿秀，一名坚持终身学习的互联网从业者，目前在字节跳动抖音部门担任全栈研发工程师，主后端、兼前端，->[📚︎关于我](/notes/01-guide/web-guide-reading.md)。
+> 你好，我是阿秀，一名坚持终身学习的互联网从业者，目前在字节跳动抖音部门担任全栈研发工程师，主后端、兼前端，->[📚︎关于我](docs/notes/01-guide/web-guide-reading.md)。
 >
 > 本仓库是是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们秋招总结文章的汇总，也许你曾经了解过甚至研读过一本PDF，它可能叫做《逆袭进大厂》或者《阿秀的校招笔记》或者《阿秀的求职笔记》，都是本仓库内容的部分摘录。
 
-👉 推荐 [在线阅读](https://interviewguide.cndoc/#/) (Github 访问速度比较慢可能会导致部分图片无法刷新出来)
+👉 推荐 [在线阅读](https://interviewguide) (Github 访问速度比较慢可能会导致部分图片无法刷新出来)
 
-👉 如果你是计算机小白、迷茫找不到方向、或者跟阿秀一样出身很差（大专、三本、二本等）、不甘平凡想要再努力一把、缺少学习动力等，不妨阅读[阿秀的故事](docs/notes/01-guide/web-guide-reading.md#二、自学经历)或者加入[阿秀的学习圈](docs/notes/01-guide/web-guide-reading.md#七、⭐⭐阿秀的学习圈子)，我记录了自己从普通双非学校一名默默无名的学生到顺利成长为一名互联网一线大厂的程序员的成长过程以及在互联网职场的学习成长经历，相信这些内容能够帮助你成长一名合格的互联网技术从业者。
+👉 如果你是计算机小白、迷茫找不到方向、或者跟阿秀一样出身很差（大专、三本、二本等）、不甘平凡想要再努力一把、缺少学习动力等，不妨阅读[阿秀的故事](docs/notes/01-guide/web-guide-reading.md#二、自学经历)或者加入[阿秀的学习圈](https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90)，我记录了自己从普通双非学校一名默默无名的学生到顺利成长为一名互联网一线大厂的程序员的成长过程以及在互联网职场的学习成长经历，相信这些内容能够帮助你成长一名合格的互联网技术从业者。
 
 👉 该学习笔记适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~** 作者：[阿秀](doc/notes/08-other/02-question.md#_1、网站内容适用人群)
 
 👉 **1000**本计算机经典书籍免费下载：[CS-Books](https://github.com/forthespada/CS-Books)
 
-👉 关于 **InterviewGuide** 仓库或者《[阿秀的学习笔记网站](doc/#/)》的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
+👉 关于 **InterviewGuide** 仓库或者《[阿秀的学习笔记网站](https://interviewguide)》的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
 
 <div align="center">
     <p align="center"><b>知识星球</b>：<a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90">阿秀的学习圈</a> 👇</p>
@@ -331,7 +331,7 @@
 
 ```
 作者：阿秀
-链接：doc
+链接：https://interviewguide.cn
 来源：拓跋阿秀
 ```
 
@@ -377,7 +377,7 @@
 
 ​    
 
-如果您是校招生，比如大三大四或者研究生想要跟千人交流求职，您可以扫描**下方二维码**或者微信搜索：**coderxiu2**，添加阿秀个人微信，我拉你入群！
+如果您是校招生，比如大三大四或者研究生想要跟千人交流求职，您可以扫描**下方二维码**或者微信搜索：**coderxiu2**，添加阿秀个人微信，备注：个人简短介绍+校招（无备注不通过哦），我拉你入群！
 
 <div align="center">
     <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205211838580.png" width="180px" />
@@ -387,7 +387,15 @@
 
 ### 11.2、**公众号(拓跋阿秀)** 
 
-分享计算机学习、编程、校招、职场等原创技术文章，希望自己踩过的坑后来人不要再踩，自己学过的内容能够帮助后来人一步一个脚印得慢慢成长🌹🌹🌹！
+持续个人计算机学习、编程、校招、职场工作等原创技术文章，希望自己踩过的坑后来人不要再踩，自己学过的内容能够帮助后来人一步一个脚印得慢慢成长🌹🌹🌹！
+
+微信搜索：「拓跋阿秀」第一时间围观，关注后回复：**宝贝**，真的会送你一个宝贝~。
+
+**「拓跋阿秀」每天都会分享一篇计算机学习、校招、职场、大厂相关文章，帮你梳理计算机知识体系，轻松应对计算机校招求职！**，同时阿秀在学习计算机以来收集整理了大量的学习资源，包括但不限制于学习心得、校招总结、精品资源，更有很多学弟学妹在这里打卡学习。
+
+没有什么成功是一蹴而就的，有的只是有些人在无声处默默，**来看看就知道了，我想你肯定会觉得相见恨晚的！**
+
+
 
 <div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205212015036.jpg" width="180px"></div>
 
@@ -421,152 +429,4 @@
 
 
 
-
-<!--
-
-1、🌎**介绍**该部分是对InterviewGuide以及《阿秀的学习笔记》由来做大致介绍。
-
-2、🌽**学习路线**：该部门是针对小白新手而创建的部分，是由阿秀根绝自身学习经验&[阿秀的学习圈子](#八、阿秀的学习圈子)中的圈友学习经历所编写&维护。如果你是成手或者已经入门的同学可以省略不看，如果是新手小白可以看一看，所编写的都是一些针对求职的学习路线，该部分可分为基础科目&编程语言两大类；
-
-- 基础学科：对于校招技术岗同学来时，不管你是是从事前端开发（JS、Vue、React等）还是后端开发（Java、C++、Golang、PHP等），基础学科中的知识都需要系统性学习，因为它们属于通用性科目，这属于程序员内功系列，**切记不可跳过**！
-- 编程语言：计算机主要技术岗可分为前端&后端，其中前端主要使用JavaScript、Typescript两种语言，框架主要为Vue或者React居多；后端则以Java、C++、Golang等居多。对于校招同学来说，**选择其中一门即可，无需全部学习，只需学习一门主攻语言即可，切记切记**！
-
-3、📚︎[**校招八股文**](docs/notes/01-guide/四、校招八股文)：该章节与《[数据结构与算法](docs/notes/01-guide/web-guide-reading.md#五、数据结构与算法)》小节是本站的**核心内容**，适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学**，是由**阿秀个人学习笔记&个人公众号往期文章**整理而来，主要可分为主要包括面试必考的[编程语言](docs/notes/01-guide/web-guide-reading.md#_1、⭐编程语言)与计算机基础知识：[操作系统](docs/notes/01-guide/_2、⭐操作系统)、[计算机网络](docs/notes/01-guide/web-guide-reading.md#_3、⭐计算机网络)、[数据库](docs/notes/01-guide/web-guide-reading.md#_4、⭐数据库)、[智力题&情景题](docs/notes/01-guide/web-guide-reading.md#_5、⭐智力-场景题)等。
-
-4、🍡[**数据结构与算法**](docs/notes/01-guide/web-guide-reading.md#五、数据结构与算法)：现在校招&毕业三年之内的社招党基本没有不考察算法题的了，手撕算法是常规操作了。阿秀自己校招时剑指offer刷过3遍左右、力扣刷过600+题目，后经过整理开源分享出来，具体可分为[带你快速刷完67道剑指offer](docs/notes/01-guide/web-guide-reading.md#_3、⭐⭐带你快速刷完67道剑指offer)、[精选力扣300+道算法题](docs/notes/01-guide/web-guide-reading.md#_4、⭐⭐精选力扣300-算法题)、[面试高频算法真题](docs/notes/01-guide/web-guide-reading.md#_5、⭐⭐⭐算法高频面试题)
-
-5、🎓[**学习心得&总结**](docs/notes/01-guide/web-guide-reading.md#六、学习心得&总结)：该部分主要是阿秀个人在自学计算机过程中的自学经验分享以及[阿秀的学习圈子](docs/notes/01-guide/web-guide-reading.md#八、阿秀的学习圈子)中的小伙伴们的实习经验和校招经验分享，如果你也是一名校招党不妨多看看别人的经验和总结。
-
-- 5.1
-
-6、🧑‍🤝‍🧑[**阿秀的学习圈子**](docs/notes/01-guide/web-guide-reading.md#八、阿秀的学习圈子)：该部分主要是**阿秀&本科学弟学妹&研究生师弟师妹们一起报团取暖的学习圈子**，其中包括但不限于前期准备、简历问题、日常实习、校招求职、offer选择、互联网职场杂谈等话题，踽踽独行不行报团取暖！
-
-7、😊[**阿秀三两事**](docs/notes/01-guide/web-guide-reading.md#八、阿秀三两事)：该部分主要是阿秀个人文章分享，主要分为程序人生、青葱校园追忆等。
-
-8、🐙[**学习资源**](docs/notes/01-guide/web-guide-reading.md#九、学习资源)：在学习计算机将近十年的时间里自己收集到很多学习资料，其中很多都是阿秀自己使用过的，这里仅做分享使用。
-
-
-
-🍖 **说明**
-
-近期有粉丝专门跑来告知我有某些机构直接克隆我的仓库，修改文件，重新生成PDF，美其名曰为**机构内部资料**。
-
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202204052308662.png)
-
-故此，不再提供md源码文件，望理解。
-
-**🚀推荐两种学习方式：**
-
-- 直接去个人网站观看在线版，[点此直达](doc/#/)
-
-- 下载PDF版本学习，[点此免费下载](#downloadpdf)
-
-
-<!--
-
-**🍵 校招准备**
-
-- [简历很重要](Doc/Prepare/简历很重要/简历很重要.md)
-
-- [了解校招](Doc/Prepare/了解校招/了解校招.md)
-
-- [C++岗位](Doc/Prepare/C++岗位/C++岗位.md)
-
-<p id="知识储备"></p>
-
-**🚀 知识储备**
-
-- [**C/C++**](Doc/Knowledge/C++/README.md)
-  - [基础语法](Doc/Knowledge/C++/基础语法/基础语法.md#在main执行之前和之后执行的代码可能是什么)
-  - [内存管理](Doc/Knowledge/C++/内存管理/内存管理.md#类的对象存储空间)
-  - [C++11新标准](Doc/Knowledge/C++/C++11新标准/C++11新标准.md#西加加十一有哪些新特性)
-  - [STL模板库](Doc/Knowledge/C++/STL模板库/STL模板库.md#什么是stl)
-  - [其余问题](Doc/Knowledge/C++/其余问题/其余问题.md#如何实现)
-- [**Java**](Doc/Knowledge/Java/README.md)
-- [**Python**](Doc/Knowledge/Python/README.md)
-- [**Golang**](Doc/Knowledge/Golang/README.md)
-- [**前端**](Doc/Knowledge/前端/README.md)
-- **算法**
-  - [算法基础](Doc/Knowledge/算法/算法基础/十大排序.md#算法基础)
-  - [高频面试真题](/notes/03-hunting_job/03-algorithm/04-high_frquency_algorithm/01-high_frquency_algorithm.md#精选高频面试题)
-  - [带你快速刷完67道剑指offer](Doc/Knowledge/算法/带你快速刷完67道剑指offer/README.md#带你快速刷完67道剑指offer)
-  - [精选力扣300+道算法题](Doc/Knowledge/算法/LeetCode题解/README.md)
-- **[操作系统](Doc/Knowledge/操作系统/操作系统.md#进程线程和协程的区别和联系)**
-- **[计算机网络](Doc/Knowledge/计算机网络/计算机网络.md#偶爱死的七层模型分别是各自的功能是什么)**
-- **数据库**
-  - [MySQL](Doc/Knowledge/数据库/MySQL/MySQL.md#数据库第一部分)
-  - [Redis](Doc/Knowledge/数据库/Redis/Redis.md#数据库第二部分)
-- **[智力&情景题](Doc/Knowledge/智力&情景题/智力&情景题.md#智力题情景题)**
-- **[技术面与HR面](Doc/Knowledge/技术面与HR面/技术面与HR面.md#技术面与面)**
-- **[未完待续.....](Doc/Knowledge/未完待续/README.md)**
-
-**📝 精品资源**
-
-- [阿秀收集到的资源汇总](Doc/免费资源/Download.md)
-- [1000本计算机经典书籍 PDF 电子版](Doc/免费资源/千本PDF/千本PDF.md)
-- [LeetCode刷题笔记(支持Java、C++、Golang三种语言)](Doc/免费资源/力扣刷题笔记/力扣刷题笔记.md)
-- [C++项目推荐](Doc/免费资源/项目推荐/C++项目推荐.md)
-
-🍖 **[求职交流](Doc/Other/求职交流/求职交流.md#求职交流)**
-
-<p id="他人经验"></p>
-
-**🐝 他人经验**
-
-- [阿秀个人的秋招之路总结（已拿抖音研发岗SP)](https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q)
-- [双非二本到字节跳动SP？逆袭？](https://mp.weixin.qq.com/s/vSzbITIYEVQNE1LgIzmPJg)
-- [双非本科大三学弟连斩腾讯字节](https://mp.weixin.qq.com/s/IsuN7Wo8AyC_FFwXJdU7fg)
-- [阿秀朋友百折不挠，最终成功上岸](https://mp.weixin.qq.com/s/MsaAr1ofstCgxqs749W1wg)
-- [一位大二非科班学弟，从开始刷题到获得成就感的两周](https://mp.weixin.qq.com/s/k1X7V9Ev8mIjENuAlnO64w)
-- [大三学弟的学习面试经验，他很成熟](https://mp.weixin.qq.com/s/QDID1F35OFmfHN6vFHnPyA)
-- [双非研二师弟的春招总结和实习感悟](https://mp.weixin.qq.com/s/1SGiM5n9N6BPePSmIdsP-g)
-
-
-
-
-
-**🔨 [大厂内推](Doc/Other/内推信息/内推信息.md#大厂内推)**
-
-- [内推的重要性](Doc/Other/内推信息/内推信息.md#importance)
-- [字节跳动](Doc/Other/内推信息/内推信息.md#字节跳动)
-- [携程](Doc/Other/内推信息/内推信息.md#携程)
-- [其余公司](Doc/Other/内推信息/内推信息.md#其余公司)
-
-
-
-**🐼 [关于阿秀](Doc/Other/ContactMe/ContactMe.md#关于阿秀)**
-
-
-
-🍖**[一对一服务](Doc/Other/一对一服务.md)**
-
-
-
-**🎅 [友情赞助](Doc/Other/Donate/Donate.md#友情赞助)**
-
-**📋   [网站迭代](Doc/Other/网站迭代更新记录/网站迭代更新记录.md#网站迭代更新记录)**
-
-**🥉 [致谢](Doc/Other/致谢/致谢.md#致谢)**
-
-
-
-<p id="downloadpdf">
-
-**:book:PDF下载方式**
-
-请移步本人公众号『[拓跋阿秀](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100000332&idx=1&sn=9dd24307b7e963174ee8429827542318&chksm=4e25fe3179527727ac563214c69fe6ac354ab4383c652d9b3e9e03d70dc48df4ad929e076ce3#rd)』或扫描下方二维码，回复关键字『**PDF**』即可下载最新PDF版本，阿秀会不断更新迭代最新版本~
-
-<div style="height: 250px; width:250px; align:center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261416899.png"  align="middle" style="zoom: 33%;" >
-</div>
-
-
-
-
-
-解压密码为：a123654，注意看清楚是a123654，而不是a123456，设置密码的原因主要是**防止百度云和谐 PDF ，造成资源失效**。
-
-该资料脱胎于阿秀 **2021** 年秋招时期总结的面试笔记，作者也是凭借这份笔记成功体验到一份 **offer 收割机** 的快乐，阿秀秋招总结可看[秋招总结文章](https://mp.weixin.qq.com/s/AYe3tnuOmqR4jdDndDGW-Q)，现将个人笔记整理开源出来，造福每位像我这样的渣渣~
-
--->
 
