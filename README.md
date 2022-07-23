@@ -6,7 +6,7 @@
 >
 > 本仓库是是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们秋招总结文章的汇总，也许你曾经了解过甚至研读过一本PDF，它可能叫做《逆袭进大厂》或者《阿秀的校招笔记》或者《阿秀的求职笔记》，都是本仓库内容的部分摘录。
 
-👉 推荐 [在线阅读](https://interviewguide) (Github 访问速度比较慢可能会导致部分图片无法刷新出来)
+👉 推荐 [在线阅读](https://interviewguide.cn) (Github 访问速度比较慢可能会导致部分图片无法刷新出来)
 
 👉 如果你是计算机小白、迷茫找不到方向、或者跟阿秀一样出身很差（大专、三本、二本等）、不甘平凡想要再努力一把、缺少学习动力等，不妨阅读[阿秀的故事](docs/notes/01-guide/web-guide-reading.md#二、自学经历)或者加入[阿秀的学习圈](https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90)，我记录了自己从普通双非学校一名默默无名的学生到顺利成长为一名互联网一线大厂的程序员的成长过程以及在互联网职场的学习成长经历，相信这些内容能够帮助你成长一名合格的互联网技术从业者。
 
@@ -14,7 +14,7 @@
 
 👉 **1000**本计算机经典书籍免费下载：[CS-Books](https://github.com/forthespada/CS-Books)
 
-👉 关于 **InterviewGuide** 仓库或者《[阿秀的学习笔记网站](https://interviewguide)》的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
+👉 关于 **InterviewGuide** 仓库或者《[阿秀的学习笔记网站](https://interviewguide.cn)》的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
 
 <div align="center">
     <p align="center"><b>知识星球</b>：<a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90">阿秀的学习圈</a> 👇</p>
