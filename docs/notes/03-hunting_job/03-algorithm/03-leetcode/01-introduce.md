@@ -70,11 +70,9 @@ comment: false
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[11、动态规划](/notes/03-hunting_job/03-algorithm/03-leetcode/11-动态规划/introduce.md)</font>
 
-12、广度优先搜索（BFS）
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[12、深度优先搜索（DFS）](/notes/03-hunting_job/03-algorithm/03-leetcode/13-DFS/introduce.md)</font>
 
-13、深度优先搜索（DFS）
-
-14、树
+13、树
 
 <!--
 
