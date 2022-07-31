@@ -32,17 +32,11 @@ comment: false
 
 ## **本专栏介绍**
 
--  本专栏是阿秀本人在秋招前的于力扣网的刷题笔记整理总结，是按照如下14个标签进行刷题的，每个标签下具体又分为Easy、Medium、Hard三个等级
+-  本专栏是阿秀本人在秋招前的于力扣网的刷题笔记整理总结，是按照如下13个标签进行刷题的，每个标签下具体又分为Easy、Medium、Hard三个等级
 -  本专栏适合于校招、社招工作党以及打算转行做计算机的非科班人士，适用于互联网求职笔试、面试而非算法类竞赛比如蓝桥杯等
 -  本专栏是我从将近600道算法题目中精选出300+道而成的，对于一些质量不太好以及面试笔试中出现频率较低的题目被阿秀筛掉了
 
-
-
-## 说明
-
-由于换站带来的数据迁移问题，目前只整理好了[带你快速刷完67道剑指offer](/notes/03-hunting_job/03-algorithm/02-sword-offer/01-introduce.md)、[面试高频算法真题](/notes/03-hunting_job/03-algorithm/04-high_frquency_algorithm/01-high_frquency_algorithm.md)，而《精选力扣300+道算法题》还未全部整理好，整理好一部分上线一部分~
-
-
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202207311636966.jpg)
 
 
 
@@ -72,17 +66,7 @@ comment: false
 
 <font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[12、深度优先搜索（DFS）](/notes/03-hunting_job/03-algorithm/03-leetcode/13-DFS/introduce.md)</font>
 
-13、树
-
-<!--
-
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[12、广度优先搜索（BFS）](/notes/03-hunting_job/03-algorithm/03-leetcode/12-BFS/introduce.md)</font>
-
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[13、深度优先搜索（DFS）](/notes/03-hunting_job/03-algorithm/03-leetcode/13-DFS/introduce.md)</font>
-
-<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[14、树](/notes/03-hunting_job/03-algorithm/03-leetcode/14-树/introduce.md)</font>
-
--->
+<font style="font-weight:normal; color:#4169E1;text-decoration:underline;" target="_blank">[13、树](/notes/03-hunting_job/03-algorithm/03-leetcode/14-树/introduce.md)</font>
 
 关于更多本专栏的介绍可以点此了解阿秀的<font style="font-weight:bold; color:#4169E1;text-decoration:underline;" target="_blank">[**秋招找工作经历与个人介绍**](/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.md)</font>。
 
