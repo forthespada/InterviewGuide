@@ -1,7 +1,7 @@
 ---
 layout: post
 category: language
-title:  网站日记&更新迭代记录
+title:  网站日记
 tags:
     - 时间线
     - 网站日记
@@ -14,7 +14,7 @@ comment: false
 
 
   <h1 align="center">
-    网站日记&更新迭代记录
+    网站日记
   </h1>
 
 没有哪个网站是最开始建成之时，功能就十分完善的，所以仅在此记录下阿秀的小破站的迭代更新记录。

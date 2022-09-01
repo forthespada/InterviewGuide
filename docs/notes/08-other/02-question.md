@@ -1,20 +1,21 @@
 ---
 layout: post
 category: language
-title:  常见问题&留言板
+title:  读者问题
 tags:
     - 常见问答
     - 使用方式
     - 网站日记
     - 更新迭代
     - 阿秀
-excerpt: 常见问题&留言板s
+excerpt: 读者问题
+comment: false
 ---
 
 
 
   <h1 align="center">
-    常见问题&留言板
+    读者问题
   </h1>
 
 
@@ -57,7 +58,7 @@ excerpt: 常见问题&留言板s
 
 ## 3、关于夜间模式
 
-阿秀自己开发实现了暗黑模式功能，实现夜间模式，具体可见网站建设时间线：[网站日记&更新迭代记录](/notes/08-other/01-web-time-line.md)
+阿秀自己开发实现了暗黑模式功能，实现夜间模式，具体可见网站建设时间线：[网站日记](/notes/08-other/01-web-time-line.md)
 
 
 

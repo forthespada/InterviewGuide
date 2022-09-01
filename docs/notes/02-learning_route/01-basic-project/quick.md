@@ -96,7 +96,17 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 
 
+## 建议非科班先看一个视频
 
+如果你是非科班，对计算机也不怎么了解，不知道什么叫做内存管理、也不知道什么是互联网协议，更不知道存储是什么意思，那我建议你先去看一个《计算机速成课》。
+
+这个课的名字可能有点像垃圾课的名字，但这个课真的是好课，在国外YouTube上的播放量有2亿之多。
+
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208272223427.png)
+
+地址：https://www.bilibili.com/video/BV1EW411u7th
+
+这个课会带你大致了解一下计算机是什么，这个课真的超级推荐了！
 
 ## 操作系统
 

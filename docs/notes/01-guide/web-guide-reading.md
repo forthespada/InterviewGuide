@@ -16,6 +16,7 @@ tags:
     - 学习笔记
     - 校招
     - 社招
+comment: false
 ---
 
 
@@ -127,7 +128,7 @@ tags:
 
 ### **1、编程语言⭐**
 
-- 地址：[编程语言](/notes/03-hunting_job/02-interview/01-01-01-基础语法.md)
+- 地址：[编程语言](/notes/03-hunting_job/02-interview/01-01-01-basic.md)
 - 简介：阿秀学习以及秋招找工作期间琐所做个人总结的技术岗面试编程语言中的常见问题&参考答案，如C++等。
 
 ### **2、操作系统⭐**
@@ -154,13 +155,13 @@ tags:
 
 ### **1、算法食用指南⭐**
 
-- 地址：[算法食用指南](/notes/03-hunting_job/03-algorithm/01-basic-algorithm/01-算法模块食用指南.md)
+- 地址：[算法食用指南](/notes/03-hunting_job/03-algorithm/01-basic-algorithm/01-introduce.md)
 - 简介：阿秀以前求职的时候刷过《剑指offer》 3遍左右， 力扣超过600+题，现针对不同人群、不同基础的小伙伴给出不同的刷题意见&建议。
 
 ### **2、算法基础**
 
-- 地址：[算法基础](/notes/03-hunting_job/03-algorithm/01-basic-algorithm/02-必备算法基础.md)
-- 简介：一些基本的算法知识。
+- 地址：[算法基础](/notes/03-hunting_job/03-algorithm/01-basic-algorithm/02-algorithm-basic.md)
+- 简介：一些基本的算法知识，比如稳定排序、非稳定排序以及常见的十大排序等。
 
 ### **3、带你快速刷完67道剑指offer⭐⭐**
 
@@ -262,9 +263,9 @@ tags:
 
 ## 十、其他
 
-### 1、[网站时间线](/notes/08-other/01-web-time-line.md)
+### 1、[网站日记](/notes/08-other/01-web-time-line.md)
 
-### 2、 常见问题&留言板
+### 2、 读者问题
 
-- 地址：[常见问题&留言板](/notes/08-other/02-question.md)
+- 地址：[读者问题](/notes/08-other/02-question.md)
 - 介绍：网站使用过程中或许会有一些疑惑，这里阿秀统一做解答&回复！如果想要联系阿秀，也可以[点击此处](/notes/08-other/02-question.md#_4、阿秀-如何才能联系到你)！
