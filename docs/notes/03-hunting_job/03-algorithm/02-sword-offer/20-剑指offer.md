@@ -99,15 +99,8 @@ public:
         st.pop();//pop掉当前最小值
         int temp = st.top();
         st.pop();
-        if(minNum == st.top()){
-            st.push(temp);
-        }else{
-            minNum = st.top();
-            st.pop();
-            st.push(minNum);
-            st.push(temp);
-        }
-
+        minNum = st.top();
+        st.push(temp);
        
     }
     int top() {
