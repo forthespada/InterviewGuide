@@ -105,7 +105,7 @@ comment: false
 - **如果你跟阿秀一样，学历一般，学校也一般，但还是不愿意放弃自己**；
 - **如果你以前没有什么好的学习习惯，一直都是随波逐流，现在想尝试做出改变**；
 - **如果你是小白、新手、非科班转行到CS，没有一个好的引路人或者没有好的学习圈子**；
-- **如果你愿意通过自己的努力，想要拿在校招中拿到一个20W+的offer的话**；
+- **如果你愿意通过自己的努力，想要拿在校招中拿到一个30W+的offer的话**；
 - .....
 
 
@@ -666,6 +666,7 @@ comment: false
 加入星球之后记得看星球置顶页中的「[新人报道](https://t.zsxq.com/04JuJQnub)」以及「📖[知识图谱](https://t.zsxq.com/04qZzBAAe)」，特别是知识图谱，因为那是整个《阿秀的学习圈》的精华汇总，很多学长学姐的经验都被阿秀收录在那里了，讲真你一定会发现物超所值！如果你需要一些资源的话可以看看置顶帖中的「🏆[资源沉淀](https://t.zsxq.com/05IiiIa6A)」！
 
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051154815.png" style="zoom:60%;" />
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202209062337206.png" style="zoom:60%;" />
 </div>
+
 欢迎你加入阿秀的学习圈，因为这可能是你<strong>近一年内性价比最高的一笔投资</strong>了！阿秀的学习圈子链接 -> <a href="https://wx.zsxq.com/dweb2/index/group/28855581515241" target="_blank">点此直达</a>
