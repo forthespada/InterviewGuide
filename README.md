@@ -12,7 +12,7 @@
 
 👉 该学习笔记适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~** 作者：[阿秀](doc/notes/08-other/02-question.md#_1、网站内容适用人群)
 
-👉 **1000**本计算机经典书籍免费下载：[CS-Books](https://github.com/forthespada/CS-Books)
+🔥🔥🔥 **1000**本计算机经典书籍免费下载：[CS-Books](https://github.com/forthespada/CS-Books)
 
 👉 关于 **InterviewGuide** 仓库或者《[阿秀的学习笔记网站](https://interviewguide.cn)》的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
 
@@ -95,19 +95,16 @@
 
 ### 2.1、基础学科->👉[在线阅读](https://interviewguide.cn/notes/02-learning_route/01-basic-project/01-introduce.html)
 
-- [为什么说基础学科的学习很重要？](docs/notes/02-learning_route/01-basic-project/01-introduce.md)
-- [学会不直接劝退自己-计算机网络学习路线](docs/notes/02-learning_route/01-basic-project/03-计算机网络学习路线.md)
+- [为什么说基础学科的学习很重要？](https://interviewguide.cn/notes/02-learning_route/01-basic-project/01-introduce.html)
+- [计算机校招基础学科速成路线](https://interviewguide.cn/notes/02-learning_route/01-basic-project/quick.html)
+- [操作系统学习路线](https://interviewguide.cn/notes/02-learning_route/01-basic-project/02-os.html)
+- [学会不直接劝退自己-计算机网络学习路线](https://interviewguide.cn/notes/02-learning_route/01-basic-project/03-net.html)
 
 ### 2.2、编程语言👉[在线阅读](https://interviewguide.cnhttps://interviewguide.cn/notes/02-learning_route/02-language/01-introduce.html)
 
-- [为什么说编程语言主攻一门即可？学会做一个T型人才](docs/notes/02-learning_route/02-language/01-introduce.md)
-- [呕心沥血一个月，为小白新手准备的C++求职版学习路线](docs/notes/02-learning_route/02-language/01-C++学习路线.md)
-- [一顿烤羊腿换来的Golang学习路线](docs/notes/02-learning_route/02-language/02-golang学习路线.md)
-
-- <details><summary><a>👉点此此处查看更多</a></summary></br>
-
-
-  - 
+- [为什么说编程语言主攻一门即可？学会做一个T型人才](https://interviewguide.cn/notes/02-learning_route/02-language/01-introduce.html)
+- [呕心沥血一个月，为小白新手准备的C++求职版学习路线](https://interviewguide.cn/notes/02-learning_route/02-language/01-C++.html)
+- [一顿烤羊腿换来的Golang学习路线](https://interviewguide.cn/notes/02-learning_route/02-language/02-golang.html)
 
   </details>
 
