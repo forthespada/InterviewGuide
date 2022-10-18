@@ -136,7 +136,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 **南京大学计算机系统基础(一)（二）**
 
-建议去首先看下南京大学袁春风老师主讲的计算机系统基础(一)（二），只看一就足够，对于（三）（四）可在后续再看！
+建议去首先看下南京大学袁春风老师主讲的计算机系统基础(一)（二），只看一二就足够，对于（三）（四）可在后续再看！
 
 ![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220053668.png)
 
