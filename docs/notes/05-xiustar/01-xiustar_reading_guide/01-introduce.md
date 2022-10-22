@@ -574,14 +574,23 @@ comment: false
     <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206051209125.png" style="zoom:50%;" />
   </div>
 
-### 6、圈友各种分享集锦
+### 6、圈友各种校招上岸分享集锦
 
-- **1、学习圈圈友问答摘录**
+- **1、往届学长学习问答摘录**
 
   - [研一一整年都在搞深度学习，研二打算转开发](/notes/05-xiustar/09-question_answer/20220530-研一一整年都在搞深度学习，研二打算转开发.md)
   - [秋招准备时间不够？优先挑性价比高的](/notes/05-xiustar/09-question_answer/20220531-秋招准备时间不够？优先挑性价比高的.md)
   - [7天五面，提前批顺利上岸飞书后端](/notes/05-xiustar/09-question_answer/20220817.md)
   - [上岸快手，我选择一条不一样的路](/notes/05-xiustar/09-question_answer/20220819.md)
+  - [三无人员简历挂麻了，磕磕绊绊终上岸字节后端](/notes/05-xiustar/05-campus_recruitment/20220823.md)
+  - [不管那么多，offer先接了再说](/notes/05-xiustar/05-campus_recruitment/20220825.md)
+  - [顺利上岸字节电商后端，但也真的很不顺利](/notes/05-xiustar/05-campus_recruitment/20220830.md)
+  - [算法转开发，拿了3个offer！](/notes/05-xiustar/05-campus_recruitment/20220906.md)
+  - [前脚结束面试，后脚意向书就发来了。。。](/notes/05-xiustar/05-campus_recruitment/20220911.md)
+  - [抖音后端，实习offer。](/notes/05-xiustar/05-campus_recruitment/20220919.md)
+  - [上岸字节基础架构，大二转专业后我终于走到这一步](/notes/05-xiustar/05-campus_recruitment/20221007.md)
+  - [四非选手，上岸互联网后端/服务端开发](/notes/05-xiustar/05-campus_recruitment/20221013.md)
+  - [11面后上岸抖音后端，我悟了](/notes/05-xiustar/05-campus_recruitment/20221018.md)
   - [秋招来临，我缺打算换主攻语言](/notes/05-xiustar/09-question_answer/20220602-秋招来临，我却打算换主攻语言.md)
   - [对自己目前的秋招进度产生怀疑了](/05-xiustar/09-question_answer/20220613-对自己目前的秋招进度产生怀疑了.md)
   - [越学越没信心！面试的时候像是在背八股文](/notes/05-xiustar/09-question_answer/20220602-越学越没信心！面试的时候像是在背八股文.md)
@@ -618,12 +627,24 @@ comment: false
   - [3984个小时，阿秀亲眼见证:小白非科班学妹 -> offer收割机](/notes/05-xiustar/05-campus_recruitment/20210719-看着小白非科班师妹一步一步，逐渐成长为offer收割机是种什么体验？.md)
   - [虚度大一一年又如何，双非本科大三学弟连斩腾讯字节](/notes/05-xiustar/05-campus_recruitment/20210320-虚度大一一年又如何，双非本科大三学弟连斩腾讯字节.md)
   - [一个萌妹纸：大四考研落榜又校招上岸字节客户端开发](/notes/05-xiustar/05-campus_recruitment/20210726-一个萌妹子：大四考研又上岸字节IOS.md)
-  - [.....](/notes/05-xiustar/05-campus_recruitment/20210214-朋友先后折戟腾讯、字节、快手、网易、滴滴、深信服后，终于成功上岸了.md)
+  - [三无人员简历挂麻了，磕磕绊绊终上岸字节后端](/notes/05-xiustar/05-campus_recruitment/20220823.md)
+  - [不管那么多，offer先接了再说](/notes/05-xiustar/05-campus_recruitment/20220825.md)
+  - [顺利上岸字节电商后端，但也真的很不顺利](/notes/05-xiustar/05-campus_recruitment/20220830.md)
+  - [算法转开发，拿了3个offer！](/notes/05-xiustar/05-campus_recruitment/20220906.md)
+  - [前脚结束面试，后脚意向书就发来了。。。](/notes/05-xiustar/05-campus_recruitment/20220911.md)
+  - [抖音后端，实习offer。](/notes/05-xiustar/05-campus_recruitment/20220919.md)
+  - [上岸字节基础架构，大二转专业后我终于走到这一步](/notes/05-xiustar/05-campus_recruitment/20221007.md)
+  - [四非选手，上岸互联网后端/服务端开发](/notes/05-xiustar/05-campus_recruitment/20221013.md)
+  - [11面后上岸抖音后端，我悟了](/notes/05-xiustar/05-campus_recruitment/20221018.md)
   
   **5、阿秀帮你选offer**
   
   - [如何从多维度评估offer，选择最合适自己的那个](/notes/05-xiustar/06-offer/01-offer_choose.md)
+  - [拿了offer，为什么会觉得寒碜和丢人？](/notes/05-xiustar/06-offer/20221017.md)
+  - [offer选择，哭了，我又被倒挂了。。。](/notes/05-xiustar/06-offer/20221012.md)
+  - [晚生一年就是这样的结果吗？真的很不甘心。](/notes/05-xiustar/06-offer/20221014.md)
   - [阿里内部平台VS火山引擎后端开发，拿头比？](/notes/05-xiustar/06-offer/20211123-阿里内部平台VS火山视频引擎后端，拿头比？.md)
+  - [小厂10K vs大厂20K，选哪个？](/notes/05-xiustar/06-offer/20221016.md)
   
   **6、互联网职场杂谈**
   
