@@ -134,7 +134,10 @@ comment: false
 </div>
 
 
+顺利拿到offer后也切实体会到一起**抱团取暖**的好处，这也正是我创立这个学习圈子的目的之一。
 
+<div align="center">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210222058294.png" alt="img" style="zoom:63%;" /></div>
 
 
 
