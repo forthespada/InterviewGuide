@@ -21,7 +21,18 @@ comment: false
 
 >点击左侧目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
 >
->笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，目前已经更新超过500+了，一个人的力量是有限的，请谅解一下。如果没有您要用的书，可以加一下个人微信**aXiu_go**，注明来意，我会慢慢添加上去的。
+>笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，目前已经更新超过500+了，一个人的力量是有限的，请谅解一下。如果没有您要用的书，可以加一下个人微信**coderxiu3**，注明来意，我会慢慢添加上去的。
+
+
+
+<div align=right>
+    <p>花了很久时间整理的，如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
+<figure class="half">
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222339456.png" style="right;zoom: 35%;" />
+                                                                                                                        <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222339089.png"  style="right;zoom: 35%;" />
+                                                                                                                         </figure></div>
+
+
 
 
 - [00 - C语言](#_00-c语言)
@@ -941,14 +952,6 @@ comment: false
 
 ​    
 
-## Donate
-
-<div align=right>
-    <p>花了很久时间整理的，如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
-<figure class="half">
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222339456.png" style="right;zoom: 35%;" />
-                                                                                                                        <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222339089.png"  style="right;zoom: 35%;" />
-                                                                                                                         </figure></div>
 
 
 

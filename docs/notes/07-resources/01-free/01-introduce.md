@@ -65,3 +65,8 @@ comment: false
 
 - 地址：[图解操作系统、网络、计算机组成PDF下载！那些让你起飞的计算机基础知识~](/notes/07-resources/01-free/07-cs-basic-school-schedule.md)
 - 介绍：分享一下我之前准备面试经常看的一些关于计算机基础的 PDF 资料。
+
+## 8、后端必备！SQL语法速成手册！~
+
+- 地址：[后端必备！SQL语法速成手册！~](/notes/07-resources/01-free/08-sql-school-schedule.md)
+- 介绍：SQL语法速成手册！。

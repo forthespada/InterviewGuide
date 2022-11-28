@@ -30,7 +30,7 @@ comment: false
 
 在阿霜学姐个人的公众号“**校招日程**”后台回复 “**006**” 即可获取下载链接。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282331651.jpeg)
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg" style="zoom:150%;" /></div>
 
 相信这些可以为想要学习新技术的你提供一份详细且清晰的学习路线，学姐做这些是希望各位学弟学妹们能在校期间好好学这些技术才是真，现在校招真的太卷了。。。
 
@@ -48,7 +48,7 @@ Java 是当下企业开发最热门的编程语言，它有着强大的生态以
 
 在阿霜学姐个人的公众号“**校招日程**”后台回复 “**006**” 即可获取下载链接。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/K6qw09sHw82k8NfKSSupDLGzw3ltl4DcjYhJa4mPZQ3PRUiaicicEzogM90jYqHKM28PR64YmQZJ2Tz26HA9Rc9xA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg" style="zoom:150%;" /></div>
 
 ## Go
 
@@ -109,5 +109,5 @@ Web Developer Roadmap 是一个大一统的 Web 开发学习路线，涵盖了�
 
 在阿霜学姐个人的公众号“**校招日程**”后台回复 “**006**” 即可获取下载链接。
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/K6qw09sHw82k8NfKSSupDLGzw3ltl4DcjYhJa4mPZQ3PRUiaicicEzogM90jYqHKM28PR64YmQZJ2Tz26HA9Rc9xA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg" style="zoom:150%;" /></div>
 

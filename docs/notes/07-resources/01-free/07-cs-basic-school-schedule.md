@@ -34,7 +34,7 @@ comment: false
 
 阿霜学姐个人的公众号“**校招日程**”后台回复 “**计算机基础**” 即可获取下载链接。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg)
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg" style="zoom:150%;" /></div>
 
 
 
@@ -48,7 +48,7 @@ comment: false
 
 阿霜学姐个人的公众号“**校招日程**”后台回复 “**计算机基础**” 即可获取下载链接。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336317.jpeg)
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg" style="zoom:150%;" /></div>
 
 
 
@@ -62,5 +62,5 @@ comment: false
 
 阿霜学姐个人的公众号“**校招日程**”后台回复 “**计算机基础**” 即可获取下载链接。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336715.jpeg)
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg" style="zoom:150%;" /></div>
 
