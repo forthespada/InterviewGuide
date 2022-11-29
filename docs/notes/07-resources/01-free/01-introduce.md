@@ -56,6 +56,8 @@ comment: false
 - 地址：[计算机经典图书TOP50 PDF版本合集](/notes/07-resources/01-free/05-当当top50.md)
 - 介绍：偶然间在当当图书榜看到了一份计算机经典图书Top50榜单，由于这份榜单中很多图书都是珍贵书籍，我已经尽力收集了相应的PDF电子版，现在免费分享给大家。
 
+
+
 ## 6、Github 上的各种硬核技术学习路线思维导图~
 
 - 地址：[Github 上的各种硬核技术学习路线思维导图~](/notes/07-resources/01-free/06-github-school-schedule.md)
@@ -66,7 +68,27 @@ comment: false
 - 地址：[图解操作系统、网络、计算机组成PDF下载！那些让你起飞的计算机基础知识~](/notes/07-resources/01-free/07-cs-basic-school-schedule.md)
 - 介绍：分享一下我之前准备面试经常看的一些关于计算机基础的 PDF 资料。
 
-## 8、后端必备！SQL语法速成手册！~
+## 8、速来！浙江大学CS本科生课程开源了
+
+- 地址：[速来！浙江大学CS本科生课程开源了](/notes/07-resources/01-free/10-zju-school-schedule.md)
+- 介绍：浙江大学CS本科生课程开源了
+
+## 9、大格局！清华大学计算机系课程攻略共享计划！
+
+- 地址：[大格局！清华大学计算机系课程攻略共享计划！](/notes/07-resources/01-free/11-uht-school-schedule.md)
+- 介绍：清华大学计算机系课程攻略共享计划，格局太大了！
+
+## 10、后端必备！SQL语法速成手册！~
 
 - 地址：[后端必备！SQL语法速成手册！~](/notes/07-resources/01-free/08-sql-school-schedule.md)
 - 介绍：SQL语法速成手册！。
+
+## 11、10套简历模板！Word格式，白嫖可用~
+
+- 地址：[10套简历模板！Word格式，白嫖可用~！~](/notes/07-resources/01-free/09-resume-school-schedule.md)
+- 介绍：10套简历模板！Word格式，白嫖可用~
+
+## 12、《Pro Git 中文版》PDF，带你学会git的骚操作~
+
+- 地址：[《Pro Git 中文版》PDF，带你学会git的骚操作~](/notes/07-resources/01-free/12-git-school-schedule.md)
+- 介绍：带你学会git的骚操作~
