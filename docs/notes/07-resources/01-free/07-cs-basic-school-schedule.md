@@ -34,7 +34,7 @@ comment: false
 
 扫描下方二维码回复 “**计算机基础**” 即可获取下载链接。
 
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" /></div>
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
 
 
 
@@ -48,7 +48,7 @@ comment: false
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**计算机基础**” 即可获取下载链接。
 
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" /></div>
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
 
 
 
@@ -62,5 +62,5 @@ comment: false
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**计算机基础**” 即可获取下载链接。
 
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" /></div>
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
 
