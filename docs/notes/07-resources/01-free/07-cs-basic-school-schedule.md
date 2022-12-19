@@ -20,7 +20,7 @@ comment: false
 
 因为计算机基础知识准备的还可以，我才顺利拿到了这些大厂的 Offer! 
 
-今天就给大家分享一下我之前准备面试经常看的一些关于计算机基础的 PDF 资料!不过我以前收集到的都找不到了，还是让我的好朋友阿霜搜集的，。。。。
+今天就给大家分享一下我之前准备面试经常看的一些关于计算机基础的 PDF 资料
 
 ## 图解计算机系统
 
@@ -28,13 +28,13 @@ comment: false
 
 内容真心赞！不光适合准备面试的朋友，同时也适合想学习操作系统和一些计算机组成知识的朋友。
 
-![图片](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282348670.png)
+![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282348670.png)
 
 获取的方式如下，没有任何套路。
 
-阿霜学姐个人的公众号“**校招日程**”后台回复 “**计算机基础**” 即可获取下载链接。
+扫描下方二维码回复 “**计算机基础**” 即可获取下载链接。
 
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg" style="zoom:150%;" /></div>
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" /></div>
 
 
 
@@ -46,9 +46,9 @@ comment: false
 
 获取的方式如下，没有任何套路。
 
-阿霜学姐个人的公众号“**校招日程**”后台回复 “**计算机基础**” 即可获取下载链接。
+阿秀个人的公众号“**拓跋阿秀**”后台回复 “**计算机基础**” 即可获取下载链接。
 
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg" style="zoom:150%;" /></div>
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" /></div>
 
 
 
@@ -60,7 +60,7 @@ comment: false
 
 获取的方式如下，没有任何套路。
 
-阿霜学姐个人的公众号“**校招日程**”后台回复 “**计算机基础**” 即可获取下载链接。
+阿秀个人的公众号“**拓跋阿秀**”后台回复 “**计算机基础**” 即可获取下载链接。
 
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg" style="zoom:150%;" /></div>
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" /></div>
 

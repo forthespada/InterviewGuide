@@ -26,7 +26,21 @@ comment: false
 - 历年试卷和复习资料：exam/
 - 开卷考试 A4 纸：a4paper/
 
-等等。目前具体已涵盖课程如下：（课程分类按照实际情况而不是按照培养方案）
+等等。
+
+## 获取方式
+
+这里我把github地址贴一下：https://github.com/PKUanonym/REKCARC-TSC-UHT
+
+如果你不方便上github的话，阿秀已经下载了一份，获取的方式如下，没有任何套路。
+
+阿秀个人的公众号“**拓跋阿秀**”后台回复 “**011**” 即可获取。
+
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" /></div>
+
+
+
+目前具体已涵盖课程如下：（课程分类按照实际情况而不是按照培养方案）
 
 - 大一上：
 
@@ -122,10 +136,10 @@ comment: false
 
 这里我把github地址贴一下：https://github.com/PKUanonym/REKCARC-TSC-UHT
 
-如果你不方便上github的话，我的好朋友阿霜已经下载了一份，获取的方式如下，没有任何套路。
+如果你不方便上github的话，阿秀已经下载了一份，获取的方式如下，没有任何套路。
 
-我的好朋友阿霜学姐个人的公众号“**校招日程**”后台回复 “**010**” 即可获取。
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211282336371.jpeg" style="zoom:150%;" /></div>
+阿秀个人的公众号“**拓跋阿秀**”后台回复 “**011**” 即可获取。
+<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" /></div>
 
 github地址：https://github.com/PKUanonym/REKCARC-TSC-UHT
 
