@@ -104,7 +104,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 ![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208272223427.png)
 
-地址：https://www.bilibili.com/video/BV1EW411u7th
+地址：[https://www.bilibili.com/video/BV1EW411u7th](https://www.bilibili.com/video/BV1EW411u7th)
 
 这个课会带你大致了解一下计算机是什么，这个课真的超级推荐了！
 
@@ -242,9 +242,9 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 1、请问秀哥SQL的学习方法，是如何学习SQL的？[https://t.zsxq.com/02bUzbU3f](https://t.zsxq.com/02bUzbU3f)
 
-2、SQL面试常考会考察哪些题型？难不难？https://t.zsxq.com/02emAe6E2
+2、SQL面试常考会考察哪些题型？难不难？[https://t.zsxq.com/02emAe6E2](https://t.zsxq.com/02emAe6E2)
 
-3、没有MySQL和Redis实操基础，该怎么办？https://t.zsxq.com/02rbuvbEe
+3、没有MySQL和Redis实操基础，该怎么办？[https://t.zsxq.com/02rbuvbEe](https://t.zsxq.com/02rbuvbEe)
 
 ### MySQL
 
@@ -295,7 +295,7 @@ MySQL的学习不是一天两天、一两个视频能学完的，但上面一些
 
 **如果想要去秋招面试，那就再盯着我以前的学习笔记上的内容好好看就是了！**
 
-**MySQL高频面试题**：https://interviewguide.cn/notes/03-hunting_job/02-interview/04-01-01-MySQL.html
+**MySQL高频面试题**：[https://interviewguide.cn/notes/03-hunting_job/02-interview/04-01-01-MySQL.html](https://interviewguide.cn/notes/03-hunting_job/02-interview/04-01-01-MySQL.html)
 
 ### Redis
 
@@ -305,7 +305,7 @@ MySQL的学习不是一天两天、一两个视频能学完的，但上面一些
 
 ![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220054393.png)
 
-**地址**：https://www.bilibili.com/video/BV1oW411u75R
+**地址**：[https://www.bilibili.com/video/BV1oW411u75R](https://www.bilibili.com/video/BV1oW411u75R)
 
 #### 比较重要的一个视频+一本书+一个专栏
 
