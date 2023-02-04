@@ -97,10 +97,12 @@ public:
     void pop() {
         st.pop();//pop掉当前值
         st.pop();//pop掉当前最小值
-        int temp = st.top();
-        st.pop();
-        minNum = st.top();
-        st.push(temp);
+        if(!st.empty()){
+            int temp = st.top();
+            st.pop();
+            minNum = st.top();
+            st.push(temp);
+        }
        
     }
     int top() {
