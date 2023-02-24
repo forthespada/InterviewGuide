@@ -1,18 +1,18 @@
 ---
 layout: post
 category: lanuuage
-title: 格局！清华大学计算机系课程攻略共享！
+title: Github开源！清华大学计算机系课程攻略共享计划（附赠离线版资源）！
 tags:
     - 白嫖
     - 资源
     - 阿秀
-excerpt: 浙江大学课程攻略共享
+excerpt: Github开源！清华大学计算机系课程攻略共享计划（附赠离线版资源）！
 comment: false
 ---
 
 
 
-<h1 align="center">大格局！清华大学计算机系课程攻略共享计划！</h1>
+<h1 align="center">Github开源！清华大学计算机系课程攻略共享计划（附赠离线版资源）！</h1>
 
 上周在github闲逛看到一份清华大学计算机系课程攻略，分享了清华大学本科生计算机四年所学的全部课程。
 
