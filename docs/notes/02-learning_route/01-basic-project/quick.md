@@ -19,15 +19,22 @@ comment: false
 
 
 
-<div align="center">
-  <a href="/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子">
-      <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202302042310919.png">
-  </a></div>
-
-
-
-> 如果你想在校招中顺利拿到更好的offer，阿秀建议你多看看<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[前人的经验](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md)</font> ，比如<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[准备](/notes/05-xiustar/02-campus_prepare/02-01-校招重要时间点科普.md)</font> 、<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[简历](/notes/05-xiustar/03-resume/01-00-简历开篇词.md)</font> 、<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[实习](/notes/05-xiustar/04-school_practice/20220320-从公司角度来看，为什么要招实习生.md)</font> 、<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[上岸经历](/notes/05-xiustar/09-question_answer/20220817.md)</font> 、<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[校招总结](/notes/05-xiustar/05-campus_recruitment/2020-12-16-双非渣硕的秋招之路总结（已拿抖音研发岗SP）.md)</font> 、<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[阿里、字节、腾讯、美团等一二线大厂真实面经](/notes/07-resources/01-free/04-schoolSchample.md)</font> 、<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[也欢迎来一起参加秋招打卡活动](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子)</font> 等；如果你是计算机小白，学习/转行/校招路上感到迷茫或者需要帮助，可以<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[点此联系阿秀](/notes/08-other/02-question.md#_4、阿秀-如何才能联系到你)</font>；免费分享阿秀个人学习计算机以来的收集到的好资源，<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[点此白嫖](/notes/07-resources/01-free/01-introduce.md)</font>；如果你需要《阿秀的学习笔记》网站中求职相关知识点的**PDF版本**的话，可以<font style="font-weight:bold; color:#4169E1;text-decoration:underline;">[点此下载](/notes/08-other/02-question.md#_5、如何下载阿秀的学习笔记内容pdf版本)</font> 
-
+<div style="border-color: #24C6DC;
+            background-color: #e9f9f3;         
+            margin: 1rem 0;
+        padding: .25rem 1rem;
+        border-left-width: .3rem;
+        border-left-style: solid;
+        border-radius: .5rem;
+        color: inherit;">
+  <p>这是四则或许对你有帮助的讯息</p>
+  <p>1、👉 最近发现了一个每日推送都会最新校招咨询的<a style="text-decoration: underline" href="https://flowus.cn/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">《校招日程》</a>文档，包括大厂、国企、银行、事业编等信息都会定期更新，无偿分享一下。</p>  
+  <p>2、😍
+    免费分享阿秀个人学习计算机以来的收集到的免费资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>。
+  </p>
+  <p>3、🚀如果你想在校招中顺利拿到更好的offer，阿秀建议你多看看前人<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">踩过的坑</a>和留下的<a style="text-decoration: underline"  target="_blank" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp">经验</a>，事实上你现在遇到的大多数问题你的学长学姐师兄师姐基本都已经遇到过了。
+  </p>
+  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行真的不如一群人报团取暖，好好走下去基本都能拿到不错的offer！如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="/notes/08-other/02-question.html#_5、如何下载阿秀的学习笔记内容pdf版本" target="_blank">点此下载</a> 。</p>   </div>
 
 
 ## 前言
@@ -116,7 +123,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 ![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220052851.png)
 
-添加图片注释，不超过 140 字（可选）
+
 
 我建议你跟我一样从简单书籍入手，《计算机是怎样跑起来的》这本书很适合小白入手开始读，全文以图配文，以计算机的三大原则为开端，整个过程相继介绍了计算机的结构、手工汇编、程序流程、算法、数据结构、面向对象编程、数据库、TCP/IP 网络的相关知识。
 
@@ -126,7 +133,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 我跟上面这位豆瓣读书的朋友意见一致，同样认为这是本很nice的入门书，同系列的还有两本：
 
-**《程序是怎样跑起来的》、《****网络是怎样连接的**》，**有兴趣可以看看，特别是**第二本：**网络是怎样连接的 跟计网比较相关。
+《**程序是怎样跑起来的**》、《**网络是怎样连接的**》，有兴趣可以看看，特别是第二本：**网络是怎样连接的** 跟计网比较相关。
 
 ![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220053439.png)
 
@@ -238,13 +245,27 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 除非是打算从事数据库内核等岗位的同学需要多加了解别的类型的数据库外。
 
+### SQL
+
 但是很多人都不知道其实操作数据库的语言，也就是SQL其实也是需要学习的，因为面试中也会考察你一些SQL语言的学习，这点可以看下我以前的学习经验等。
+
+我以前分享过一些自己学习SQL的方法，直到现在我工作快两年多了，SQL这块当初学的也**基本都够用**了。
+
+这么说吧，在我日常研发过程中写SQL基本不需要去查，稍微想一下就能写出来，不会出现那种脑子会了手写不出来的情况。
+
+直接去看我写的文章就好：https://mp.weixin.qq.com/s/ZrXWBBMLYhzBBYsxBDQuWQ
+
+下面是一些我的学习圈子里的提问以及自己的SQL学习笔记：《MySQL必知必会》的分享链接等。
 
 1、请问秀哥SQL的学习方法，是如何学习SQL的？[https://t.zsxq.com/02bUzbU3f](https://t.zsxq.com/02bUzbU3f)
 
 2、SQL面试常考会考察哪些题型？难不难？[https://t.zsxq.com/02emAe6E2](https://t.zsxq.com/02emAe6E2)
 
 3、没有MySQL和Redis实操基础，该怎么办？[https://t.zsxq.com/02rbuvbEe](https://t.zsxq.com/02rbuvbEe)
+
+### 
+
+
 
 ### MySQL
 
