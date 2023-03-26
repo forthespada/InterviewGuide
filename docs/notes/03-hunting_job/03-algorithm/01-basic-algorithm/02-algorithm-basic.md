@@ -48,7 +48,7 @@ comment: false
 
 #### 十大排序一图总览
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205072325169.png)
+![](http://oss.interviewguide.cn/img/202205072325169.png)
 
 
 

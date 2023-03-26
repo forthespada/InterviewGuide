@@ -47,7 +47,7 @@ comment: false
 互联网秋招求职期间笔试过**60**场，面试过**40**余家企业，一面二面三面 + HR面面试过**110**余场，其中技术面**100**多场，HR面**10**场左右，那些你听过的公司，比如百度、阿里、腾讯、美团、滴滴、字节跳动、猿辅导、华为等都面试过，最后顺利拿下**华为、百度、字节跳动SP** 等6个中大厂的 **offer**，最后与**字节跳动抖音部门**签约三方，其后还应牛客网邀请写过一个**校招求职专刊**。
 
 <div align="center">
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205051803413.png" style="zoom:50%;" />
+  <img src="http://oss.interviewguide.cn/img/202205051803413.png" style="zoom:50%;" />
 </div>
 
 
@@ -75,7 +75,7 @@ comment: false
 
 我看到很多小白&新手&非科班转行成功的例子，他们拥有的一个共性就是踏实、耐得住寂寞、一步一个脚印，这一点你可以去看一下[阿秀的学习圈子](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md#阿秀组建了一个校招学习圈子)中的**校招总结**和**实习分享**例子，他们基本不会去看什么《7天学习Java》/《21天学会C++》之类的垃圾书籍，没有什么一蹴而就，有的只是稳扎稳扎、步步为营。
 
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205161146636.png" style="zoom:150%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202205161146636.png" style="zoom:150%;" /></div>
 
 下面对网站知识大纲做大致解读，主要可分为：
 

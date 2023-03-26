@@ -27,21 +27,21 @@ comment: false
         border-left-style: solid;
         border-radius: .5rem;
         color: inherit;">
-  <p>这是四则或许对你有帮助的讯息</p>
-  <p>1、👉 最近我发现了一个每日都会推送最新校招资讯的《校招日程》文档，其中包括<a style="text-decoration: underline" href="https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">往届补录</a>、<a style="text-decoration: underline" href="https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f" target="_blank">应届实习校招</a>信息,比如各种大厂、国企、银行、事业编等信息都会定期更新，帮忙扩散一下。</p>  
+  <p>这是四则或许对你有些许帮助的信息:</p>
+  <p>1、👉 最近我发现了一个每日都会推送最新校招资讯的《校招日程》文档，其中包括<a style="text-decoration: underline" href="https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">往届补录</a>、<a style="text-decoration: underline" href="https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f" target="_blank">应届实习校招</a>信息，比如各种大厂、国企、银行、事业编等信息都会定期更新，帮忙扩散一下。</p>  
   <p>2、😍
-    免费分享阿秀个人学习计算机以来的收集到的免费资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>。
+    免费分享阿秀个人学习计算机以来收集到的免费学习资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>；也记录一下自己以前买过的<a style="text-decoration: underline" href="/notes/07-resources/02-precious.html" target="_blank">不错的计算机书籍、网络专栏和垃圾付费专栏</a>。
   </p>
   <p>3、🚀如果你想在校招中顺利拿到更好的offer，阿秀建议你多看看前人<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">踩过的坑</a>和<a style="text-decoration: underline"  target="_blank" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp">留下的经验</a>，事实上你现在遇到的大多数问题你的学长学姐师兄师姐基本都已经遇到过了。
   </p>
-  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行真的不如一群人报团取暖，过去22届和23届的小伙伴好好跟着走下去的，最后基本都拿到了不错的offer！如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="/notes/08-other/02-question.html#_5、如何下载阿秀的学习笔记内容pdf版本" target="_blank">点此下载</a> 。</p>   </div>
+  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行不如一群人报团取暖，圈子里沉淀了很多过去21/22/23届学长学姐的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp" target="_blank">经验和总结</a>，好好跟着走下去的，最后基本都可以拿到不错的offer！此外，每周都会进行<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">精华总结和分享！</a>如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/qs0yn66apvkzw0ps" target="_blank">点此下载</a> 。</p>   </div>
 
 
 ## 前言
 
 这是阿秀原创的学习路线以及项目推荐系列文章，如下图：
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220047450.png)
+![](http://oss.interviewguide.cn/img/202208220047450.png)
 
 如有盗版，必回拿起法律武器捍卫自己的正当权利，《学习路线&项目推荐》的全部内容我将它放在了阿秀的学习圈中，欢迎了解[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子)。
 
@@ -109,7 +109,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 这个课的名字可能有点像垃圾课的名字，但这个课真的是好课，在国外YouTube上的播放量有2亿之多。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208272223427.png)
+![](http://oss.interviewguide.cn/img/202208272223427.png)
 
 地址：[https://www.bilibili.com/video/BV1EW411u7th](https://www.bilibili.com/video/BV1EW411u7th)
 
@@ -121,7 +121,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 如果是你是小白或者非科班的话，建议先看看这本《**计算机是怎样跑起来的》，不要上来就去看什么《操作系统导论》，妥妥的劝退自己的行为。**
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220052851.png)
+![](http://oss.interviewguide.cn/img/202208220052851.png)
 
 
 
@@ -129,13 +129,13 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 说一句图文并茂，通俗易懂并不为过，非常适合想要转行来计算机或者是刚开始学习操作系统的同学去阅读。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220053013.png)
+![](http://oss.interviewguide.cn/img/202208220053013.png)
 
 我跟上面这位豆瓣读书的朋友意见一致，同样认为这是本很nice的入门书，同系列的还有两本：
 
 《**程序是怎样跑起来的**》、《**网络是怎样连接的**》，有兴趣可以看看，特别是第二本：**网络是怎样连接的** 跟计网比较相关。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220053439.png)
+![](http://oss.interviewguide.cn/img/202208220053439.png)
 
 
 
@@ -145,7 +145,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 建议去首先看下南京大学袁春风老师主讲的计算机系统基础(一)（二），只看一二就足够，对于（三）（四）可在后续再看！
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220053668.png)
+![](http://oss.interviewguide.cn/img/202208220053668.png)
 
 [南京大学 计算机系统基础(一)主讲：袁春风老师_哔哩哔哩_bilibiliwww.bilibili.com/video/BV1kE411X7S5?from=search&seid=11368404143517814105](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1kE411X7S5%3Ffrom%3Dsearch%26seid%3D11368404143517814105)
 
@@ -169,7 +169,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 如果你是**非计算机专业的小白**，对于计算机网络一窍不懂，连最基本的HTTP都没听过，那我建议你先去看看《**网络是怎样连接的**》。
 
-[![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220053336.png)](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139548.png)
+[![](http://oss.interviewguide.cn/img/202208220053336.png)](http://oss.interviewguide.cn/img/202205070139548.png)
 
 这本书会从总体为你讲清楚计算机发送请求的整个过程！
 
@@ -177,7 +177,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 你搞明白了这个问题也就对计算机网络最常用的HTTP和TCPIP相关有个大概认识和了解了。
 
-[![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220053951.png)](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139435.png)
+[![](http://oss.interviewguide.cn/img/202208220053951.png)](http://oss.interviewguide.cn/img/202205070139435.png)
 
 
 
@@ -193,9 +193,9 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 **从简单入门和入手，不香吗？**
 
-[![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220054508.png)](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139504.jpg)
+[![](http://oss.interviewguide.cn/img/202208220054508.png)](http://oss.interviewguide.cn/img/202205070139504.jpg)
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220054439.png)
+![](http://oss.interviewguide.cn/img/202208220054439.png)
 
 ### 比较不错的2个视频
 
@@ -207,7 +207,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 如果让我推荐一个计算机网络视频教程，我觉得非韩立刚老师的视频莫属了，韩老师讲课也很有亲和力，并且韩立刚老师的课堂氛围也很诙谐，没的说了。
 
-[![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220054776.png)](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139800.jpg)
+[![](http://oss.interviewguide.cn/img/202208220054776.png)](http://oss.interviewguide.cn/img/202205070139800.jpg)
 
 强烈推荐韩老师的计算机网络课程！
 
@@ -219,11 +219,11 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 这门课是最近两年刚火起来的，可能没有韩老师那么久，但这门课依然很是不错，教书匠教的更形象立体一些，他有很多不错的PPT动画，让你看的更明白和清楚！
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208061219932.png)
+![](http://oss.interviewguide.cn/img/202208061219932.png)
 
 视频下方的评论就能看出来，这门课有多受欢迎了。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208061220102.png)
+![](http://oss.interviewguide.cn/img/202208061220102.png)
 
 地址：[https://www.bilibili.com/video/BV1c4411d7jb](https://www.bilibili.com/video/BV1c4411d7jb)
 
@@ -263,7 +263,6 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 3、没有MySQL和Redis实操基础，该怎么办？[https://t.zsxq.com/02rbuvbEe](https://t.zsxq.com/02rbuvbEe)
 
-### 
 
 
 
@@ -283,7 +282,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 我当初入门的时候学的就是这个数据库视频，我觉得讲的非常不错，现在推荐给大家！
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220054562.png)
+![](http://oss.interviewguide.cn/img/202208220054562.png)
 
 **地址**：[https://www.bilibili.com/video/BV12b411K7Zu](https://www.bilibili.com/video/BV12b411K7Zu)
 
@@ -330,7 +329,7 @@ MySQL的学习不是一天两天、一两个视频能学完的，但上面一些
 
 这门视频也是我唯一看的一门Redis视频，仅从个人角度来看，我觉得很不错了，可以说是**尚硅谷的Redis封神之作**了。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220054393.png)
+![](http://oss.interviewguide.cn/img/202208220054393.png)
 
 **地址**：[https://www.bilibili.com/video/BV1oW411u75R](https://www.bilibili.com/video/BV1oW411u75R)
 

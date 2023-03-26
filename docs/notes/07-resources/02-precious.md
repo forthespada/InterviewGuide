@@ -12,9 +12,9 @@ comment: false
 
 ---
 
-<h2 align="center">阿秀自己使用过的一些精品资源</h2>
+<h2 align="center">阿秀自己使用过的一些学习资源</h2>
 
-我学习计算机基本都是靠自学的，在自己自学计算机的过程中用过很多资料，比较好的自然也有不少。
+我学习计算机基本都是靠自学的，在自己自学计算机的过程中用过很多资料，有觉得好的，但也有觉得不好的。
 
 其中**免费的资料**在[CS学习心得](/notes/04-experience/01-learn_experience/01-introduce.md)一小节中已经推荐过不少，比如：
 
@@ -44,11 +44,15 @@ comment: false
 
 没有买过或者没有使用过的付费专栏，阿秀不知道质量如何，我没有自己的体验那我不说质量如何，这里不乱说也不会乱推荐，而对于那些自己踩过坑的专栏这里也大致说一说，说说自己为什么不推荐这些专栏，不推荐的原因在哪里。
 
+**这里先说一下我以前买过的不错的专栏，比如极客时间的一些专栏，再说一下我比较推荐的一些书籍，然后再说一下最后说一下我以前花的冤枉钱，买的一些垃圾专栏、、、**
 
 
 
 
-## 值得购买的专栏
+
+
+
+## 一、值得购买的专栏
 
 ### 1、数据结构与算法之美
 
@@ -281,9 +285,319 @@ comment: false
 
 
 
+## 二、值得购买的书籍
+
+ 我在这篇文章中推荐过不少书籍：<a target="_blank"  href="/notes/04-experience/01-learn_experience/20211021%20-%20这可能是我学习计算机以来的全部收获和总结.html">一篇文章带你看完阿秀学习计算机以来看过的全部好书</a>，种类很多涵盖C/C++、Java、Python、Go、前端、数据结构与算法，这里推荐一些我个人觉得不错的书籍！
+
+其中很多都是自己用过的，毕竟我以前在当当网上买书一年就花了不少钱，特别是研一到研二那一年多买了好很多的书。。。。现在看来其中有些确实也是智商税，但有些买的也确实值
 
 
-## 不值得购买的专栏
+
+<div align="center">
+  <img src="http://oss.interviewguide.cn/img/202205220026633.png" style="zoom:100%;" /><img src="http://oss.interviewguide.cn/img/202205220026324.png" style="zoom:100%;" /></div>
+
+
+
+读研时，我的桌子上堆满了各种书。。。
+
+<div align="center">
+  <img src="http://oss.interviewguide.cn/img/202205220026594.jpg" style="zoom:150%;" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+以下都是使用**京东自营的图书链接来做示范**
+
+### 入门
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261606879.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwSWwAGU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1lbDk8QHDZNRwYlJhx4IQBYQSp3fDtzEwRAD1wFHQgFXkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddDkMSBGcLE2sSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC2wIG1oTVQ8eVFxZD0weH28PHVMcXQAKVl5ZAUInAW4JH1IlbQ" target="blank">京东链接</a>
+
+### C++
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261558710.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IG1kUWgYAXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCVl9aCEkeHDZNRwYlDQZ4BhknVUJyVD8NGQAcBGcEJiw0eEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddDk4TBm8AGWsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmYJH1oUWQIeVFtfCUsVH28PHVMcXQAHV1xUCU0nAW4JH1IlbQ" target="blank">京东链接</a>
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261602808.png" style="zoom:50%;" />
+</div>
+
+
+
+
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwRXwQFV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1pfCkwUHDZNRwYlB21KDzYlcjNyVC9IeFJTC2dfSj41XkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddDk0WAG8MGWsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC2wNHF8WWQ8eVFxYAUgXH28PHVMcXQAFUlZYDUgnAW4JH1IlbQ" target="blank">京东链接</a>
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261604361.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IG1IWXQECVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCXV1dD0sXHDZNRwYlJ3MENBZdYDt3SglgZhpuXX0AND4ITkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddDkIUAWcOGWsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmkLHVkdVAQeVFxdDU4SH28PHVMcXQALVV9bAEonAW4JH1IlbQ" target="blank">京东链接</a>
+
+
+
+
+
+### Java
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261612813.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGV4UWwcEUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUV9bCU0RHDZNRwYlC1ZJV1ovfk93Vh17GC1rB3hXHBYEaEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddAUgRC28IGGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC2wIGF4VXwAeVF5cC00SH28PHVMcXQ8BUl9aAE8nAW4JH1IlbQ" target="blank">京东链接</a>
+
+
+
+
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261610890.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVsWXgMHXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVF1eDU4eHDZNRwYlJHBEDyU0flF3fmhVSD1wLnNYEAwtXkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddAUsRA2oJEmsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmcMHl0TXgUeVFlZDEgUH28PHVMcXQ8CVl9bCUsnAW4JH1IlbQ" target="blank">京东链接</a>
+
+
+
+
+
+
+
+### Golang
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261617095.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANsJK1olXwYEU1dZDE0WBl8IGloXXA4DVVddC08SAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0JE1oUVAYBUFteFxJSXzI4QSJiNFNGECc4bA9rCxZ7GgcSPmZrElJROEonAG4IG1IQWgcFU25tCEwnQgEBGFoWWjYDZF5aDkMeA2YPGV4UVAUyU15UOEMSCmwPHlwSWGheZG5tC3sQA2YcHSlUDxIEJm5tCHsUM28JG1ITXwUEVF9eFEsXA2oOGkcVWgAKXV5UD0sfBW4PK1kUXAILZG4" target="blank">京东链接</a>
+
+
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261615275.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANsJK1olXQUCXVtUD0sSCl8IGloRWQQHXF5dAU0QAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmsMGV4dXQYLUllcFxJSXzI4QAsXW3AYFRU-Tx9cYRBTTxN1R2BpJFJROEonAG4IG1IQWgcFU25tCEwnQgEAElsRXzYDZF5aDkMeA2YMHF0cWwEyU15UOEMSCmwPHlwSWGheZG5tC3sQA2YcHSlUDxIEJm5tCHsUM28JG1MWWAQDXFhfFEsTBG8JEkcVWgAKXV5UDE8RA2oBK1kUXAILZG4" target="blank">京东链接</a>
+
+
+
+
+
+### 操作系统&Linux
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261746210.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwWWQUCUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU11ZC0sRHDZNRwYlFGF0KjtbfR11Q2hUZR1wL39AVD4fTkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCUweB24IGGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmgBH10QXwYeVF9VDUgXH28PHVMcXgQKUVpeCEwnAW4JH1IlbQ" target="blank">京东链接</a>
+
+
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261939329.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwQWQcHUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1tZCU4THDZNRwYlVXBJDDlcXDZyfwlKE1oQIFZfDjxHeEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCUIWBWoLHGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmYBGVgRWQ4eVF5ZCE0TH28PHVMcXwcEUVldDEwnAW4JH1IlbQ" target="blank">京东链接</a>
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261943060.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwQWQcHUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1tZCU4THDZNRwYlVXBJDDlcXDZyfwlKE1oQIFZfDjxHeEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCUIWBWoLHGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmYBGVgRWQ4eVF5ZCE0TH28PHVMcXwcEUVldDEwnAW4JH1IlbQ" target="blank">京东链接</a>
+
+
+
+
+
+
+
+
+
+### 前端
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261947597.png" style="zoom:40%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGFMRVAILVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFpUDEIWHDZNRwYlLQdVMAUFVhByUHVNXgdOAXoEIgU1eEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCEsfCmoAE2sSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC20JGVgVXwQeVF9UAEkUH28PHVMcXwYCXF5VCkMnAW4JH1IlbQ" target="blank">京东链接</a>
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261948823.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwdXAMCVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1ZcDUsWHDZNRwYlG3ocJyAZYD91BjMSSUUPKW59FgoFXkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCEkTAm0MGGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC20JGVgVXwQeVF9UAEkUH28PHVMcXwYCXF5VCkMnAW4JH1IlbQ" target="blank">京东链接</a>
+
+
+
+
+
+
+
+### 算法
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261950666.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANwJK1olXQYFVF1fD00eC18IGloQWwILUFZcAEIfBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoOH1IRVQcKXVZbFxJSXzI4ZAVINVR2Eh4-Sh8RBHVQWCdFWEBJNFJROEonAG4IG1IQWgcFU25tCEwnQgEOHl8cVAAyVW5dD00fCm0IHl0WXQUBZFldAXsfBmYLHF4SWgNsCG5tOEgnBG8BD11nHFQWUixtOEsnAF8IGlsdXwcAV15YDFcXBmcBEloJXQEEXFdfCEkRAWoLH2sXXAcGXW5t" target="blank">京东链接</a>
+
+
+
+
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261952475.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAN4JK1olXgACUVpeDk8RBl8IGloXXA8FXV1ZCUgRAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0JElwcXgIDV1heFxJSXzI4RB5zIVxQKVo-DRtlc25NXlNcAW1VAlJROEonAG4IG1IQWgcFU25tCEwnQgEIG1oRXgIBVG5cOEsQBWcBGVsRWgQBU1ptD0seM2cNElgSWAEFUTABOHsnAF8PG1IBW3RDBkpbensnA18LK1sUXQ4BVF9UAUwfH28JH18cVBoCU1hVAUkXB24LGFocbQQDVVpUOHs" target="blank">京东链接</a>
+
+
+
+
+
+
+
+
+
+### 数据库
+
+
+
+
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261956530.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANUJK1olXwYEU1dZDE0WBl8PHF4dXgAKUV5UAHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSllaDUMUBWcNG1IdQl9HCANtVC9LVjZSYSZ2AlpxIigkU1UfBTNpTVcZbQcyV19dCEISBG4PHGslXQEyFTBUC0oUBF8JK1sSWw4LVl5UCEIVBGg4HFscbQ4HXV1aDUwQBgFUK2slXjYFVFdJDjlWUXsOaWslXTYBZF5cCEITC2kPE1kRQQYBUFpYC1cXBGkAElkVWwMKXFtVOEkWAmsBK2s" target="blank">京东链接</a>
+
+
+
+
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261954652.png" style="zoom:100%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANwJK1olXgcAU11cAEsWA18IGloQVAUBUFhbCUseB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoBGFgRWwADVFdZFxJSXzI4RwBJAA51Kgw_CillSA8BUl1IDQJJElJROEonAG4IG1IQWgcFU25tCEwnQgEIGVgTVAcyVW5dD00fCm0IHVsXWg4AZFldAXsfBmYLHF4SWgNsCG5tOEgnBG8BD11nHFQWUixtOEsnAF8IGlsdXgYCVVddDVcXB2gMHF0JXQEEXFdfCEwTB2YKGWsXXAcGXW5t" target="blank">京东链接</a>
+
+
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261958942.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANwJK1olXgIDXV9VCEsTBV8IGloSXwMGXF5fCk0WC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgKHl8dXQQAUl9VFxJSXzI4eysVXnhKJik9aDVxBxZ4fVheHEYHAlJROEonAG4IG1IQWgcFU25tCEwnQgEBG1gUWA8yVW5dD00fCm0IE1sWXQEKZFldAXsfBmYLHF4SWgNsCG5tOEgnBG8BD11nHFQWUixtOEsnAF8IGlscWQ4EU1ZfDFcXAGsMHlgJXQEEXFdfCE0SC2cNE2sXXAcGXW5t" target="blank">京东链接</a>
+
+
+
+
+
+
+
+
+
+### 成长
+
+
+
+我很喜欢余华老师的《活着》，每当我感觉累的时候就选择看一遍这本书。
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303261959096.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAN4JK1olXwULUFlbCEgVAl8IGloRWQMEV1ZfDUIWA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmsMHl0WVQQHXV9dFxJSXzI4Hl9xCERbJhU_Vj1sCmtzeFphAgBmAlJROEonAG4IG1IQWgcFU25tCEwnQgEIG1IQXQcLUG5cOEsQBWcBGVsdWg8LUV1tD0seM2cNElgSWAEFUTABOHsnAF8PG1IBW3RDBkpbensnA18LK1sUXQ4CVVpZCE4RH28IHVscVRoCU1hVAUkXC20JHFkXbQQDVVpUOHs" target="blank">京东链接</a>
+
+
+
+
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303262100050.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGV4UWwYBUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUV9bCEgTHDZNRwYlWxxUCg4KTRt0f2xXfwNxBk4AKV8feEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfDEwQBWoAH2sSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC2wNHl0VWQ4eVF5bAUwWH28PHVMcXwIFVl9bCk0nAW4JH1IlbQ" target="blank">京东链接</a>
+
+
+
+
+
+
+
+<div align="center">
+<img src="http://oss.interviewguide.cn/img/202303262102524.png" style="zoom:50%;" />
+</div>
+
+<a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANoJK1olVQAHXF5fCkMXM28JGl8dXwQAUlZVAUwQMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWB2cKGVkTVQ4LU1lCUQ5LXl94bCVBI2FBFTwcbjx2RRcBQF9rJHxiWFJtCXsUAm8IEl4SXAEFZG5dD3tWbWsNGlIcbQcyVFlbAEIVB2kPGlgVVDYFVFdtAE4eAGgNHFwQM1oyZG5eOEwXCnsOaRpHSQBwZG5dOEgnA24IElIUVAcBVV5BCEgUAmwPB1sSWw4LVlpbDEoTBGs4GVoUWQ8yZA" target="blank">京东链接</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 三、不值得购买的专栏
 
 ### 1、重学前端
 

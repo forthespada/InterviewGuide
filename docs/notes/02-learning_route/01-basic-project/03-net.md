@@ -28,21 +28,21 @@ comment: false
         border-left-style: solid;
         border-radius: .5rem;
         color: inherit;">
-  <p>这是四则或许对你有帮助的讯息</p>
-  <p>1、👉 最近我发现了一个每日都会推送最新校招资讯的《校招日程》文档，其中包括<a style="text-decoration: underline" href="https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">往届补录</a>、<a style="text-decoration: underline" href="https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f" target="_blank">应届实习校招</a>信息,比如各种大厂、国企、银行、事业编等信息都会定期更新，帮忙扩散一下。</p>  
+  <p>这是四则或许对你有些许帮助的信息:</p>
+  <p>1、👉 最近我发现了一个每日都会推送最新校招资讯的《校招日程》文档，其中包括<a style="text-decoration: underline" href="https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">往届补录</a>、<a style="text-decoration: underline" href="https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f" target="_blank">应届实习校招</a>信息，比如各种大厂、国企、银行、事业编等信息都会定期更新，帮忙扩散一下。</p>  
   <p>2、😍
-    免费分享阿秀个人学习计算机以来的收集到的免费资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>。
+    免费分享阿秀个人学习计算机以来收集到的免费学习资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>；也记录一下自己以前买过的<a style="text-decoration: underline" href="/notes/07-resources/02-precious.html" target="_blank">不错的计算机书籍、网络专栏和垃圾付费专栏</a>。
   </p>
   <p>3、🚀如果你想在校招中顺利拿到更好的offer，阿秀建议你多看看前人<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">踩过的坑</a>和<a style="text-decoration: underline"  target="_blank" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp">留下的经验</a>，事实上你现在遇到的大多数问题你的学长学姐师兄师姐基本都已经遇到过了。
   </p>
-  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行真的不如一群人报团取暖，过去22届和23届的小伙伴好好跟着走下去的，最后基本都拿到了不错的offer！如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="/notes/08-other/02-question.html#_5、如何下载阿秀的学习笔记内容pdf版本" target="_blank">点此下载</a> 。</p>   </div>
+  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行不如一群人报团取暖，圈子里沉淀了很多过去21/22/23届学长学姐的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp" target="_blank">经验和总结</a>，好好跟着走下去的，最后基本都可以拿到不错的offer！此外，每周都会进行<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">精华总结和分享！</a>如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/qs0yn66apvkzw0ps" target="_blank">点此下载</a> 。</p>   </div>
 
 
 ## 前言
 
 这是阿秀原创的学习路线以及项目推荐系列文章，如下图：
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220047450.png)
+![](http://oss.interviewguide.cn/img/202208220047450.png)
 
 如有盗版，必回拿起法律武器捍卫自己的正当权利，《学习路线&项目推荐》的全部内容我将它放在了阿秀的学习圈中，欢迎了解[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子)。
 
@@ -60,7 +60,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 除此之外，本文也会推荐一些视频或者资料我已经放在自己的公众号后台了，获取方式或者地址都在对应的推荐视频下面了，回复相应的关键字就可以免费领取了。
 
-<a data-fancybox title="计算机网络学习路线(求职版) @拓跋阿秀" href="求职版">![计算机网络学习路线(求职版) @拓跋阿秀](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139878.png)</a>
+<a data-fancybox title="计算机网络学习路线(求职版) @拓跋阿秀" href="求职版">![计算机网络学习路线(求职版) @拓跋阿秀](http://oss.interviewguide.cn/img/202205070139878.png)</a>
 
 如果你是有基础的，一些入门级的资料或者视频可以直接跳过，直接去看进阶的部分即可。
 
@@ -72,7 +72,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 大多数人觉得计算机网络这门课程难学的主要原因就是上来就直接对着谢希仁老师的那本计算机网络**啃**
 
-<a data-fancybox title="经典的第七版谢希仁老师的计算机网络" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139859.png">![经典的第七版谢希仁老师的计算机网络](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139859.png)</a>
+<a data-fancybox title="经典的第七版谢希仁老师的计算机网络" href="http://oss.interviewguide.cn/img/202205070139859.png">![经典的第七版谢希仁老师的计算机网络](http://oss.interviewguide.cn/img/202205070139859.png)</a>
 
 ### 拒绝大黑书
 
@@ -80,7 +80,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 身为过来人，我不会推荐你你们直接上来就去啃这些转头书，因为很清楚，这是妥妥的劝退你们！
 
-<a data-fancybox title="" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139326.jpg">![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139326.jpg)</a>
+<a data-fancybox title="" href="http://oss.interviewguide.cn/img/202205070139326.jpg">![](http://oss.interviewguide.cn/img/202205070139326.jpg)</a>
 
 计算机几门基石学科，操作系统、计算机网络、计算机组成原理以及计算机体系结构等的共同点就是它们具有十分复杂的体系结构，一环套一环，环环相扣！
 
@@ -102,15 +102,15 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 **从简单入门和入手，不香吗？**
 
-<a data-fancybox title="" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139504.jpg">![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139504.jpg)</a>
+<a data-fancybox title="" href="http://oss.interviewguide.cn/img/202205070139504.jpg">![](http://oss.interviewguide.cn/img/202205070139504.jpg)</a>
 
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139503.jpg" />
+<img src="http://oss.interviewguide.cn/img/202205070139503.jpg" />
 
 
 
 如果你是**非计算机专业的小白**，对于计算机网络一窍不懂，连最基本的HTTP都没听过，那我建议你先去看看《**网络是怎样连接的**》。
 
-<a data-fancybox title="网络是怎样连接的" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139548.png">![网络是怎样连接的](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139548.png)</a>
+<a data-fancybox title="网络是怎样连接的" href="http://oss.interviewguide.cn/img/202205070139548.png">![网络是怎样连接的](http://oss.interviewguide.cn/img/202205070139548.png)</a>
 
 这本书会从总体为你讲清楚计算机发送请求的整个过程！
 
@@ -118,7 +118,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 你搞明白了这个问题也就对计算机网络最常用的HTTP和TCPIP相关有个大概认识和了解了。
 
-<a data-fancybox title="" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139435.png">![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139435.png)</a>
+<a data-fancybox title="" href="http://oss.interviewguide.cn/img/202205070139435.png">![](http://oss.interviewguide.cn/img/202205070139435.png)</a>
 
 
 
@@ -132,7 +132,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 如果让我推荐一个计算机网络视频教程，我觉得非韩立刚老师的视频莫属了，韩老师讲课也很有亲和力，并且韩立刚老师的课堂氛围也很诙谐，没的说了。
 
-<a data-fancybox title="" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139800.jpg">![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139800.jpg)</a>
+<a data-fancybox title="" href="http://oss.interviewguide.cn/img/202205070139800.jpg">![](http://oss.interviewguide.cn/img/202205070139800.jpg)</a>
 
 强烈推荐韩老师的计算机网络课程！
 
@@ -144,11 +144,11 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 这门课是最近两年刚火起来的，可能没有韩老师那么久，但这门课依然很是不错，教书匠教的更形象立体一些，他有很多不错的PPT动画，让你看的更明白和清楚！
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208061219932.png)
+![](http://oss.interviewguide.cn/img/202208061219932.png)
 
 视频下方的评论就能看出来，这门课有多受欢迎了。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208061220102.png)
+![](http://oss.interviewguide.cn/img/202208061220102.png)
 
 
 
@@ -160,7 +160,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 不过如果你时间优先，优先看韩老师或者湖大教书匠的那门课就ok！
 
-<a data-fancybox title="" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139305.jpg">![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139305.jpg)</a>
+<a data-fancybox title="" href="http://oss.interviewguide.cn/img/202205070139305.jpg">![](http://oss.interviewguide.cn/img/202205070139305.jpg)</a>
 
 **地址**：[https://www.bilibili.com/video/BV19x411z7Pu](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV137411Z7LR)
 
@@ -182,11 +182,11 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 这两本书并不需要都看，选择一本就可以，毕竟从事信息安全或者网络安全的还是少数，大多数只需要掌握基本的抓包技能，学会排查由网络问题引发的服务问题就ok。
 
-<a data-fancybox title="Wireshark 网络分析就这么简单" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139134.png">![Wireshark 网络分析就这么简单](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139134.png)</a>
+<a data-fancybox title="Wireshark 网络分析就这么简单" href="http://oss.interviewguide.cn/img/202205070139134.png">![Wireshark 网络分析就这么简单](http://oss.interviewguide.cn/img/202205070139134.png)</a>
 
 
 
-<a data-fancybox title="Wireshark网络分析的艺术" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139249.png">![Wireshark网络分析的艺术](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139249.png)</a>
+<a data-fancybox title="Wireshark网络分析的艺术" href="http://oss.interviewguide.cn/img/202205070139249.png">![Wireshark网络分析的艺术](http://oss.interviewguide.cn/img/202205070139249.png)</a>
 
 对于普通的亚发工程师而言，推荐《Wireshark 网络分析就这么简单》就足够了，这本书不务虚，不注水，页页干货。
 
@@ -204,7 +204,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 计算机网络相关比较经典的书籍不外乎就是《**计算机网络：自顶向下方法**》以及《**TCP/IP详解 卷1：协议**》这两本书了。
 
-<a data-fancybox title="计算机网络：自顶向下方法" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139123.png">![计算机网络：自顶向下方法](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139123.png)</a>
+<a data-fancybox title="计算机网络：自顶向下方法" href="http://oss.interviewguide.cn/img/202205070139123.png">![计算机网络：自顶向下方法](http://oss.interviewguide.cn/img/202205070139123.png)</a>
 
 值得一提的是《**计算机网络：自顶向下方法》与**别的计算机网络相关书籍不一样。
 
@@ -214,13 +214,13 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 在看这本书的时候可以多看看我总结的大纲，重点掌握一些协议，比如HTTP、TCP、UDP等等。
 
-<a data-fancybox title="一些重要的协议" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139628.png">![一些重要的协议](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139628.png)</a>
+<a data-fancybox title="一些重要的协议" href="http://oss.interviewguide.cn/img/202205070139628.png">![一些重要的协议](http://oss.interviewguide.cn/img/202205070139628.png)</a>
 
 一般来说，你如果像我一样学完这些内容，基本上计算机网络不会成为你找工作的障碍了，你完全可以在面试求职过程中跟面试官侃侃而谈计算机网络中的经典问题，比如**SSL、对称加密、三握四挥**等等。
 
 对于最经久流传的TCPIP详解这本书来说，如果你不是从事信息安全、网络安全相关岗位的，或者像我一样是一名后端研发工程师，完全可以将这本书作为一本工具书来使用的，遇到具体不会的问题了再来查阅资料即可。
 
-<a data-fancybox title="TCP/IP详解 卷1：协议" href="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139870.png">![TCP/IP详解 卷1：协议](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205070139870.png)</a>
+<a data-fancybox title="TCP/IP详解 卷1：协议" href="http://oss.interviewguide.cn/img/202205070139870.png">![TCP/IP详解 卷1：协议](http://oss.interviewguide.cn/img/202205070139870.png)</a>
 
 ## 总结
 

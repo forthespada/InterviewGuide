@@ -19,12 +19,12 @@ comment: false
 收集了一些不错的简历模板，已经下载好了~
 
 
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211290932798.png" style="zoom:100%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202211290932798.png" style="zoom:100%;" /></div>
 
 获取的方式如下，没有任何套路。
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**009**” 即可获取。
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
 
 
 

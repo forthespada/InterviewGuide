@@ -23,20 +23,20 @@ comment: false
         border-left-style: solid;
         border-radius: .5rem;
         color: inherit;">
-  <p>这是四则或许对你有帮助的讯息</p>
-  <p>1、👉 最近我发现了一个每日都会推送最新校招资讯的《校招日程》文档，其中包括<a style="text-decoration: underline" href="https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">往届补录</a>、<a style="text-decoration: underline" href="https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f" target="_blank">应届实习校招</a>信息,比如各种大厂、国企、银行、事业编等信息都会定期更新，帮忙扩散一下。</p>  
+  <p>这是四则或许对你有些许帮助的信息:</p>
+  <p>1、👉 最近我发现了一个每日都会推送最新校招资讯的《校招日程》文档，其中包括<a style="text-decoration: underline" href="https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">往届补录</a>、<a style="text-decoration: underline" href="https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f" target="_blank">应届实习校招</a>信息，比如各种大厂、国企、银行、事业编等信息都会定期更新，帮忙扩散一下。</p>  
   <p>2、😍
-    免费分享阿秀个人学习计算机以来的收集到的免费资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>。
+    免费分享阿秀个人学习计算机以来收集到的免费学习资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>；也记录一下自己以前买过的<a style="text-decoration: underline" href="/notes/07-resources/02-precious.html" target="_blank">不错的计算机书籍、网络专栏和垃圾付费专栏</a>。
   </p>
   <p>3、🚀如果你想在校招中顺利拿到更好的offer，阿秀建议你多看看前人<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">踩过的坑</a>和<a style="text-decoration: underline"  target="_blank" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp">留下的经验</a>，事实上你现在遇到的大多数问题你的学长学姐师兄师姐基本都已经遇到过了。
   </p>
-  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行真的不如一群人报团取暖，过去22届和23届的小伙伴好好跟着走下去的，最后基本都拿到了不错的offer！如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="/notes/08-other/02-question.html#_5、如何下载阿秀的学习笔记内容pdf版本" target="_blank">点此下载</a> 。</p>   </div>
+  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行不如一群人报团取暖，圈子里沉淀了很多过去21/22/23届学长学姐的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp" target="_blank">经验和总结</a>，好好跟着走下去的，最后基本都可以拿到不错的offer！此外，每周都会进行<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">精华总结和分享！</a>如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/qs0yn66apvkzw0ps" target="_blank">点此下载</a> 。</p>   </div>
 
 ## 前言
 
 这是阿秀原创的学习路线以及项目推荐系列文章，如下图：
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220047450.png)
+![](http://oss.interviewguide.cn/img/202208220047450.png)
 
 如有盗版，必回拿起法律武器捍卫自己的正当权利，《学习路线&项目推荐》的全部内容我将它放在了阿秀的学习圈中，欢迎了解[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子)。
 
@@ -48,7 +48,7 @@ comment: false
 如果你不知道互联网常见技术岗有哪些，可以看下这篇科普文：[https://interviewguide.cn/notes/05-xiustar/02-campus_prepare/02-02-%E4%BA%92%E8%81%94%E7%BD%91%E5%B8%B8%E8%A7%81%E6%8A%80%E6%9C%AF%E5%B2%97%E5%88%86%E7%B1%BB.html](https://interviewguide.cn/notes/05-xiustar/02-campus_prepare/02-02-%E4%BA%92%E8%81%94%E7%BD%91%E5%B8%B8%E8%A7%81%E6%8A%80%E6%9C%AF%E5%B2%97%E5%88%86%E7%B1%BB.html)
 
 这里简单贴一下自己总结的一些前端技能栈和学习路线这块的东西
-![front](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022015199.png)
+![front](http://oss.interviewguide.cn/img/202210022015199.png)
 
 ## 1、前端上岸经验
 
@@ -248,7 +248,7 @@ Express简介 MVC简介、Express常用API、Express路由模块、Jade/Ejs模�
 ### HTML
 
 这个其实是最简单的，主要是一些标签的学习和使用，比如div、span这种很通用的模块，以及\<head>，\<title>，\<body>，\<header>，\<footer>，\<article>，\<section>，\<p>\<canvas>这种标签等，这部分建议去看下B站pink老师的教学视频就完事了。
-![image-20221002200741108](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022007111.png)
+![image-20221002200741108](http://oss.interviewguide.cn/img/202210022007111.png)
 
 > 地址：https://www.bilibili.com/video/BV14J4114768
 
@@ -264,18 +264,18 @@ MDN：[https://developer.mozilla.org/zh-CN/docs/Web/HTML](https://developer.mozi
 这里同样推荐上面提到的那个视频，黑马的Pink老师还是挺好的，很多人都是在他的引导下进入的前端开发。
 同样推荐两本书：《CSS进阶之旅》或者《CSS揭秘》，二选一即可。
 阿秀自己买的是CSS揭秘。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022008040.png)
+![](http://oss.interviewguide.cn/img/202210022008040.png)
 
 ### JavaScript
 
 JavaScript是前端三大马车中**最重要**的，可以不专门去学HTML，也可以在用的时候再具体去查CSS，但JavaScript不行，JavaScript是前端基本功的重中之重。
 推荐一本大黑书《JavaScript高级程序设计》，也叫蝴蝶书。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022008320.png)
+![](http://oss.interviewguide.cn/img/202210022008320.png)
 不要被它的名字所吓到，认为这是什么高级教程，emm可能书名看着挺唬人的，但这本书真的是很好的入门级书籍了。
 可以说是前端开发者必备的殿堂级书籍了。
 
 如果你比较喜欢看视频，可以去看pink老师的JavaScript视频就行，这个比较全，下面是这个视频中的一些分P，都是前人总结好的。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022008459.png)
+![](http://oss.interviewguide.cn/img/202210022008459.png)
 变量：P11～19
 数据类型：P20～40
 运算符：P41～54
@@ -303,19 +303,19 @@ jQuery：P358～442
 对了，额外推荐一本书《**你不知道的javascript系列**》，共分为上中下三本，其中价值最高的就是其中的上册，中下两册写的有点不太好。
 其实JavaScript是一门弱语言，不像C++或者Java的诞生，整个过程都比较严谨。JS的诞生有点令人啼笑皆非，这门语言从设计到推出一共就花了十天时间hhh，虽然后面经过很多轮的二次修正，但语言层面上依然有些bug，《你不知道的javascript系列》会让你对这门语言有全新的认识。
 强烈推荐，阿秀自己就买了这本书。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022009467.png)
+![](http://oss.interviewguide.cn/img/202210022009467.png)
 
 ### 综合练手推荐
 
 前端是一个特别需要你动手自己写的技术方向，千万要自己写！自己动手敲，包括各种CSS样式之类的都需要你动手做。
 这里推荐一个很有名的前端练手项目，**50projects50days，**也就是50天50个前端小项目。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022009040.png)
+![](http://oss.interviewguide.cn/img/202210022009040.png)
 
 > 地址：[https://github.com/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
 
 就像它介绍的那样，一天一个，50个用HTML、CSS、JavaScript写成的小demo。
 B站上也有人上传了自己的练手经过，你在练手的过程中，也可以看看别人的经验。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022010922.png)
+![](http://oss.interviewguide.cn/img/202210022010922.png)
 
 > 链接：[https://search.bilibili.com/all?vt=74736837&keyword=50projects50days&from_source=webtop_search&spm_id_from=333.1007](https://search.bilibili.com/all?vt=74736837&keyword=50projects50days&from_source=webtop_search&spm_id_from=333.1007)
 
@@ -349,7 +349,7 @@ Vue的视频，黑马讲的比较好，这里推荐几个视频，学习顺序�
 ### 1、Vue实战项目：电商管理系统（Element-UI）
 
 **这个建议好好看，我就是直接学的这个项目开始上手前端的。**
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022010972.png)
+![](http://oss.interviewguide.cn/img/202210022010972.png)
 
 > 地址：[https://www.bilibili.com/video/BV1E7411c7M8?spm_id_from=333.337.top_right_bar_window_custom_collection.content.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35](https://www.bilibili.com/video/BV1E7411c7M8?spm_id_from=333.337.top_right_bar_window_custom_collection.content.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35)
 
@@ -359,21 +359,21 @@ Vue的视频，黑马讲的比较好，这里推荐几个视频，学习顺序�
 ###  2、电商平台数据可视化实时监控系统-Echarts
 
 这个视频可以不看完，学几种比较常见的图表即可，比如折线图、饼图、柱状图就行。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022010989.png)
+![](http://oss.interviewguide.cn/img/202210022010989.png)
 
 > 地址：[https://www.bilibili.com/video/BV1bh41197p8?spm_id_from=333.337.top_right_bar_window_custom_collection.content.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35](https://www.bilibili.com/video/BV1bh41197p8?spm_id_from=333.337.top_right_bar_window_custom_collection.content.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35)
 
 ### 3、Vuex从入门到实战
 
 这个建议好好看。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022011236.png)
+![](http://oss.interviewguide.cn/img/202210022011236.png)
 
 > 地址：[https://www.bilibili.com/video/BV1h7411N7bg?spm_id_from=333.337.search-card.all.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35](https://www.bilibili.com/video/BV1h7411N7bg?spm_id_from=333.337.search-card.all.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35)
 
 ### 4、Vue源码解析系列课程
 
 这个要求能力比较高，只能说学了有好处，面试的时候吹吹牛逼能用得上，不学也没什么。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022011664.png)
+![](http://oss.interviewguide.cn/img/202210022011664.png)
 
 > 地址：[https://www.bilibili.com/video/BV1iX4y1K72v?spm_id_from=333.337.search-card.all.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35](https://www.bilibili.com/video/BV1iX4y1K72v?spm_id_from=333.337.search-card.all.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35)
 
@@ -381,7 +381,7 @@ Vue的视频，黑马讲的比较好，这里推荐几个视频，学习顺序�
 
 react的学习难度要大于Vue，其实不是很推荐。
 如果你打算学习React的话，不要去跟黑马的视频去学，黑马的React讲的不太好，去看尚硅谷张天禹的React会比较好一些。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022012300.png)
+![](http://oss.interviewguide.cn/img/202210022012300.png)
 
 > 地址：[https://www.bilibili.com/video/BV1wy4y1D7JT?spm_id_from=333.337.search-card.all.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35](https://www.bilibili.com/video/BV1wy4y1D7JT?spm_id_from=333.337.search-card.all.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35)
 

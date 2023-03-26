@@ -26,14 +26,14 @@ comment: false
         border-left-style: solid;
         border-radius: .5rem;
         color: inherit;">
-  <p>这是四则或许对你有帮助的讯息</p>
-  <p>1、👉 最近我发现了一个每日都会推送最新校招资讯的《校招日程》文档，其中包括<a style="text-decoration: underline" href="https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">往届补录</a>、<a style="text-decoration: underline" href="https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f" target="_blank">应届实习校招</a>信息,比如各种大厂、国企、银行、事业编等信息都会定期更新，帮忙扩散一下。</p>  
+  <p>这是四则或许对你有些许帮助的信息:</p>
+  <p>1、👉 最近我发现了一个每日都会推送最新校招资讯的《校招日程》文档，其中包括<a style="text-decoration: underline" href="https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">往届补录</a>、<a style="text-decoration: underline" href="https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f" target="_blank">应届实习校招</a>信息，比如各种大厂、国企、银行、事业编等信息都会定期更新，帮忙扩散一下。</p>  
   <p>2、😍
-    免费分享阿秀个人学习计算机以来的收集到的免费资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>。
+    免费分享阿秀个人学习计算机以来收集到的免费学习资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>；也记录一下自己以前买过的<a style="text-decoration: underline" href="/notes/07-resources/02-precious.html" target="_blank">不错的计算机书籍、网络专栏和垃圾付费专栏</a>。
   </p>
   <p>3、🚀如果你想在校招中顺利拿到更好的offer，阿秀建议你多看看前人<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">踩过的坑</a>和<a style="text-decoration: underline"  target="_blank" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp">留下的经验</a>，事实上你现在遇到的大多数问题你的学长学姐师兄师姐基本都已经遇到过了。
   </p>
-  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行真的不如一群人报团取暖，过去22届和23届的小伙伴好好跟着走下去的，最后基本都拿到了不错的offer！如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="/notes/08-other/02-question.html#_5、如何下载阿秀的学习笔记内容pdf版本" target="_blank">点此下载</a> 。</p>   </div>
+  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行不如一群人报团取暖，圈子里沉淀了很多过去21/22/23届学长学姐的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp" target="_blank">经验和总结</a>，好好跟着走下去的，最后基本都可以拿到不错的offer！此外，每周都会进行<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">精华总结和分享！</a>如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/qs0yn66apvkzw0ps" target="_blank">点此下载</a> 。</p>   </div>
 
 
 ## 1、Raft Overview
@@ -73,7 +73,7 @@ Raft 算法的头号目标就是容易理解（UnderStandable），这从论文�
 *   candidate
 
    给出状态转移图能很直观的直到这三个状态的区别  
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206222245852.png)
+![](http://oss.interviewguide.cn/img/202206222245852.png)
 
   可以看出所有节点启动时都是 follower 状态；在一段时间内如果没有收到来自 leader 的心跳，从 follower 切换到 candidate，发起选举；如果收到 majority 的造成票（含自己的一票）则切换到 leader 状态；如果发现其他节点比自己更新，则主动切换到 follower。
 
@@ -82,7 +82,7 @@ Raft 算法的头号目标就是容易理解（UnderStandable），这从论文�
 ### term
 
    从上面可以看出，哪个节点做 leader 是大家投票选举出来的，每个 leader 工作一段时间，然后选出新的 leader 继续负责。这根民主社会的选举很像，每一届新的履职期称之为一届任期，在 raft 协议中，也是这样的，对应的术语叫 _**term**_。  
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206222245446.png)
+![](http://oss.interviewguide.cn/img/202206222245446.png)
 
    term（任期）以选举（election）开始，然后就是一段或长或短的稳定工作期（normal Operation）。从上图可以看到，任期是递增的，这就充当了逻辑时钟的作用；另外，term 3 展示了一种情况，就是说没有选举出 leader 就结束了，然后会发起新的选举，后面会解释这种 _split vote_ 的情况。
 
@@ -110,7 +110,7 @@ Raft 算法的头号目标就是容易理解（UnderStandable），这从论文�
    第二种情况，比如有三个节点 A B C。A B 同时发起选举，而 A 的选举消息先到达 C，C 给 A 投了一票，当 B 的消息到达 C 时，已经不能满足上面提到的第一个约束，即 C 不会给 B 投票，而 A 和 B 显然都不会给对方投票。A 胜出之后，会给 B,C 发心跳消息，节点 B 发现节点 A 的 term 不低于自己的 term，知道有已经有 Leader 了，于是转换成 follower。
 
    第三种情况，没有任何节点获得 majority 投票，比如下图这种情况：  
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206222245368.png)
+![](http://oss.interviewguide.cn/img/202206222245368.png)
 
    总共有四个节点，Node C、Node D 同时成为了 candidate，进入了 term 4，但 Node A 投了 NodeD 一票，NodeB 投了 Node C 一票，这就出现了平票 split vote 的情况。这个时候大家都在等啊等，直到超时后重新发起选举。如果出现平票的情况，那么就延长了系统不可用的时间（没有 leader 是不能处理客户端写请求的），因此 raft 引入了 randomized election timeouts 来尽量避免平票情况。同时，leader-based 共识算法中，节点的数目都是奇数个，尽量保证 majority 的出现。
 
@@ -130,7 +130,7 @@ Raft 算法的头号目标就是容易理解（UnderStandable），这从论文�
   因此，可以这么说，在 raft 中，leader 将客户端请求（command）封装到一个个 log entry，将这些 log entries 复制（replicate）到所有 follower 节点，然后大家按相同顺序应用（apply）log entry 中的 command，则状态肯定是一致的。
 
   下图形象展示了这种 log-based replicated state machine  
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206222245321.png)
+![](http://oss.interviewguide.cn/img/202206222245321.png)
 
 ### 请求完整流程
 
@@ -146,7 +146,7 @@ Raft 算法的头号目标就是容易理解（UnderStandable），这从论文�
   可以看到日志的提交过程有点类似两阶段提交 (2PC)，不过与 2PC 的区别在于，leader 只需要大多数（majority）节点的回复即可，这样只要超过一半节点处于工作状态则系统就是可用的。
 
   那么日志在每个节点上是什么样子的呢  
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206222245795.png)
+![](http://oss.interviewguide.cn/img/202206222245795.png)
 
   不难看到，logs 由顺序编号的 log entry 组成 ，每个 log entry 除了包含 command，还包含产生该 log entry 时的 leader term。从上图可以看到，五个节点的日志并不完全一致，raft 算法为了保证高可用，并不是强一致性，而是最终一致性，leader 会不断尝试给 follower 发 log entries，直到所有节点的 log entries 都相同。
 
@@ -167,7 +167,7 @@ Raft 算法的头号目标就是容易理解（UnderStandable），这从论文�
   在任何系统模型下，都需要满足 safety 属性，即在任何情况下，系统都不能出现不可逆的错误，也不能向客户端返回错误的内容。比如，raft 保证被复制到大多数节点的日志不会被回滚，那么就是 safety 属性。而 raft 最终会让所有节点状态一致，这属于 liveness 属性。
 
   raft 协议会保证以下属性  
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206222245235.png)
+![](http://oss.interviewguide.cn/img/202206222245235.png)
 
 ### Election safety
 
@@ -188,7 +188,7 @@ Raft 算法的头号目标就是容易理解（UnderStandable），这从论文�
   首先，leader 在某一 term 的任一位置只会创建一个 log entry，且 log entry 是 append-only。其次，consistency check。leader 在 AppendEntries 中包含最新 log entry 之前的一个 log 的 term 和 index，如果 follower 在对应的 term index 找不到日志，那么就会告知 leader 不一致。
 
   在没有异常的情况下，log matching 是很容易满足的，但如果出现了 node crash，情况就会变得负责。比如下图  
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206222245788.png)
+![](http://oss.interviewguide.cn/img/202206222245788.png)
 
   **注意**：上图的 a-f 不是 6 个 follower，而是某个 follower 可能存在的六个状态
 
@@ -231,7 +231,7 @@ Raft 算法的头号目标就是容易理解（UnderStandable），这从论文�
 stale leader
 
   raft 保证 Election safety，即一个任期内最多只有一个 leader，但在网络分割（network partition）的情况下，**可能会出现两个 leader，但两个 leader 所处的任期是不同的**。如下图所示  
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206222245777.png)
+![](http://oss.interviewguide.cn/img/202206222245777.png)
 
   系统有 5 个节点 ABCDE 组成，在 term1，Node B 是 leader，但 Node A、B 和 Node C、D、E 之间出现了网络分割，因此 Node C、D、E 无法收到来自 leader（Node B）的消息，在 election time 之后，Node C、D、E 会分期选举，由于满足 majority 条件，Node E 成为了 term 2 的 leader。因此，在系统中貌似出现了两个 leader：term 1 的 Node B， term 2 的 Node E, Node B 的 term 更旧，但由于无法与 Majority 节点通信，NodeB 仍然会认为自己是 leader。
 
@@ -250,7 +250,7 @@ stale leader
 > State Machine Safety: if a server has applied a log entry at a given index to its state machine, no other server will ever apply a different log entry for the same index.
 
   如果节点将某一位置的 log entry 应用到了状态机，那么其他节点在同一位置不能应用不同的日志。简单点来说，所有节点在同一位置（index in log entries）应该应用同样的日志。但是似乎有某些情况会违背这个原则：  
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206222245596.png)
+![](http://oss.interviewguide.cn/img/202206222245596.png)
 
   上图是一个较为复杂的情况。在时刻 (a), s1 是 leader，在 term2 提交的日志只赋值到了 s1 s2 两个节点就 crash 了。在时刻（b), s5 成为了 term 3 的 leader，日志只赋值到了 s5，然后 crash。然后在(c) 时刻，s1 又成为了 term 4 的 leader，开始赋值日志，于是把 term2 的日志复制到了 s3，此刻，可以看出 term2 对应的日志已经被复制到了 majority，因此是 committed，可以被状态机应用。不幸的是，接下来（d）时刻，s1 又 crash 了，s5 重新当选，然后将 term3 的日志复制到所有节点，这就出现了一种奇怪的现象：被复制到大多数节点（或者说可能已经应用）的日志被回滚。
 
@@ -268,7 +268,7 @@ stale leader
 ### leader crash
 
   follower 的 crash 处理方式相对简单，leader 只要不停的给 follower 发消息即可。当 leader crash 的时候，事情就会变得复杂。在[这篇文章](http://www.cnblogs.com/mindwind/p/5231986.html)中，作者就给出了一个更新请求的流程图。  
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206222245472.png)  	我们可以分析 leader 在任意时刻 crash 的情况，有助于理解 raft 算法的容错性。
+![](http://oss.interviewguide.cn/img/202206222245472.png)  	我们可以分析 leader 在任意时刻 crash 的情况，有助于理解 raft 算法的容错性。
 
 6、总结
 ==

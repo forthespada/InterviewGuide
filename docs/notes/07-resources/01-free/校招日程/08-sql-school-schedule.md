@@ -22,20 +22,20 @@ comment: false
 
 这里先带你们看看其中的内容吧，我觉得是很清晰明了了。
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211290007332.png)
+![](http://oss.interviewguide.cn/img/202211290007332.png)
 
 
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211290007610.png)
+![](http://oss.interviewguide.cn/img/202211290007610.png)
 
 
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211290008058.png)
+![](http://oss.interviewguide.cn/img/202211290008058.png)
 
 获取的方式如下，没有任何套路。
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**007**” 即可获取高清图片。
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
 
 
 

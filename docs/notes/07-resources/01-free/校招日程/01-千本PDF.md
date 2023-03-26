@@ -28,8 +28,8 @@ comment: false
 <div align=right>
     <p>花了很久时间整理的，如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
 <figure class="half">
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222339456.png" style="right;zoom: 35%;" />
-                                                                                                                        <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222339089.png"  style="right;zoom: 35%;" />
+<img src="http://oss.interviewguide.cn/img/202205222339456.png" style="right;zoom: 35%;" />
+                                                                                                                        <img src="http://oss.interviewguide.cn/img/202205222339089.png"  style="right;zoom: 35%;" />
                                                                                                                          </figure></div>
 
 

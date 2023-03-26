@@ -25,24 +25,24 @@ comment: false
         border-left-style: solid;
         border-radius: .5rem;
         color: inherit;">
-  <p>这是四则或许对你有帮助的讯息</p>
-  <p>1、👉 最近我发现了一个每日都会推送最新校招资讯的《校招日程》文档，其中包括<a style="text-decoration: underline" href="https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">往届补录</a>、<a style="text-decoration: underline" href="https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f" target="_blank">应届实习校招</a>信息,比如各种大厂、国企、银行、事业编等信息都会定期更新，帮忙扩散一下。</p>  
+  <p>这是四则或许对你有些许帮助的信息:</p>
+  <p>1、👉 最近我发现了一个每日都会推送最新校招资讯的《校招日程》文档，其中包括<a style="text-decoration: underline" href="https://flowus.cn/share/ee50d5eb-3cd5-4f74-880e-95b215dd4ff2" target="_blank">往届补录</a>、<a style="text-decoration: underline" href="https://flowus.cn/share/5f327c98-1e31-46c8-b86b-5ac6105e021f" target="_blank">应届实习校招</a>信息，比如各种大厂、国企、银行、事业编等信息都会定期更新，帮忙扩散一下。</p>  
   <p>2、😍
-    免费分享阿秀个人学习计算机以来的收集到的免费资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>。
+    免费分享阿秀个人学习计算机以来收集到的免费学习资源，<a style="text-decoration: underline" href="/notes/07-resources/01-free/01-introduce.html" target="_blank">点此白嫖</a>；也记录一下自己以前买过的<a style="text-decoration: underline" href="/notes/07-resources/02-precious.html" target="_blank">不错的计算机书籍、网络专栏和垃圾付费专栏</a>。
   </p>
   <p>3、🚀如果你想在校招中顺利拿到更好的offer，阿秀建议你多看看前人<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">踩过的坑</a>和<a style="text-decoration: underline"  target="_blank" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp">留下的经验</a>，事实上你现在遇到的大多数问题你的学长学姐师兄师姐基本都已经遇到过了。
   </p>
-  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行真的不如一群人报团取暖，过去22届和23届的小伙伴好好跟着走下去的，最后基本都拿到了不错的offer！如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="/notes/08-other/02-question.html#_5、如何下载阿秀的学习笔记内容pdf版本" target="_blank">点此下载</a> 。</p>   </div>
+  <p>4、🔥 欢迎准备计算机校招的小伙伴加入我的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9" target="_blank">学习圈子</a>，一个人踽踽独行不如一群人报团取暖，圈子里沉淀了很多过去21/22/23届学长学姐的<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp" target="_blank">经验和总结</a>，好好跟着走下去的，最后基本都可以拿到不错的offer！此外，每周都会进行<a  style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz" target="_blank">精华总结和分享！</a>如果你需要《阿秀的学习笔记》网站中📚︎校招八股文相关知识点的PDF版本的话，可以<a style="text-decoration: underline" href="https://www.yuque.com/tuobaaxiu/httmmc/qs0yn66apvkzw0ps" target="_blank">点此下载</a> 。</p>   </div>
 
 ## 前言
 
 这是阿秀原创的学习路线以及项目推荐系列文章，如下图：
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208220047450.png)
+![](http://oss.interviewguide.cn/img/202208220047450.png)
 
 如有盗版，必回拿起法律武器捍卫自己的正当权利，《学习路线&项目推荐》的全部内容我将它放在了阿秀的学习圈中，欢迎了解[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子)。
 
-![Java学习路线（求职版） @公众号：拓跋阿秀](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210022029954.png)
+![Java学习路线（求职版） @公众号：拓跋阿秀](http://oss.interviewguide.cn/img/202210022029954.png)
 
 ## 1、前言
 
@@ -84,7 +84,7 @@ comment: false
 看视频的时候不能只听不练，建议用IDEA工具，更普遍一些。
 
 这里推荐高淇老师的Java300集，跟着他学习会有一种很强的舒适感，他讲解的也很清楚。
-![高淇老师的Java300集](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210021953613.png)
+![高淇老师的Java300集](http://oss.interviewguide.cn/img/202210021953613.png)
 
 javaSE是Java最基础的内容，各种类、方法、继承、JavaWeb等，也是我们打好Java编程基础能力的关键。
 地址：https://www.bilibili.com/video/BV1qQ4y1m7hQ
@@ -124,7 +124,7 @@ Java开发的岗位大多是Web开发，也就是大多数人在求职岗位上�
 JavaWeb这里推荐看的颜群老师的视频课程，他说话很有意思，跟教计算机网络的湖科大的韩立刚老师一样，属于那种你看他的
 
 视频不会犯困，反而会跟着他一起学下去的那种老师。
-![颜群老师的视频课程](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210021952007.png)
+![颜群老师的视频课程](http://oss.interviewguide.cn/img/202210021952007.png)
 
 JavaWeb在学习的过程中，正向反馈很高，在这一部分中你会知道我们日常生活中所浏览的网站是如何搭建起来的，前端、后端、数据库是怎么相互配合的，什么叫接口，什么叫请求等等。
 地址：https://www.bilibili.com/video/BV18s411u7EH
@@ -141,7 +141,7 @@ JavaWeb在学习的过程中，正向反馈很高，在这一部分中你会知�
 限的。而SpringBoot简化配置非常好理解。
 
 #### Spring系列课程
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210021953403.png)
+![](http://oss.interviewguide.cn/img/202210021953403.png)
 这里推荐黑马的这个视频，讲的很清楚，属于亲妈级别的手把手带你学了。
 地址：https://www.bilibili.com/video/BV1Sb411s7vP
 
@@ -149,7 +149,7 @@ JavaWeb在学习的过程中，正向反馈很高，在这一部分中你会知�
 如果你时间宽裕的情况下，建议你把Spring、SpringMVC都学习一下，搞懂 AOP 和 IOC 两个概念，以及Spring 中 bean 的作用域与生命周期、SpringMVC 工作原理，对理解Spring相关的框架非常重要。
 
 你可以跟着这个视频中的Mybatis部分学习Mybatis，也可以跟着下面Mybatis的学习路线学习Mybatis，都可以。
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210021952608.png)
+![](http://oss.interviewguide.cn/img/202210021952608.png)
 地址：[https://www.bilibili.com/video/BV1mE411X7yp](https://www.bilibili.com/video/BV1mE411X7yp?from=search&seid=12122799026209681120)
 
 #### MyBatis
@@ -163,7 +163,7 @@ Mybatis的视频主要讲的是配置文件编写、动态SQL、MyBatis缓存机
 #### SpringBoot
 这个真的是吐血推荐！！！必须要看我李哥的课程！！
 
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210021954873.png)我特别喜欢李哥挂在口上的一句：“有道无术，术尚可求，有术无道，止于术”。
+![](http://oss.interviewguide.cn/img/202210021954873.png)我特别喜欢李哥挂在口上的一句：“有道无术，术尚可求，有术无道，止于术”。
 
 在这个视频中还会顺带看到Docker的知识。
 
@@ -218,7 +218,7 @@ Mybatis的视频主要讲的是配置文件编写、动态SQL、MyBatis缓存机
 这里只对SpringCloud做视频推荐，其余技术的学习可以直接去B站搜索关键字即可，找播放量高的、评价好的、学的人多的，这种视频一般都不会差。
 
 这里推荐尚硅谷课程SpringCloud课程，看完你就会知道你会知道什么叫做微服务？什么又叫做分布式架构了？
-![](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202210021954418.png)
+![](http://oss.interviewguide.cn/img/202210021954418.png)
 地址：https://www.bilibili.com/video/BV18E411x7eT
 
 ### 第五阶段：Java项目
