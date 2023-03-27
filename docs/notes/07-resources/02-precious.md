@@ -301,8 +301,9 @@ comment: false
 读研时，我的桌子上堆满了各种书。。。
 
 <div align="center">
-  <img src="http://oss.interviewguide.cn/img/202205220026594.jpg" style="zoom:150%;" />
+  <img src="http://oss.interviewguide.cn/img/202205220026594.jpg" style="width:350px; height:350px" />
 </div>
+
 
 
 
@@ -454,7 +455,7 @@ comment: false
 ### 前端
 
 <div align="center">
-<img src="http://oss.interviewguide.cn/img/202303261947597.png" style="zoom:40%;" />
+<img src="http://oss.interviewguide.cn/img/202303261947597.png" style="width:350px; height:350px" />
 </div>
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGFMRVAILVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFpUDEIWHDZNRwYlLQdVMAUFVhByUHVNXgdOAXoEIgU1eEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCEsfCmoAE2sSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC20JGVgVXwQeVF9UAEkUH28PHVMcXwYCXF5VCkMnAW4JH1IlbQ" target="blank">京东链接</a>
@@ -462,7 +463,7 @@ comment: false
 
 
 <div align="center">
-<img src="http://oss.interviewguide.cn/img/202303261948823.png" style="zoom:50%;" />
+<img src="http://oss.interviewguide.cn/img/202303261948823.png" style="width:350px; height:350px" />
 </div>
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwdXAMCVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1ZcDUsWHDZNRwYlG3ocJyAZYD91BjMSSUUPKW59FgoFXkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCEkTAm0MGGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC20JGVgVXwQeVF9UAEkUH28PHVMcXwYCXF5VCkMnAW4JH1IlbQ" target="blank">京东链接</a>
@@ -576,7 +577,7 @@ comment: false
 
 
 <div align="center">
-<img src="http://oss.interviewguide.cn/img/202303262102524.png" style="zoom:50%;" />
+<img src="http://oss.interviewguide.cn/img/202303262102524.png" style="width:350px; height:350px" />
 </div>
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANoJK1olVQAHXF5fCkMXM28JGl8dXwQAUlZVAUwQMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWB2cKGVkTVQ4LU1lCUQ5LXl94bCVBI2FBFTwcbjx2RRcBQF9rJHxiWFJtCXsUAm8IEl4SXAEFZG5dD3tWbWsNGlIcbQcyVFlbAEIVB2kPGlgVVDYFVFdtAE4eAGgNHFwQM1oyZG5eOEwXCnsOaRpHSQBwZG5dOEgnA24IElIUVAcBVV5BCEgUAmwPB1sSWw4LVlpbDEoTBGs4GVoUWQ8yZA" target="blank">京东链接</a>
