@@ -42,7 +42,7 @@ comment: false
 
 这是阿秀原创的学习路线以及项目推荐系列文章，如下图：
 
-![](http://oss.interviewguide.cn/img/202208220047450.png)
+![](https://oss.interviewguide.cn/img/202208220047450.png)
 
 如有盗版，必回拿起法律武器捍卫自己的正当权利，《学习路线&项目推荐》的全部内容我将它放在了阿秀的学习圈中，欢迎了解[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子)。
 
@@ -60,7 +60,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 除此之外，本文也会推荐一些视频或者资料我已经放在自己的公众号后台了，获取方式或者地址都在对应的推荐视频下面了，回复相应的关键字就可以免费领取了。
 
-<a data-fancybox title="计算机网络学习路线(求职版) @拓跋阿秀" href="求职版">![计算机网络学习路线(求职版) @拓跋阿秀](http://oss.interviewguide.cn/img/202205070139878.png)</a>
+<a data-fancybox title="计算机网络学习路线(求职版) @拓跋阿秀" href="求职版">![计算机网络学习路线(求职版) @拓跋阿秀](https://oss.interviewguide.cn/img/202205070139878.png)</a>
 
 如果你是有基础的，一些入门级的资料或者视频可以直接跳过，直接去看进阶的部分即可。
 
@@ -72,7 +72,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 大多数人觉得计算机网络这门课程难学的主要原因就是上来就直接对着谢希仁老师的那本计算机网络**啃**
 
-<a data-fancybox title="经典的第七版谢希仁老师的计算机网络" href="http://oss.interviewguide.cn/img/202205070139859.png">![经典的第七版谢希仁老师的计算机网络](http://oss.interviewguide.cn/img/202205070139859.png)</a>
+<a data-fancybox title="经典的第七版谢希仁老师的计算机网络" href="https://oss.interviewguide.cn/img/202205070139859.png">![经典的第七版谢希仁老师的计算机网络](https://oss.interviewguide.cn/img/202205070139859.png)</a>
 
 ### 拒绝大黑书
 
@@ -80,7 +80,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 身为过来人，我不会推荐你你们直接上来就去啃这些转头书，因为很清楚，这是妥妥的劝退你们！
 
-<a data-fancybox title="" href="http://oss.interviewguide.cn/img/202205070139326.jpg">![](http://oss.interviewguide.cn/img/202205070139326.jpg)</a>
+<a data-fancybox title="" href="https://oss.interviewguide.cn/img/202205070139326.jpg">![](https://oss.interviewguide.cn/img/202205070139326.jpg)</a>
 
 计算机几门基石学科，操作系统、计算机网络、计算机组成原理以及计算机体系结构等的共同点就是它们具有十分复杂的体系结构，一环套一环，环环相扣！
 
@@ -102,15 +102,15 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 **从简单入门和入手，不香吗？**
 
-<a data-fancybox title="" href="http://oss.interviewguide.cn/img/202205070139504.jpg">![](http://oss.interviewguide.cn/img/202205070139504.jpg)</a>
+<a data-fancybox title="" href="https://oss.interviewguide.cn/img/202205070139504.jpg">![](https://oss.interviewguide.cn/img/202205070139504.jpg)</a>
 
-<img src="http://oss.interviewguide.cn/img/202205070139503.jpg" />
+<img src="https://oss.interviewguide.cn/img/202205070139503.jpg" />
 
 
 
 如果你是**非计算机专业的小白**，对于计算机网络一窍不懂，连最基本的HTTP都没听过，那我建议你先去看看《**网络是怎样连接的**》。
 
-<a data-fancybox title="网络是怎样连接的" href="http://oss.interviewguide.cn/img/202205070139548.png">![网络是怎样连接的](http://oss.interviewguide.cn/img/202205070139548.png)</a>
+<a data-fancybox title="网络是怎样连接的" href="https://oss.interviewguide.cn/img/202205070139548.png">![网络是怎样连接的](https://oss.interviewguide.cn/img/202205070139548.png)</a>
 
 这本书会从总体为你讲清楚计算机发送请求的整个过程！
 
@@ -118,7 +118,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 你搞明白了这个问题也就对计算机网络最常用的HTTP和TCPIP相关有个大概认识和了解了。
 
-<a data-fancybox title="" href="http://oss.interviewguide.cn/img/202205070139435.png">![](http://oss.interviewguide.cn/img/202205070139435.png)</a>
+<a data-fancybox title="" href="https://oss.interviewguide.cn/img/202205070139435.png">![](https://oss.interviewguide.cn/img/202205070139435.png)</a>
 
 
 
@@ -132,7 +132,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 如果让我推荐一个计算机网络视频教程，我觉得非韩立刚老师的视频莫属了，韩老师讲课也很有亲和力，并且韩立刚老师的课堂氛围也很诙谐，没的说了。
 
-<a data-fancybox title="" href="http://oss.interviewguide.cn/img/202205070139800.jpg">![](http://oss.interviewguide.cn/img/202205070139800.jpg)</a>
+<a data-fancybox title="" href="https://oss.interviewguide.cn/img/202205070139800.jpg">![](https://oss.interviewguide.cn/img/202205070139800.jpg)</a>
 
 强烈推荐韩老师的计算机网络课程！
 
@@ -144,11 +144,11 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 这门课是最近两年刚火起来的，可能没有韩老师那么久，但这门课依然很是不错，教书匠教的更形象立体一些，他有很多不错的PPT动画，让你看的更明白和清楚！
 
-![](http://oss.interviewguide.cn/img/202208061219932.png)
+![](https://oss.interviewguide.cn/img/202208061219932.png)
 
 视频下方的评论就能看出来，这门课有多受欢迎了。
 
-![](http://oss.interviewguide.cn/img/202208061220102.png)
+![](https://oss.interviewguide.cn/img/202208061220102.png)
 
 
 
@@ -160,7 +160,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 不过如果你时间优先，优先看韩老师或者湖大教书匠的那门课就ok！
 
-<a data-fancybox title="" href="http://oss.interviewguide.cn/img/202205070139305.jpg">![](http://oss.interviewguide.cn/img/202205070139305.jpg)</a>
+<a data-fancybox title="" href="https://oss.interviewguide.cn/img/202205070139305.jpg">![](https://oss.interviewguide.cn/img/202205070139305.jpg)</a>
 
 **地址**：[https://www.bilibili.com/video/BV19x411z7Pu](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV137411Z7LR)
 
@@ -182,11 +182,11 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 这两本书并不需要都看，选择一本就可以，毕竟从事信息安全或者网络安全的还是少数，大多数只需要掌握基本的抓包技能，学会排查由网络问题引发的服务问题就ok。
 
-<a data-fancybox title="Wireshark 网络分析就这么简单" href="http://oss.interviewguide.cn/img/202205070139134.png">![Wireshark 网络分析就这么简单](http://oss.interviewguide.cn/img/202205070139134.png)</a>
+<a data-fancybox title="Wireshark 网络分析就这么简单" href="https://oss.interviewguide.cn/img/202205070139134.png">![Wireshark 网络分析就这么简单](https://oss.interviewguide.cn/img/202205070139134.png)</a>
 
 
 
-<a data-fancybox title="Wireshark网络分析的艺术" href="http://oss.interviewguide.cn/img/202205070139249.png">![Wireshark网络分析的艺术](http://oss.interviewguide.cn/img/202205070139249.png)</a>
+<a data-fancybox title="Wireshark网络分析的艺术" href="https://oss.interviewguide.cn/img/202205070139249.png">![Wireshark网络分析的艺术](https://oss.interviewguide.cn/img/202205070139249.png)</a>
 
 对于普通的亚发工程师而言，推荐《Wireshark 网络分析就这么简单》就足够了，这本书不务虚，不注水，页页干货。
 
@@ -204,7 +204,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 计算机网络相关比较经典的书籍不外乎就是《**计算机网络：自顶向下方法**》以及《**TCP/IP详解 卷1：协议**》这两本书了。
 
-<a data-fancybox title="计算机网络：自顶向下方法" href="http://oss.interviewguide.cn/img/202205070139123.png">![计算机网络：自顶向下方法](http://oss.interviewguide.cn/img/202205070139123.png)</a>
+<a data-fancybox title="计算机网络：自顶向下方法" href="https://oss.interviewguide.cn/img/202205070139123.png">![计算机网络：自顶向下方法](https://oss.interviewguide.cn/img/202205070139123.png)</a>
 
 值得一提的是《**计算机网络：自顶向下方法》与**别的计算机网络相关书籍不一样。
 
@@ -214,13 +214,13 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 在看这本书的时候可以多看看我总结的大纲，重点掌握一些协议，比如HTTP、TCP、UDP等等。
 
-<a data-fancybox title="一些重要的协议" href="http://oss.interviewguide.cn/img/202205070139628.png">![一些重要的协议](http://oss.interviewguide.cn/img/202205070139628.png)</a>
+<a data-fancybox title="一些重要的协议" href="https://oss.interviewguide.cn/img/202205070139628.png">![一些重要的协议](https://oss.interviewguide.cn/img/202205070139628.png)</a>
 
 一般来说，你如果像我一样学完这些内容，基本上计算机网络不会成为你找工作的障碍了，你完全可以在面试求职过程中跟面试官侃侃而谈计算机网络中的经典问题，比如**SSL、对称加密、三握四挥**等等。
 
 对于最经久流传的TCPIP详解这本书来说，如果你不是从事信息安全、网络安全相关岗位的，或者像我一样是一名后端研发工程师，完全可以将这本书作为一本工具书来使用的，遇到具体不会的问题了再来查阅资料即可。
 
-<a data-fancybox title="TCP/IP详解 卷1：协议" href="http://oss.interviewguide.cn/img/202205070139870.png">![TCP/IP详解 卷1：协议](http://oss.interviewguide.cn/img/202205070139870.png)</a>
+<a data-fancybox title="TCP/IP详解 卷1：协议" href="https://oss.interviewguide.cn/img/202205070139870.png">![TCP/IP详解 卷1：协议](https://oss.interviewguide.cn/img/202205070139870.png)</a>
 
 ## 总结
 

@@ -20,9 +20,9 @@ comment: false
 
 其中既有Java、C++、客户端、测试、测开等技术岗面经，也有产品等非技术岗面经，还有一些简历模板等分享。
 
-<img  src="http://oss.interviewguide.cn/img/202211242037481.png" align="middle" style="zoom:50%;"  />
-     <img  src="http://oss.interviewguide.cn/img/202211242037190.png" align="middle" style="zoom:50%;"  />
-  <img  src="http://oss.interviewguide.cn/img/202211242037292.png" align="middle" style="zoom:50%;"  />
+<img  src="https://oss.interviewguide.cn/img/202211242037481.png" align="middle" style="zoom:50%;"  />
+     <img  src="https://oss.interviewguide.cn/img/202211242037190.png" align="middle" style="zoom:50%;"  />
+  <img  src="https://oss.interviewguide.cn/img/202211242037292.png" align="middle" style="zoom:50%;"  />
 
 ## 下载方式
 
@@ -31,7 +31,7 @@ comment: false
 
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202205222330709.png" style="zoom:50%;" />
+ <img src="https://oss.interviewguide.cn/img/202205222330709.png" style="zoom:50%;" />
 </div>
 
 

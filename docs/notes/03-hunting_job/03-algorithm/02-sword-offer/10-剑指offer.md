@@ -47,7 +47,7 @@ comment: false
 
 比如n=3时，2*3的矩形块有3种覆盖方法：
 
-![](http://oss.interviewguide.cn/img/202205072310734.png)
+![](https://oss.interviewguide.cn/img/202205072310734.png)
 
 
 

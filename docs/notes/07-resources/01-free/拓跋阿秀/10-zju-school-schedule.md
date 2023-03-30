@@ -30,8 +30,8 @@ comment: false
 等等。目前项目已覆盖大多数计科的专业课程，下面是其中分享的课程资源，我简单截了几个图。
 
 <div align="center">
-  <img src="http://oss.interviewguide.cn/img/202211290943149.png" style="zoom:100%;" />
-  <img src="http://oss.interviewguide.cn/img/202211290944871.png" style="zoom:100%;" /></div>
+  <img src="https://oss.interviewguide.cn/img/202211290943149.png" style="zoom:100%;" />
+  <img src="https://oss.interviewguide.cn/img/202211290944871.png" style="zoom:100%;" /></div>
 
 ## 获取方式
 
@@ -40,7 +40,7 @@ comment: false
 如果你不方便上github的话，阿秀已经下载了一份，获取的方式如下，没有任何套路。
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**010**” 即可获取。
-<div align="center"><img src="http://oss.interviewguide.cn/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="https://oss.interviewguide.cn/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
 
 
 

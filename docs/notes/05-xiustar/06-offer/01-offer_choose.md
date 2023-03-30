@@ -42,7 +42,7 @@ comment: false
 
 阿秀的学习圈提问入口：
 
-![](http://oss.interviewguide.cn/img/202205221555024.png)
+![](https://oss.interviewguide.cn/img/202205221555024.png)
 
 
 
@@ -60,7 +60,7 @@ comment: false
 
  深感互联网的大佬是真的多，在一堆大佬的包围中强迫自己成为了最菜全栈工程师。 
 
- ![字节跳动录用函镇楼](http://oss.interviewguide.cn/img/202205221549220.png) 
+ ![字节跳动录用函镇楼](https://oss.interviewguide.cn/img/202205221549220.png) 
 
  在选择offer的时候，可能每个人关注的点不一样，我主要考虑以下几点，分别跟大家唠唠嗑。 
 
