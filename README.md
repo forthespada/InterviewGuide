@@ -22,7 +22,7 @@
   		<tbody>
             <tr>
                <td align="center" valign="middle">
-                <a href="https://interviewguide.cn/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#%E9%98%BF%E7%A7%80%E7%BB%84%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A0%A1%E6%8B%9B%E5%AD%A6%E4%B9%A0%E5%9C%88%E5%AD%90"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202206190108471.png" width="900px"></a>
+                <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html"><img src="http://oss.interviewguide.cn/img/202206190108471.png" width="900px"></a>
               </td>       
             </tr>
   		</tbody>
@@ -367,8 +367,8 @@
 </div>
 
 <figure align="center">
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205212323495.png" alt="校招一群" style="zoom: 60%;" />
-  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205212323662.png" alt="校招二群" style="zoom: 60%;" /></figure>
+<img src="http://oss.interviewguide.cn/img/202205212323495.png" alt="校招一群" style="zoom: 60%;" />
+  <img src="http://oss.interviewguide.cn/img/202205212323662.png" alt="校招二群" style="zoom: 60%;" /></figure>
 
 
 
@@ -377,7 +377,7 @@
 如果您是校招生，比如大三大四或者研究生想要跟千人交流求职，您可以扫描**下方二维码**或者微信搜索：**coderxiu2**，添加阿秀个人微信，备注：个人简短介绍+校招（无备注不通过哦），我拉你入群！
 
 <div align="center">
-    <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205211838580.png" width="180px" />
+    <img src="http://oss.interviewguide.cn/img/202205211838580.png" width="180px" />
 </div>
 
 
@@ -394,7 +394,7 @@
 
 
 
-<div align="center"><img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205212015036.jpg" width="180px"></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202205212015036.jpg" width="180px"></div>
 
 
 
