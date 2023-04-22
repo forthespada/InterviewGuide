@@ -36,7 +36,7 @@ comment: false
 -  本专栏适合于校招、社招工作党以及打算转行做计算机的非科班人士，适用于互联网求职笔试、面试而非算法类竞赛比如蓝桥杯等
 -  本专栏是我从将近600道算法题目中精选出300+道而成的，对于一些质量不太好以及面试笔试中出现频率较低的题目被阿秀筛掉了
 
-![](https://oss.interviewguide.cn/img/202207311636966.jpg)
+![](http://oss.interviewguide.cn/img/202207311636966.jpg)
 
 
 
@@ -87,7 +87,7 @@ comment: false
 
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202205291839532.png" style="zoom:150%;" />
+  <img src="http://oss.interviewguide.cn/img/202205291839532.png" style="zoom:150%;" />
 </div>
 
 

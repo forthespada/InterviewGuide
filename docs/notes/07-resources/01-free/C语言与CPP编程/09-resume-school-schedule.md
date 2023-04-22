@@ -19,7 +19,7 @@ comment: false
 收集了一些不错的简历模板，已经下载好了~
 
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202211290932798.png" style="zoom:100%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202211290932798.png" style="zoom:100%;" /></div>
 
 ## 获取方式
 
@@ -27,7 +27,7 @@ comment: false
 
 扫描下方二维码，后台回复 “**计算机基础**” 即可获取。
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202301191549506.jpg" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202301191549506.jpg" style="width: 300px; height: 300px;" /></div>
 
 
 

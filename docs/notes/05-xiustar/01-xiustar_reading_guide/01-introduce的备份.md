@@ -84,12 +84,12 @@ comment: false
 其中知识星球网页端长这样：
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202205202315053.png" style="zoom:40%;" /> 
+  <img src="http://oss.interviewguide.cn/img/202205202315053.png" style="zoom:40%;" /> 
 </div>
 
 而知识星球APP的界面长这样：
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202205221716704.png" style="zoom:33%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202205221716704.png" style="zoom:33%;" /></div>
 
 
 
@@ -121,23 +121,23 @@ comment: false
 就如同上面那样，至少毕业后阿秀自己依然就在坚持学习：[我离开学校后坚持每天学习一小时已经135天了](/notes/05-xiustar/01-xiustar_reading_guide/20220427-昨天、今天和明天，离开校园后坚持学习135天了.md)
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202205202315049.png" style="zoom: 33%;" />
+  <img src="http://oss.interviewguide.cn/img/202205202315049.png" style="zoom: 33%;" />
 </div>
 慢慢的一些圈友也开始分享和记录自己的每日学习进度，就像阿秀说的那样，每日一点点就行，剩下的交给时间就好！
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202205202315855.png" alt="img" style="zoom:63%;" />
-  <img src="https://oss.interviewguide.cn/img/202206112312394.png" style="zoom:100%;" />
-  <img src="https://oss.interviewguide.cn/img/202206112319864.png" style="zoom:90%;" />
-  <img src="https://oss.interviewguide.cn/img/202206112319809.png" style="zoom:90%;" />
-  <img src="https://oss.interviewguide.cn/img/202206112321782.png" style="zoom:67%;" />
+  <img src="http://oss.interviewguide.cn/img/202205202315855.png" alt="img" style="zoom:63%;" />
+  <img src="http://oss.interviewguide.cn/img/202206112312394.png" style="zoom:100%;" />
+  <img src="http://oss.interviewguide.cn/img/202206112319864.png" style="zoom:90%;" />
+  <img src="http://oss.interviewguide.cn/img/202206112319809.png" style="zoom:90%;" />
+  <img src="http://oss.interviewguide.cn/img/202206112321782.png" style="zoom:67%;" />
 </div>
 
 
 顺利拿到offer后也切实体会到一起**抱团取暖**的好处，这也正是我创立这个学习圈子的目的之一。
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202210222058294.png" alt="img" style="zoom:63%;" /></div>
+  <img src="http://oss.interviewguide.cn/img/202210222058294.png" alt="img" style="zoom:63%;" /></div>
 
 
 
@@ -172,7 +172,7 @@ comment: false
 
 如下图：
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202208212311656.png"  /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202208212311656.png"  /></div>
 
 
 
@@ -190,13 +190,13 @@ comment: false
 
 在私密资料中有一些自己在以前面试过程中用到的方法和诀窍，这都是经过实战演练过的！这位星球的小伙伴就在实战中用到了阿秀所分享的一个方法，最终也拿到了字节跳动飞书后端的offer。
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202208212311514.png" style="align:center; zoom:67%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202208212311514.png" style="align:center; zoom:67%;" /></div>
 
 
 
 而针对小白或者校招生，已经沉淀好了**学习路线和相关的项目推荐**，比如C++项目推荐目前已经总结了10个，Java学习项目则是推荐总结了16个之多，其余项目类似，都是你可以写在简历上的项目和内容。
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202208212311451.png" style="align:center; zoom:67%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202208212311451.png" style="align:center; zoom:67%;" /></div>
 
 
 
@@ -210,7 +210,7 @@ comment: false
 4. 客户端（安卓&IOS）
 5. 产品
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202208212310914.png" style="align:center; zoom:67%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202208212310914.png" style="align:center; zoom:67%;" /></div>
 
 
 
@@ -284,23 +284,23 @@ comment: false
 
 这里我只是简单截个图，内容太多了，且在源源不断产生中
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202208212310506.png" style="align:center; zoom: 67%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202208212310506.png" style="align:center; zoom: 67%;" /></div>
 
 
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202208212310531.png" style="align:center; zoom:67%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202208212310531.png" style="align:center; zoom:67%;" /></div>
 
 
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202208212310846.png" style="align:center; zoom:67%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202208212310846.png" style="align:center; zoom:67%;" /></div>
 
 
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202208212310360.png" style="align:center; zoom:67%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202208212310360.png" style="align:center; zoom:67%;" /></div>
 
 
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202208212310938.png" style="align:center; zoom: 67%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202208212310938.png" style="align:center; zoom: 67%;" /></div>
 
 
 
@@ -338,7 +338,7 @@ comment: false
 
 简单贴几个图吧，这并不是全部，因为依然在源源不断增加中
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202208212310154.png" style="align:center; zoom:67%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202208212310154.png" style="align:center; zoom:67%;" /></div>
 
 
 
@@ -350,21 +350,21 @@ comment: false
 
 ### 1、打卡学习记录，每天进步一点点，每月就会变成亿点点了
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202205261945370.png" style="zoom:50%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202205261945370.png" style="zoom:50%;" /></div>
 
 
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202205261944530.png" style="zoom:50%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202205261944530.png" style="zoom:50%;" /></div>
 
 
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202205261948910.png" alt="image-20220526194842437" style="zoom:50%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202205261948910.png" alt="image-20220526194842437" style="zoom:50%;" /></div>
 
 
 
 同时也会在校招群里各种讨论，交流信息，最大程度的报团取暖！
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202205261946492.png" alt="秋招讨论" style="zoom:50%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202205261946492.png" alt="秋招讨论" style="zoom:50%;" /></div>
 
 
 
@@ -373,7 +373,7 @@ comment: false
 更有甚者，还会拉身边朋友一起进来打卡哈哈哈
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202208212309046.png" style="align:center; zoom:67%;" />
+  <img src="http://oss.interviewguide.cn/img/202208212309046.png" style="align:center; zoom:67%;" />
 </div>
 
 
@@ -381,7 +381,7 @@ comment: false
 有时候一个氛围真的很重要，**有人陪着打卡学习，安心很多**，知道自己的进度如何，一起报团取暖！
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202208212309926.png" style="align:center; zoom:67%;" />
+  <img src="http://oss.interviewguide.cn/img/202208212309926.png" style="align:center; zoom:67%;" />
 </div>
 
 
@@ -389,7 +389,7 @@ comment: false
 加完星球后，**感觉到平台真的很重要**！因为一个人踽踽独行和一群人一起行走是完全不同的感觉的！
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202208212309093.png" style="align:center; zoom:67%;" />
+  <img src="http://oss.interviewguide.cn/img/202208212309093.png" style="align:center; zoom:67%;" />
 </div>
 
 
@@ -399,7 +399,7 @@ comment: false
 在看八股文的时候遇到问题了就在星球发问，一起交流！
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202208212309967.png" style="align:center; zoom:67%;" />
+  <img src="http://oss.interviewguide.cn/img/202208212309967.png" style="align:center; zoom:67%;" />
 </div>
 
 
@@ -407,7 +407,7 @@ comment: false
 初学者对项目有所疑惑，那就大胆发问！
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202208212309562.png" style="align:center; zoom:67%;" />
+  <img src="http://oss.interviewguide.cn/img/202208212309562.png" style="align:center; zoom:67%;" />
 </div>
 
 
@@ -415,7 +415,7 @@ comment: false
 对于自己在学习过程中遇到的问题也会相互沟通和交流
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202208212309914.png" style="align:center; zoom:67%;" />
+  <img src="http://oss.interviewguide.cn/img/202208212309914.png" style="align:center; zoom:67%;" />
 </div>
 
 
@@ -423,7 +423,7 @@ comment: false
 除此外也会一些问题和疑问进行总结，深刻剖析不足！
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202208212309064.png" style="align:center; zoom:67%;" />
+  <img src="http://oss.interviewguide.cn/img/202208212309064.png" style="align:center; zoom:67%;" />
 </div>
 
 
@@ -431,7 +431,7 @@ comment: false
 学习圈内气氛活跃，有时也会很逗比，比如盖楼调侃等
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202208212309774.png" style="align:center; zoom:67%;" />
+  <img src="http://oss.interviewguide.cn/img/202208212309774.png" style="align:center; zoom:67%;" />
 </div>
 
 
@@ -453,7 +453,7 @@ comment: false
 - 1、针对圈友不同情况，给出具体路线和当前应该做的侧重点
 
   <div align="center">
-    <img src="https://oss.interviewguide.cn/img/202205202311104.png" alt="img" style="zoom:70%;" />
+    <img src="http://oss.interviewguide.cn/img/202205202311104.png" alt="img" style="zoom:70%;" />
   </div>
 
 
@@ -461,25 +461,25 @@ comment: false
 - 2、时间不多的情况下应该先干什么？
 
     <div align="center">
-    <img src="https://oss.interviewguide.cn/img/202205202311906.png" alt="img" style="zoom:70%;" />
+    <img src="http://oss.interviewguide.cn/img/202205202311906.png" alt="img" style="zoom:70%;" />
     </div>
 
 - 3、要不要去实习？全力准备秋招还是优先去实习？
 
   <div align="center">
-    <img src="https://oss.interviewguide.cn/img/202205261938211.png" alt="image-20220526193853232" style="zoom:70%;" />
+    <img src="http://oss.interviewguide.cn/img/202205261938211.png" alt="image-20220526193853232" style="zoom:70%;" />
   </div>
   
 - 4、目前感觉很慌？时间不多肯定要优先抓重要的事情做！不要在一些性价比不高的事情上浪费时间！时间不够的情况下要追求极致的性价比！
 
   <div align="center">
-    <img src="https://oss.interviewguide.cn/img/202205261936500.png" style="zoom:80%;" />
+    <img src="http://oss.interviewguide.cn/img/202205261936500.png" style="zoom:80%;" />
   </div>
   
 - 5、针对学弟情况给出足够具体的建议，比如下面这个学弟的疑问就回答得很清楚，给了八条建议，也获得学习学妹们的好评！
 
   <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202206190011613.png" style="zoom:40%;" /></div>
+  <img src="http://oss.interviewguide.cn/img/202206190011613.png" style="zoom:40%;" /></div>
   
   
 
@@ -497,21 +497,21 @@ comment: false
 
 - 1、**部分简历修改记录**
 
-  <div align="center"> <div align="center"> <img src="https://oss.interviewguide.cn/img/202205202247637.png" style="zoom:60%;" /></div>
-  <img src="https://oss.interviewguide.cn/img/202208212308293.png" style="align:center; zoom:60%;" /></div>
+  <div align="center"> <div align="center"> <img src="http://oss.interviewguide.cn/img/202205202247637.png" style="zoom:60%;" /></div>
+  <img src="http://oss.interviewguide.cn/img/202208212308293.png" style="align:center; zoom:60%;" /></div>
 
 
 
 - 2、**怕圈友理解不清楚，有时候阿秀会直接给出微信语音，这样学弟学妹们也能多听几遍，好好修改简历**
 
-<div align="center"><img src="https://oss.interviewguide.cn/img/202205202244777.png" style="zoom:50%;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202205202244777.png" style="zoom:50%;" /></div>
 
 
 
 - 3、**上岸字节，跟阿秀做同事，简历修改帮了大忙了**
 
   <div align="center">
-    <img src="https://oss.interviewguide.cn/img/202205202238608.png" alt="简历修改很有用" style="zoom:50%;" />
+    <img src="http://oss.interviewguide.cn/img/202205202238608.png" alt="简历修改很有用" style="zoom:50%;" />
   </div>
   
   
@@ -520,24 +520,24 @@ comment: false
   
 
   <div align="center">
-    <img src="https://oss.interviewguide.cn/img/202205202244760.png" alt="简历3" style="zoom:50%;" />
+    <img src="http://oss.interviewguide.cn/img/202205202244760.png" alt="简历3" style="zoom:50%;" />
   </div>
 
-  <div align="center"><img src="https://oss.interviewguide.cn/img/202205202311201.png" alt="简历2" style="zoom:50%;" /></div>
+  <div align="center"><img src="http://oss.interviewguide.cn/img/202205202311201.png" alt="简历2" style="zoom:50%;" /></div>
 
 - 5、**自己不知道自己简历的问题所在，过来人一看就知道了。。。**
 
-  <div align="center"><img src="https://oss.interviewguide.cn/img/202205261956725.png" alt="image-20220526195616754" style="zoom:50%;" />
+  <div align="center"><img src="http://oss.interviewguide.cn/img/202205261956725.png" alt="image-20220526195616754" style="zoom:50%;" />
   </div>
   - 6、有的时候我给的建议可能有**一丢丢过分细致**，都会让他们直呼"**我靠**"
   
-    <div align="center"><img src="https://oss.interviewguide.cn/img/202208212305057.png" style="align:center; zoom:67%;" /></div>
+    <div align="center"><img src="http://oss.interviewguide.cn/img/202208212305057.png" style="align:center; zoom:67%;" /></div>
   
   
   
   - 7、有时候为了**确保一定把简历修改到位**，阿秀还会让他们把改完的简历再发一次到我的邮箱去，**进行二次check！**
   
-    <div align="center"><img src="https://oss.interviewguide.cn/img/202208212305261.png" style="align:center; zoom:67%;" /></div>
+    <div align="center"><img src="http://oss.interviewguide.cn/img/202208212305261.png" style="align:center; zoom:67%;" /></div>
   
 
 ### 5、学习资源分享
@@ -545,7 +545,7 @@ comment: false
 阿秀的学习圈中资源较多，如果你是新进圈的圈友可以直接点击置顶帖中的资源分享精华所在：
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202208212305286.png" style="zoom:67%;" />
+  <img src="http://oss.interviewguide.cn/img/202208212305286.png" style="zoom:67%;" />
 </div>
 
 除了上面提到的一些资源外，这里单独将阿秀在学习过程中产生的一些资源进行简单介绍
@@ -554,27 +554,27 @@ comment: false
 - 1、《阿秀的学习笔记》的**PDF版本**，以后只为学习圈中的圈友独家提供，且不再对外免费开放下载，目前迭代到第四版，第五版更加精彩正在加紧制作中。
 
   <div align="center">
-    <img src="https://oss.interviewguide.cn/img/202206051236469.png" style="zoom:70%;" />
+    <img src="http://oss.interviewguide.cn/img/202206051236469.png" style="zoom:70%;" />
   </div>
   
   
   
-  <div align="center"><img src="https://oss.interviewguide.cn/img/202206051237338.png" style="zoom:70%;" /></div>
+  <div align="center"><img src="http://oss.interviewguide.cn/img/202206051237338.png" style="zoom:70%;" /></div>
   
   
   
 - 2、简历资源分享
 
-  <div align="center"><img src="https://oss.interviewguide.cn/img/202205202311314.png" alt="img" style="zoom:50%;" /></div>
+  <div align="center"><img src="http://oss.interviewguide.cn/img/202205202311314.png" alt="img" style="zoom:50%;" /></div>
 
 - 3、个人读书笔记分享，比如自己的各种读书笔记
 
   <div align="center">
-    <img src="https://oss.interviewguide.cn/img/202206051204901.png" alt="img" style="zoom:50%;" />
+    <img src="http://oss.interviewguide.cn/img/202206051204901.png" alt="img" style="zoom:50%;" />
   </div>
 
   <div align="center">
-    <img src="https://oss.interviewguide.cn/img/202206051209125.png" style="zoom:50%;" />
+    <img src="http://oss.interviewguide.cn/img/202206051209125.png" style="zoom:50%;" />
   </div>
 
 ### 6、圈友各种校招上岸分享集锦
@@ -669,7 +669,7 @@ comment: false
 
 > 备注：
 >
-> 1、如果优惠券不能使用或者过期，可以联系阿秀，微信：[aXiu_go](https://oss.interviewguide.cn/img/202208212243745.png)（点击扫码添加，麻烦备注："知识星球优惠券"）
+> 1、如果优惠券不能使用或者过期，可以联系阿秀，微信：[aXiu_go](http://oss.interviewguide.cn/img/202208212243745.png)（点击扫码添加，麻烦备注："知识星球优惠券"）
 >
 > 2、星球每加入**1000**人，都会涨价**20**元，因为**一个人的精力是有限的，人多了服务质量肯定会下降**。这是我所不想也绝对不愿意见到的，阿秀能够帮助到一小拨人就足够了。
 
@@ -682,7 +682,7 @@ comment: false
 加入星球之后记得看星球置顶页中的「[新人报道](https://t.zsxq.com/04JuJQnub)」以及「📖[知识图谱](https://t.zsxq.com/04qZzBAAe)」，特别是知识图谱，因为那是整个《阿秀的学习圈》的精华汇总，很多学长学姐的经验都被阿秀收录在那里了，讲真你一定会发现物超所值！如果你需要一些资源的话可以看看置顶帖中的「🏆[资源沉淀](https://t.zsxq.com/05IiiIa6A)」！
 
 <div align="center">
-  <img src="https://oss.interviewguide.cn/img/202209062337206.png" style="zoom:60%;" />
+  <img src="http://oss.interviewguide.cn/img/202209062337206.png" style="zoom:60%;" />
 </div>
 
 欢迎你加入阿秀的学习圈，因为这可能是你<strong>近一年内性价比最高的一笔投资</strong>了！阿秀的学习圈子链接 -> <a href="https://wx.zsxq.com/dweb2/index/group/28855581515241" target="_blank">点此直达</a>
