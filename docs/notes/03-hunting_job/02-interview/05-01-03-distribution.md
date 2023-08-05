@@ -202,7 +202,7 @@ Raft 算法的头号目标就是容易理解（UnderStandable），这从论文�
 
 > To bring a follower’s log into consistency with its own, the leader must find the latest log entry where the two logs agree, delete any entries in the follower’s log after that point, and send the follower all of the leader’s entries after that point.
 
-  leader 会维护一个 nextIndex[] 数组，记录了 leader 可以发送每一个 follower 的 log index，初始化为 eader 最后一个 log index 加 1， 前面也提到，leader 选举成功之后会立即给所有 follower 发送 AppendEntries RPC（不包含任何 log entry， 也充当心跳消息）, 那么流程总结为：
+  leader 会维护一个 nextIndex[] 数组，记录了 leader 可以发送每一个 follower 的 log index，初始化为 leader 最后一个 log index 加 1， 前面也提到，leader 选举成功之后会立即给所有 follower 发送 AppendEntries RPC（不包含任何 log entry， 也充当心跳消息）, 那么流程总结为：
 
 > s1 leader 初始化 nextIndex[x] 为 leader 最后一个 log index + 1  
 > s2 AppendEntries 里 prevLogTerm prevLogIndex 来自 logs[nextIndex[x] - 1]  
@@ -223,7 +223,7 @@ Raft 算法的头号目标就是容易理解（UnderStandable），这从论文�
 
   上面两点都提到了 majority：commit majority and vote majority，根据 Quorum，这两个 majority 一定是有重合的，因此被选举出的 leader 一定包含了最新的 committed 的日志。
 
-  raft 与其他协议（Viewstamped Replication、mongodb）不同，raft 始终保证 leade 包含最新的已提交的日志，因此 leader 不会从 follower catchup 日志，这也大大简化了系统的复杂度。
+  raft 与其他协议（Viewstamped Replication、mongodb）不同，raft 始终保证 leader 包含最新的已提交的日志，因此 leader 不会从 follower catchup 日志，这也大大简化了系统的复杂度。
 
 5、corner case
 -----------
