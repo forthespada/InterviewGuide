@@ -164,7 +164,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 **如果想要去秋招面试，那就盯着我以前的学习笔记上的内容好好看就是了！**
 
-**操作系统高频面试题**：[https://interviewguide.cn/notes/03-hunting_job/02-interview/02-01-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.html](https://interviewguide.cn/notes/03-hunting_job/02-interview/02-01-操作系统.html)
+**操作系统高频面试题**：[https://interviewguide.cn/notes/03-hunting_job/02-interview/02-01-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.html](https://interviewguide.cn/notes/03-hunting_job/02-interview/02-01-os.html)
 
 
 
@@ -240,7 +240,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 **如果想要去秋招面试，那就盯着我以前的学习笔记上的内容好好看就是了！特别是TCP、UDP相关的内容。**
 
-**计算机网络高频面试题**：[https://interviewguide.cn/notes/03-hunting_job/02-interview/02-01-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.html](https://interviewguide.cn/notes/03-hunting_job/02-interview/02-01-操作系统.html)
+**计算机网络高频面试题**：[https://interviewguide.cn/notes/03-hunting_job/02-interview/02-01-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.html](https://interviewguide.cn/notes/03-hunting_job/02-interview/03-01-net.html)
 
 ## 数据库
 

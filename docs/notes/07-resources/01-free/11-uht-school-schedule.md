@@ -60,7 +60,7 @@ comment: false
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**011**” 即可获取。
 
-<div align="center"><img src="http://oss.interviewguide.cn/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202310061834557.jpg" style="width: 300px; height: 300px;" /></div>
 
 
 
@@ -163,7 +163,7 @@ comment: false
 如果你不方便上github的话，阿秀已经下载了一份，获取的方式如下，没有任何套路。
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**011**” 即可获取。
-<div align="center"><img src="http://oss.interviewguide.cn/img/202205222330709.png" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="http://oss.interviewguide.cn/img/202310061834557.jpg" style="width: 300px; height: 300px;" /></div>
 
 github地址：https://github.com/PKUanonym/REKCARC-TSC-UHT
 

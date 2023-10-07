@@ -31,7 +31,7 @@ comment: false
 
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202205222330709.png" style="zoom:50%;" />
+ <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" />
 </div>
 
 

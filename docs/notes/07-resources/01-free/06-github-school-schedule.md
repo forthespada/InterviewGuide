@@ -57,7 +57,7 @@ comment: false
 
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202205222330709.png" style="zoom:50%;" />
+ <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" />
 </div>
 
 
@@ -81,7 +81,7 @@ Java 是当下企业开发最热门的编程语言，它有着强大的生态以
 
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202205222330709.png" style="zoom:50%;" />
+ <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" />
 </div>
 
 
@@ -146,5 +146,5 @@ Web Developer Roadmap 是一个大一统的 Web 开发学习路线，涵盖了�
 
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202205222330709.png" style="zoom:50%;" />
+ <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" />
 </div>
