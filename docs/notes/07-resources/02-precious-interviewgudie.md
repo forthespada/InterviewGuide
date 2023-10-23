@@ -1,34 +1,20 @@
----
-layout: post
-category: lanuuage
-title: 阿秀个人学习过程中使用过的一些付费资料
-tags:
-    - 白嫖
-    - 资源
-    - 好物推荐
-    - 阿秀
-excerpt: 阿秀个人学习过程中使用过的一些付费资料
-comment: false
+大家好，我是站长阿秀。
 
----
+我学习计算机基本都是靠自学的，**毕竟国内高校的计算机教育懂得都懂，更不要说阿秀所在的二本院校了、**
 
-<h2 align="center">阿秀自己使用过的一些学习资源</h2>
+在本科&研究生期间，我做过写手、玩过爬虫、耍过单片机、搞过GPU集群、搭过服务器、编写过软著专利、也发表过SCI二区文章，开发过交易类项目，一直热衷于折腾&持续学习，我知道自己很菜，但一直没放弃自己。
 
-我学习计算机基本都是靠自学的，在自己自学计算机的过程中用过很多资料，有觉得好的，但也有觉得不好的。
+在自己自学计算机的过程中用过很多资料，**有觉得好的，但也有觉得不好的**。其中**免费的资料**在<a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html" target="_blank">《阿秀的学习笔记网站》</a>中的<a href="https://interviewguide.cn/notes/04-experience/01-learn_experience/01-introduce.html" target="_blank">CS学习心得</a>一小节中已经推荐过不少，比如：
 
-其中**免费的资料**在[CS学习心得](/notes/04-experience/01-learn_experience/01-introduce.md)一小节中已经推荐过不少，比如：
-
-- [我学编程全靠B站了，真香-第一期](/notes/04-experience/01-learn_experience/20210809%20-%20第一期-我学编程全靠B站了，真香.md)
-- [我学编程全靠B站了，真香-第二期](/notes/04-experience/01-learn_experience/20210823%20-%20第二期-我学编程全靠B站了，真香.md)
-- [我学编程全靠B站了，真香-第三期](/notes/04-experience/01-learn_experience/20210907%20-%20第三期-我学编程全靠B站了，真香-国外篇（第三期）.md)
-- [一篇文章带你看完阿秀学习计算机以来看过的全部好书](/notes/04-experience/01-learn_experience/20211021%20-%20这可能是我学习计算机以来的全部收获和总结.md)
-
-
+- <a href="https://interviewguide.cn/notes/04-experience/01-learn_experience/20210809%20-%20%E7%AC%AC%E4%B8%80%E6%9C%9F-%E6%88%91%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%85%A8%E9%9D%A0B%E7%AB%99%E4%BA%86%EF%BC%8C%E7%9C%9F%E9%A6%99.html" target="_blank"> 我学编程全靠B站了，真香（第一期）</a>
+- <a href="https://interviewguide.cn/notes/04-experience/01-learn_experience/20210823%20-%20%E7%AC%AC%E4%BA%8C%E6%9C%9F-%E6%88%91%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%85%A8%E9%9D%A0B%E7%AB%99%E4%BA%86%EF%BC%8C%E7%9C%9F%E9%A6%99.html" target="_blank">我学编程全靠B站了，真香（第二期） </a>
+- <a href="https://interviewguide.cn/notes/04-experience/01-learn_experience/20210907%20-%20%E7%AC%AC%E4%B8%89%E6%9C%9F-%E6%88%91%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%85%A8%E9%9D%A0B%E7%AB%99%E4%BA%86%EF%BC%8C%E7%9C%9F%E9%A6%99-%E5%9B%BD%E5%A4%96%E7%AF%87%EF%BC%88%E7%AC%AC%E4%B8%89%E6%9C%9F%EF%BC%89.html" target="_blank">我学编程全靠B站了，真香-国外篇（第三期） </a>
+- <a href="https://interviewguide.cn/notes/04-experience/01-learn_experience/20211021%20-%20%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E6%88%91%E5%AD%A6%E4%B9%A0%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BB%A5%E6%9D%A5%E7%9A%84%E5%85%A8%E9%83%A8%E6%94%B6%E8%8E%B7%E5%92%8C%E6%80%BB%E7%BB%93.html" target="_blank"> 一篇文章带你看完阿秀学习计算机以来看过的全部好书</a>
 
 这是我的学习方法：
 
-- [看书的一点小建议](notes/04-experience/01-learn_experience/20211110%20-%20看书的一点小建议.md)
-- [看视频的一点小建议](/notes/04-experience/01-learn_experience/20210901%20-%20看视频的一点小建议.md)
+- <a href="https://interviewguide.cn/notes/04-experience/01-learn_experience/20211110%20-%20%E7%9C%8B%E4%B9%A6%E7%9A%84%E4%B8%80%E7%82%B9%E5%B0%8F%E5%BB%BA%E8%AE%AE.html" target="_blank">看书的一点小建议 </a>
+- <a href="https://interviewguide.cn/notes/04-experience/01-learn_experience/20210901%20-%20%E7%9C%8B%E8%A7%86%E9%A2%91%E7%9A%84%E4%B8%80%E7%82%B9%E5%B0%8F%E5%BB%BA%E8%AE%AE.html" target="_blank"> 看视频的一点小建议</a>
 
 
 
@@ -45,12 +31,6 @@ comment: false
 **没有买过或者没有使用过的付费专栏，阿秀不知道质量如何，我没有自己的体验那我不说质量如何**，这里不乱说也不会乱推荐，而对于那些自己踩过坑的专栏这里也大致说一说，说说自己为什么不推荐这些专栏，不推荐的原因在哪里。
 
 **这里先说一下我以前买过的不错的专栏，比如极客时间的一些专栏，再说一下我比较推荐的一些书籍，然后再说一下最后说一下我以前花的冤枉钱，买的一些垃圾专栏、、、**
-
-
-
-
-
-
 
 ## 一、值得购买的专栏
 
@@ -298,11 +278,13 @@ comment: false
 
 
 
+
 读研时，我的桌子上堆满了各种书。。。
 
 <div align="center">
   <img src="http://oss.interviewguide.cn/img/202205220026594.jpg" style="width:350px; height:350px" />
 </div>
+
 
 
 
@@ -332,6 +314,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303261606879.png" style="zoom:50%;" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwSWwAGU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1lbDk8QHDZNRwYlJhx4IQBYQSp3fDtzEwRAD1wFHQgFXkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddDkMSBGcLE2sSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC2wIG1oTVQ8eVFxZD0weH28PHVMcXQAKVl5ZAUInAW4JH1IlbQ" target="blank">京东链接</a>
 
 ### C++
@@ -339,6 +322,7 @@ comment: false
 <div align="center">
 <img src="http://oss.interviewguide.cn/img/202303261558710.png" style="zoom:50%;" />
 </div>
+
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IG1kUWgYAXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCVl9aCEkeHDZNRwYlDQZ4BhknVUJyVD8NGQAcBGcEJiw0eEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddDk4TBm8AGWsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmYJH1oUWQIeVFtfCUsVH28PHVMcXQAHV1xUCU0nAW4JH1IlbQ" target="blank">京东链接</a>
 
@@ -352,11 +336,13 @@ comment: false
 
 
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwRXwQFV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1pfCkwUHDZNRwYlB21KDzYlcjNyVC9IeFJTC2dfSj41XkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddDk0WAG8MGWsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC2wNHF8WWQ8eVFxYAUgXH28PHVMcXQAFUlZYDUgnAW4JH1IlbQ" target="blank">京东链接</a>
 
 <div align="center">
 <img src="http://oss.interviewguide.cn/img/202303261604361.png" style="zoom:50%;" />
 </div>
+
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IG1IWXQECVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCXV1dD0sXHDZNRwYlJ3MENBZdYDt3SglgZhpuXX0AND4ITkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddDkIUAWcOGWsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmkLHVkdVAQeVFxdDU4SH28PHVMcXQALVV9bAEonAW4JH1IlbQ" target="blank">京东链接</a>
 
@@ -372,6 +358,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303261612813.png" style="zoom:50%;" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGV4UWwcEUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUV9bCU0RHDZNRwYlC1ZJV1ovfk93Vh17GC1rB3hXHBYEaEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddAUgRC28IGGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC2wIGF4VXwAeVF5cC00SH28PHVMcXQ8BUl9aAE8nAW4JH1IlbQ" target="blank">京东链接</a>
 
 
@@ -383,6 +370,7 @@ comment: false
 <div align="center">
 <img src="http://oss.interviewguide.cn/img/202303261610890.png" style="zoom:50%;" />
 </div>
+
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVsWXgMHXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVF1eDU4eHDZNRwYlJHBEDyU0flF3fmhVSD1wLnNYEAwtXkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFddAUsRA2oJEmsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmcMHl0TXgUeVFlZDEgUH28PHVMcXQ8CVl9bCUsnAW4JH1IlbQ" target="blank">京东链接</a>
 
@@ -400,6 +388,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303261617095.png" style="zoom:50%;" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANsJK1olXwYEU1dZDE0WBl8IGloXXA4DVVddC08SAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0JE1oUVAYBUFteFxJSXzI4QSJiNFNGECc4bA9rCxZ7GgcSPmZrElJROEonAG4IG1IQWgcFU25tCEwnQgEBGFoWWjYDZF5aDkMeA2YPGV4UVAUyU15UOEMSCmwPHlwSWGheZG5tC3sQA2YcHSlUDxIEJm5tCHsUM28JG1ITXwUEVF9eFEsXA2oOGkcVWgAKXV5UD0sfBW4PK1kUXAILZG4" target="blank">京东链接</a>
 
 
@@ -409,6 +398,7 @@ comment: false
 <div align="center">
 <img src="http://oss.interviewguide.cn/img/202303261615275.png" style="zoom:50%;" />
 </div>
+
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANsJK1olXQUCXVtUD0sSCl8IGloRWQQHXF5dAU0QAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmsMGV4dXQYLUllcFxJSXzI4QAsXW3AYFRU-Tx9cYRBTTxN1R2BpJFJROEonAG4IG1IQWgcFU25tCEwnQgEAElsRXzYDZF5aDkMeA2YMHF0cWwEyU15UOEMSCmwPHlwSWGheZG5tC3sQA2YcHSlUDxIEJm5tCHsUM28JG1MWWAQDXFhfFEsTBG8JEkcVWgAKXV5UDE8RA2oBK1kUXAILZG4" target="blank">京东链接</a>
 
@@ -424,6 +414,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303261746210.png" style="zoom:50%;" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwWWQUCUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU11ZC0sRHDZNRwYlFGF0KjtbfR11Q2hUZR1wL39AVD4fTkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCUweB24IGGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmgBH10QXwYeVF9VDUgXH28PHVMcXgQKUVpeCEwnAW4JH1IlbQ" target="blank">京东链接</a>
 
 
@@ -434,6 +425,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303261939329.png" style="zoom:50%;" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwQWQcHUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1tZCU4THDZNRwYlVXBJDDlcXDZyfwlKE1oQIFZfDjxHeEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCUIWBWoLHGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmYBGVgRWQ4eVF5ZCE0TH28PHVMcXwcEUVldDEwnAW4JH1IlbQ" target="blank">京东链接</a>
 
 
@@ -441,6 +433,7 @@ comment: false
 <div align="center">
 <img src="http://oss.interviewguide.cn/img/202303261943060.png" style="zoom:50%;" />
 </div>
+
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwQWQcHUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1tZCU4THDZNRwYlVXBJDDlcXDZyfwlKE1oQIFZfDjxHeEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCUIWBWoLHGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmYBGVgRWQ4eVF5ZCE0TH28PHVMcXwcEUVldDEwnAW4JH1IlbQ" target="blank">京东链接</a>
 
@@ -458,6 +451,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303261947597.png" style="width:350px; height:350px" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGFMRVAILVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFpUDEIWHDZNRwYlLQdVMAUFVhByUHVNXgdOAXoEIgU1eEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCEsfCmoAE2sSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC20JGVgVXwQeVF9UAEkUH28PHVMcXwYCXF5VCkMnAW4JH1IlbQ" target="blank">京东链接</a>
 
 
@@ -465,6 +459,7 @@ comment: false
 <div align="center">
 <img src="http://oss.interviewguide.cn/img/202303261948823.png" style="width:350px; height:350px" />
 </div>
+
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGVwdXAMCVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1ZcDUsWHDZNRwYlG3ocJyAZYD91BjMSSUUPKW59FgoFXkcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfCEkTAm0MGGsSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC20JGVgVXwQeVF9UAEkUH28PHVMcXwYCXF5VCkMnAW4JH1IlbQ" target="blank">京东链接</a>
 
@@ -480,6 +475,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303261950666.png" style="zoom:50%;" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANwJK1olXQYFVF1fD00eC18IGloQWwILUFZcAEIfBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoOH1IRVQcKXVZbFxJSXzI4ZAVINVR2Eh4-Sh8RBHVQWCdFWEBJNFJROEonAG4IG1IQWgcFU25tCEwnQgEOHl8cVAAyVW5dD00fCm0IHl0WXQUBZFldAXsfBmYLHF4SWgNsCG5tOEgnBG8BD11nHFQWUixtOEsnAF8IGlsdXwcAV15YDFcXBmcBEloJXQEEXFdfCEkRAWoLH2sXXAcGXW5t" target="blank">京东链接</a>
 
 
@@ -491,6 +487,7 @@ comment: false
 <div align="center">
 <img src="http://oss.interviewguide.cn/img/202303261952475.png" style="zoom:50%;" />
 </div>
+
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAN4JK1olXgACUVpeDk8RBl8IGloXXA8FXV1ZCUgRAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0JElwcXgIDV1heFxJSXzI4RB5zIVxQKVo-DRtlc25NXlNcAW1VAlJROEonAG4IG1IQWgcFU25tCEwnQgEIG1oRXgIBVG5cOEsQBWcBGVsRWgQBU1ptD0seM2cNElgSWAEFUTABOHsnAF8PG1IBW3RDBkpbensnA18LK1sUXQ4BVF9UAUwfH28JH18cVBoCU1hVAUkXB24LGFocbQQDVVpUOHs" target="blank">京东链接</a>
 
@@ -514,6 +511,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303261956530.png" style="zoom:50%;" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANUJK1olXwYEU1dZDE0WBl8PHF4dXgAKUV5UAHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSllaDUMUBWcNG1IdQl9HCANtVC9LVjZSYSZ2AlpxIigkU1UfBTNpTVcZbQcyV19dCEISBG4PHGslXQEyFTBUC0oUBF8JK1sSWw4LVl5UCEIVBGg4HFscbQ4HXV1aDUwQBgFUK2slXjYFVFdJDjlWUXsOaWslXTYBZF5cCEITC2kPE1kRQQYBUFpYC1cXBGkAElkVWwMKXFtVOEkWAmsBK2s" target="blank">京东链接</a>
 
 
@@ -526,6 +524,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303261954652.png" style="zoom:100%;" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANwJK1olXgcAU11cAEsWA18IGloQVAUBUFhbCUseB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoBGFgRWwADVFdZFxJSXzI4RwBJAA51Kgw_CillSA8BUl1IDQJJElJROEonAG4IG1IQWgcFU25tCEwnQgEIGVgTVAcyVW5dD00fCm0IHVsXWg4AZFldAXsfBmYLHF4SWgNsCG5tOEgnBG8BD11nHFQWUixtOEsnAF8IGlsdXgYCVVddDVcXB2gMHF0JXQEEXFdfCEwTB2YKGWsXXAcGXW5t" target="blank">京东链接</a>
 
 
@@ -535,6 +534,7 @@ comment: false
 <div align="center">
 <img src="http://oss.interviewguide.cn/img/202303261958942.png" style="zoom:50%;" />
 </div>
+
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANwJK1olXgIDXV9VCEsTBV8IGloSXwMGXF5fCk0WC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgKHl8dXQQAUl9VFxJSXzI4eysVXnhKJik9aDVxBxZ4fVheHEYHAlJROEonAG4IG1IQWgcFU25tCEwnQgEBG1gUWA8yVW5dD00fCm0IE1sWXQEKZFldAXsfBmYLHF4SWgNsCG5tOEgnBG8BD11nHFQWUixtOEsnAF8IGlscWQ4EU1ZfDFcXAGsMHlgJXQEEXFdfCE0SC2cNE2sXXAcGXW5t" target="blank">京东链接</a>
 
@@ -556,6 +556,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303261959096.png" style="zoom:50%;" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAN4JK1olXwULUFlbCEgVAl8IGloRWQMEV1ZfDUIWA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmsMHl0WVQQHXV9dFxJSXzI4Hl9xCERbJhU_Vj1sCmtzeFphAgBmAlJROEonAG4IG1IQWgcFU25tCEwnQgEIG1IQXQcLUG5cOEsQBWcBGVsdWg8LUV1tD0seM2cNElgSWAEFUTABOHsnAF8PG1IBW3RDBkpbensnA18LK1sUXQ4CVVpZCE4RH28IHVscVRoCU1hVAUkXC20JHFkXbQQDVVpUOHs" target="blank">京东链接</a>
 
 
@@ -568,6 +569,7 @@ comment: false
 <img src="http://oss.interviewguide.cn/img/202303262100050.png" style="zoom:50%;" />
 </div>
 
+
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANcJK1olXwUFU1xdCE4TBl8IGV4UWwYBUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUV9bCEgTHDZNRwYlWxxUCg4KTRt0f2xXfwNxBk4AKV8feEcbM244GFoVXQ8HU19aD3snA2g4STXN67Da8e9B3OGY1uefK1olXQEEXFdfDEwQBWoAH2sSXQ8yXFtUC0wSBGgNdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC2wNHl0VWQ4eVF5bAUwWH28PHVMcXwIFVl9bCk0nAW4JH1IlbQ" target="blank">京东链接</a>
 
 
@@ -579,6 +581,7 @@ comment: false
 <div align="center">
 <img src="http://oss.interviewguide.cn/img/202303262102524.png" style="width:350px; height:350px" />
 </div>
+
 
 <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BANoJK1olVQAHXF5fCkMXM28JGl8dXwQAUlZVAUwQMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWB2cKGVkTVQ4LU1lCUQ5LXl94bCVBI2FBFTwcbjx2RRcBQF9rJHxiWFJtCXsUAm8IEl4SXAEFZG5dD3tWbWsNGlIcbQcyVFlbAEIVB2kPGlgVVDYFVFdtAE4eAGgNHFwQM1oyZG5eOEwXCnsOaRpHSQBwZG5dOEgnA24IElIUVAcBVV5BCEgUAmwPB1sSWw4LVlpbDEoTBGs4GVoUWQ8yZA" target="blank">京东链接</a>
 
@@ -621,6 +624,3 @@ comment: false
 ### 3、C++系统实战
 
 **不推荐理由**：实战个锤子。。。通篇大理论，被骗了，标题起的挺好，真的是文不对题，可以说是我买过的专栏里最辣鸡的一个了🤮。。
-
-
-
