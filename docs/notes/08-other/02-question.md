@@ -107,11 +107,11 @@ oss目前是网站费用的大头，相比之下每年租用阿里云服务器�
 
 <div align="center">
   <p>
-    个人微信：<strong>coderxiu2</strong>，或者扫描下方二维码即可添加
+    个人微信：<strong>coderxiuxiu</strong>，或者扫描下方二维码即可添加
   </p>
-    <img src="http://oss.interviewguide.cn/img/202205150014655.png" style="zoom:50%;" />
+    <img src="http://oss.interviewguide.cn/img/202403161950192.png" style="zoom:50%;" />
 </div>
-**备注**
+备注
 
 1、我自己也在字节跳动这边工作，字节条的工作强度很大，我还在抖音这边搬砖写码，工作也比较繁重，所以有可能添加好友通过不及时，还望海涵！
 
