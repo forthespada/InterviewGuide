@@ -22,12 +22,13 @@
   		<tbody>
             <tr>
                <td align="center" valign="middle">
-                <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html"><img src="http://oss.interviewguide.cn/img/202206190108471.png" width="900px"></a>
+                <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html"><img src="http://oss.interviewguide.cn/img/202403211649868.png" width="900px"></a>
               </td>       
             </tr>
   		</tbody>
 	</table>
 </div>
+
 
 <p align="center">
     <a href="https://interviewguide.cn"><img src="https://img.shields.io/badge/博客-在线阅读-blue.svg" alt="博客"></a>
