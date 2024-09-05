@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>VuePress</title>
+    <meta name="generator" content="VuePress 1.9.7">
+    
+    <meta name="description" content="">
+    
+    <link rel="preload" href="/assets/css/0.styles.95151100.css" as="style"><link rel="preload" href="/assets/js/app.9ea94a6f.js" as="script"><link rel="preload" href="/assets/js/2.888d143f.js" as="script"><link rel="preload" href="/assets/js/393.f2951ca7.js" as="script"><link rel="prefetch" href="/assets/js/10.9a38d6d3.js"><link rel="prefetch" href="/assets/js/100.f337452e.js"><link rel="prefetch" href="/assets/js/101.872ac090.js"><link rel="prefetch" href="/assets/js/102.390ee624.js"><link rel="prefetch" href="/assets/js/103.3f0ca574.js"><link rel="prefetch" href="/assets/js/104.b603cac1.js"><link rel="prefetch" href="/assets/js/105.e587d40c.js"><link rel="prefetch" href="/assets/js/106.d096e103.js"><link rel="prefetch" href="/assets/js/107.56317baf.js"><link rel="prefetch" href="/assets/js/108.97663d6f.js"><link rel="prefetch" href="/assets/js/109.0e20ef2e.js"><link rel="prefetch" href="/assets/js/11.48e41596.js"><link rel="prefetch" href="/assets/js/110.a355a766.js"><link rel="prefetch" href="/assets/js/111.234a77de.js"><link rel="prefetch" href="/assets/js/112.9e3df64d.js"><link rel="prefetch" href="/assets/js/113.f506da12.js"><link rel="prefetch" href="/assets/js/114.eb93f752.js"><link rel="prefetch" href="/assets/js/115.bb524c62.js"><link rel="prefetch" href="/assets/js/116.79020cce.js"><link rel="prefetch" href="/assets/js/117.c209179e.js"><link rel="prefetch" href="/assets/js/118.dbd49229.js"><link rel="prefetch" href="/assets/js/119.eab1889c.js"><link rel="prefetch" href="/assets/js/12.cf72478e.js"><link rel="prefetch" href="/assets/js/120.315d27da.js"><link rel="prefetch" href="/assets/js/121.f70e617e.js"><link rel="prefetch" href="/assets/js/122.a985d1d4.js"><link rel="prefetch" href="/assets/js/123.8fb973d1.js"><link rel="prefetch" href="/assets/js/124.39167ee7.js"><link rel="prefetch" href="/assets/js/125.e4607885.js"><link rel="prefetch" href="/assets/js/126.cfa32fe6.js"><link rel="prefetch" href="/assets/js/127.c82bc3a8.js"><link rel="prefetch" href="/assets/js/128.ab400ff9.js"><link rel="prefetch" href="/assets/js/129.550d6238.js"><link rel="prefetch" href="/assets/js/13.169205ec.js"><link rel="prefetch" href="/assets/js/130.d3707dc2.js"><link rel="prefetch" href="/assets/js/131.443d0c9f.js"><link rel="prefetch" href="/assets/js/132.ebb7d882.js"><link rel="prefetch" href="/assets/js/133.92947cc7.js"><link rel="prefetch" href="/assets/js/134.717a43d3.js"><link rel="prefetch" href="/assets/js/135.170c02f5.js"><link rel="prefetch" href="/assets/js/136.86446845.js"><link rel="prefetch" href="/assets/js/137.148f6561.js"><link rel="prefetch" href="/assets/js/138.659bcfa7.js"><link rel="prefetch" href="/assets/js/139.93dcf30d.js"><link rel="prefetch" href="/assets/js/14.eaa451cc.js"><link rel="prefetch" href="/assets/js/140.175f1b6c.js"><link rel="prefetch" href="/assets/js/141.61589cdf.js"><link rel="prefetch" href="/assets/js/142.b475ae6d.js"><link rel="prefetch" href="/assets/js/143.b7629428.js"><link rel="prefetch" href="/assets/js/144.6ac4a026.js"><link rel="prefetch" href="/assets/js/145.27840b09.js"><link rel="prefetch" href="/assets/js/146.2bfd1351.js"><link rel="prefetch" href="/assets/js/147.818b57a8.js"><link rel="prefetch" href="/assets/js/148.efc52366.js"><link rel="prefetch" href="/assets/js/149.257d0f56.js"><link rel="prefetch" href="/assets/js/15.3a498362.js"><link rel="prefetch" href="/assets/js/150.8d1b778f.js"><link rel="prefetch" href="/assets/js/151.6416ace3.js"><link rel="prefetch" href="/assets/js/152.98655fc8.js"><link rel="prefetch" href="/assets/js/153.d7df8b4f.js"><link rel="prefetch" href="/assets/js/154.1ec30699.js"><link rel="prefetch" href="/assets/js/155.4eb43ee2.js"><link rel="prefetch" href="/assets/js/156.05174ff8.js"><link rel="prefetch" href="/assets/js/157.aef5fd4f.js"><link rel="prefetch" href="/assets/js/158.10a9780e.js"><link rel="prefetch" href="/assets/js/159.fd698a04.js"><link rel="prefetch" href="/assets/js/16.bfb571d6.js"><link rel="prefetch" href="/assets/js/160.d2deb1b1.js"><link rel="prefetch" href="/assets/js/161.68d585e6.js"><link rel="prefetch" href="/assets/js/162.4b470f6e.js"><link rel="prefetch" href="/assets/js/163.8a9fdc2b.js"><link rel="prefetch" href="/assets/js/164.28bf0ebd.js"><link rel="prefetch" href="/assets/js/165.562c6d1e.js"><link rel="prefetch" href="/assets/js/166.64eb16a7.js"><link rel="prefetch" href="/assets/js/167.44a94376.js"><link rel="prefetch" href="/assets/js/168.5d7953a6.js"><link rel="prefetch" href="/assets/js/169.1a78d188.js"><link rel="prefetch" href="/assets/js/17.4c15ec35.js"><link rel="prefetch" href="/assets/js/170.6ac70dfc.js"><link rel="prefetch" href="/assets/js/171.9493a8ec.js"><link rel="prefetch" href="/assets/js/172.8ad87a02.js"><link rel="prefetch" href="/assets/js/173.7c9feca9.js"><link rel="prefetch" href="/assets/js/174.b4899c28.js"><link rel="prefetch" href="/assets/js/175.eaa1e1c6.js"><link rel="prefetch" href="/assets/js/176.09099b12.js"><link rel="prefetch" href="/assets/js/177.f83ea048.js"><link rel="prefetch" href="/assets/js/178.ce8824ee.js"><link rel="prefetch" href="/assets/js/179.a2084b48.js"><link rel="prefetch" href="/assets/js/18.6074ff09.js"><link rel="prefetch" href="/assets/js/180.ea843f6d.js"><link rel="prefetch" href="/assets/js/181.59e17707.js"><link rel="prefetch" href="/assets/js/182.4e9d4099.js"><link rel="prefetch" href="/assets/js/183.de8da958.js"><link rel="prefetch" href="/assets/js/184.b45a632e.js"><link rel="prefetch" href="/assets/js/185.e52537a2.js"><link rel="prefetch" href="/assets/js/186.94bf0d9f.js"><link rel="prefetch" href="/assets/js/187.11bc8665.js"><link rel="prefetch" href="/assets/js/188.8196e644.js"><link rel="prefetch" href="/assets/js/189.6f25ba5d.js"><link rel="prefetch" href="/assets/js/19.af27ae85.js"><link rel="prefetch" href="/assets/js/190.241442d7.js"><link rel="prefetch" href="/assets/js/191.48539236.js"><link rel="prefetch" href="/assets/js/192.34962896.js"><link rel="prefetch" href="/assets/js/193.3ffd51e2.js"><link rel="prefetch" href="/assets/js/194.fd087d0b.js"><link rel="prefetch" href="/assets/js/195.450521ad.js"><link rel="prefetch" href="/assets/js/196.0f226863.js"><link rel="prefetch" href="/assets/js/197.cd773125.js"><link rel="prefetch" href="/assets/js/198.7843dec5.js"><link rel="prefetch" href="/assets/js/199.2ec3c301.js"><link rel="prefetch" href="/assets/js/20.79b2bdb8.js"><link rel="prefetch" href="/assets/js/200.0d3fec31.js"><link rel="prefetch" href="/assets/js/201.69ade658.js"><link rel="prefetch" href="/assets/js/202.cd604a8c.js"><link rel="prefetch" href="/assets/js/203.cdc9facf.js"><link rel="prefetch" href="/assets/js/204.02a7bfb8.js"><link rel="prefetch" href="/assets/js/205.abb47954.js"><link rel="prefetch" href="/assets/js/206.4deec0bd.js"><link rel="prefetch" href="/assets/js/207.454e342f.js"><link rel="prefetch" href="/assets/js/208.b5a0ef2d.js"><link rel="prefetch" href="/assets/js/209.3e938303.js"><link rel="prefetch" href="/assets/js/21.470f624d.js"><link rel="prefetch" href="/assets/js/210.8c3a3b68.js"><link rel="prefetch" href="/assets/js/211.a0e95e2a.js"><link rel="prefetch" href="/assets/js/212.461e0aaf.js"><link rel="prefetch" href="/assets/js/213.68870a67.js"><link rel="prefetch" href="/assets/js/214.2e775b7f.js"><link rel="prefetch" href="/assets/js/215.b5b5d13b.js"><link rel="prefetch" href="/assets/js/216.582507b4.js"><link rel="prefetch" href="/assets/js/217.853f7b3e.js"><link rel="prefetch" href="/assets/js/218.99424f55.js"><link rel="prefetch" href="/assets/js/219.0cc6b148.js"><link rel="prefetch" href="/assets/js/22.05ca4dd6.js"><link rel="prefetch" href="/assets/js/220.e42fcea7.js"><link rel="prefetch" href="/assets/js/221.8b8a0aaa.js"><link rel="prefetch" href="/assets/js/222.3b927425.js"><link rel="prefetch" href="/assets/js/223.4f098fdb.js"><link rel="prefetch" href="/assets/js/224.fea8aa4e.js"><link rel="prefetch" href="/assets/js/225.bca01902.js"><link rel="prefetch" href="/assets/js/226.13e9d569.js"><link rel="prefetch" href="/assets/js/227.1dcb60bb.js"><link rel="prefetch" href="/assets/js/228.57d1f974.js"><link rel="prefetch" href="/assets/js/229.61ff6743.js"><link rel="prefetch" href="/assets/js/23.592c11b1.js"><link rel="prefetch" href="/assets/js/230.a731af5a.js"><link rel="prefetch" href="/assets/js/231.f223250f.js"><link rel="prefetch" href="/assets/js/232.85774c4f.js"><link rel="prefetch" href="/assets/js/233.d874d674.js"><link rel="prefetch" href="/assets/js/234.d8e38180.js"><link rel="prefetch" href="/assets/js/235.28a937c6.js"><link rel="prefetch" href="/assets/js/236.c53c2e5f.js"><link rel="prefetch" href="/assets/js/237.ce6b72e4.js"><link rel="prefetch" href="/assets/js/238.5e960ff4.js"><link rel="prefetch" href="/assets/js/239.29c84712.js"><link rel="prefetch" href="/assets/js/24.80891b9c.js"><link rel="prefetch" href="/assets/js/240.1cb25f42.js"><link rel="prefetch" href="/assets/js/241.3ef72ed1.js"><link rel="prefetch" href="/assets/js/242.defc6279.js"><link rel="prefetch" href="/assets/js/243.9314c194.js"><link rel="prefetch" href="/assets/js/244.4d8424da.js"><link rel="prefetch" href="/assets/js/245.82b63918.js"><link rel="prefetch" href="/assets/js/246.9510c4f0.js"><link rel="prefetch" href="/assets/js/247.62ceff5b.js"><link rel="prefetch" href="/assets/js/248.f78b2dd3.js"><link rel="prefetch" href="/assets/js/249.2314e29d.js"><link rel="prefetch" href="/assets/js/25.e00ae9c1.js"><link rel="prefetch" href="/assets/js/250.797a5f38.js"><link rel="prefetch" href="/assets/js/251.30704072.js"><link rel="prefetch" href="/assets/js/252.35f086c2.js"><link rel="prefetch" href="/assets/js/253.354b10e8.js"><link rel="prefetch" href="/assets/js/254.416d9a1b.js"><link rel="prefetch" href="/assets/js/255.805e24c5.js"><link rel="prefetch" href="/assets/js/256.3236e0ac.js"><link rel="prefetch" href="/assets/js/257.f41ad24a.js"><link rel="prefetch" href="/assets/js/258.69092a91.js"><link rel="prefetch" href="/assets/js/259.20632c07.js"><link rel="prefetch" href="/assets/js/26.43cdf94f.js"><link rel="prefetch" href="/assets/js/260.a477e62d.js"><link rel="prefetch" href="/assets/js/261.844b7f2e.js"><link rel="prefetch" href="/assets/js/262.5fd55aa2.js"><link rel="prefetch" href="/assets/js/263.a055a5af.js"><link rel="prefetch" href="/assets/js/264.bff64d95.js"><link rel="prefetch" href="/assets/js/265.787efcd0.js"><link rel="prefetch" href="/assets/js/266.9ae6ef37.js"><link rel="prefetch" href="/assets/js/267.010ebac8.js"><link rel="prefetch" href="/assets/js/268.db91af26.js"><link rel="prefetch" href="/assets/js/269.0eeccca6.js"><link rel="prefetch" href="/assets/js/27.0e2b81e6.js"><link rel="prefetch" href="/assets/js/270.50a1bf8f.js"><link rel="prefetch" href="/assets/js/271.4893d6a0.js"><link rel="prefetch" href="/assets/js/272.2ba4c892.js"><link rel="prefetch" href="/assets/js/273.dbd909ae.js"><link rel="prefetch" href="/assets/js/274.d1aca2ff.js"><link rel="prefetch" href="/assets/js/275.6134fab9.js"><link rel="prefetch" href="/assets/js/276.b22201f3.js"><link rel="prefetch" href="/assets/js/277.e0faf194.js"><link rel="prefetch" href="/assets/js/278.13a1373f.js"><link rel="prefetch" href="/assets/js/279.a982cdf6.js"><link rel="prefetch" href="/assets/js/28.cf6b0ccc.js"><link rel="prefetch" href="/assets/js/280.d9bb0d07.js"><link rel="prefetch" href="/assets/js/281.9a96b3c0.js"><link rel="prefetch" href="/assets/js/282.7d6486a7.js"><link rel="prefetch" href="/assets/js/283.9993a772.js"><link rel="prefetch" href="/assets/js/284.cb246aaf.js"><link rel="prefetch" href="/assets/js/285.ea981a47.js"><link rel="prefetch" href="/assets/js/286.90dc074c.js"><link rel="prefetch" href="/assets/js/287.0f104305.js"><link rel="prefetch" href="/assets/js/288.f04d2b8d.js"><link rel="prefetch" href="/assets/js/289.7e249f89.js"><link rel="prefetch" href="/assets/js/29.38f41ebd.js"><link rel="prefetch" href="/assets/js/290.d7d64565.js"><link rel="prefetch" href="/assets/js/291.7d44dda8.js"><link rel="prefetch" href="/assets/js/292.63bc900b.js"><link rel="prefetch" href="/assets/js/293.11873beb.js"><link rel="prefetch" href="/assets/js/294.228cb2b8.js"><link rel="prefetch" href="/assets/js/295.f3f59f43.js"><link rel="prefetch" href="/assets/js/296.cb844c80.js"><link rel="prefetch" href="/assets/js/297.ac6ca370.js"><link rel="prefetch" href="/assets/js/298.452f2b74.js"><link rel="prefetch" href="/assets/js/299.e6167342.js"><link rel="prefetch" href="/assets/js/3.fe6062fd.js"><link rel="prefetch" href="/assets/js/30.446b4de5.js"><link rel="prefetch" href="/assets/js/300.adaef45d.js"><link rel="prefetch" href="/assets/js/301.d1fd3628.js"><link rel="prefetch" href="/assets/js/302.9034d66d.js"><link rel="prefetch" href="/assets/js/303.37546456.js"><link rel="prefetch" href="/assets/js/304.85c3e5a3.js"><link rel="prefetch" href="/assets/js/305.52030977.js"><link rel="prefetch" href="/assets/js/306.b533283b.js"><link rel="prefetch" href="/assets/js/307.4c87b9a5.js"><link rel="prefetch" href="/assets/js/308.7a120ea6.js"><link rel="prefetch" href="/assets/js/309.e50939e2.js"><link rel="prefetch" href="/assets/js/31.833dfe57.js"><link rel="prefetch" href="/assets/js/310.82b9fc25.js"><link rel="prefetch" href="/assets/js/311.7b41e077.js"><link rel="prefetch" href="/assets/js/312.23498bb5.js"><link rel="prefetch" href="/assets/js/313.730d0e15.js"><link rel="prefetch" href="/assets/js/314.21dbc042.js"><link rel="prefetch" href="/assets/js/315.8c5d0b75.js"><link rel="prefetch" href="/assets/js/316.b3410939.js"><link rel="prefetch" href="/assets/js/317.7e02dcd7.js"><link rel="prefetch" href="/assets/js/318.e9202968.js"><link rel="prefetch" href="/assets/js/319.a8e5e5b9.js"><link rel="prefetch" href="/assets/js/32.84346415.js"><link rel="prefetch" href="/assets/js/320.7c41c2c3.js"><link rel="prefetch" href="/assets/js/321.d7f45444.js"><link rel="prefetch" href="/assets/js/322.d5069c6a.js"><link rel="prefetch" href="/assets/js/323.4b4b9679.js"><link rel="prefetch" href="/assets/js/324.7a836019.js"><link rel="prefetch" href="/assets/js/325.1981007c.js"><link rel="prefetch" href="/assets/js/326.851ada81.js"><link rel="prefetch" href="/assets/js/327.1b1984ad.js"><link rel="prefetch" href="/assets/js/328.2230c68a.js"><link rel="prefetch" href="/assets/js/329.32a27471.js"><link rel="prefetch" href="/assets/js/33.0ab109c3.js"><link rel="prefetch" href="/assets/js/330.1ef56a5a.js"><link rel="prefetch" href="/assets/js/331.721dad3a.js"><link rel="prefetch" href="/assets/js/332.2ffafe14.js"><link rel="prefetch" href="/assets/js/333.9b703006.js"><link rel="prefetch" href="/assets/js/334.5e3c51d3.js"><link rel="prefetch" href="/assets/js/335.05ca4772.js"><link rel="prefetch" href="/assets/js/336.d4da2097.js"><link rel="prefetch" href="/assets/js/337.cfaacdb6.js"><link rel="prefetch" href="/assets/js/338.de233032.js"><link rel="prefetch" href="/assets/js/339.cf2b5478.js"><link rel="prefetch" href="/assets/js/34.a3cf3151.js"><link rel="prefetch" href="/assets/js/340.dd5c8947.js"><link rel="prefetch" href="/assets/js/341.18e15848.js"><link rel="prefetch" href="/assets/js/342.229e59ac.js"><link rel="prefetch" href="/assets/js/343.ee4cb77e.js"><link rel="prefetch" href="/assets/js/344.643ac3c6.js"><link rel="prefetch" href="/assets/js/345.b70aabec.js"><link rel="prefetch" href="/assets/js/346.c8879856.js"><link rel="prefetch" href="/assets/js/347.51bdf68a.js"><link rel="prefetch" href="/assets/js/348.ea890cd8.js"><link rel="prefetch" href="/assets/js/349.578505b3.js"><link rel="prefetch" href="/assets/js/35.17b1bbe2.js"><link rel="prefetch" href="/assets/js/350.b60c236c.js"><link rel="prefetch" href="/assets/js/351.cc374580.js"><link rel="prefetch" href="/assets/js/352.af966207.js"><link rel="prefetch" href="/assets/js/353.e780a18e.js"><link rel="prefetch" href="/assets/js/354.b4879b17.js"><link rel="prefetch" href="/assets/js/355.886902ac.js"><link rel="prefetch" href="/assets/js/356.f5a99a1e.js"><link rel="prefetch" href="/assets/js/357.68e299c4.js"><link rel="prefetch" href="/assets/js/358.11ec7ae5.js"><link rel="prefetch" href="/assets/js/359.947e5ede.js"><link rel="prefetch" href="/assets/js/36.824a0468.js"><link rel="prefetch" href="/assets/js/360.cb367a80.js"><link rel="prefetch" href="/assets/js/361.e22ff67c.js"><link rel="prefetch" href="/assets/js/362.1ff78c62.js"><link rel="prefetch" href="/assets/js/363.2e75df0b.js"><link rel="prefetch" href="/assets/js/364.7ee7e031.js"><link rel="prefetch" href="/assets/js/365.7218ed87.js"><link rel="prefetch" href="/assets/js/366.0bca3f2d.js"><link rel="prefetch" href="/assets/js/367.49aedd98.js"><link rel="prefetch" href="/assets/js/368.f253a949.js"><link rel="prefetch" href="/assets/js/369.c6275ec9.js"><link rel="prefetch" href="/assets/js/37.041c2e3d.js"><link rel="prefetch" href="/assets/js/370.091a3837.js"><link rel="prefetch" href="/assets/js/371.2edf8f3d.js"><link rel="prefetch" href="/assets/js/372.0aae0bfc.js"><link rel="prefetch" href="/assets/js/373.2db903ee.js"><link rel="prefetch" href="/assets/js/374.169ac46a.js"><link rel="prefetch" href="/assets/js/375.4348b951.js"><link rel="prefetch" href="/assets/js/376.484955aa.js"><link rel="prefetch" href="/assets/js/377.ee8429ac.js"><link rel="prefetch" href="/assets/js/378.d0ceb617.js"><link rel="prefetch" href="/assets/js/379.bed747b1.js"><link rel="prefetch" href="/assets/js/38.c266fc22.js"><link rel="prefetch" href="/assets/js/380.c637c61b.js"><link rel="prefetch" href="/assets/js/381.304c2e6e.js"><link rel="prefetch" href="/assets/js/382.a1dedcae.js"><link rel="prefetch" href="/assets/js/383.200faddd.js"><link rel="prefetch" href="/assets/js/384.b39583ac.js"><link rel="prefetch" href="/assets/js/385.e6fe52c4.js"><link rel="prefetch" href="/assets/js/386.753bfad1.js"><link rel="prefetch" href="/assets/js/387.2bf56157.js"><link rel="prefetch" href="/assets/js/388.3143c065.js"><link rel="prefetch" href="/assets/js/389.93f3ba55.js"><link rel="prefetch" href="/assets/js/39.a6393e75.js"><link rel="prefetch" href="/assets/js/390.169fdb0e.js"><link rel="prefetch" href="/assets/js/391.d9d32fd7.js"><link rel="prefetch" href="/assets/js/392.8fcbf3f4.js"><link rel="prefetch" href="/assets/js/394.f9fcb3cb.js"><link rel="prefetch" href="/assets/js/395.d4d36e5d.js"><link rel="prefetch" href="/assets/js/396.c4ca2c35.js"><link rel="prefetch" href="/assets/js/397.f9392431.js"><link rel="prefetch" href="/assets/js/398.4149bd18.js"><link rel="prefetch" href="/assets/js/399.eaccc0b9.js"><link rel="prefetch" href="/assets/js/4.6838b9c6.js"><link rel="prefetch" href="/assets/js/40.37ec94c8.js"><link rel="prefetch" href="/assets/js/400.016730e0.js"><link rel="prefetch" href="/assets/js/401.43d3c5a2.js"><link rel="prefetch" href="/assets/js/402.71098031.js"><link rel="prefetch" href="/assets/js/403.e1263f34.js"><link rel="prefetch" href="/assets/js/404.4ff9f52b.js"><link rel="prefetch" href="/assets/js/405.24cd8587.js"><link rel="prefetch" href="/assets/js/406.f57c3bb5.js"><link rel="prefetch" href="/assets/js/407.bdb65619.js"><link rel="prefetch" href="/assets/js/408.604cfac7.js"><link rel="prefetch" href="/assets/js/409.dc37ff28.js"><link rel="prefetch" href="/assets/js/41.12747383.js"><link rel="prefetch" href="/assets/js/410.01fb8090.js"><link rel="prefetch" href="/assets/js/411.8f6fb3ef.js"><link rel="prefetch" href="/assets/js/412.d122ff56.js"><link rel="prefetch" href="/assets/js/413.da207d3a.js"><link rel="prefetch" href="/assets/js/414.880e6e18.js"><link rel="prefetch" href="/assets/js/415.efc21d1c.js"><link rel="prefetch" href="/assets/js/416.072fda77.js"><link rel="prefetch" href="/assets/js/417.53128619.js"><link rel="prefetch" href="/assets/js/418.1a69d2e5.js"><link rel="prefetch" href="/assets/js/419.c225df46.js"><link rel="prefetch" href="/assets/js/42.deb775dc.js"><link rel="prefetch" href="/assets/js/420.264bcd26.js"><link rel="prefetch" href="/assets/js/421.cc5c6dac.js"><link rel="prefetch" href="/assets/js/422.e5aa6c3a.js"><link rel="prefetch" href="/assets/js/423.0b661e2e.js"><link rel="prefetch" href="/assets/js/424.2af3a3b5.js"><link rel="prefetch" href="/assets/js/425.fd01eab1.js"><link rel="prefetch" href="/assets/js/426.60a9584b.js"><link rel="prefetch" href="/assets/js/427.76a39d18.js"><link rel="prefetch" href="/assets/js/428.e9380f63.js"><link rel="prefetch" href="/assets/js/429.14f22d66.js"><link rel="prefetch" href="/assets/js/43.2ec5a738.js"><link rel="prefetch" href="/assets/js/430.08acc293.js"><link rel="prefetch" href="/assets/js/431.1e1ad561.js"><link rel="prefetch" href="/assets/js/432.b996d5c4.js"><link rel="prefetch" href="/assets/js/433.d7c124da.js"><link rel="prefetch" href="/assets/js/434.518442d3.js"><link rel="prefetch" href="/assets/js/435.370280c9.js"><link rel="prefetch" href="/assets/js/436.7ceb0960.js"><link rel="prefetch" href="/assets/js/437.5ce2dbce.js"><link rel="prefetch" href="/assets/js/438.fa157c40.js"><link rel="prefetch" href="/assets/js/439.996df9e5.js"><link rel="prefetch" href="/assets/js/44.9fd2af68.js"><link rel="prefetch" href="/assets/js/440.209f87d1.js"><link rel="prefetch" href="/assets/js/441.a4f357f7.js"><link rel="prefetch" href="/assets/js/442.3283478f.js"><link rel="prefetch" href="/assets/js/443.1d6d5fbc.js"><link rel="prefetch" href="/assets/js/444.4a109818.js"><link rel="prefetch" href="/assets/js/445.9955bcfd.js"><link rel="prefetch" href="/assets/js/446.ba43a7e1.js"><link rel="prefetch" href="/assets/js/447.33532876.js"><link rel="prefetch" href="/assets/js/448.7a397c13.js"><link rel="prefetch" href="/assets/js/449.054ff249.js"><link rel="prefetch" href="/assets/js/45.99f1d091.js"><link rel="prefetch" href="/assets/js/450.d437c2e7.js"><link rel="prefetch" href="/assets/js/451.48a7bd19.js"><link rel="prefetch" href="/assets/js/452.565afcfd.js"><link rel="prefetch" href="/assets/js/453.9c07120d.js"><link rel="prefetch" href="/assets/js/454.ecd100e5.js"><link rel="prefetch" href="/assets/js/455.0b4f4107.js"><link rel="prefetch" href="/assets/js/456.ad211db0.js"><link rel="prefetch" href="/assets/js/457.ae5e061e.js"><link rel="prefetch" href="/assets/js/458.dd06370f.js"><link rel="prefetch" href="/assets/js/459.7abab8f6.js"><link rel="prefetch" href="/assets/js/46.92941c83.js"><link rel="prefetch" href="/assets/js/460.386731ba.js"><link rel="prefetch" href="/assets/js/461.5aa2f5a2.js"><link rel="prefetch" href="/assets/js/462.1a3c19b9.js"><link rel="prefetch" href="/assets/js/463.02f492ca.js"><link rel="prefetch" href="/assets/js/464.bd7721eb.js"><link rel="prefetch" href="/assets/js/465.8fb3fc0e.js"><link rel="prefetch" href="/assets/js/466.b1cb3280.js"><link rel="prefetch" href="/assets/js/467.52035106.js"><link rel="prefetch" href="/assets/js/468.8ba32a86.js"><link rel="prefetch" href="/assets/js/469.14a5e0cf.js"><link rel="prefetch" href="/assets/js/47.2cf59108.js"><link rel="prefetch" href="/assets/js/470.22074723.js"><link rel="prefetch" href="/assets/js/471.7c26dd1a.js"><link rel="prefetch" href="/assets/js/472.57b4717b.js"><link rel="prefetch" href="/assets/js/473.61696069.js"><link rel="prefetch" href="/assets/js/474.80bbbb5a.js"><link rel="prefetch" href="/assets/js/475.e3b28b03.js"><link rel="prefetch" href="/assets/js/476.c77fa51e.js"><link rel="prefetch" href="/assets/js/477.456f3adf.js"><link rel="prefetch" href="/assets/js/478.2a28d68c.js"><link rel="prefetch" href="/assets/js/479.76d40b9a.js"><link rel="prefetch" href="/assets/js/48.7f4f4d70.js"><link rel="prefetch" href="/assets/js/480.49123507.js"><link rel="prefetch" href="/assets/js/481.41580381.js"><link rel="prefetch" href="/assets/js/482.ea83f8bb.js"><link rel="prefetch" href="/assets/js/483.7c1ca6ba.js"><link rel="prefetch" href="/assets/js/484.61e9ba0f.js"><link rel="prefetch" href="/assets/js/485.c800253f.js"><link rel="prefetch" href="/assets/js/486.14036a94.js"><link rel="prefetch" href="/assets/js/487.d079a0d9.js"><link rel="prefetch" href="/assets/js/488.ffb66c00.js"><link rel="prefetch" href="/assets/js/489.42487d49.js"><link rel="prefetch" href="/assets/js/49.21e1dcd1.js"><link rel="prefetch" href="/assets/js/490.e9390cdb.js"><link rel="prefetch" href="/assets/js/491.a881f2e7.js"><link rel="prefetch" href="/assets/js/492.a82ae507.js"><link rel="prefetch" href="/assets/js/493.11ef2023.js"><link rel="prefetch" href="/assets/js/494.0a1d5840.js"><link rel="prefetch" href="/assets/js/495.264edcc8.js"><link rel="prefetch" href="/assets/js/496.b69257a6.js"><link rel="prefetch" href="/assets/js/497.d632dd26.js"><link rel="prefetch" href="/assets/js/498.96f4083f.js"><link rel="prefetch" href="/assets/js/499.510e177f.js"><link rel="prefetch" href="/assets/js/5.fe77f80d.js"><link rel="prefetch" href="/assets/js/50.96938b97.js"><link rel="prefetch" href="/assets/js/500.ca1ce21f.js"><link rel="prefetch" href="/assets/js/501.5697afcc.js"><link rel="prefetch" href="/assets/js/502.2418f06f.js"><link rel="prefetch" href="/assets/js/503.9253bb61.js"><link rel="prefetch" href="/assets/js/504.b1df2a45.js"><link rel="prefetch" href="/assets/js/505.8a192b72.js"><link rel="prefetch" href="/assets/js/506.2a565018.js"><link rel="prefetch" href="/assets/js/507.a31920c2.js"><link rel="prefetch" href="/assets/js/508.006923e6.js"><link rel="prefetch" href="/assets/js/509.06dc54ce.js"><link rel="prefetch" href="/assets/js/51.7d251bb3.js"><link rel="prefetch" href="/assets/js/510.c6229a6c.js"><link rel="prefetch" href="/assets/js/511.5e2f89b7.js"><link rel="prefetch" href="/assets/js/512.f12b790f.js"><link rel="prefetch" href="/assets/js/513.a50c2680.js"><link rel="prefetch" href="/assets/js/514.b5e08c70.js"><link rel="prefetch" href="/assets/js/515.5ee261a1.js"><link rel="prefetch" href="/assets/js/516.7e38300a.js"><link rel="prefetch" href="/assets/js/517.f1022fe9.js"><link rel="prefetch" href="/assets/js/518.7ecedab2.js"><link rel="prefetch" href="/assets/js/519.c65f30c1.js"><link rel="prefetch" href="/assets/js/52.b4d736ba.js"><link rel="prefetch" href="/assets/js/520.c09c9518.js"><link rel="prefetch" href="/assets/js/521.aa19ae7c.js"><link rel="prefetch" href="/assets/js/522.27dd17b3.js"><link rel="prefetch" href="/assets/js/523.3209c22c.js"><link rel="prefetch" href="/assets/js/524.5b42eed6.js"><link rel="prefetch" href="/assets/js/525.d8735a01.js"><link rel="prefetch" href="/assets/js/526.6d720775.js"><link rel="prefetch" href="/assets/js/527.00aebe2d.js"><link rel="prefetch" href="/assets/js/528.e34f70ee.js"><link rel="prefetch" href="/assets/js/529.4b91fbc7.js"><link rel="prefetch" href="/assets/js/53.4a777b71.js"><link rel="prefetch" href="/assets/js/530.aec77dd2.js"><link rel="prefetch" href="/assets/js/531.1fb7ad29.js"><link rel="prefetch" href="/assets/js/532.4d872f02.js"><link rel="prefetch" href="/assets/js/533.40c00e7b.js"><link rel="prefetch" href="/assets/js/534.4fb193be.js"><link rel="prefetch" href="/assets/js/535.16cc32ff.js"><link rel="prefetch" href="/assets/js/536.39c4ae4e.js"><link rel="prefetch" href="/assets/js/537.9d137311.js"><link rel="prefetch" href="/assets/js/538.845b446c.js"><link rel="prefetch" href="/assets/js/539.550a317d.js"><link rel="prefetch" href="/assets/js/54.d63b7ede.js"><link rel="prefetch" href="/assets/js/540.e0cdd323.js"><link rel="prefetch" href="/assets/js/541.396f686e.js"><link rel="prefetch" href="/assets/js/542.b9f87865.js"><link rel="prefetch" href="/assets/js/543.b9559fb9.js"><link rel="prefetch" href="/assets/js/544.76255a35.js"><link rel="prefetch" href="/assets/js/545.9cec9c8a.js"><link rel="prefetch" href="/assets/js/546.a8b8ce23.js"><link rel="prefetch" href="/assets/js/547.bddda35b.js"><link rel="prefetch" href="/assets/js/548.2d2288b7.js"><link rel="prefetch" href="/assets/js/549.1bf734fd.js"><link rel="prefetch" href="/assets/js/55.324b565d.js"><link rel="prefetch" href="/assets/js/550.cdeaf89b.js"><link rel="prefetch" href="/assets/js/551.ab320e08.js"><link rel="prefetch" href="/assets/js/552.25b0e55c.js"><link rel="prefetch" href="/assets/js/553.008e0d9c.js"><link rel="prefetch" href="/assets/js/554.4731f3af.js"><link rel="prefetch" href="/assets/js/555.1d023eb6.js"><link rel="prefetch" href="/assets/js/556.fbca66c9.js"><link rel="prefetch" href="/assets/js/557.12451700.js"><link rel="prefetch" href="/assets/js/558.e5178409.js"><link rel="prefetch" href="/assets/js/559.f8815482.js"><link rel="prefetch" href="/assets/js/56.f2cfbeab.js"><link rel="prefetch" href="/assets/js/560.90bb4bf9.js"><link rel="prefetch" href="/assets/js/561.268e4729.js"><link rel="prefetch" href="/assets/js/562.61c2f334.js"><link rel="prefetch" href="/assets/js/563.30331246.js"><link rel="prefetch" href="/assets/js/564.5b586425.js"><link rel="prefetch" href="/assets/js/565.e529a91b.js"><link rel="prefetch" href="/assets/js/566.24656c9c.js"><link rel="prefetch" href="/assets/js/567.4ac54911.js"><link rel="prefetch" href="/assets/js/568.a447bba9.js"><link rel="prefetch" href="/assets/js/569.83c6aed9.js"><link rel="prefetch" href="/assets/js/57.790e1e6d.js"><link rel="prefetch" href="/assets/js/570.a8943b73.js"><link rel="prefetch" href="/assets/js/571.22b4abb4.js"><link rel="prefetch" href="/assets/js/572.a6a01df2.js"><link rel="prefetch" href="/assets/js/573.84ffe88c.js"><link rel="prefetch" href="/assets/js/574.d3defd48.js"><link rel="prefetch" href="/assets/js/575.e6279693.js"><link rel="prefetch" href="/assets/js/576.2889f586.js"><link rel="prefetch" href="/assets/js/577.53c3be52.js"><link rel="prefetch" href="/assets/js/578.3e0e165b.js"><link rel="prefetch" href="/assets/js/579.4e30515b.js"><link rel="prefetch" href="/assets/js/58.47cc4853.js"><link rel="prefetch" href="/assets/js/580.2f48f774.js"><link rel="prefetch" href="/assets/js/581.cf58e370.js"><link rel="prefetch" href="/assets/js/582.734a0937.js"><link rel="prefetch" href="/assets/js/583.944be554.js"><link rel="prefetch" href="/assets/js/584.48d72975.js"><link rel="prefetch" href="/assets/js/585.664b95b9.js"><link rel="prefetch" href="/assets/js/586.2ecf82e8.js"><link rel="prefetch" href="/assets/js/587.ca728a3d.js"><link rel="prefetch" href="/assets/js/588.1fb3058b.js"><link rel="prefetch" href="/assets/js/589.38a561dc.js"><link rel="prefetch" href="/assets/js/59.d39de4b4.js"><link rel="prefetch" href="/assets/js/590.d9079e03.js"><link rel="prefetch" href="/assets/js/591.22047611.js"><link rel="prefetch" href="/assets/js/592.0b4ff9fb.js"><link rel="prefetch" href="/assets/js/593.7af5d356.js"><link rel="prefetch" href="/assets/js/594.da91b769.js"><link rel="prefetch" href="/assets/js/595.88a419fd.js"><link rel="prefetch" href="/assets/js/596.8c96deaf.js"><link rel="prefetch" href="/assets/js/597.30338d2c.js"><link rel="prefetch" href="/assets/js/6.36a0058a.js"><link rel="prefetch" href="/assets/js/60.ece37cfe.js"><link rel="prefetch" href="/assets/js/61.e08418ae.js"><link rel="prefetch" href="/assets/js/62.0fa5ed81.js"><link rel="prefetch" href="/assets/js/63.39351327.js"><link rel="prefetch" href="/assets/js/64.54ca0cf0.js"><link rel="prefetch" href="/assets/js/65.683ad2d6.js"><link rel="prefetch" href="/assets/js/66.e6ee5b7e.js"><link rel="prefetch" href="/assets/js/67.ab2ebe4d.js"><link rel="prefetch" href="/assets/js/68.5e288e02.js"><link rel="prefetch" href="/assets/js/69.f0cb60b7.js"><link rel="prefetch" href="/assets/js/7.ce9a2a98.js"><link rel="prefetch" href="/assets/js/70.7c2bb986.js"><link rel="prefetch" href="/assets/js/71.fa865f8c.js"><link rel="prefetch" href="/assets/js/72.f6d5e7b9.js"><link rel="prefetch" href="/assets/js/73.e8e075be.js"><link rel="prefetch" href="/assets/js/74.a08f2253.js"><link rel="prefetch" href="/assets/js/75.391190cc.js"><link rel="prefetch" href="/assets/js/76.c7760c2b.js"><link rel="prefetch" href="/assets/js/77.9453a884.js"><link rel="prefetch" href="/assets/js/78.97a911ab.js"><link rel="prefetch" href="/assets/js/79.d5de006c.js"><link rel="prefetch" href="/assets/js/8.bc7e91c6.js"><link rel="prefetch" href="/assets/js/80.0f4951eb.js"><link rel="prefetch" href="/assets/js/81.eefde5e3.js"><link rel="prefetch" href="/assets/js/82.3abbc471.js"><link rel="prefetch" href="/assets/js/83.44b0f043.js"><link rel="prefetch" href="/assets/js/84.fbc6cc05.js"><link rel="prefetch" href="/assets/js/85.d7ac5301.js"><link rel="prefetch" href="/assets/js/86.90677036.js"><link rel="prefetch" href="/assets/js/87.884dd198.js"><link rel="prefetch" href="/assets/js/88.b3fa781f.js"><link rel="prefetch" href="/assets/js/89.81f8afc3.js"><link rel="prefetch" href="/assets/js/9.55843e34.js"><link rel="prefetch" href="/assets/js/90.d45c913d.js"><link rel="prefetch" href="/assets/js/91.d4c12ef1.js"><link rel="prefetch" href="/assets/js/92.3cb1bcaa.js"><link rel="prefetch" href="/assets/js/93.143c38ed.js"><link rel="prefetch" href="/assets/js/94.68347e06.js"><link rel="prefetch" href="/assets/js/95.a3e1a360.js"><link rel="prefetch" href="/assets/js/96.30754203.js"><link rel="prefetch" href="/assets/js/97.ffb26189.js"><link rel="prefetch" href="/assets/js/98.74e9e95a.js"><link rel="prefetch" href="/assets/js/99.ea26cef2.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.95151100.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container no-sidebar"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <!----></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><!---->  <!----> </aside> <main class="page"> <div class="theme-default-content content__default"><p id="快乐数"></p> <h3 id="_202-快乐数"><a href="#_202-快乐数" class="header-anchor">#</a> 202. 快乐数</h3> <p><a href="https://leetcode-cn.com/problems/happy-number/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>编写一个算法来判断一个数是不是“快乐数”。</p> <p>一个“快乐数”定义为：对于一个正整数，每一次将该数替换为它每个位置上的数字的平方和，然后重复这个过程直到这个数变为 1，也可能是无限循环但始终变不到 1。如果可以变为 1，那么这个数就是快乐数。</p> <p><strong>示例:</strong></p> <div class="language- extra-class"><pre class="language-text"><code>输入: 19
+输出: true
+解释: 
+12 + 92 = 82
+82 + 22 = 68
+62 + 82 = 100
+12 + 02 + 02 = 1
+</code></pre></div><h4 id="第一版-其实不算难-试试几个样例就知道了"><a href="#第一版-其实不算难-试试几个样例就知道了" class="header-anchor">#</a> 第一版，其实不算难，试试几个样例就知道了</h4> <p>不是快乐数的会重复某些过程</p> <p>执行用时 :4 ms, 在所有 cpp 提交中击败了78.57%的用户</p> <p>内存消耗 :8.6 MB, 在所有 cpp 提交中击败了7.97%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>bool isHappy(int n) {
+
+	if (n &lt;= 0) return false;
+	unordered_set&lt;int&gt; res;
+	int sum = 0;
+	while (n != 1) {
+		sum = 0;
+		while (n &gt; 9) {
+			sum += (n % 10) * (n % 10);
+			n = n / 10;
+		}
+		sum += n * n;
+		if (res.find(sum) != res.end()) return false;
+		else res.insert(sum);
+		n = sum;
+	}
+
+	return true;
+}
+
+</code></pre></div><p id="计数质数"></p> <h3 id="_204-计数质数"><a href="#_204-计数质数" class="header-anchor">#</a> 204. 计数质数</h3> <p><a href="https://leetcode-cn.com/problems/count-primes/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>统计所有小于非负整数 <em>n</em> 的质数的数量。</p> <p><strong>示例:</strong></p> <div class="language- extra-class"><pre class="language-text"><code>输入: 10
+输出: 4
+解释: 小于 10 的质数一共有 4 个, 它们是 2, 3, 5, 7 。
+</code></pre></div><h4 id="第一版-暴力法-超时"><a href="#第一版-暴力法-超时" class="header-anchor">#</a> 第一版，暴力法，超时</h4> <div class="language-c++ extra-class"><pre class="language-text"><code>int isPrimes(int i) {
+
+
+	for (int j = 2; j * j &lt;= i; ++j) {
+		if (i % j == 0) return 0;
+	}
+
+	return 1;
+
+
+}
+int countPrimes(int n) {
+	if (n &lt;= 2) return 0;
+
+	int sum = 0;
+	for (int i = 2; i &lt; n; ++i) {
+		sum += isPrimes(i);
+	}
+
+	return sum;
+
+}
+
+
+
+
+</code></pre></div><h4 id="第二版-比较牛逼的一种解法"><a href="#第二版-比较牛逼的一种解法" class="header-anchor">#</a> 第二版，比较牛逼的一种解法</h4> <p>执行用时 :40 ms, 在所有 cpp 提交中击败了91.18%的用户</p> <p>内存消耗 :21.6 MB, 在所有 cpp 提交中击败了5.23%的用户</p> <p>这题搜到一个非常牛逼的算法,叫做厄拉多塞筛法. 比如说求20以内质数的个数,首先0,1不是质数.2是第一个质数,然后把20以内所有2的倍数划去.2后面紧跟的数即为下一个质数3,然后把3所有的倍数划去.3后面紧跟的数即为下一个质数5,再把5所有的倍数划去.以此类推.</p> <div class="language-c++ extra-class"><pre class="language-text"><code>int countPrimes(int n) {
+	vector&lt;int&gt; a(n);
+	int count = 0;
+	for (int i = 2; i &lt; n; i++)
+		a[i] = 1;
+
+	for (int i = 2; i &lt; n; i++)
+		if (a[i])
+		{
+			count++;
+			for (int j = 2 * i; j &lt; n; j += i)
+				a[j] = 0;
+		}
+
+	return count;
+
+}
+</code></pre></div><p id="同构字符串"></p> <h3 id="_205-同构字符串"><a href="#_205-同构字符串" class="header-anchor">#</a> 205. 同构字符串</h3> <p><a href="https://leetcode-cn.com/problems/isomorphic-strings/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>给定两个字符串 s 和 t，判断它们是否是同构的。</p> <p>如果 s 中的字符可以被替换得到 t ，那么这两个字符串是同构的。</p> <p>所有出现的字符都必须用另一个字符替换，同时保留字符的顺序。两个字符不能映射到同一个字符上，但字符可以映射自己本身。</p> <p>示例 1:</p> <p>输入: s = &quot;egg&quot;, t = &quot;add&quot;
+输出: true
+示例 2:</p> <p>输入: s = &quot;foo&quot;, t = &quot;bar&quot;
+输出: false
+示例 3:</p> <p>输入: s = &quot;paper&quot;, t = &quot;title&quot;
+输出: true
+说明:
+你可以假设 s 和 t 具有相同的长度。</p> <h4 id="第一版-自己写的-常见写法-比较慢"><a href="#第一版-自己写的-常见写法-比较慢" class="header-anchor">#</a> 第一版，自己写的，常见写法，比较慢</h4> <p>执行用时 :20 ms, 在所有 cpp 提交中击败了42.04%的用户</p> <p>内存消耗 :10.4 MB, 在所有 cpp 提交中击败了5.09%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>bool isIsomorphic(string s, string t) {
+	//if (s.size() == 0) return true;
+
+
+	unordered_map&lt;char, char&gt; un_mp1(s.size()), un_mp2(s.size());
+	for (unsigned i = 0; i &lt; s.size();++i) {
+		un_mp1[s[i]]= t[i];
+		un_mp2[t[i]]= s[i];
+	}
+
+
+	for (unsigned i = 0; i &lt; s.size(); ++i) {
+		if(un_mp1[s[i]]!=t[i]  || un_mp2[t[i]]!=s[i]) return false;
+	}
+
+	return true;
+
+}
+</code></pre></div><h4 id="第二版-比较第一次出现的位置"><a href="#第二版-比较第一次出现的位置" class="header-anchor">#</a> 第二版，比较第一次出现的位置</h4> <p>对比两个字符串对应位置的字符在字符串内第一次出现的位置</p> <p>执行用时 :12 ms, 在所有 cpp 提交中击败了79.16%的用户</p> <p>内存消耗 :9.2 MB, 在所有 cpp 提交中击败了21.24%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>    bool isIsomorphic(string s, string t) {
+        for(int i=0;i&lt;s.size();i++){
+            if(s.find(s[i])!=t.find(t[i]))
+            return false;
+        }
+        return true;
+</code></pre></div><h4 id="第三版-另一种写法-同步进行相同字符位置的更替"><a href="#第三版-另一种写法-同步进行相同字符位置的更替" class="header-anchor">#</a> 第三版 ，另一种写法，同步进行相同字符位置的更替</h4> <p>执行用时 :16 ms, 在所有 cpp 提交中击败了58.33%的用户</p> <p>内存消耗 :9.3 MB, 在所有 cpp 提交中击败了12.83%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>bool isIsomorphic(string s, string t) {
+	unordered_map&lt;char, int&gt; un_mp1, un_mp2;
+	for (unsigned i = 0; i &lt; s.size(); ++i) {
+		un_mp1[s[i]] += 1+i;
+		un_mp2[t[i]] += 1+i;
+		if (un_mp1[s[i]] !=  un_mp2[t[i]] ) return false;
+
+	}
+	return true;
+
+}
+
+</code></pre></div><p id="单词规律"></p> <h3 id="_290-单词规律"><a href="#_290-单词规律" class="header-anchor">#</a> 290. 单词规律</h3> <p><a href="https://leetcode-cn.com/problems/word-pattern/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>给定一种规律 pattern 和一个字符串 str ，判断 str 是否遵循相同的规律。</p> <p>这里的 遵循 指完全匹配，例如， pattern 里的每个字母和字符串 str 中的每个非空单词之间存在着双向连接的对应规律。</p> <p>示例1:</p> <p>输入: pattern = &quot;abba&quot;, str = &quot;dog cat cat dog&quot;
+输出: true
+示例 2:</p> <p>输入:pattern = &quot;abba&quot;, str = &quot;dog cat cat fish&quot;
+输出: false
+示例 3:</p> <p>输入: pattern = &quot;aaaa&quot;, str = &quot;dog cat cat dog&quot;
+输出: false
+示例 4:</p> <p>输入: pattern = &quot;abba&quot;, str = &quot;dog dog dog dog&quot;
+输出: false
+说明:
+你可以假设 pattern 只包含小写字母， str 包含了由单个空格分隔的小写字母。</p> <h4 id="第一版-自己写的-参照以前的一个题目-经典的hash方法-非常好"><a href="#第一版-自己写的-参照以前的一个题目-经典的hash方法-非常好" class="header-anchor">#</a> 第一版，自己写的，参照以前的一个题目,经典的hash方法，非常好</h4> <p>执行用时 :4 ms, 在所有 cpp 提交中击败了76.14%的用户</p> <p>内存消耗 :8.4 MB, 在所有 cpp 提交中击败了81.29%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>bool wordPattern(string pattern, string str) {
+
+	unordered_map&lt;char, int&gt; patMp;
+	unordered_map&lt;string, int&gt; strMp;
+	string temp = &quot;&quot;;
+	int a = 1;
+	unsigned i, j;
+	for (i = 0, j = 0; i &lt; pattern.size() &amp;&amp; j &lt; str.size(); ++j, ++i) {
+		temp = &quot;&quot;;
+		patMp[pattern[i]] += i+a;
+		//cout &lt;&lt; &quot;pat &quot; &lt;&lt; pattern[i] &lt;&lt; &quot; int &quot; &lt;&lt; patMp[pattern[i]] &lt;&lt; endl;
+		while (str[j] != ' ' &amp;&amp; j &lt; str.size()) {
+			temp += str[j++];
+		}
+		strMp[temp] += i+a;
+		//cout &lt;&lt; &quot;str &quot; &lt;&lt; temp &lt;&lt; &quot; int &quot; &lt;&lt; strMp[temp] &lt;&lt; endl;
+
+		if (patMp[pattern[i]] != strMp[temp]) return false;
+}
+	//cout &lt;&lt; i &lt;&lt;&quot; &quot;&lt;&lt; j &lt;&lt; endl;
+	return i==pattern.size()&amp;&amp;j==str.size()+1;
+}
+</code></pre></div><p id="字符串中的第一个唯一字符"></p> <h3 id="_387-字符串中的第一个唯一字符"><a href="#_387-字符串中的第一个唯一字符" class="header-anchor">#</a> 387. 字符串中的第一个唯一字符</h3> <p><a href="https://leetcode-cn.com/problems/first-unique-character-in-a-string/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>给定一个字符串，找到它的第一个不重复的字符，并返回它的索引。如果不存在，则返回 -1。</p> <p><strong>案例:</strong></p> <div class="language- extra-class"><pre class="language-text"><code>s = &quot;leetcode&quot;
+返回 0.
+
+s = &quot;loveleetcode&quot;,
+返回 2.
+</code></pre></div><p>**注意事项：**您可以假定该字符串只包含小写字母。</p> <h4 id="第一版-自己写的-时间较慢"><a href="#第一版-自己写的-时间较慢" class="header-anchor">#</a> 第一版，自己写的，时间较慢</h4> <p>执行用时 :112 ms, 在所有 cpp 提交中击败了23.15%的用户</p> <p>内存消耗 :13 MB, 在所有 cpp 提交中击败了80.42%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>int firstUniqChar(string s) {
+
+	if (s.size() == 0) return -1;
+
+	unordered_map&lt;char, pair&lt;int, int&gt;&gt; result;//字符，出现次数，索引号
+	for (unsigned i = 0; i &lt; s.size(); ++i) {
+
+		result[s[i]].first += 1;
+		result[s[i]].second += i;
+
+		//if (result[s[i]].first &gt;= 2) result.erase(s[i]);
+	}
+
+	int res = s.size()-1;
+
+	bool isOnce= false;
+	for (auto&amp; a : result) {
+		if (a.second.first == 1)
+		{
+			res = res &gt; a.second.second ? a.second.second : res;
+			isOnce = true;
+		}
+		//cout &lt;&lt; a.first &lt;&lt; &quot; &quot; &lt;&lt; a.second.first &lt;&lt; &quot; &quot; &lt;&lt; a.second.second &lt;&lt; endl;
+	}
+
+	if (isOnce)
+		return res;
+	else
+		return -1;
+
+}
+</code></pre></div><h4 id="第二版-看的别人的-快多了"><a href="#第二版-看的别人的-快多了" class="header-anchor">#</a> 第二版，看的别人的，快多了</h4> <p>执行用时 :32 ms, 在所有 cpp 提交中击败了91.92%的用户</p> <p>内存消耗 :12.6 MB, 在所有 cpp 提交中击败了96.83%的用户</p> <p><strong>就26个字符，所以直接开辟26个空间，初值都为0</strong></p> <div class="language-c++ extra-class"><pre class="language-text"><code>int firstUniqChar(string s) {
+
+	int result[26] = { 0 };
+	for (auto &amp;i : s)
+		result[i - 'a'] ++;//统计每个字母的出现次数，0就是‘a’,1就是‘b’
+	for (int i = 0; i &lt; s.size(); i++) {
+		if (result[s[i] - 'a'] == 1)//找到第一个就可以
+			return i;
+	}
+	return -1;
+
+}
+
+我的方法必须遍历所以的元素才能找出最小值，这个直接根据s中字母的出现的先后来看
+</code></pre></div><h4 id="第三版-看了第二版又改进的第一版-还是比较慢"><a href="#第三版-看了第二版又改进的第一版-还是比较慢" class="header-anchor">#</a> 第三版，看了第二版又改进的第一版,还是比较慢</h4> <p>执行用时 :84 ms, 在所有 cpp 提交中击败了39.24%的用户</p> <p>内存消耗 :13.2 MB, 在所有 cpp 提交中击败了70.44%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>int firstUniqChar(string s) {
+	unordered_map&lt;char, pair&lt;int, int&gt;&gt; result;//字符，出现次数，索引号
+	for (unsigned i = 0; i &lt; s.size(); ++i) {
+		result[s[i]].first += 1;
+		result[s[i]].second += i;
+	}
+
+	for (unsigned i = 0; i &lt; s.size(); ++i) {
+	
+		if (result[s[i]].first == 1) 
+			return result[s[i]].second;
+	}
+	return -1;
+
+}
+</code></pre></div><p id="最长和谐子序列"></p> <h3 id="_594-最长和谐子序列"><a href="#_594-最长和谐子序列" class="header-anchor">#</a> 594. 最长和谐子序列</h3> <p><a href="https://leetcode-cn.com/problems/longest-harmonious-subsequence/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>和谐数组是指一个数组里元素的最大值和最小值之间的差别正好是1。</p> <p>现在，给定一个整数数组，你需要在所有可能的子序列中找到最长的和谐子序列的长度。</p> <p><strong>示例 1:</strong></p> <div class="language- extra-class"><pre class="language-text"><code>输入: [1,3,2,2,5,2,3,7]
+输出: 5
+原因: 最长的和谐数组是：[3,2,2,2,3].
+</code></pre></div><p><strong>说明:</strong> 输入的数组长度最大不超过20,000.</p> <h4 id="第一版-犯糊涂了-要用有序的map才对-中规中矩"><a href="#第一版-犯糊涂了-要用有序的map才对-中规中矩" class="header-anchor">#</a> 第一版，犯糊涂了，要用有序的map才对，中规中矩</h4> <p>执行用时 :136 ms, 在所有 cpp 提交中击败了59.33%的用户</p> <p>内存消耗 :20.7 MB, 在所有 cpp 提交中击败了51.40%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>   int findLHS(vector&lt;int&gt;&amp; nums) {
+	if (nums.size() &lt;= 1) return 0;
+	sort(nums.begin(), nums.end(), greater&lt;int&gt;());
+
+	map&lt;int, int&gt; result;//元素，次数
+	int maxLen = 0, temp,len=nums.size();
+	for (unsigned i = 0; i &lt; len; ++i) {
+		result[nums[i]]++;
+	}
+
+
+	for (auto beg = result.begin(), beg2 = ++result.begin(); beg2 != result.end() &amp;&amp; beg != result.end();++beg,++beg2 ) {
+		
+		if (1+beg-&gt;first == beg2-&gt;first) {
+
+			temp = beg-&gt;second + beg2-&gt;second;
+			maxLen = temp &gt; maxLen ? temp : maxLen;
+			// cout &lt;&lt; maxLen &lt;&lt; endl;
+			// cout &lt;&lt; beg-&gt;first &lt;&lt; &quot; &quot; &lt;&lt; beg2-&gt;first &lt;&lt; &quot; &quot; &lt;&lt; temp &lt;&lt; endl;
+		}
+	}
+	// cout &lt;&lt; maxLen &lt;&lt; endl;
+
+	return maxLen;
+
+}
+</code></pre></div><p id="两个列表的最小索引总和"></p> <h3 id="_599-两个列表的最小索引总和"><a href="#_599-两个列表的最小索引总和" class="header-anchor">#</a> 599. 两个列表的最小索引总和</h3> <p>假设Andy和Doris想在晚餐时选择一家餐厅，并且他们都有一个表示最喜爱餐厅的列表，每个餐厅的名字用字符串表示。</p> <p>你需要帮助他们用最少的索引和找出他们共同喜爱的餐厅。 如果答案不止一个，则输出所有答案并且不考虑顺序。 你可以假设总是存在一个答案。</p> <p>示例 1:</p> <p>输入:
+[&quot;Shogun&quot;, &quot;Tapioca Express&quot;, &quot;Burger King&quot;, &quot;KFC&quot;]
+[&quot;Piatti&quot;, &quot;The Grill at Torrey Pines&quot;, &quot;Hungry Hunter Steakhouse&quot;, &quot;Shogun&quot;]
+输出: [&quot;Shogun&quot;]
+解释: 他们唯一共同喜爱的餐厅是“Shogun”。
+示例 2:</p> <p>输入:
+[&quot;Shogun&quot;, &quot;Tapioca Express&quot;, &quot;Burger King&quot;, &quot;KFC&quot;]
+[&quot;KFC&quot;, &quot;Shogun&quot;, &quot;Burger King&quot;]
+输出: [&quot;Shogun&quot;]
+解释: 他们共同喜爱且具有最小索引和的餐厅是“Shogun”，它有最小的索引和1(0+1)。
+提示:</p> <p>两个列表的长度范围都在 [1, 1000]内。
+两个列表中的字符串的长度将在[1，30]的范围内。
+下标从0开始，到列表的长度减1。
+两个列表都没有重复的元素。</p> <h4 id="第一版-自己写的-速度快-内存较大"><a href="#第一版-自己写的-速度快-内存较大" class="header-anchor">#</a> 第一版，自己写的，速度快，内存较大</h4> <div class="language-c++ extra-class"><pre class="language-text"><code> vector&lt;string&gt; findRestaurant(vector&lt;string&gt;&amp; list1, vector&lt;string&gt;&amp; list2) {
+    unordered_map&lt;string, pair&lt;int, int&gt;&gt; res;//餐厅名 索引号相加 ,出现次数
+	int minIndex = INT_MAX;
+	
+	multimap&lt;int,string&gt; result;
+	for (unsigned i = 0; i &lt; list1.size(); ++i) {
+		res[list1[i]] = { i,1 };
+	}
+
+	for (unsigned i = 0; i &lt; list2.size(); ++i) {
+		
+		res[list2[i]].first += i;
+		res[list2[i]].second += 1;
+	}
+
+	for (auto &amp;a : res) {
+
+		if (a.second.second == 2) {	
+			minIndex = a.second.first &lt; minIndex ? a.second.first : minIndex;
+			result.insert({ a.second.first, a.first});
+		}
+	}
+
+	multimap&lt;int, string&gt;::iterator beg, end;
+	beg  = result.equal_range(minIndex).first;
+	end = result.equal_range(minIndex).second;
+
+
+
+	vector&lt;string&gt; r;
+	while (beg != end) {
+		r.push_back(beg-&gt;second);
+		beg++;
+	}
+	
+	return r;
+        
+    }
+</code></pre></div><h4 id="第二版-换了一个写法-反而更差了"><a href="#第二版-换了一个写法-反而更差了" class="header-anchor">#</a> 第二版，换了一个写法，反而更差了...</h4> <p>执行用时 :188 ms, 在所有 cpp 提交中击败了40.00%的用户</p> <p>内存消耗 :32.3 MB, 在所有 cpp 提交中击败了14.21%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>    vector&lt;string&gt; findRestaurant(vector&lt;string&gt;&amp; list1, vector&lt;string&gt;&amp; list2) {
+	unordered_map&lt;string, pair&lt;int, int&gt;&gt; res;//餐厅名 索引号相加 ,出现次数
+	int minIndex;
+	vector&lt;string&gt; result;
+	for (unsigned i = 0; i &lt; list1.size(); ++i) {
+		res[list1[i]] = { i,1 };
+	}
+
+	for (unsigned i = 0; i &lt; list2.size(); ++i) {
+		
+		res[list2[i]].first += i;
+		res[list2[i]].second += 1;
+	}
+
+	for (auto &amp;a : res) {
+		if (a.second.second == 2) {	
+
+			if (result.empty()) {//第一次为空直接进
+				minIndex = a.second.first;
+				result.push_back(a.first);
+			}
+			else//不为空，与上一次最小值进行比较
+			{
+				if (a.second.first &lt; minIndex) //当前最小值是最小的，进行更替
+				{
+					result.clear();//清空结果
+					minIndex = a.second.first;
+					result.push_back(a.first);
+				}
+				else if (a.second.first == minIndex)//和当前一样大，就直接进去
+				{
+					result.push_back(a.first);
+					
+				}
+
+			}
+			
+		}
+	}
+
+	return result;
+    }
+</code></pre></div><div class="language-c++ extra-class"><pre class="language-text"><code>
+</code></pre></div><h4 id="第三版-再换一个写法。。。还是第一版最快"><a href="#第三版-再换一个写法。。。还是第一版最快" class="header-anchor">#</a> 第三版，再换一个写法。。。还是第一版最快</h4> <p>执行用时 :180 ms, 在所有 cpp 提交中击败了44.26%的用户</p> <p>内存消耗 :32.2 MB, 在所有 cpp 提交中击败了14.74%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>vector&lt;string&gt; findRestaurant(vector&lt;string&gt;&amp; list1, vector&lt;string&gt;&amp; list2) {
+	unordered_map&lt;string, pair&lt;int, int&gt;&gt; res;//餐厅名 索引号相加 ,出现次数
+	int minIndex;
+	vector&lt;string&gt; result;
+	for (unsigned i = 0; i &lt; list1.size(); ++i) {
+		res[list1[i]] = { i,1 };
+	}
+
+	for (unsigned i = 0; i &lt; list2.size(); ++i) {
+		
+		res[list2[i]].first += i;
+		res[list2[i]].second += 1;
+		if (res[list2[i]].second == 2)
+		{
+			if (result.empty()) {//第一次为空直接进
+				minIndex = res[list2[i]].first;
+				result.push_back(list2[i]);
+			}
+			else//不为空，与上一次最小值进行比较
+			{
+				if (res[list2[i]].first &lt; minIndex) //当前最小值是最小的，进行更替
+				{
+					result.clear();//清空结果
+					minIndex = res[list2[i]].first;
+					result.push_back(list2[i]);
+				}
+				else if (res[list2[i]].first == minIndex)//和当前一样大，就直接进去
+				{
+					result.push_back(list2[i]);
+				}
+
+			}
+
+		}
+	}
+
+	return result;
+}
+</code></pre></div><p id="错误的集合"></p> <h3 id="_645-错误的集合"><a href="#_645-错误的集合" class="header-anchor">#</a> 645. 错误的集合</h3> <p><a href="https://leetcode-cn.com/problems/set-mismatch/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>集合 <code>S</code> 包含从1到 <code>n</code> 的整数。不幸的是，因为数据错误，导致集合里面某一个元素复制了成了集合里面的另外一个元素的值，导致集合丢失了一个整数并且有一个元素重复。</p> <p>给定一个数组 <code>nums</code> 代表了集合 <code>S</code> 发生错误后的结果。你的任务是首先寻找到重复出现的整数，再找到丢失的整数，将它们以数组的形式返回。</p> <p><strong>示例 1:</strong></p> <div class="language- extra-class"><pre class="language-text"><code>输入: nums = [1,2,2,4]
+输出: [2,3]
+</code></pre></div><p><strong>注意:</strong></p> <ol><li>给定数组的长度范围是 [2, 10000]。</li> <li>给定的数组是无序的。</li></ol> <h4 id="第一版-自己写的"><a href="#第一版-自己写的" class="header-anchor">#</a> 第一版，自己写的</h4> <p>执行用时 :68 ms, 在所有 cpp 提交中击败了32.82%的用户</p> <p>内存消耗 :20.6 MB, 在所有 cpp 提交中击败了18.10%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>    vector&lt;int&gt; findErrorNums(vector&lt;int&gt;&amp; nums) {
+    unordered_set&lt;int&gt; un_st;
+	int len = nums.size(), sum,res;
+	sum = (len + 1) * len / 2;
+	for (unsigned i = 0; i &lt; len; ++i) {
+
+		if (un_st.insert(nums[i]).second) {
+			sum -= nums[i];
+		}
+		else
+		{
+			res = nums[i];
+		}
+	}
+
+	return { res,sum };
+       
+    }
+</code></pre></div><p id="词典中最长的单词"></p> <h3 id="_720-词典中最长的单词"><a href="#_720-词典中最长的单词" class="header-anchor">#</a> 720. 词典中最长的单词</h3> <p><a href="https://leetcode-cn.com/problems/longest-word-in-dictionary/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>给出一个字符串数组<code>words</code>组成的一本英语词典。从中找出最长的一个单词，该单词是由<code>words</code>词典中其他单词逐步添加一个字母组成。若其中有多个可行的答案，则返回答案中字典序最小的单词。</p> <p>若无答案，则返回空字符串。</p> <p><strong>示例 1:</strong></p> <div class="language- extra-class"><pre class="language-text"><code>输入: 
+words = [&quot;w&quot;,&quot;wo&quot;,&quot;wor&quot;,&quot;worl&quot;, &quot;world&quot;]
+输出: &quot;world&quot;
+解释: 
+单词&quot;world&quot;可由&quot;w&quot;, &quot;wo&quot;, &quot;wor&quot;, 和 &quot;worl&quot;添加一个字母组成。
+</code></pre></div><p><strong>示例 2:</strong></p> <div class="language- extra-class"><pre class="language-text"><code>输入: 
+words = [&quot;a&quot;, &quot;banana&quot;, &quot;app&quot;, &quot;appl&quot;, &quot;ap&quot;, &quot;apply&quot;, &quot;apple&quot;]
+输出: &quot;apple&quot;
+解释: 
+&quot;apply&quot;和&quot;apple&quot;都能由词典中的单词组成。但是&quot;apple&quot;得字典序小于&quot;apply&quot;。
+</code></pre></div><p><strong>注意:</strong></p> <ul><li>所有输入的字符串都只包含小写字母。</li> <li><code>words</code>数组长度范围为<code>[1,1000]</code>。</li> <li><code>words[i]</code>的长度范围为<code>[1,30]</code>。</li></ul> <h4 id="第一版-看了提示-其实并没有什么窍门"><a href="#第一版-看了提示-其实并没有什么窍门" class="header-anchor">#</a> 第一版，看了提示，其实并没有什么窍门</h4> <p>执行用时 :44 ms, 在所有 cpp 提交中击败了99.73%的用户</p> <p>内存消耗 :16.2 MB, 在所有 cpp 提交中击败了89.41%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>bool compareSize(const string&amp; a, const string&amp; b) {
+
+	if(a.size()!=b.size())
+		return a.size() &lt; b.size();
+	else
+	{
+		return a &gt; b;//当size一样时，字典序小的在后面，这一点很厉害
+	}
+}
+
+string longestWord(vector&lt;string&gt;&amp; words) {
+
+	sort(words.begin(), words.end(), compareSize);
+	unordered_set&lt;string&gt; unst;
+	for (auto&amp; a : words) {
+		unst.insert(a);
+	}
+
+	string result;
+	for (int i=words.size()-1; i &gt;=0;--i) {//从后往前走
+
+		result = words[i];
+		int len = result.size();
+		while (len--) {
+			result.pop_back();
+			if (unst.find(result) == unst.end()) break;
+		}
+
+		if (len == 0) {
+			result = words[i];
+			break;
+		}
+
+	}
+
+	return result;
+
+}
+
+</code></pre></div><p id="两句话中的不常见单词"></p> <h3 id="_884-两句话中的不常见单词"><a href="#_884-两句话中的不常见单词" class="header-anchor">#</a> 884. 两句话中的不常见单词</h3> <p><a href="https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>给定两个句子 A 和 B 。 （句子是一串由空格分隔的单词。每个单词仅由小写字母组成。）</p> <p>如果一个单词在其中一个句子中只出现一次，在另一个句子中却没有出现，那么这个单词就是不常见的。</p> <p>返回所有不常用单词的列表。</p> <p>您可以按任何顺序返回列表。</p> <p>示例 1：</p> <p>输入：A = &quot;this apple is sweet&quot;, B = &quot;this apple is sour&quot;
+输出：[&quot;sweet&quot;,&quot;sour&quot;]
+示例 2：</p> <p>输入：A = &quot;apple apple&quot;, B = &quot;banana&quot;
+输出：[&quot;banana&quot;]</p> <p>提示：</p> <p>0 &lt;= A.length &lt;= 200
+0 &lt;= B.length &lt;= 200
+A 和 B 都只包含空格和小写字母。</p> <h4 id="第一版-很容易-自己写的"><a href="#第一版-很容易-自己写的" class="header-anchor">#</a> 第一版，很容易，自己写的</h4> <p>执行用时 :4 ms, 在所有 cpp 提交中击败了91.83%的用户</p> <p>内存消耗 :8.7 MB, 在所有 cpp 提交中击败了100.00%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>vector&lt;string&gt; uncommonFromSentences(string A, string B) {
+
+	unordered_map&lt;string,int&gt; un_mp;
+
+	string temp;
+	for (unsigned i=0;i&lt;A.size();++i)
+	{
+		temp = &quot;&quot;;
+		while (A[i] != ' ' &amp;&amp; i &lt; A.size()) {
+			temp += A[i++];
+		}
+		if (temp.size() &gt; 0) ++un_mp[temp];
+		
+	}
+
+	for (unsigned i = 0; i &lt; B.size(); ++i)
+	{
+		temp = &quot;&quot;;
+		while (B[i] != ' ' &amp;&amp; i &lt; B.size()) {
+			temp += B[i++];
+		}
+		if (temp.size() &gt; 0) ++un_mp[temp];
+	}
+
+	vector&lt;string&gt; res;
+	for (auto &amp;a : un_mp) {
+		if (a.second == 1) res.push_back(a.first);
+		//cout &lt;&lt; a.first &lt;&lt; &quot; &quot; &lt;&lt; a.second &lt;&lt; endl;
+	}
+
+	return res;
+
+}
+</code></pre></div><p id="强整数"></p> <h3 id="_970-强整数-看的答案-豁然开朗"><a href="#_970-强整数-看的答案-豁然开朗" class="header-anchor">#</a> 970. 强整数   看的答案，豁然开朗</h3> <p><a href="https://leetcode-cn.com/problems/powerful-integers/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>给定两个正整数 <code>x</code> 和 <code>y</code>，如果某一整数等于 <code>x^i + y^j</code>，其中整数 <code>i &gt;= 0</code> 且 <code>j &gt;= 0</code>，那么我们认为该整数是一个<em>强整数</em>。</p> <p>返回值小于或等于 <code>bound</code> 的所有<em>强整数</em>组成的列表。</p> <p>你可以按任何顺序返回答案。在你的回答中，每个值最多出现一次。</p> <p><strong>示例 1：</strong></p> <div class="language- extra-class"><pre class="language-text"><code>输入：x = 2, y = 3, bound = 10
+输出：[2,3,4,5,7,9,10]
+解释： 
+2 = 2^0 + 3^0
+3 = 2^1 + 3^0
+4 = 2^0 + 3^1
+5 = 2^1 + 3^1
+7 = 2^2 + 3^1
+9 = 2^3 + 3^0
+10 = 2^0 + 3^2
+</code></pre></div><p><strong>示例 2：</strong></p> <div class="language- extra-class"><pre class="language-text"><code>输入：x = 3, y = 5, bound = 15
+输出：[2,4,6,8,10,14]
+</code></pre></div><p><strong>提示：</strong></p> <ul><li><code>1 &lt;= x &lt;= 100</code></li> <li><code>1 &lt;= y &lt;= 100</code></li> <li><code>0 &lt;= bound &lt;= 10^6</code></li></ul> <h4 id="第一版-暴力法-加个上限20"><a href="#第一版-暴力法-加个上限20" class="header-anchor">#</a> 第一版，暴力法，加个上限20</h4> <p>执行用时 :4 ms, 在所有 cpp 提交中击败了80.38%的用户</p> <p>内存消耗 :8.5 MB, 在所有 cpp 提交中击败了83.33%的用户</p> <p>这里用unordered_set就可以了，不需要set，说了可以返回无顺序的</p> <div class="language-c++ extra-class"><pre class="language-text"><code>    vector&lt;int&gt; powerfulIntegers(int x, int y, int bound) {
+    unordered_set&lt;int&gt; res;
+	for (int i = 0; i &lt; 20 &amp;&amp; pow(x, i) &lt;= bound; i++) {
+		for (int j = 0; j &lt; 20 &amp;&amp; pow(y, j) &lt;= bound; j++) {
+			int v = int(pow(x, i)) + int(pow(y, j));
+			if (v &lt;= bound) res.insert(v);
+		}
+	}
+	vector&lt;int&gt; res2;
+	res2.assign(res.begin(), res.end());
+	return res2;
+        
+    }
+</code></pre></div><p id="独一无二的出现次数"></p> <h3 id="_1207-独一无二的出现次数"><a href="#_1207-独一无二的出现次数" class="header-anchor">#</a> 1207. 独一无二的出现次数</h3> <p><a href="https://leetcode-cn.com/problems/unique-number-of-occurrences/" target="_blank" rel="noopener noreferrer">力扣原题链接（点我直达）<span><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg> <span class="sr-only">(opens new window)</span></span></a></p> <p>给你一个整数数组 arr，请你帮忙统计数组中每个数的出现次数。</p> <p>如果每个数的出现次数都是独一无二的，就返回 true；否则返回 false。</p> <p>示例 1：</p> <p>输入：arr = [1,2,2,1,1,3]
+输出：true
+解释：在该数组中，1 出现了 3 次，2 出现了 2 次，3 只出现了 1 次。没有两个数的出现次数相同。
+示例 2：</p> <p>输入：arr = [1,2]
+输出：false
+示例 3：</p> <p>输入：arr = [-3,0,1,-3,1,1,1,-3,10,0]
+输出：true</p> <h4 id="第一版-unordered-map-unordered-set"><a href="#第一版-unordered-map-unordered-set" class="header-anchor">#</a> 第一版 unordered_map,unordered_set</h4> <p>执行用时 :4 ms, 在所有 cpp 提交中击败了88.78%的用户</p> <p>内存消耗 :8.9 MB, 在所有 cpp 提交中击败了100.00%的用户</p> <div class="language-c++ extra-class"><pre class="language-text"><code>
+bool uniqueOccurrences(vector&lt;int&gt;&amp; arr) {
+	unordered_map&lt;int, int&gt; un_mp(arr.size());
+	unordered_set&lt;int&gt; un_st;
+	for (auto&amp; a : arr) {
+		un_mp[a]++;
+	}
+	for (auto&amp; a : un_mp) {
+		un_st.insert(a.second);	
+	}
+	return un_st.size() == un_mp.size();
+
+
+}
+</code></pre></div></div> <footer class="page-edit"><!----> <!----></footer> <!----> </main></div><div class="global-ui"></div></div>
+    <script src="/assets/js/app.9ea94a6f.js" defer></script><script src="/assets/js/2.888d143f.js" defer></script><script src="/assets/js/393.f2951ca7.js" defer></script>
+  </body>
+</html>
