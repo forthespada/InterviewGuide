@@ -56,7 +56,7 @@ comment: false
 
 ## 1、前端上岸经验
 
-阿秀的学习圈子里分享过不少人选择前端最终上岸的经验，可以点击这里去看看别人的上岸经验，多看看别人的上岸经历比自己踽踽独行好得多：[https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MDU0ODM3MA==&action=getalbum&album_id=2538108791809130496&scene=173&from_msgid=2247506702&from_itemidx=1&count=3&nolastread=1#wechat_redirect](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MDU0ODM3MA==&action=getalbum&album_id=2538108791809130496&scene=173&from_msgid=2247506702&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+阿秀的学习圈子里分享过不少人选择前端最终上岸的经验，可以点击这里去看看别人的上岸经验，多看看别人的上岸经历比自己踽踽独行好得多：[https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0ODU4MzEzMw==&action=getalbum&album_id=3141393535481708552#wechat_redirect](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0ODU4MzEzMw==&action=getalbum&album_id=3141393535481708552#wechat_redirect)
 
 前端的学习可以分为**基础知识**、**主流框架学习**两步来走，当然还有计算机基础学科这块。
 
