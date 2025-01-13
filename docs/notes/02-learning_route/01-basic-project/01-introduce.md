@@ -57,7 +57,7 @@ comment: false
 
 这里给出阿秀自己的[学习方法](/notes/04-experience/01-learn_experience/01-introduce.md)和[学习路线](/notes/02-learning_route/01-basic-project/quick.md)，因为自己虽然是科班出身，但基本都是自学到的这些技术，希望自己的学习方法和路径能对大家有所帮助！
 
-具体的基础学科学习路径可以看**左侧侧边栏的[学习路线](/notes/02-learning_route/01-basic-project/03-计算机网络学习路线.md)**，阿秀会依次总结出自己的学习方法和基础科目学习路线，比如计算机与网络、操作系统等。
+具体的基础学科学习路径可以看**左侧侧边栏的[学习路线](/notes/02-learning_route/01-basic-project/quick.md)**，阿秀会依次总结出自己的学习方法和基础科目学习路线，比如计算机与网络、操作系统等。
 
 对于学习路线中推荐的书籍，当当、JD上均有售相应的指纸质版，对应的免费电子版PDF可以在下面这两个仓库找到：
 
