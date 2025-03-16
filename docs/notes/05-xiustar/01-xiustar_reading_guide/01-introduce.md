@@ -21,6 +21,5 @@ comment: false
 
 - [为什么会有这个学习圈子](https://www.yuque.com/tuobaaxiu/httmmc/xg0otqvc17wfx4u9)
 - [学习圈知识图谱（已经沉淀22、23届本科/研究生踩坑的经验分享）](https://www.yuque.com/tuobaaxiu/httmmc/gge9ppd0mbu2d3dp)
-- [学习圈每周精华分享（从2022.6.25号开始，每周一期）](https://www.yuque.com/tuobaaxiu/httmmc/npg1k81zeq4wfpyz)
 - [学习圈资源沉淀（计算机编程资源、C++、Java、Go语言、前端、算法、简历、考研等）](https://www.yuque.com/tuobaaxiu/httmmc/qs0yn66apvkzw0ps)
 
