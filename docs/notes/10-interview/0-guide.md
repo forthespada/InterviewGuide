@@ -1,13 +1,19 @@
 大家好，我是阿秀。
 
+
+
 这里是「**大厂真实面经**」和「面试官」系列，阿秀从 21 年开始已经陆陆续续整理分享了不下百篇面试求职经验了了。
 
 <div align="center" >
+  <img src="0-guide.assets/202503171454563.png" alt="面经" style="zoom: 60%;" />
+  <img src="0-guide.assets/202503171454467.png" alt="面经" style="zoom: 60%;" />
+  </div>
 
-<img src="http://oss.interviewguide.cn/img/202503171454563.png" alt="面经" style="zoom: 60%;" />
-  <img src="http://oss.interviewguide.cn/img/202503171454467.png" alt="面经" style="zoom: 60%;" />
 
-</div>
+
+
+
+
 
 
 
@@ -42,4 +48,3 @@
 ## 缓存
 
 ## 数据库
-

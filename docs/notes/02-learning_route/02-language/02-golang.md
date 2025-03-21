@@ -44,7 +44,7 @@ comment: false
 
 这是阿秀原创的学习路线以及项目推荐系列文章，如下图：
 
-![](http://oss.interviewguide.cn/img/202208220047450.png)
+![](02-golang.assets/202208220047450-20250321160729741.png)
 
 如有盗版，必回拿起法律武器捍卫自己的正当权利，《学习路线&项目推荐》的全部内容我将它放在了阿秀的学习圈中，欢迎了解[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子)。
 
@@ -52,23 +52,22 @@ comment: false
 
 
 
-<img src="http://oss.interviewguide.cn/img/202205162058437.png" alt="Golang求职版学习路线" style="zoom:50%;" />
+<img src="02-golang.assets/202205162058437.png" alt="Golang求职版学习路线" style="zoom:50%;" />
 
 
 ### 1、导读
 
 这篇学习路线写完其实很久了，不过前段时间又请组内的Go后端资深研发工程师吃了一顿烤羊腿。
 
-<div align="center"><img src="http://oss.interviewguide.cn/img/202205052313472.png" style="zoom:50%;" /></div>
+<div align="center"><img src="02-golang.assets/202205052313472.png" style="zoom:50%;" /></div>
 
 
 
 向他请教了一些新手学习Go语言需要注意的内容，然后删减了一些不是很好的书籍(Go出的书倒是不少，可好的真的不多)，并且增加了几个不错的项目，最终润色完毕后，才有的这篇学习路线。
 
-<div align="center">
-  <img src="http://oss.interviewguide.cn/img/202205162056636.png" alt="听，是我的钱包在哭泣。。。" style="zoom:33%;" />
-</div>
+  
 
+<div align="center"><img src="02-golang.assets/202205162056636.png" alt="听，是我的钱包在哭泣。。。" style="zoom:33%;" /></div>
 
 
 
@@ -89,11 +88,7 @@ comment: false
 
 与以前给大家安排的C++学习路线类似，Golang学习路线也一共有四个阶段:
 
-  <img src="http://oss.interviewguide.cn/img/202205162058065.png" alt="Golang求职版学习路线" style="zoom:50%;" />
-
-
-
-
+<img src="02-golang.assets/202205162058065.png" alt="Golang求职版学习路线" style="zoom:50%;" />
 
 
 第一阶段为计算机基础学习，第二阶段是基础语法，第三阶段是进阶编程，第四阶段是比较热门的微服务相关。
@@ -126,17 +121,17 @@ comment: false
 
 推荐入门书籍《Go程序设计语言》或者《Go 语言学习笔记》，如果你是语言小白，没学过其余语言，那就去看《Go程序设计语言》；如果你有其余语言基础，比如Java或者C++，那就去看《Go 语言学习笔记》即可。
 
-![小白可以看这本](http://oss.interviewguide.cn/img/202205162057920.png)
+![小白可以看这本](02-golang.assets/202205162057920.png)
 
 
 
-![有基础就可以看这本](http://oss.interviewguide.cn/img/202205162057423.png)
+![有基础就可以看这本](02-golang.assets/202205162057423.png)
 
 你需要做的就是跟着书籍多敲敲代码，多动手才能学会。
 
 或者也可以直接跟我一样看视频入门也是ok的，我看的是某马的20小时入门视频，我觉得这门课程挺不错的，一共分为上中下三个部分。
 
-![黑马Golang培训班](http://oss.interviewguide.cn/img/202205162057355.png)
+![黑马Golang培训班](02-golang.assets/202205162057355.png)
 
 言简意赅，不多BB，上来就带你实操，手底下见真章。
 
@@ -156,7 +151,7 @@ comment: false
 
 直接跟着gitbook链接去练就ok了。比如下面这样：
 
-![](http://oss.interviewguide.cn/img/202205162057325.png)
+![](02-golang.assets/202205162057325.png)
 
 ### 2、练手项目
 
@@ -166,11 +161,7 @@ comment: false
 
 生成一个github上的star趋势图，如下
 
-![](http://oss.interviewguide.cn/img/202205162057210.png)
-
-
-
-
+![](02-golang.assets/202205162057210.png)
 
 在这个项目中，你能学到最基本的网络请求，解析等等，代码量也不多，对新手比较友好。
 
@@ -207,11 +198,11 @@ comment: false
 
 这里我推荐的《Go语言高级编程》这本书以及《Go Web 编程》。
 
-![](http://oss.interviewguide.cn/img/202205162057522.png)
+![](02-golang.assets/202205162057522.png)
 
 
 
-![Go Web 编程](http://oss.interviewguide.cn/img/202205162057223.png)
+![Go Web 编程](02-golang.assets/202205162057223.png)
 
 其中前者是一些高级用法，其中会涉及一些CGO编程以及Go汇编的知识，还有一些是RPC相关，比较杂。
 
@@ -316,7 +307,7 @@ Gin框架不需要你去仔细学，但是需要你会用，这里推荐一下�
 
 推荐一本书《微服务架构设计模式》，这本书我在学校的时候就买了，不过没看完，只看了一半就已经觉得非常不错了。
 
-![](http://oss.interviewguide.cn/img/202205162057930.png)
+![](02-golang.assets/202205162057930.png)
 
 这本书粗看是一个设计模式的目录，细看之后就会发现在设计模式中也可以帮助你设计、实现、测试和部署基于微服务的应用程序。
 
@@ -332,4 +323,4 @@ Gin框架不需要你去仔细学，但是需要你会用，这里推荐一下�
 
 需要说明的是，学习路线这种东西，每个人的基础都不一样，所以我为了尽可能的照顾大多数人，推荐的资料可能是一些入门级的。
 
-如果你有更好的推荐，欢迎你在评论区留言评论。
+如果你有更好的推荐，欢迎交流。

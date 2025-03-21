@@ -49,8 +49,17 @@ comment: false
 签完三方后，还应牛客网邀请写过一个<a href="https://www.nowcoder.com/tutorial/10043/index" target="_blank">**校招求职专刊**</a>，分享一些我自己踩过的坑以及自己走过的路，已经超过 **10000** 多人订阅和学习过了
 
 <div align="center">
-  <img src="http://oss.interviewguide.cn/img/202303310116791.png" style="zoom:50%;" />
+  <img src="./web-guide-reading.assets/202303310116791.png" style="zoom:50%;" />
 </div>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -79,7 +88,7 @@ comment: false
 
 我看到很多小白&新手&非科班转行成功的例子，他们拥有的一个共性就是踏实、耐得住寂寞、一步一个脚印，这一点你可以去看一下[阿秀的学习圈子](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.md#阿秀组建了一个校招学习圈子)中的**校招总结**和**实习分享**例子，他们基本不会去看什么《7天学习Java》/《21天学会C++》之类的垃圾书籍，没有什么一蹴而就，有的只是稳扎稳扎、步步为营。
 
-<div align="center"><img src="http://oss.interviewguide.cn/img/202205161146636.png" style="zoom:150%;" /></div>
+<div align="center"><img src="./web-guide-reading.assets/202205161146636.png" style="zoom:150%;" /></div>
 
 下面对网站知识大纲做大致解读，主要可分为：
 

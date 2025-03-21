@@ -45,7 +45,7 @@ comment: false
 
 这是阿秀原创的学习路线以及项目推荐系列文章，如下图：
 
-![](http://oss.interviewguide.cn/img/202208220047450.png)
+![](quick.assets/202208220047450-20250321154845645.png)
 
 如有盗版，必回拿起法律武器捍卫自己的正当权利，《学习路线&项目推荐》的全部内容我将它放在了阿秀的学习圈中，欢迎了解[阿秀的学习圈](/notes/05-xiustar/01-xiustar_reading_guide/01-introduce.html#阿秀组建了一个校招学习圈子)。
 
@@ -113,7 +113,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 这个课的名字可能有点像垃圾课的名字，但这个课真的是好课，在国外YouTube上的播放量有2亿之多。
 
-![](http://oss.interviewguide.cn/img/202208272223427.png)
+![](quick.assets/202208272223427.png)
 
 地址：[https://www.bilibili.com/video/BV1EW411u7th](https://www.bilibili.com/video/BV1EW411u7th)
 
@@ -125,7 +125,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 如果是你是小白或者非科班的话，建议先看看这本《**计算机是怎样跑起来的》，不要上来就去看什么《操作系统导论》，妥妥的劝退自己的行为。**
 
-![](http://oss.interviewguide.cn/img/202208220052851.png)
+![](quick.assets/202208220052851.png)
 
 
 
@@ -133,13 +133,13 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 说一句图文并茂，通俗易懂并不为过，非常适合想要转行来计算机或者是刚开始学习操作系统的同学去阅读。
 
-![](http://oss.interviewguide.cn/img/202208220053013.png)
+![](quick.assets/202208220053013.png)
 
 我跟上面这位豆瓣读书的朋友意见一致，同样认为这是本很nice的入门书，同系列的还有两本：
 
 《**程序是怎样跑起来的**》、《**网络是怎样连接的**》，有兴趣可以看看，特别是第二本：**网络是怎样连接的** 跟计网比较相关。
 
-![](http://oss.interviewguide.cn/img/202208220053439.png)
+![](quick.assets/202208220053439.png)
 
 
 
@@ -149,7 +149,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 建议去首先看下南京大学袁春风老师主讲的计算机系统基础(一)（二），只看一二就足够，对于（三）（四）可在后续再看！
 
-![](http://oss.interviewguide.cn/img/202208220053668.png)
+![](quick.assets/202208220053668.png)
 
 [南京大学 计算机系统基础(一)主讲：袁春风老师_哔哩哔哩_bilibiliwww.bilibili.com/video/BV1kE411X7S5?from=search&seid=11368404143517814105](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1kE411X7S5%3Ffrom%3Dsearch%26seid%3D11368404143517814105)
 
@@ -173,7 +173,9 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 如果你是**非计算机专业的小白**，对于计算机网络一窍不懂，连最基本的HTTP都没听过，那我建议你先去看看《**网络是怎样连接的**》。
 
-[![](http://oss.interviewguide.cn/img/202208220053336.png)](http://oss.interviewguide.cn/img/202205070139548.png)
+![](quick.assets/202208220053336.png)
+
+
 
 这本书会从总体为你讲清楚计算机发送请求的整个过程！
 
@@ -181,9 +183,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 你搞明白了这个问题也就对计算机网络最常用的HTTP和TCPIP相关有个大概认识和了解了。
 
-[![](http://oss.interviewguide.cn/img/202208220053951.png)](http://oss.interviewguide.cn/img/202205070139435.png)
-
-
+![](quick.assets/202208220053951.png)
 
 
 
@@ -197,9 +197,9 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 **从简单入门和入手，不香吗？**
 
-[![](http://oss.interviewguide.cn/img/202208220054508.png)](http://oss.interviewguide.cn/img/202205070139504.jpg)
+![](quick.assets/202208220054508.png)
 
-![](http://oss.interviewguide.cn/img/202208220054439.png)
+![](quick.assets/202208220054439.png)
 
 ### 比较不错的2个视频
 
@@ -211,7 +211,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 如果让我推荐一个计算机网络视频教程，我觉得非韩立刚老师的视频莫属了，韩老师讲课也很有亲和力，并且韩立刚老师的课堂氛围也很诙谐，没的说了。
 
-[![](http://oss.interviewguide.cn/img/202208220054776.png)](http://oss.interviewguide.cn/img/202205070139800.jpg)
+![](quick.assets/202208220054776.png)
 
 强烈推荐韩老师的计算机网络课程！
 
@@ -223,11 +223,11 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 这门课是最近两年刚火起来的，可能没有韩老师那么久，但这门课依然很是不错，教书匠教的更形象立体一些，他有很多不错的PPT动画，让你看的更明白和清楚！
 
-![](http://oss.interviewguide.cn/img/202208061219932.png)
+![](quick.assets/202208061219932.png)
 
 视频下方的评论就能看出来，这门课有多受欢迎了。
 
-![](http://oss.interviewguide.cn/img/202208061220102.png)
+![](quick.assets/202208061220102.png)
 
 地址：[https://www.bilibili.com/video/BV1c4411d7jb](https://www.bilibili.com/video/BV1c4411d7jb)
 
@@ -257,7 +257,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 这么说吧，在我日常研发过程中写SQL基本不需要去查，稍微想一下就能写出来，不会出现那种脑子会了手写不出来的情况。
 
-直接去看我写的文章就好：https://mp.weixin.qq.com/s/ZrXWBBMLYhzBBYsxBDQuWQ
+直接去看我写的文章就好：[技术岗对于SQL的掌握要求是怎样的？](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247512032&idx=1&sn=4b559390726b097f7653caf551bf9e21&source=41#wechat_redirect)
 
 下面是一些我的学习圈子里的提问以及自己的SQL学习笔记：《MySQL必知必会》的分享链接等。
 
@@ -286,7 +286,7 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 我当初入门的时候学的就是这个数据库视频，我觉得讲的非常不错，现在推荐给大家！
 
-![](http://oss.interviewguide.cn/img/202208220054562.png)
+![](quick.assets/202208220054562.png)
 
 **地址**：[https://www.bilibili.com/video/BV12b411K7Zu](https://www.bilibili.com/video/BV12b411K7Zu)
 
@@ -300,7 +300,11 @@ MySQL技术专栏有很多，我在自己用过的精品资料里页也推荐过
 
 其中就有一个MySQL的专栏，就是极客时间的《**MySQL45讲**》，这个专栏是数据库大神、前阿里资深技术专家丁奇写的，对于前十章阿秀自己翻来覆去的看过很多遍。
 
-确实讲了很多MySQL 核心技术详解，更重要的是还有很多原理说明比如：数据结构、索引、事务、锁的基础知识和他们之间的关联关系都很详尽，感觉这是我在极客时间花的相当值的一笔专栏。
+![](quick.assets/image-20250321155230183.png)
+
+确实讲了很多MySQL 核心技术详解，更重要的是还有很多原理说明比如：数据结构、索引、事务、锁的基础知识和他们之间的关联关系都很详尽，感觉**这是我在极客时间花的相当值的一笔专栏**，没有之一！！
+
+![课程介绍](quick.assets/image-20250321155255602-2543585.png)
 
 剩下的就不说了，我只能说如果你打算后端，数据库是你必须掌握的一项技能，其中的关系型数据库MySQL是典型代表。
 《MySQL45讲》专栏链接：[http://gk.link/a/11nhx(opens new window)](http://gk.link/a/11nhx)
@@ -308,6 +312,8 @@ MySQL技术专栏有很多，我在自己用过的精品资料里页也推荐过
 
 
 同样还有一个类似的专栏是掘金网的小册《**MySQL是怎样运行的**》，这个质量也可以，这两的区别就是《MySQL是怎样运行的》语言更加诙谐一些，你不会觉得很枯燥，而极客时间的《**MySQL45讲**》比较正式一些，一板一眼的讲解，但要论全面性那还是极客时间的《**MySQL45讲**》更全面的多。
+
+![](quick.assets/image-20250321155333401.png)
 
 我最开始是先看的MySQL45讲，第一遍没看完，就看到第20多讲就看不下去，觉得太系统和体系化了，后来师兄推荐了我这个《**MySQL是怎样运行的**》，我一看才30块钱，直接买了。。。
 
@@ -333,7 +339,7 @@ MySQL的学习不是一天两天、一两个视频能学完的，但上面一些
 
 这门视频也是我唯一看的一门Redis视频，仅从个人角度来看，我觉得很不错了，可以说是**尚硅谷的Redis封神之作**了。
 
-![](http://oss.interviewguide.cn/img/202208220054393.png)
+![](quick.assets/202208220054393.png)
 
 **地址**：[https://www.bilibili.com/video/BV1oW411u75R](https://www.bilibili.com/video/BV1oW411u75R)
 
@@ -346,6 +352,8 @@ MySQL的学习不是一天两天、一两个视频能学完的，但上面一些
 而一个专栏指的则是中科院的蒋德钧教授写的《Redis核心技术与实战》专栏了，这个专栏还是不错的，从原理教你吃透Redis。
 
 数据库这块我也看过不少书籍&资料，其中觉得花钱比较值得就是上面提到的《MySQL45讲》以及这个《Redis核心技术与实战》了，如果你是后端从业者，建议这两个专栏都看看，现在基本没有后端项目不用到Redis的了。。。。。
+
+![](quick.assets/image-20250321155400719.png)
 
 《Redis核心技术与实战》链接：[http://gk.link/a/11osC(opens new window)](http://gk.link/a/11osC)
 

@@ -64,7 +64,13 @@ Github地址：[https://github.com/forthespada/CS-Books](https://github.com/fort
 
 除此之外，本文也会推荐一些视频或者资料我已经放在自己的公众号后台了，获取方式或者地址都在对应的推荐视频下面了，回复相应的关键字就可以免费领取了。
 
-<a data-fancybox title="计算机网络学习路线(求职版) @拓跋阿秀" href="求职版">![计算机网络学习路线(求职版) @拓跋阿秀](http://oss.interviewguide.cn/img/202205070139878.png)</a>
+
+
+<a data-fancybox title="计算机网络学习路线(求职版) @拓跋阿秀" href="求职版">![计算机网络学习路线(求职版) @拓跋阿秀](http://oss.interviewguide.cn/img/202205070139878.png)
+
+
+
+</a>
 
 如果你是有基础的，一些入门级的资料或者视频可以直接跳过，直接去看进阶的部分即可。
 
