@@ -148,7 +148,7 @@ ListNode* reverseList(ListNode* head) {
 
 现有一个链表 -- head = [4,5,1,9]，它可以表示为:
 
-![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/01/19/237_example.png)
+![](easy.assets/237_example.png)
 
  
 
@@ -191,7 +191,6 @@ ListNode* reverseList(ListNode* head) {
         
     }
 ```
-
 
 
 

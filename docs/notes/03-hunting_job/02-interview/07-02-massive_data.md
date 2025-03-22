@@ -244,14 +244,10 @@ class MedianFinder {
 
 ```java
 import lombok.Data;
-
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-/**
- * @author https://github.com/yanglbme
- */
-@Data
+
 public class DataWithSource implements Comparable<DataWithSource> {
     /**
      * 数值
@@ -327,16 +323,7 @@ class Test {
         int[] top = getTop(data);
         System.out.println(Arrays.toString(top)); // [30, 29, 25, 20, 19]
     }
-}Copy to clipboardErrorCopied
+}
 ```
-
-### 方法总结
-
-求 TopK，不妨考虑一下堆排序？
-
-------
-
-## 参考资料
-
 
 

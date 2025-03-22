@@ -12,11 +12,11 @@
 
 比如，有 `A = ["abcdef", "uvwxyz"]`，
 
-![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/07/06/944_1.png)
+![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/07/06/944_1.png)
 
 要删掉的列为 `{0, 2, 3}`，删除后 `A` 为`["bef", "vyz"]`， `A` 的列分别为`["b","v"], ["e","y"], ["f","z"]`。
 
-![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/07/06/944_2.png)
+![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/07/06/944_2.png)
 
 你需要选出一组要删掉的列 `D`，对 `A` 执行删除操作，使 `A` 中剩余的每一列都是 **非降序** 排列的，然后请你返回 `D.length` 的最小可能值。
 

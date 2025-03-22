@@ -48,7 +48,7 @@ comment: false
 
 #### 十大排序一图总览
 
-![](http://oss.interviewguide.cn/img/202205072325169.png)
+![](02-algorithm-basic.assets/202205072325169.png)
 
 
 
