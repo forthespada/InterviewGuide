@@ -1,3 +1,22 @@
+---
+layout:  post
+category:  prepare
+title:  C++训练营
+tagline:  by 阿秀
+tags:
+    - 训练营
+    - C++
+    - CPP
+    - 校招
+    - 社招
+excerpt: C++训练营
+comment: false
+---
+
+<h1 align="center">C++训练营</h1>
+
+
+
 大家好，我是阿秀。
 
 **经常发现有学弟学妹在准备校招时非常迷茫，不知道从何下手，详细聊下来发现和我当时的遇到的问题一模一样，**
@@ -29,15 +48,14 @@
 
 是的，我们已经准备好了！
 
-<img src="./cpp.assets/640" alt="训练营学员反馈" style="zoom:67%;" />
+<div align="center">
+  <img src="./cpp.assets/image-20250323180002280.png" alt="训练营学员反馈" style="zoom: 50%;" />
+  <img src="./cpp.assets/image-20250323180124379.png" style="zoom:67%;" />
+</div>
 
 
 
-
-
-<img src="./cpp.assets/640-20250322230157820" style="zoom: 50%;" />
-
-这是又有人问了，训练营那么多事，你一个人能忙的过来么？
+这里可能有疑问，训练营那么多事，你一个人能忙的过来么？
 
 我一个人肯定忙不过来，所以训练营有数位伙伴共同参与，**导师全部来自互联网头部大厂包括但不限于腾讯、百度、字节、小红书等。**
 
@@ -48,13 +66,13 @@
 - **程序喵**：大厂资深C++技术专家，《C++20高级编程》、《C++23高级编程》著书籍译者
 - **程序厨**：秋招 offer 收割机，前腾讯高级后端研发工程师，现创业中，github 10000+ star 开源作者
 - **拓跋阿秀**：前字节跳动全栈工程师，现外企项目组组长，有C++、Golang、Node.js等多种语言开发经历
-- **Yellow**：大厂音视频技术专家，精通OpenGL、FFEMPG
+-  **Yellow**：大厂音视频技术专家，精通OpenGL、FFEMPG
 - **阿杜** : 10年C++开发经验，先后在上市公司、基金公司担任C++后台高级开发工程师，CSDN签约讲师。
 - **昊天**：某头部音视频公司资深C++开发工程师，多年音视频开发经验，多年QT、FFMPEG、OpenGL经验。
 
 **有这么多大佬的加持，训练营的质量绝对有保障**。
 
-<img src="./cpp.assets/640-20250312144418096" style="zoom:67%;" />
+![](./cpp.assets/image-20250323195015595-2730617.png)
 
 训练营主要包含以下几个模块，建议感兴趣的同学仔细看一下上图，详细了解训练营，并判断训练营是否适合自己。
 
@@ -66,13 +84,17 @@
 
 每个入营的学员，会有面试诊断，根据学员情况，量身制定学习计划，让学员学习更有针对性，更加高效。
 
-以下为**基础能力提升专项训练**，还有项目实战、面试培训等日程
+以下为**基础能力提升专项训练**，还有项目实战、面试培训等日程。
 
-<img src="./cpp.assets/640-20250322225926072" alt="基础能力提升" style="zoom:67%;" />基础能力提升
+<img src="cpp.assets/image-20250323195041102-2730642.png" alt="基础能力提升" style="zoom:67%;" />
+
+
+
+
 
 下面是其中一些内容的学习目标及验收标准：
 
-<img src="./cpp.assets/640-20250322225934849" style="zoom:67%;" />
+![](./cpp.assets/image-20250323195109054.png)
 
 这一阶段的目的，是为了让学员将 C++ 知识点，掌握牢固，也是为之后的项目实战打下基础。
 
@@ -82,21 +104,27 @@
 
 不用担心，训练营导师会为你每天批改代码，**从大厂 C++ 工程师的角度帮你指出问题，给出优化建议，帮助你更好的理解知识点，让你养成良好的代码风格**。
 
-<img src="./cpp.assets/640-20250322230221406" alt="代码Review" style="zoom:67%;" />代码Review
+<img src="./cpp.assets/image-20250323195139091.png" alt="代码Review" style="zoom:67%;" />
 
-![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiaLe8kNcHRWNdpfTqVm9DMXTHHPhbw8kNW5qGUQPYV7uJZlNibscaP99w/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+![](cpp.assets/image-20250323195205960.png)
 
 当遇到较难理解的知识点，直接在群内沟通，导师写出示例代码帮助学员理解，下面是部分记录：
 
-<img src="./cpp.assets/640-20250322230234002" alt="1v1专属群内沟通" style="zoom:67%;" />
+<img src="./cpp.assets/image-20250323195229021.png" alt="1v1专属群内沟通" style="zoom:67%;" />
 
 1v1专属群内沟通
 
 ### **3、技术提升**
 
-训练营内学习列表包含**计算机基础、C++、Linux、计算机网络、操作系统、数据库、数据结构与算法**这几类，训练营内有大量的文字及视频讲解，遇到不会的问题，导师会直接拉会讲解（讲解时会录屏，方便后面的学生学习）帮助你更好的理解知识点。
+训练营内学习列表包含**计算机基础、C++、Linux、计算机网络、操作系统、数据库、数据结构与算法**这几类，训练营内有大量的文字及视频讲解。
 
-<img src="./cpp.assets/640-20250323131819793" alt="例题讲解" style="zoom:67%;" />
+
+
+遇到不会的问题，导师会拉会讲解（讲解时会录屏，方便后面的学生学习）帮助你更好的理解知识点。
+
+<img src="./cpp.assets/image-20250323195259038.png" alt="例题讲解" style="zoom:67%;" />
 
 例题讲解
 
@@ -129,7 +157,9 @@
 
 下面贴一下，其中音视频处理、日志库、嵌入式推流三个项目的说明文档：
 
-<img src="./cpp.assets/640-20250323131834736" alt="项目文档" style="zoom:67%;" />
+
+
+<img src="./cpp.assets/image-20250323195439172.png" alt="项目文档" style="zoom:67%;" />
 
 项目文档
 
@@ -147,7 +177,9 @@
 
 面试真题包含面试技巧、上千道面试真题讲解、面试复盘记录、面试真题讲解，帮助你在真实的面试中从容面对，以下为部分面试题展示：
 
-<img src="./cpp.assets/640-20250323131842794" style="zoom:67%;" />
+
+
+<img src="./cpp.assets/image-20250323195456307.png" style="zoom:67%;" />
 
 训练营所提供的面试真题均来自各大互联网大厂，并配备了详细的参考答案，助力学员全面了解大厂面试的难度。
 
@@ -161,7 +193,9 @@
 
 训练营这么做是为了把握学员学习情况，及时调整学习计划，以下为部分学员的学习进度同步会议。
 
-<img src="./cpp.assets/640-20250323131848160" style="zoom:67%;" />
+
+
+<img src="./cpp.assets/image-20250323195515978.png" style="zoom:67%;" />
 
 以上就是我们训练营的简单介绍。
 
@@ -220,21 +254,33 @@
 
 以下为该学员入营时的面试诊断
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiavCYXtEpf8oPvIa1pVYm1gtP7lFdzXzWuibzOF0jgrTDNOiau7mLkhb8g/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+<div align="center">
+  <img src="./cpp.assets/image-20250323195759058-2731080.png" style="zoom:67%;" />
+</div>
+
+
+
+
 
 导师团了解过学员情况之后，根据其每日可支配时间及基础掌握情况，制定适合该学员的学习计划。
 
+
+
 **量身定制学习计划**
 
-<img src="./cpp.assets/640-20250323131856260" style="zoom:67%;" />
+<img src="./cpp.assets/image-20250323195541295.png" style="zoom: 67%;" />
 
 **代码评审**
 
 制定好计划之后，学员每天完成特定任务即可，并将作业提交到作文本上，每天会有导师为其批改作业，指出代码中的问题
 
+<img src="./cpp.assets/image-20250323195607027.png" style="zoom: 67%;" />
 
 
-<img src="./cpp.assets/640-20250323131936024" style="zoom:67%;" />
+
+<img src="./cpp.assets/image-20250323195618841.png" style="zoom:67%;" />
+
+
 
 碍于篇幅就不一一展示了。
 
@@ -244,11 +290,19 @@
 
 因为是非科班出身，相比科班同学，确实吃了不少亏，所以这位同学非常珍惜这次机会，学习非常努力，最终拿到了满意的 offer。
 
-<img src="cpp.assets/image-20250323132028095.png" style="zoom:50%;" />
+<div align="center">
+  <img src="./cpp.assets/image-20250323132028095.png" style="zoom:50%;" />
+</div>
 
-这个训练营确实，是在用心做的，也绝对是超值的，需要了解更多细节可以扫描下方二维码联系我呀。
 
-<img src="./cpp.assets/640-20250323133322035" style="zoom:33%;" />
+
+这个训练营确实，是在用心做的，也绝对是超值的，需要了解更多细节可以扫描下方二维码联系阿秀。
+
+<div align="center">
+  <img src="./cpp.assets/image-20250323195709941.png" style="zoom:33%;" />
+</div>
+
+
 
 麻烦备注"**C++训练营**"，否则可能会不予通过。
 
