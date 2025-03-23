@@ -20,7 +20,7 @@ comment: false
 
 这个是一个LeetCode题解答案，里面包含了Java语言实现的版本。这本书从Leetcode题库中选出了面试经常被问到的一些算法题，给出了详细代码实现，大家可以优先刷完这部分题目，笔试面试有一定保障，最起码不慌了。
 
-![](http://oss.interviewguide.cn/img/202205222330280.png)
+![](./02-力扣刷题笔记-axiu.assets/202205222330280-20250323162136026.png)
 
 ![](http://oss.interviewguide.cn/img/202205222330293.png)
 
@@ -35,8 +35,9 @@ comment: false
 
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" />
+<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
 </div>
+
 
 
 
@@ -49,13 +50,13 @@ comment: false
 
 下面带大家来看一下它的排版和内容吧。
 
-![](http://oss.interviewguide.cn/img/202205222331556.png)
+![](./02-力扣刷题笔记-axiu.assets/202205222331556-20250323162131875.png)
 
-![](http://oss.interviewguide.cn/img/202205222331563.png)
+![](./02-力扣刷题笔记-axiu.assets/202205222331563-20250323162155998.png)
 
 
 
-![](http://oss.interviewguide.cn/img/202205222331786.png)
+![](./02-力扣刷题笔记-axiu.assets/202205222331786.png)
 
 **github地址**：https://github.com/soulmachine/leetcode
 
@@ -66,8 +67,9 @@ comment: false
 小伙伴们可以放心**无套路，密码直接告诉你就是a123654，有需自取**。
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" />
+<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
 </div>
+
 
 
 
@@ -84,9 +86,9 @@ comment: false
 
 阿秀学长带你们来看一下它的的排版风格和目录吧，真的非常精美和用心了。
 
-![](http://oss.interviewguide.cn/img/202205222331814.png)
+![](./02-力扣刷题笔记-axiu.assets/202205222331814-20250323162208839.png)
 
-![](http://oss.interviewguide.cn/img/202205222331650.png)
+![](./02-力扣刷题笔记-axiu.assets/202205222331650-20250323162213639.png)
 
 ![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@4.1/202105/QQ截图20210522220311.png)
 
@@ -101,7 +103,8 @@ github地址：https://github.com/halfrost/LeetCode-Go
 小伙伴们可以放心**无套路，密码直接告诉你就是a123654，有需自取**。
 
 <div align="center">
-    <img src="http://oss.interviewguide.cn/img/202203261416899.png" style="zoom:30%;" />
+   <img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
 </div>
+
 
 

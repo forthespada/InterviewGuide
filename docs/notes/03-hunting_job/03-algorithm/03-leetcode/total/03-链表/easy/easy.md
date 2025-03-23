@@ -148,7 +148,7 @@ ListNode* reverseList(ListNode* head) {
 
 现有一个链表 -- head = [4,5,1,9]，它可以表示为:
 
-![](easy.assets/237_example.png)
+![](./easy.assets/237_example.png)
 
  
 

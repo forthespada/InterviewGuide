@@ -29,9 +29,13 @@
 
 是的，我们已经准备好了！
 
-![训练营学员反馈](https://mmbiz.qpic.cn/sz_mmbiz_png/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiagzYxMbROdL58X89ozXaaUic3Zr5fh8D7PBulgv3lYB1egjNxPOaEZWA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)训练营学员反馈
+<img src="./cpp.assets/640" alt="训练营学员反馈" style="zoom:67%;" />
 
-![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiaJyFeOzqWNG2A3CyvqNnMlwWn9tLzVE3xHhFWBQkO1ku6EXicS2SrDpA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+
+
+<img src="./cpp.assets/640-20250322230157820" style="zoom: 50%;" />
 
 这是又有人问了，训练营那么多事，你一个人能忙的过来么？
 
@@ -50,7 +54,7 @@
 
 **有这么多大佬的加持，训练营的质量绝对有保障**。
 
-![](cpp.assets/640-20250312144418096)
+<img src="./cpp.assets/640-20250312144418096" style="zoom:67%;" />
 
 训练营主要包含以下几个模块，建议感兴趣的同学仔细看一下上图，详细了解训练营，并判断训练营是否适合自己。
 
@@ -64,11 +68,11 @@
 
 以下为**基础能力提升专项训练**，还有项目实战、面试培训等日程
 
-![基础能力提升](https://mmbiz.qpic.cn/sz_mmbiz_png/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafia3OJmNiaHaeZ7M8ogQEgDD0jZw9uzYn4UBvIiboNOPaLKHn1PUMDYr3Cw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)基础能力提升
+<img src="./cpp.assets/640-20250322225926072" alt="基础能力提升" style="zoom:67%;" />基础能力提升
 
 下面是其中一些内容的学习目标及验收标准：
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiasHWnajSMr02iaRYY4piaTnsmy1OEu2OstvBuROicCdHAInPxCr1pw0LfQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+<img src="./cpp.assets/640-20250322225934849" style="zoom:67%;" />
 
 这一阶段的目的，是为了让学员将 C++ 知识点，掌握牢固，也是为之后的项目实战打下基础。
 
@@ -78,19 +82,23 @@
 
 不用担心，训练营导师会为你每天批改代码，**从大厂 C++ 工程师的角度帮你指出问题，给出优化建议，帮助你更好的理解知识点，让你养成良好的代码风格**。
 
-![代码Review](https://mmbiz.qpic.cn/sz_mmbiz_jpg/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiar8RnSNe2ELia6yV6RbvAmx7xcxSS2PbBvro9DX3iaGCVkNFJggZojXYA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)代码Review
+<img src="./cpp.assets/640-20250322230221406" alt="代码Review" style="zoom:67%;" />代码Review
 
 ![img](https://mmbiz.qpic.cn/sz_mmbiz_jpg/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiaLe8kNcHRWNdpfTqVm9DMXTHHPhbw8kNW5qGUQPYV7uJZlNibscaP99w/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 当遇到较难理解的知识点，直接在群内沟通，导师写出示例代码帮助学员理解，下面是部分记录：
 
-![1v1专属群内沟通](https://mmbiz.qpic.cn/sz_mmbiz_jpg/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiaKCpEUHPJEvnVh5Qby6VqpURBNaVibPmicQ7CajmbXq5QvBxqAFuWicCCQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)1v1专属群内沟通
+<img src="./cpp.assets/640-20250322230234002" alt="1v1专属群内沟通" style="zoom:67%;" />
+
+1v1专属群内沟通
 
 ### **3、技术提升**
 
 训练营内学习列表包含**计算机基础、C++、Linux、计算机网络、操作系统、数据库、数据结构与算法**这几类，训练营内有大量的文字及视频讲解，遇到不会的问题，导师会直接拉会讲解（讲解时会录屏，方便后面的学生学习）帮助你更好的理解知识点。
 
-![例题讲解](https://mmbiz.qpic.cn/sz_mmbiz_png/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiagsOMaqjibagauUoicx6wzy6b62YmqtuLe1LlD5QDl8vJMfB8o4nZh0TQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)例题讲解
+<img src="./cpp.assets/640-20250323131819793" alt="例题讲解" style="zoom:67%;" />
+
+例题讲解
 
 ### **4、从 0 到 1 项目实战**
 
@@ -121,7 +129,9 @@
 
 下面贴一下，其中音视频处理、日志库、嵌入式推流三个项目的说明文档：
 
-![项目文档](https://mmbiz.qpic.cn/sz_mmbiz_jpg/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiapChNIWtYMN2WDmsH5qXEyrHfRmetsR0Sm1TQyZGho8rftR9NwaeZ4A/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)项目文档
+<img src="./cpp.assets/640-20250323131834736" alt="项目文档" style="zoom:67%;" />
+
+项目文档
 
 另外训练营也在开发一个新项目，该项目共有 4 个模块， 3 个项目导师同时开发，涉及多个方向，单独一个模块拿出来都可以写到简历上，敬请期待呀！
 
@@ -137,7 +147,7 @@
 
 面试真题包含面试技巧、上千道面试真题讲解、面试复盘记录、面试真题讲解，帮助你在真实的面试中从容面对，以下为部分面试题展示：
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafia6ricykARZEzX2q5OiaHcwxVxRVjhibhtGmdaEztKHicgNkMAHzKv6y2BXg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+<img src="./cpp.assets/640-20250323131842794" style="zoom:67%;" />
 
 训练营所提供的面试真题均来自各大互联网大厂，并配备了详细的参考答案，助力学员全面了解大厂面试的难度。
 
@@ -151,7 +161,7 @@
 
 训练营这么做是为了把握学员学习情况，及时调整学习计划，以下为部分学员的学习进度同步会议。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiahNTj0zMDicJwHJK01MBV3Ta0Bwfv8apFHe4GI6JrAuBNdoibaNC9TBYA/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+<img src="./cpp.assets/640-20250323131848160" style="zoom:67%;" />
 
 以上就是我们训练营的简单介绍。
 
@@ -184,7 +194,17 @@
 - 对编程逻辑思维基础薄弱，且不愿努力提升的人
 - 只想快速获得成果而不注重基础学习的人
 
-**再次重申一遍，****如果你是三天打鱼两天晒网的选手，真的不要浪费你我的时间。**
+**再次重申一遍，如果你是三天打鱼两天晒网的选手，真的不要浪费你我的时间。**
+
+已经劝退不少背景不合适的同学了，比如下面这两位就不太合适，训练营导师评估背景后决定做劝退处理。
+
+
+
+<img src="./cpp.assets/劝退1.png" alt="背景不合适，劝退" style="zoom:50%;" />
+
+<img src="./cpp.assets/劝退2.jpg" alt="背景不合适，同样劝退" style="zoom:50%;" />
+
+
 
 ------
 
@@ -206,15 +226,15 @@
 
 **量身定制学习计划**
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafianm3MKNdbyUia5LA8lTqZ9J9mWLxviadKuNrWZVPGVYY8PLvZezuenSMg/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+<img src="./cpp.assets/640-20250323131856260" style="zoom:67%;" />
 
 **代码评审**
 
 制定好计划之后，学员每天完成特定任务即可，并将作业提交到作文本上，每天会有导师为其批改作业，指出代码中的问题
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiaWCHLpn8xZC1ztGbZ1ZicvdpomuvwqNdYgraZ4YC3NTeWDgU1R2v8QNw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafia8xBzxtmwISicTs1KDDMKmkaIoFcx3LM3Wx1rKxhvIfCVeJnSwFWAIQA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+<img src="./cpp.assets/640-20250323131936024" style="zoom:67%;" />
 
 碍于篇幅就不一一展示了。
 
@@ -224,11 +244,11 @@
 
 因为是非科班出身，相比科班同学，确实吃了不少亏，所以这位同学非常珍惜这次机会，学习非常努力，最终拿到了满意的 offer。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/aBRLCdebkcL7HNB5YKeicjWmEnLPOCafiaO0RJQnTTV4MV4TTFqQPG6n0hhJAEsibRchyXNqJznJD5boQvf2wGPUA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+<img src="cpp.assets/image-20250323132028095.png" style="zoom:50%;" />
 
 这个训练营确实，是在用心做的，也绝对是超值的，需要了解更多细节可以扫描下方二维码联系我呀。
 
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/CyYeuk3CxjdIXHEMZBVdicYSopxjcdHvlKEU6hh6IV1xZsdRG3ClvPlIkIHYt1jcU245JibIpasrNT0H2aCrG2iaw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+<img src="./cpp.assets/640-20250323133322035" style="zoom:33%;" />
 
 麻烦备注"**C++训练营**"，否则可能会不予通过。
 

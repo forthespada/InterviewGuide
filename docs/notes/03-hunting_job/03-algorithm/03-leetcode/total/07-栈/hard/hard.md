@@ -12,13 +12,13 @@
 
  
 
-![](hard.assets/histogram.png)
+![](./hard.assets/histogram.png)
 
 以上是柱状图的示例，其中每个柱子的宽度为 1，给定的高度为 `[2,1,5,6,2,3]`。
 
  
 
-![](hard.assets/histogram_area.png)
+![](./hard.assets/histogram_area.png)
 
 图中阴影部分为所能勾勒出的最大矩形面积，其面积为 `10` 个单位。
 

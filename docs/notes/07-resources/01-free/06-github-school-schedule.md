@@ -43,7 +43,7 @@ comment: false
 
 
 
-![](http://oss.interviewguide.cn/img/202211282331444.png)
+![](./06-github-school-schedule.assets/202211282331444.png)
 
 
 
@@ -56,7 +56,7 @@ comment: false
 
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" />
+<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
 </div>
 
 
@@ -71,7 +71,7 @@ Java 是当下企业开发最热门的编程语言，它有着强大的生态以
 
 路线图非常清楚直观，并且是 2021 的最新的 Java 学习路线版本!
 
-![图片](http://oss.interviewguide.cn/img/202211282347780.png)
+![](./06-github-school-schedule.assets/202211282347780.png)
 
 ### 获取方式
 
@@ -80,7 +80,7 @@ Java 是当下企业开发最热门的编程语言，它有着强大的生态以
 
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" />
+<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
 </div>
 
 
@@ -91,13 +91,13 @@ Java 是当下企业开发最热门的编程语言，它有着强大的生态以
 
 因此，有越来越多的小伙伴投入到了 Go 语言的怀抱。
 
-![](http://oss.interviewguide.cn/img/202211282331230.png)
+![](./06-github-school-schedule.assets/202211282331230.png)
 
 ###  Rust
 
 Rust 是一种性能和安全性都很好的编程语言。由于 Rust 的性能太好，所以，其也是可以像 C 和 C++ 一样写操作系统或者游戏引擎的。
 
-![](http://oss.interviewguide.cn/img/202211282332715.png)
+![](./06-github-school-schedule.assets/202211282332715.png)
 
 项目地址：⇲https://github.com/anshulrgoyal/rust-web-developer-roadmap 。
 
@@ -105,25 +105,25 @@ Rust 是一种性能和安全性都很好的编程语言。由于 Rust 的性能
 
 国外使用 C# 和 .NET 还是非常多的，国内就比较少，很少
 
-![图片](http://oss.interviewguide.cn/img/202211282347581.png)
+![](./06-github-school-schedule.assets/202211282347581.png)
 
 ### Android
 
 国内的纯 Android 开发岗位比较少，如果是为了找工作的话，不太建议学习 Android 开发。
 
-![图片](http://oss.interviewguide.cn/img/202211282347451.png)
+![](./06-github-school-schedule.assets/202211282347451.png)
 
 ###  iOS
 
 和 Android 开发类似，国内的纯 iOS 开发岗位比较少，近几年从 iOS 转到别的方向的小伙伴也有很多。
 
-![图片](http://oss.interviewguide.cn/img/202211282347368.png)
+![](./06-github-school-schedule.assets/202211282347368.png)
 
 ### 前端
 
 Web Developer Roadmap 是一个大一统的 Web 开发学习路线，涵盖了绝大部分 Web 开发工程师需要掌握的知识
 
-![图片](http://oss.interviewguide.cn/img/202211282348450.png)
+![](./06-github-school-schedule.assets/202211282348450.png)
 
 ###  其他
 
@@ -136,7 +136,7 @@ Web Developer Roadmap 是一个大一统的 Web 开发学习路线，涵盖了�
 
 
 
-![图片](http://oss.interviewguide.cn/img/202211282348873.png)
+![](./06-github-school-schedule.assets/202211282348873.png)
 
 ### 获取方式
 
@@ -145,5 +145,5 @@ Web Developer Roadmap 是一个大一统的 Web 开发学习路线，涵盖了�
 
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" />
+<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
 </div>
