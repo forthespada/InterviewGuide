@@ -45,15 +45,15 @@ comment: false
 
 其中既有Java、C++、客户端、测试、测开等技术岗面经，也有产品等非技术岗面经，还有一些简历模板等分享。
 
-<img  src="./04-schoolSchample.assets/202211242037481.png" align="middle" style="zoom:50%;"  />
+<img  src="./picture/202211242037481.png" align="middle" style="zoom:50%;"  />
 
 
 
-​     <img  src="./04-schoolSchample.assets/202211242037190.png" align="middle" style="zoom:50%;"  />
+​     <img  src="./picture/202211242037190.png" align="middle" style="zoom:50%;"  />
 
 
 
-  <img  src="./04-schoolSchample.assets/202211242037292.png" align="middle" style="zoom:50%;"  />
+  <img  src="./picture/202211242037292.png" align="middle" style="zoom:50%;"  />
 
 
 
@@ -82,7 +82,7 @@ comment: false
 
 
 <div align="center">
-<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
+<img src="./picture/202310061834557.jpg" />
 </div>
 
 

@@ -1,7 +1,16 @@
+
+
 ### 编译
 
 ```
 vuepress build docs 
+
+
+如果不行就先npm cache clear --force，
+然后再nm install，
+最后再执行 vuepress build docs 
+
+
 ```
 
 ### 运行

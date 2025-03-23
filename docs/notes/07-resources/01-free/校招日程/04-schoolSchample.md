@@ -31,7 +31,7 @@ comment: false
 
 
 <div align="center">
-<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
+<img src="./picture/202310061834557.jpg" />
 </div>
 
 

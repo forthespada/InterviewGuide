@@ -51,13 +51,13 @@ comment: false
 
 内容真心赞！不光适合准备面试的朋友，同时也适合想学习操作系统和一些计算机组成知识的朋友。
 
-![](./07-cs-basic-school-schedule.assets/202211282348670.png)
+![](./picture/202211282348670.png)
 
 获取的方式如下，没有任何套路。
 
 扫描下方二维码回复 “**计算机基础**” 即可获取下载链接。
 
-<div align="center"><img src="./02-力扣刷题笔记.assets/202310061834557.jpg"" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="./picture/202310061834557.jpg"" style="width: 300px; height: 300px;" /></div>
 
 
 
@@ -65,13 +65,13 @@ comment: false
 
 和《图解系统》类似的还有《图解计算机基础》，它的主要内容是操作系统基础+计算机组成基础。
 
-![](./07-cs-basic-school-schedule.assets/202211282348466.png)
+![](./picture/202211282348466.png)
 
 获取的方式如下，没有任何套路。
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**计算机基础**” 即可获取下载链接。
 
-<div align="center"><img src="./02-力扣刷题笔记.assets/202310061834557.jpg"" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="./picture/202310061834557.jpg"" style="width: 300px; height: 300px;" /></div>
 
 
 
@@ -79,11 +79,11 @@ comment: false
 
 计算机组成原理内容总结，涵盖 **计算机系统概论** 、**运算方法和运算部件** 、**主存储器** 、**指令系统** 等内容。
 
-![](./07-cs-basic-school-schedule.assets/202211282336640.png)
+![](./picture/202211282336640.png)
 
 获取的方式如下，没有任何套路。
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**计算机基础**” 即可获取下载链接。
 
-<div align="center"><img src="./02-力扣刷题笔记.assets/202310061834557.jpg"" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="./picture/202310061834557.jpg"" style="width: 300px; height: 300px;" /></div>
 

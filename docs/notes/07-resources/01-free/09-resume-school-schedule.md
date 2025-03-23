@@ -41,12 +41,12 @@ comment: false
 
 收集了一些不错的简历模板，已经下载好了~
 
-<div align="center"><img src="./09-resume-school-schedule.assets/202211290932798.png" style="zoom:100%;" /></div>
+<div align="center"><img src="./picture/202211290932798.png" style="zoom:100%;" /></div>
 
 获取的方式如下，没有任何套路。
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**009**” 即可获取。
-<div align="center"><img src="./02-力扣刷题笔记.assets/202310061834557.jpg"" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="./picture/202310061834557.jpg"" style="width: 300px; height: 300px;" /></div>
 
 
 

@@ -33,7 +33,7 @@ comment: false
 
 
 <div align="center">
-<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
+<img src="./picture/202310061834557.jpg" />
 </div>
 
 
@@ -57,7 +57,7 @@ Java 是当下企业开发最热门的编程语言，它有着强大的生态以
 
 
 <div align="center">
-<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
+<img src="./picture/202310061834557.jpg" />
 </div>
 
 
@@ -122,6 +122,6 @@ Web Developer Roadmap 是一个大一统的 Web 开发学习路线，涵盖了�
 
 
 <div align="center">
-<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
+<img src="./picture/202310061834557.jpg" />
 </div>
 

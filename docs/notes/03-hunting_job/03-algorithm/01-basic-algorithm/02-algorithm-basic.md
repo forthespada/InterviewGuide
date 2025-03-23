@@ -48,7 +48,7 @@ comment: false
 
 #### 十大排序一图总览
 
-![](02-algorithm-basic.assets/202205072325169.png)
+![](./picture/202205072325169.png)
 
 
 

@@ -35,7 +35,7 @@ comment: false
 
 
 <div align="center">
-<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
+<img src="./picture/202310061834557.jpg" />
 </div>
 
 
@@ -66,7 +66,7 @@ comment: false
 小伙伴们可以放心**无套路，密码直接告诉你就是a123654，有需自取**。
 
 <div align="center">
-<img src="./02-力扣刷题笔记.assets/202310061834557.jpg" />
+<img src="./picture/202310061834557.jpg" />
 </div>
 
 

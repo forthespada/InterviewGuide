@@ -162,9 +162,9 @@ comment: false
 
 而 **共识（Consensus）** 则不同，共识问题中所有的节点要最终达成共识，由于最终目标是所有节点都要达成一致，所以根本 **不存在一致性强弱** 之分。
 
-![](05-01-01-distribution.assets/202206222244561.png)
+![]((./05-01-01-distribution.assets/202206222244561.png)
 
-![](05-01-01-distribution.assets/202206222244409.png)
+![]((./05-01-01-distribution.assets/202206222244409.png)
 
 
 

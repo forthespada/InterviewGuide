@@ -22,7 +22,7 @@ comment: false
 
 后来发现把这本书除了有**PDF版**，还有**epub电子书版**，对一些MAC党来说是一个福音。
 
-![](http://oss.interviewguide.cn/img/202211291024073.png)
+![](./picture/202211291024073-20250323221744767.png)
 
 
 ## 获取方式
@@ -30,7 +30,7 @@ comment: false
 获取的方式如下，没有任何套路。
 
 阿秀个人的公众号“**拓跋阿秀**”后台回复 “**012**” 即可获取。
-<div align="center"><img src="./02-力扣刷题笔记.assets/202310061834557.jpg"" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="./picture/202310061834557.jpg"" style="width: 300px; height: 300px;" /></div>
 
 
 
