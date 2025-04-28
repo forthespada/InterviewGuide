@@ -52,14 +52,14 @@ comment: false
 
 
 
-<img src="02-golang.assets/202205162058437.png" alt="Golang求职版学习路线" style="zoom:50%;" />
+<img src="./02-golang.assets/202205162058437.png" alt="Golang求职版学习路线" style="zoom:50%;" />
 
 
 ### 1、导读
 
 这篇学习路线写完其实很久了，不过前段时间又请组内的Go后端资深研发工程师吃了一顿烤羊腿。
 
-<div align="center"><img src="02-golang.assets/202205052313472.png" style="zoom:50%;" /></div>
+<div align="center"><img src="./02-golang.assets/202205052313472.png" style="zoom:50%;" /></div>
 
 
 
@@ -67,7 +67,7 @@ comment: false
 
   
 
-<div align="center"><img src="02-golang.assets/202205162056636.png" alt="听，是我的钱包在哭泣。。。" style="zoom:33%;" /></div>
+<div align="center"><img src="./02-golang.assets/202205162056636.png" alt="听，是我的钱包在哭泣。。。" style="zoom:33%;" /></div>
 
 
 
@@ -88,7 +88,7 @@ comment: false
 
 与以前给大家安排的C++学习路线类似，Golang学习路线也一共有四个阶段:
 
-<img src="02-golang.assets/202205162058065.png" alt="Golang求职版学习路线" style="zoom:50%;" />
+<img src="./02-golang.assets/202205162058065.png" alt="Golang求职版学习路线" style="zoom:50%;" />
 
 
 第一阶段为计算机基础学习，第二阶段是基础语法，第三阶段是进阶编程，第四阶段是比较热门的微服务相关。

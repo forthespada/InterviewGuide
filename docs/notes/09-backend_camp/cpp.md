@@ -255,7 +255,7 @@ comment: false
 以下为该学员入营时的面试诊断
 
 <div align="center">
-  <img src="./cpp.assets/image-20250323195759058-2731080.png" style="zoom:67%;" />
+  <img src="./cpp.assets/image-20250323195759058-2731080.png" style="zoom:80%;" />
 </div>
 
 
@@ -268,17 +268,20 @@ comment: false
 
 **量身定制学习计划**
 
-<img src="./cpp.assets/image-20250323195541295.png" style="zoom: 67%;" />
+<div align="center">
+  <img src="./cpp.assets/image-20250323195541295.png" style="zoom: 67%;" />
+</div>
+
+
 
 **代码评审**
 
 制定好计划之后，学员每天完成特定任务即可，并将作业提交到作文本上，每天会有导师为其批改作业，指出代码中的问题
 
-<img src="./cpp.assets/image-20250323195607027.png" style="zoom: 67%;" />
-
-
-
-<img src="./cpp.assets/image-20250323195618841.png" style="zoom:67%;" />
+<div align="center">
+  <img src="./cpp.assets/image-20250323195607027.png" style="zoom: 67%;" />
+  <img src="./cpp.assets/image-20250323195618841.png" style="zoom:67%;" />
+  </div>
 
 
 
@@ -291,7 +294,7 @@ comment: false
 因为是非科班出身，相比科班同学，确实吃了不少亏，所以这位同学非常珍惜这次机会，学习非常努力，最终拿到了满意的 offer。
 
 <div align="center">
-  <img src="./cpp.assets/image-20250323132028095.png" style="zoom:50%;" />
+  <img src="./cpp.assets/image-20250323132028095.png" style="zoom:67%;" />
 </div>
 
 
@@ -300,10 +303,13 @@ comment: false
 
 <div align="center">
   <img src="./cpp.assets/image-20250323195709941.png" style="zoom:33%;" />
-</div>
+   <p>
+     麻烦备注"<strong>C++训练营</strong>"，否则可能会不予通过。
+  </p></div>
 
 
-
-麻烦备注"**C++训练营**"，否则可能会不予通过。
 
 **最后的最后，这里再次重申一遍，如果你是三天打鱼两天晒网的选手，真的不要浪费你我的时间。**
+
+------
+

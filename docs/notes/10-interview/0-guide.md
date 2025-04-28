@@ -63,6 +63,7 @@ comment: false
 
 ### 中小厂
 
+- [魔门塔C++开发 + 今年金三银四的实感（魔门塔一面）。。](https://mp.weixin.qq.com/s/FYM0o34hAR5mkuFYIg8nOA)
 - [携程通软 + 我的梦中情司，携程今年的校招薪资！](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247521053&idx=1&sn=949f136f628fc36f3a3484fb2a8fe3ff&chksm=c367bcaff41035b931753d795dd6fbe0c5695ffa2112850f8527337474fce4ebda9e205efb08&scene=178&cur_album_id=3240469374491459584#rd)
 - [小米通软 + 起猛了，居然看到小米开启了24届校招补录？](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247519241&idx=1&sn=cab4ee668b1e31efdba78be93b9adee0&chksm=c367a3bbf4102aada6650cb0fa8097792c0bcce8692db3ef89c490219ae2deef0974dd9ec7a3&scene=178&cur_album_id=3240469374491459584#rd)
 - [金山云Golang + 被捞起来了，感谢金山云给了一次机会！](https://mp.weixin.qq.com/s/Zv-SuTvrNDd-FqWrzWpyuw)
@@ -75,6 +76,7 @@ comment: false
 
 - [Java开发 + 卷了半天，最后发现国企是真简单...](https://mp.weixin.qq.com/s/eN468sGVuY59x7LrFfQ3-A)
 - [移动Java + 中国移动一面，确实简单！](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247521529&idx=1&sn=36b4bb276d7ccb95bb14e61aac78b9cd&chksm=c367bb4bf410325dcdf558ea0f2236cf32e95866b564ece9aa7f8c9df162d825b450dc292066&scene=178&cur_album_id=3240469374491459584#rd)
+- [Java开发 + 中国电信一二面，直接秒了](https://mp.weixin.qq.com/s/a4o31awu_Rn5r7utm79iYQ)
 
 ### 银行
 
@@ -119,12 +121,15 @@ comment: false
 - [分享一些后端面试中的拔高进阶知识点](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247521203&idx=2&sn=e91e4d5df0bf9ba21527f1f723e4b7b7&chksm=c367bc01f41035178d04cbbbf293d977cb2c19c10b6715d5deb2a49457a231eb1d0ff4a8973f&token=1546638836&lang=zh_CN#rd)
 - [面试官：如何在高并发下避免系统宕机？](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247521692&idx=2&sn=71969f702c3615b0355f5666036cf6cf&chksm=c367ba2ef410333867e632b85d8ee675101aec8d8db77f79ba2f40f0fdf077031a8f6fdfd716&token=1546638836&lang=zh_CN#rd)
 - [Redis 是什么？架构是怎么样的？](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247520881&idx=2&sn=f4d0b44ab1455ac6823bec5ec5336d3d&chksm=c367bdc3f41034d5bea19c2ece392d95f593e64367d05444cb9c2ee07a6dafa3020878160047&token=1546638836&lang=zh_CN#rd)
+- [如何利用 Cache Miss 去攻击别人的系统？](https://mp.weixin.qq.com/s/KjbD5H_11gN0SQbtQRN5lQ?token=374220436&lang=zh_CN)
 
 ### 系统设计
 
 - [字节三面情景题：如何优化大文件上传？](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247521672&idx=2&sn=62a5424779f0b58794b94cef6944fcdc&chksm=c367ba3af410332c929e9fd85a8e75c16db40235195b45f69ef3bc0a91c082abea0a3eb5f31f&token=1546638836&lang=zh_CN#rd)
+- [8 大系统设计常见问题](https://mp.weixin.qq.com/s/Gj09p214Ua4q0g8BbDtQhw?token=374220436&lang=zh_CN)
 
 ### 杂项
 
 - [sort算法的底层真的是快速排序吗？](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247520693&idx=2&sn=8fe8bba68e8d870c7e61c75e1505a647&chksm=c367be07f410371115a453be66449842e596fba9316be4bf3ddf418937bb49b483b4990e028a&token=1546638836&lang=zh_CN#rd)
+- [几种主流编程语言的垃圾回收都是怎么工作的？](https://mp.weixin.qq.com/s/1BTuJUkvWYsSHfIIMHRYNg?token=374220436&lang=zh_CN)
 

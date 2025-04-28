@@ -49,60 +49,14 @@ comment: false
 最近越来越多的小小伙伴开始尝试转前端，因为后端确实太卷。
 
 相比于后端，前端上手难度更低，且由于一些高校在本科教育阶段不怎么涉及前端科目，很多人都直到校招阶段才知道原来可以投递前端岗位，这也就导致很多人失去了很上岸机会。
+
 如果你不知道互联网常见技术岗有哪些，可以看下这篇科普文：[https://interviewguide.cn/notes/05-xiustar/02-campus_prepare/02-02-%E4%BA%92%E8%81%94%E7%BD%91%E5%B8%B8%E8%A7%81%E6%8A%80%E6%9C%AF%E5%B2%97%E5%88%86%E7%B1%BB.html](https://interviewguide.cn/notes/05-xiustar/02-campus_prepare/02-02-%E4%BA%92%E8%81%94%E7%BD%91%E5%B8%B8%E8%A7%81%E6%8A%80%E6%9C%AF%E5%B2%97%E5%88%86%E7%B1%BB.html)
 
-这里简单贴一下自己总结的一些前端技能栈和学习路线这块的东西
-![front](./05-front.assets/202210022015199.png)
 
 
+这里简单贴一下自己总结的一些前端技能栈和学习路线这块的东西。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022015199.png" alt="front" style="zoom:50%;" />
 
 ## 1、前端上岸经验
 
@@ -302,63 +256,31 @@ Express简介 MVC简介、Express常用API、Express路由模块、Jade/Ejs模�
 ### HTML
 
 这个其实是最简单的，主要是一些标签的学习和使用，比如div、span这种很通用的模块，以及\<head>，\<title>，\<body>，\<header>，\<footer>，\<article>，\<section>，\<p>\<canvas>这种标签等，这部分建议去看下B站pink老师的教学视频就完事了。
-![](./05-front.assets/202210022007111.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022007111.png" style="zoom:50%;" />
 
 > 地址：https://www.bilibili.com/video/BV14J4114768
 
 视频时间不长，大概花一两周时间就能看完，事实上HTML是静态网页期间用的比较多，等后期你掌握了框架之后基本就用不到HTML里的很多内容了。
+
 比如td这些表格标签，基本用不上了，都是会用一届UI库来画表格了，比较知名的UI库有element-UI、antd等，这个后面再说。
+
 这些标签你并不需要每个都记住，但你要知道有这种标签，所以你在具体使用的时候可以看一些使用手册比如菜鸟教程或者MDN之类的。
+
 MDN：[https://developer.mozilla.org/zh-CN/docs/Web/HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 菜鸟教程：[https://www.runoob.com/html/html-tutorial.html](https://www.runoob.com/html/html-tutorial.html)
 
 ### CSS
 
 如果说HTML是前端的骨架的话，那么CSS就是给这副骨架穿上五颜六色的衣服，让这幅骨架变得更好看。
+
 这里同样推荐上面提到的那个视频，黑马的Pink老师还是挺好的，很多人都是在他的引导下进入的前端开发。
+
 同样推荐两本书：《CSS进阶之旅》或者《CSS揭秘》，二选一即可。
+
 阿秀自己买的是CSS揭秘。
-![](./05-front.assets/202210022008040.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022008040.png" style="zoom:50%;" />
 
 
 
@@ -366,103 +288,50 @@ MDN：[https://developer.mozilla.org/zh-CN/docs/Web/HTML](https://developer.mozi
 
 JavaScript是前端三大马车中**最重要**的，可以不专门去学HTML，也可以在用的时候再具体去查CSS，但JavaScript不行，JavaScript是前端基本功的重中之重。
 推荐一本大黑书《JavaScript高级程序设计》，也叫蝴蝶书。
-![](./05-front.assets/202210022008320.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022008320.png" style="zoom:50%;" />
 
 
 
 不要被它的名字所吓到，认为这是什么高级教程，emm可能书名看着挺唬人的，但这本书真的是很好的入门级书籍了。
+
 可以说是前端开发者必备的殿堂级书籍了。
 
 如果你比较喜欢看视频，可以去看pink老师的JavaScript视频就行，这个比较全，下面是这个视频中的一些分P，都是前人总结好的。
-![](./05-front.assets/202210022008459.png)
 
+<img src="./05-front.assets/202210022008459.png" style="zoom:50%;" />
 
+- 变量：P11～19
 
-
-
-
-
-
-
-
-
-
-
-
-
-变量：P11～19
-数据类型：P20～40
-运算符：P41～54
-流程控制分支结构：P55～68
-循环：P69～95
-数组：P96～112
-函数：P113～133
-作用域：P134～139
-JS预解析：P140～142
-对象：P143～153
-内置对象：P155～186
-简单数据类型和复杂数据类型：P187～190
-DOM：P194～265
-事件高级：P247～265
-BOM：P266～286
-PC端网页特效：P287～329
-移动端网页特效：P331～353
-本地存储：P354～357
-jQuery：P358～442
-数据可视化：P443～473
+- 数据类型：P20～40
+- 运算符：P41～54
+- 流程控制分支结构：P55～68
+- 循环：P69～95
+- 数组：P96～112
+- 函数：P113～133
+- 作用域：P134～139
+- JS预解析：P140～142
+- 对象：P143～153
+- 内置对象：P155～186
+- 简单数据类型和复杂数据类型：P187～190
+- DOM：P194～265
+- 事件高级：P247～265
+- BOM：P266～286
+- PC端网页特效：P287～329
+- 移动端网页特效：P331～353
+- 本地存储：P354～357
+- jQuery：P358～442
+- 数据可视化：P443～473
 
 > 地址：[https://www.bilibili.com/video/BV1Sy4y1C7ha?spm_id_from=333.337.search-card.all.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35](https://www.bilibili.com/video/BV1Sy4y1C7ha?spm_id_from=333.337.search-card.all.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35)
 
 对了，额外推荐一本书《**你不知道的javascript系列**》，共分为上中下三本，其中价值最高的就是其中的上册，中下两册写的有点不太好。
+
 其实JavaScript是一门弱语言，不像C++或者Java的诞生，整个过程都比较严谨。JS的诞生有点令人啼笑皆非，这门语言从设计到推出一共就花了十天时间hhh，虽然后面经过很多轮的二次修正，但语言层面上依然有些bug，《你不知道的javascript系列》会让你对这门语言有全新的认识。
+
 强烈推荐，阿秀自己就买了这本书。
-![](./05-front.assets/202210022009467.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022009467.png" style="zoom:33%;" />
 
 
 
@@ -471,31 +340,19 @@ jQuery：P358～442
 ### 综合练手推荐
 
 前端是一个特别需要你动手自己写的技术方向，千万要自己写！自己动手敲，包括各种CSS样式之类的都需要你动手做。
-这里推荐一个很有名的前端练手项目，**50projects50days，**也就是50天50个前端小项目。![](./05-front.assets/202210022009040.png)
+这里推荐一个很有名的前端练手项目，**50projects50days，**也就是50天50个前端小项目。
 
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022009040.png" style="zoom:50%;" />
 
 
 
 > 地址：[https://github.com/bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
 
 就像它介绍的那样，一天一个，50个用HTML、CSS、JavaScript写成的小demo。
+
 B站上也有人上传了自己的练手经过，你在练手的过程中，也可以看看别人的经验。
-![](./05-front.assets/202210022010922.png)
 
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022010922.png" style="zoom:50%;" />
 
 
 
@@ -504,8 +361,11 @@ B站上也有人上传了自己的练手经过，你在练手的过程中，也�
 ### HTML5、CSS3以及ES6等
 
 前端发展至今已经很长时间了，所以为了应对功能越来越强大的浏览器、客户端等，HTML慢慢变成了HTML5、CSS慢慢演化成了CSS3、JS慢慢变成了TS，还有ES等语法。
+
 所以**前端的弊端也在于此，就是你可能需要经常补充新的内容，新的知识点**。
+
 对于ES6以及CSS3等内容的学习，这里推荐一些资料和书籍，自取即可。
+
 书籍：《深入理解ES6》、《Javascript设计模式与开发实践》、《现代 JavaScript 教程
 》
 视频：html5 +css3：[https://www.bilibili.com/video/BV1Kg411T7t9?spm_id_from=333.337.search-card.all.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35](https://www.bilibili.com/video/BV1Kg411T7t9?spm_id_from=333.337.search-card.all.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35)
@@ -531,19 +391,8 @@ Vue的视频，黑马讲的比较好，这里推荐几个视频，学习顺序�
 ### 1、Vue实战项目：电商管理系统（Element-UI）
 
 **这个建议好好看，我就是直接学的这个项目开始上手前端的。**
-![](./05-front.assets/202210022010972.png)
 
-
-
-
-
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022010972.png" style="zoom:50%;" />
 
 
 
@@ -555,36 +404,16 @@ Vue的视频，黑马讲的比较好，这里推荐几个视频，学习顺序�
 ###  2、电商平台数据可视化实时监控系统-Echarts
 
 这个视频可以不看完，学几种比较常见的图表即可，比如折线图、饼图、柱状图就行。
-![](./05-front.assets/202210022010989.png)
 
-
-
-
-
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022010989.png" style="zoom:50%;" />
 
 > 地址：[https://www.bilibili.com/video/BV1bh41197p8?spm_id_from=333.337.top_right_bar_window_custom_collection.content.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35](https://www.bilibili.com/video/BV1bh41197p8?spm_id_from=333.337.top_right_bar_window_custom_collection.content.click&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35)
 
 ### 3、Vuex从入门到实战
 
 这个建议好好看。
-![](./05-front.assets/202210022011236.png)
 
-
-
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022011236.png" style="zoom:50%;" />
 
 
 
@@ -593,17 +422,8 @@ Vue的视频，黑马讲的比较好，这里推荐几个视频，学习顺序�
 ### 4、Vue源码解析系列课程
 
 这个要求能力比较高，只能说学了有好处，面试的时候吹吹牛逼能用得上，不学也没什么。
-![](./05-front.assets/202210022011664.png)
 
-
-
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022011664.png" style="zoom:50%;" />
 
 
 
@@ -613,17 +433,11 @@ Vue的视频，黑马讲的比较好，这里推荐几个视频，学习顺序�
 
 ## React
 
-react的学习难度要大于Vue，其实不是很推荐。
+react的学习难度要大于Vue，**其实不是很推荐**。
+
 如果你打算学习React的话，不要去跟黑马的视频去学，黑马的React讲的不太好，去看尚硅谷张天禹的React会比较好一些。
-![](./05-front.assets/202210022012300.png)
 
-
-
-
-
-
-
-
+<img src="./05-front.assets/202210022012300.png" style="zoom:50%;" />
 
 
 
@@ -638,4 +452,6 @@ react的学习难度要大于Vue，其实不是很推荐。
 node.js虽然是后端语言，但语法基本跟JS没啥区别，学习成本极低，如果你想要在互联网这行久干的话，后端是你必须要接触的。
 
 **这是真话。**
+
+但现在还在纠结学习语言的小白们可能暂时还是体会不到这句话的，就好像高中时班主任会告诉我们要好好学习，说学习是很重要的，但当时的我们都不以为意，认为班主任在糊弄我们或者故意夸大，但现在回头去想想，当时班主任说的这句话真的很正确，无奈，当时的我们理解不了罢了。
 

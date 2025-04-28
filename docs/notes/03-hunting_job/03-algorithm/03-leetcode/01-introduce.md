@@ -87,7 +87,7 @@ comment: false
 
 
 <div align="center">
-  <img src="01-introduce.assets/202205291839532.png" style="zoom:150%;" />
+  <img src="./01-introduce.assets/202205291839532.png" style="zoom:150%;" />
 </div>
 
 
