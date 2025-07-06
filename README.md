@@ -366,10 +366,10 @@
     作为过来人，只是想提供一个简单直接的校招交流平台！
   </p>
 </div>
-
 <figure align="center">
-<img src="http://oss.interviewguide.cn/img/202205212323495.png" alt="校招一群" style="zoom: 60%;" />
-  <img src="http://oss.interviewguide.cn/img/202205212323662.png" alt="校招二群" style="zoom: 60%;" /></figure>
+<img src="./picture/202205212323495.png" alt="校招一群" style="zoom: 60%;" />
+  <img src="./picture/202205212323662.png" alt="校招二群" style="zoom: 60%;" /></figure>
+
 
 
 
@@ -378,9 +378,8 @@
 如果您是校招生，比如大三大四或者研究生想要跟千人交流求职，您可以扫描**下方二维码**或者微信搜索：**coderxiu2**，添加阿秀个人微信，备注：个人简短介绍+校招（无备注不通过哦），我拉你入群！
 
 <div align="center">
-    <img src="http://oss.interviewguide.cn/img/202205211838580.png" width="180px" />
+    <img src="./picture/202205211838580.png" width="180px" />
 </div>
-
 
 
 ### 11.2、**公众号(拓跋阿秀)** 
@@ -393,9 +392,10 @@
 
 没有什么成功是一蹴而就的，有的只是有些人在无声处默默，**来看看就知道了，我想你肯定会觉得相见恨晚的！**
 
-<img src="http://oss.interviewguide.cn/img/202205212015036.jpg" width="180px">
+<div align="center"><img src="./picture/202205212015036.jpg" width="180px"></div>
 
-<div align="center"><img src="http://oss.interviewguide.cn/img/202205212015036.jpg" width="180px"></div>
+
+
 
 
 
