@@ -25,21 +25,24 @@ comment: false
 
 其实维持这个网站的费用比大多数人想要多很多，《阿秀的学习笔记》网站自**2022.06**月以来用户访问量就一直逐步攀升，从下图中可以看出阿里云oss对象存储花费正在逐步攀升ing
 
-![逐步攀升](http://oss.interviewguide.cn/img/202211060159033.png)
+![逐步攀升](./picture/202211060159033.png)
 
 趁着双十一活动，我也是直接充值了2K到阿里云账户，购买oss包年套餐，要不这费用一直涨下去，光是oss存储就够阿秀喝一壶的了。。。
 
 oss目前是网站费用的大头，相比之下每年租用阿里云服务器的费用反到不多了，所以网站可能会接点推广，比如阿里云或者百度云服务器的优惠活动，也能恰点烂钱，维持一下网站费用。
 
+
+
 <div align="center">
-  <img src="http://oss.interviewguide.cn/img/202211060203347.png" style="zoom:50%;" />
+  <img src="./picture/202211060203347.png" style="zoom:50%;" />
 </div>
 
 
 
 <p align="center" style="font-weight: bold">
-  如果这些推广信息有对你造成困扰，这里给你真诚道歉，sorry！<br>
+  如果网站的一些推广信息有对你造成困扰，这里给你真诚道歉，sorry！<br>
   希望阿秀以前的学习笔记对你的计算机编程学习或者校招求职之路有所帮助！</p>
+
 
 
 
@@ -64,15 +67,18 @@ oss目前是网站费用的大头，相比之下每年租用阿里云服务器�
 
 1、在打算编辑的文章的最下面左侧找到`在 GitHub 上编辑此页`的按钮。
 
+
+
 <div align="center">
-  <img src="http://oss.interviewguide.cn/img/202205141646236.png" style="zoom: 150%;" />
+  <img src="./picture/202205141646236.png" style="zoom: 150%;" />
 </div>
+
 
 
 
 2、进行勘误，填写描述信息并提交request
 
-<img src="http://oss.interviewguide.cn/img/202205141648473.png" style="zoom:67%;" />
+<img src="./picture/202205141648473.png" style="zoom:67%;" />
 
 
 
@@ -133,7 +139,7 @@ oss目前是网站费用的大头，相比之下每年租用阿里云服务器�
 
 
 
-<div align="center"><img src="http://oss.interviewguide.cn/img/202205202303985.png" style="zoom:40%;" /></div>
+<div align="center"><img src="./picture/202205202303985.png" style="zoom:40%;" /></div>
 
 
 
