@@ -30,8 +30,8 @@ comment: false
 等等。目前项目已覆盖大多数计科的专业课程，下面是其中分享的课程资源，我简单截了几个图。
 
 <div align="center">
-  <img src="http://oss.interviewguide.cn/img/202211290943149.png" style="zoom:100%;" />
-  <img src="http://oss.interviewguide.cn/img/202211290944871.png" style="zoom:100%;" /></div>
+  <img src="./picture/202211290943149.png" style="zoom:100%;" />
+  <img src="./picture/202211290944871.png" style="zoom:100%;" /></div>
 
 ## 获取方式
 
@@ -41,7 +41,7 @@ comment: false
 
 扫描下方二维码，后台回复 “**计算机基础**” 即可获取。
 
-<div align="center"><img src="http://oss.interviewguide.cn/img/202301191549506.jpg" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="./picture/202301191549506.jpg" style="width: 300px; height: 300px;" /></div>
 
 
 

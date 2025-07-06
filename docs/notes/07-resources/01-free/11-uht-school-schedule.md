@@ -142,15 +142,15 @@ comment: false
 
 比如**大一上的全部课程**
 
-![image-20221129095308194](http://oss.interviewguide.cn/img/202211290953733.png)
+![image-20221129095308194](./picture/202211290953733.png)
 
 比如**大一下的全部课程**
 
-![](http://oss.interviewguide.cn/img/202211290953428.png)
+![](./picture/202211290953428.png)
 
 而这是**全部大学四年**的课程总览
 
-![](http://oss.interviewguide.cn/img/202211290954414.png)
+![](./picture/202211290954414.png)
 
 
 

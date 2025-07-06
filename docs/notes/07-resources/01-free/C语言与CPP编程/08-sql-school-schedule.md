@@ -22,15 +22,15 @@ comment: false
 
 这里先带你们看看其中的内容吧，我觉得是很清晰明了了。
 
-![](http://oss.interviewguide.cn/img/202211290007332.png)
+![](./picture/202211290007332.png)
 
 
 
-![](http://oss.interviewguide.cn/img/202211290007610.png)
+![](./picture/202211290007610.png)
 
 
 
-![](http://oss.interviewguide.cn/img/202211290008058.png)
+![](./picture/202211290008058.png)
 
 ## 获取方式
 
@@ -38,7 +38,7 @@ comment: false
 
 扫描下方二维码，后台回复 “**计算机基础**” 即可获取。
 
-<div align="center"><img src="http://oss.interviewguide.cn/img/202301191549506.jpg" style="width: 300px; height: 300px;" /></div>
+<div align="center"><img src="./picture/202301191549506.jpg" style="width: 300px; height: 300px;" /></div>
 
 
 

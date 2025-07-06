@@ -22,15 +22,15 @@ comment: false
 
 这里先带你们看看其中的内容吧，我觉得是很清晰明了了。
 
-![](http://oss.interviewguide.cn/img/202211290007332.png)
+![](./picture/202211290007332.png)
 
 
 
-![](http://oss.interviewguide.cn/img/202211290007610.png)
+![](./picture/202211290007610.png)
 
 
 
-![](http://oss.interviewguide.cn/img/202211290008058.png)
+![](./picture/202211290008058.png)
 
 获取的方式如下，没有任何套路。
 
