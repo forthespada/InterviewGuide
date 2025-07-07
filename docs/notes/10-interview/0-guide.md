@@ -60,6 +60,12 @@ comment: false
 - [腾讯Java开发 + 什么情况？腾讯面试感觉变简单了不少啊。。。](https://mp.weixin.qq.com/s/VB5YpC0ZWewQR8edtpOSsQ)
 - [腾讯云智 + 打算签腾讯云智了，二线城市还有房补和签字费！](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247520816&idx=1&sn=6f0fbd5a0c6034112a9cb4a8e003f278&chksm=c367bd82f4103494c4aa765590e534233ea3ff450937214f99b6f841e142d142bbfac7c35a81&scene=178&cur_album_id=3240469374491459584#rd)
 - [美团软件开发 + 美团实习转正率有 70% ？？？](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247518151&idx=1&sn=267f72f0f0eb30b14d5e6133d4cf1085&chksm=c367a875f41021638076342a0da9ce94f763d5b3adb0ee6818d98fd50a4ed54c8df098b2f178&scene=178&cur_album_id=3240469374491459584#rd)
+- [没想到，百度的市值已经连腾讯音乐都不如了。。。](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247522371&idx=1&sn=4616f0dcbf49f2244154a421b0bff402&chksm=c367b7f1f4103ee78f7f349c65ca37d456bfb433ba06150f1f11b16b526784ee0f9007048f50&scene=178&cur_album_id=3240469374491459584&search_click_id=#rd)
+- [京东Java开发 + 这回真得叫东哥了，不加定语，全员涨薪 30%](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247521994&idx=1&sn=81bb9356e20e03dc9c8f67b753eb6392&chksm=c367b978f410306edcbd46664fb1525b91c67daaa81070425658c0fe623e7dc83b3f8b9f647e&scene=178&cur_album_id=3240469374491459584&search_click_id=#rd)
+- [魔门塔C++开发 + 今年金三银四的实感。。](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247521816&idx=1&sn=20a3f14c905b6c5ec94eee172dc1a822&chksm=c367b9aaf41030bcd7ab6c3c1f2620efd02d9db2c1ccc4f9da680e9c0b8984b98cff273438cd&scene=178&cur_album_id=3240469374491459584&search_click_id=#rd)
+- [京东Java开发 + 京东外卖一面，挂了。。](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247522068&idx=1&sn=209f107c087baeb14818e5af624686c2&chksm=c367b8a6f41031b0b8e07f351c161d423eda56603ec55d628e272ab25fd5a8ba8af6c28130e6&scene=178&cur_album_id=3240469374491459584&search_click_id=#rd)
+- [京东社招二面 + 京东外卖社招二面，总包最低涨30%！？](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247522146&idx=1&sn=d13a2467058d77bf05eaee9b2cadb268&chksm=c367b8d0f41031c6755a81813f1ca80cf1a65d59f491636ac167ac58cc9d0dceea9144e45923&scene=178&cur_album_id=3240469374491459584&search_click_id=#rd)
+- [腾讯基础架构C++开发 + 腾讯启动史上最大就业计划！？](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247522012&idx=1&sn=61a387f48b8d28a25f628b081bab46df&chksm=c367b96ef41030789c60e2044a12fbe282991e67a025017700ddd203a21178736a69eaaa6019&scene=178&cur_album_id=3240469374491459584&search_click_id=#rd)
 
 ### 中小厂
 
@@ -71,6 +77,8 @@ comment: false
 - [米哈游，问的很基础。](https://mp.weixin.qq.com/s/6VXbafbHb5_Gxi4nVE1deg)
 - [小米 + 小米开奖了，性价比拉满！](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247520207&idx=1&sn=81f150f9fe3ef7267a719db1c1044dba&chksm=c367a07df410296b953fab97e1fc79227f28e1d88ed9140f24d6114ee9b7d62961db9b8690bf&scene=178&cur_album_id=3240469374491459584#rd)
 - [得物Java开发 + 还有高手？？得物今年居然比去年给钱还大方。。](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247520743&idx=1&sn=64e592c230ba2d8c6000b9870a748d77&chksm=c367be55f41037437af2ab916337d3c70331e5b51877a71a132ae83bd6b0830a937de9403bb7&scene=178&cur_album_id=3240469374491459584#rd)
+- [搜狐畅游Java开发 + 果然，校招的尽头是中小厂。。](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247521932&idx=1&sn=84a4a4c188d39681ff1ad3b731c93734&chksm=c367b93ef41030286011a11cd60a5a8c2e8c1406b6acd8e2c485385a85877346c341a9270981&scene=178&cur_album_id=3240469374491459584&search_click_id=#rd)
+- [小红书Java开发 + 小红书取消大小周，有人不高兴了。。](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247522070&idx=1&sn=b14e90525f6e5a0e980018cc482f5033&chksm=c367b8a4f41031b2d7935d57da06d42b6c7d05f1141a9ff5be207b1a1eac1430e5e7be688afd&scene=178&cur_album_id=3240469374491459584&search_click_id=#rd)
 
 ### 国企/运营商
 
@@ -106,6 +114,7 @@ comment: false
 ### 软实力
 
 - [阿秀想把组内的一个实习生提前转正](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247521763&idx=1&sn=aa74c156b7b4d975300690fecdecdec6&chksm=c367ba51f41033477ba5da5c5bb4463f9979268721310dca0938874ea8c354f2796ed0bbd73a&token=1546638836&lang=zh_CN#rd)
+- [现在的面试反问环节问题越来越高明了。。](https://mp.weixin.qq.com/s?__biz=Mzk0ODU4MzEzMw==&mid=2247521960&idx=1&sn=7f3cbc3e424037389f80387161fe360f&chksm=c367b91af410300c921413f9c23e69f2f692f0a8b9ca492ea3bb00a6db9477244f7e547df0ef&scene=178&cur_album_id=3895309653063909380&search_click_id=#rd)
 
 ### 数据库
 
