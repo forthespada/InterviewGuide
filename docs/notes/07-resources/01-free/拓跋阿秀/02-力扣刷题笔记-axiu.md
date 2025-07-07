@@ -101,7 +101,7 @@ github地址：https://github.com/halfrost/LeetCode-Go
 小伙伴们可以放心**无套路，密码直接告诉你就是a123654，有需自取**。
 
 <div align="center">
-    <img src="./picture/202203261416899.png" style="zoom:30%;" />
+    <img src="./picture/202310061834557.jpg" style="zoom:30%;" />
 </div>
 
 
