@@ -67,7 +67,7 @@ comment: false
 
 <img src="./java_go.assets/640.jpeg" style="zoom:67%;" />
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/CyYeuk3Cxje7JnCBSmTxH0icRBtP0hKvC23rQT7glWGhatpwzCyS2VuPSpJFYKkJm8KTePsYuBFgvklydkdy4cA/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/CyYeuk3Cxje7JnCBSmTxH0icRBtP0hKvC23rQT7glWGhatpwzCyS2VuPSpJFYKkJm8KTePsYuBFgvklydkdy4cA/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
 <img src="./java_go.assets/640-20250323205257290.jpeg" style="zoom: 67%;" />
 
@@ -209,7 +209,7 @@ comment: false
 
 对于社招同学来说，项目挖掘这一块是收益最大的，提前挖掘你的项目面试的重难点，然后针对性的复习和巩固，到真实面试的时候，就能从容应对的了，项目挖掘会议平均持续 1 小时。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/CyYeuk3Cxje7JnCBSmTxH0icRBtP0hKvC4YMzrO1EaOr6NJ0OmwZp6WS9s3saHkjdiagaD9OgBmutdKM4Y9kHbtg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/CyYeuk3Cxje7JnCBSmTxH0icRBtP0hKvC4YMzrO1EaOr6NJ0OmwZp6WS9s3saHkjdiagaD9OgBmutdKM4Y9kHbtg/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ### 7. 周报监督学员
 

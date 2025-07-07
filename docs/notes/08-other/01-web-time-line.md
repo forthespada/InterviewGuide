@@ -36,15 +36,15 @@ comment: false
 调整前：
 
 <div align="center">
-  <img src="http://oss.interviewguide.cn/img/202205130207949.png" style="zoom:30%;" />
-  <img src="http://oss.interviewguide.cn/img/202205130207959.png" style="zoom:30%;" />
+  <img src="./picture/202205130207949.png" style="zoom:30%;" />
+  <img src="./picture/202205130207959.png" style="zoom:30%;" />
 </div>
 
 调整后：
 
 <div align="center">
-  <img src="http://oss.interviewguide.cn/img/202205130210658.png" style="zoom:30%;" />
-  <img src="http://oss.interviewguide.cn/img/202205130210038.png" style="zoom:30%;" />
+  <img src="./picture/202205130210658.png" style="zoom:30%;" />
+  <img src="./picture/202205130210038.png" style="zoom:30%;" />
 </div>
 
 - **2021.09.03** - 整理网友通过github、微信私聊、邮箱等方式进行的勘误
