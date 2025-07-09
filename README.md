@@ -36,7 +36,9 @@
   <a href="https://www.zhihu.com/people/tuo-ba-a-xiu"><img src="https://img.shields.io/badge/知乎-拓跋阿秀-informational.svg" alt="知乎"></a>
        <a href="https://blog.nowcoder.net/hello32"><img src="https://img.shields.io/badge/牛客网-拱白菜的阿秀-9cf" alt="牛客网"></a>         <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
     <a href="https://github.com/forthespada/InterviewGuide"><img src="https://badgen.net/github/stars/forthespada/InterviewGuide?icon=github&color=4ab8a1"></a>
+            <a href="https://gitcode.com/forthespada/InterviewGuide"><img src="https://gitcode.com/forthespada/InterviewGuide/star/badge.svg" alt="免费PDF"></a>
     </p>
+
 
 
 ## 🍖 目录
